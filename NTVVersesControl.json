@@ -1,0 +1,5947 @@
+[
+  {
+    "libro": "1co",
+    "capitulo": "7",
+    "versiculos": 40
+  },
+  {
+    "libro": "isa",
+    "capitulo": "45",
+    "versiculos": 25
+  },
+  {
+    "libro": "lev",
+    "capitulo": "15",
+    "versiculos": 33
+  },
+  {
+    "libro": "rom",
+    "capitulo": "7",
+    "versiculos": 25
+  },
+  {
+    "libro": "jos",
+    "capitulo": "24",
+    "versiculos": 33
+  },
+  {
+    "libro": "psa",
+    "capitulo": "35",
+    "versiculos": 28
+  },
+  {
+    "libro": "num",
+    "capitulo": "33",
+    "versiculos": 56
+  },
+  {
+    "libro": "isa",
+    "capitulo": "12",
+    "versiculos": 6
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "8",
+    "versiculos": 18
+  },
+  {
+    "libro": "col",
+    "capitulo": "1",
+    "versiculos": 29
+  },
+  {
+    "libro": "exo",
+    "capitulo": "34",
+    "versiculos": 35
+  },
+  {
+    "libro": "hos",
+    "capitulo": "14",
+    "versiculos": 9
+  },
+  {
+    "libro": "pro",
+    "capitulo": "11",
+    "versiculos": 31
+  },
+  {
+    "libro": "psa",
+    "capitulo": "127",
+    "versiculos": 5
+  },
+  {
+    "libro": "psa",
+    "capitulo": "62",
+    "versiculos": 12
+  },
+  {
+    "libro": "isa",
+    "capitulo": "4",
+    "versiculos": 6
+  },
+  {
+    "libro": "num",
+    "capitulo": "25",
+    "versiculos": 18
+  },
+  {
+    "libro": "hos",
+    "capitulo": "2",
+    "versiculos": 23
+  },
+  {
+    "libro": "exo",
+    "capitulo": "22",
+    "versiculos": 31
+  },
+  {
+    "libro": "psa",
+    "capitulo": "131",
+    "versiculos": 3
+  },
+  {
+    "libro": "pro",
+    "capitulo": "7",
+    "versiculos": 27
+  },
+  {
+    "libro": "psa",
+    "capitulo": "74",
+    "versiculos": 23
+  },
+  {
+    "libro": "hag",
+    "capitulo": "1",
+    "versiculos": 15
+  },
+  {
+    "libro": "isa",
+    "capitulo": "53",
+    "versiculos": 12
+  },
+  {
+    "libro": "1co",
+    "capitulo": "11",
+    "versiculos": 34
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "19",
+    "versiculos": 11
+  },
+  {
+    "libro": "jer",
+    "capitulo": "39",
+    "versiculos": 18
+  },
+  {
+    "libro": "rom",
+    "capitulo": "11",
+    "versiculos": 36
+  },
+  {
+    "libro": "lev",
+    "capitulo": "3",
+    "versiculos": 17
+  },
+  {
+    "libro": "zec",
+    "capitulo": "3",
+    "versiculos": 10
+  },
+  {
+    "libro": "psa",
+    "capitulo": "23",
+    "versiculos": 6
+  },
+  {
+    "libro": "sng",
+    "capitulo": "4",
+    "versiculos": 16
+  },
+  {
+    "libro": "nam",
+    "capitulo": "3",
+    "versiculos": 19
+  },
+  {
+    "libro": "num",
+    "capitulo": "9",
+    "versiculos": 23
+  },
+  {
+    "libro": "isa",
+    "capitulo": "28",
+    "versiculos": 29
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "32",
+    "versiculos": 32
+  },
+  {
+    "libro": "tit",
+    "capitulo": "2",
+    "versiculos": 15
+  },
+  {
+    "libro": "jer",
+    "capitulo": "42",
+    "versiculos": 22
+  },
+  {
+    "libro": "gen",
+    "capitulo": "46",
+    "versiculos": 34
+  },
+  {
+    "libro": "act",
+    "capitulo": "27",
+    "versiculos": 44
+  },
+  {
+    "libro": "neh",
+    "capitulo": "8",
+    "versiculos": 18
+  },
+  {
+    "libro": "psa",
+    "capitulo": "58",
+    "versiculos": 11
+  },
+  {
+    "libro": "jdg",
+    "capitulo": "4",
+    "versiculos": 24
+  },
+  {
+    "libro": "mrk",
+    "capitulo": "6",
+    "versiculos": 56
+  },
+  {
+    "libro": "luk",
+    "capitulo": "12",
+    "versiculos": 59
+  },
+  {
+    "libro": "job",
+    "capitulo": "31",
+    "versiculos": 40
+  },
+  {
+    "libro": "jer",
+    "capitulo": "15",
+    "versiculos": 21
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "20",
+    "versiculos": 21
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "35",
+    "versiculos": 27
+  },
+  {
+    "libro": "jhn",
+    "capitulo": "7",
+    "versiculos": 53
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "5",
+    "versiculos": 25
+  },
+  {
+    "libro": "rev",
+    "capitulo": "3",
+    "versiculos": 22
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "26",
+    "versiculos": 25
+  },
+  {
+    "libro": "gen",
+    "capitulo": "11",
+    "versiculos": 32
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "3",
+    "versiculos": 28
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "16",
+    "versiculos": 43
+  },
+  {
+    "libro": "deu",
+    "capitulo": "7",
+    "versiculos": 26
+  },
+  {
+    "libro": "job",
+    "capitulo": "27",
+    "versiculos": 23
+  },
+  {
+    "libro": "luk",
+    "capitulo": "4",
+    "versiculos": 44
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "13",
+    "versiculos": 39
+  },
+  {
+    "libro": "rev",
+    "capitulo": "15",
+    "versiculos": 8
+  },
+  {
+    "libro": "jhn",
+    "capitulo": "11",
+    "versiculos": 57
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "23",
+    "versiculos": 21
+  },
+  {
+    "libro": "jer",
+    "capitulo": "3",
+    "versiculos": 25
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "15",
+    "versiculos": 34
+  },
+  {
+    "libro": "gen",
+    "capitulo": "7",
+    "versiculos": 24
+  },
+  {
+    "libro": "jos",
+    "capitulo": "8",
+    "versiculos": 35
+  },
+  {
+    "libro": "psa",
+    "capitulo": "19",
+    "versiculos": 14
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "30",
+    "versiculos": 31
+  },
+  {
+    "libro": "2co",
+    "capitulo": "8",
+    "versiculos": 24
+  },
+  {
+    "libro": "mat",
+    "capitulo": "26",
+    "versiculos": 75
+  },
+  {
+    "libro": "deu",
+    "capitulo": "11",
+    "versiculos": 32
+  },
+  {
+    "libro": "exo",
+    "capitulo": "18",
+    "versiculos": 27
+  },
+  {
+    "libro": "2jn",
+    "capitulo": "1",
+    "versiculos": 13
+  },
+  {
+    "libro": "php",
+    "capitulo": "2",
+    "versiculos": 30
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "24",
+    "versiculos": 27
+  },
+  {
+    "libro": "jdg",
+    "capitulo": "12",
+    "versiculos": 15
+  },
+  {
+    "libro": "gen",
+    "capitulo": "50",
+    "versiculos": 26
+  },
+  {
+    "libro": "mrk",
+    "capitulo": "10",
+    "versiculos": 52
+  },
+  {
+    "libro": "deu",
+    "capitulo": "31",
+    "versiculos": 30
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "20",
+    "versiculos": 8
+  },
+  {
+    "libro": "gen",
+    "capitulo": "27",
+    "versiculos": 46
+  },
+  {
+    "libro": "psa",
+    "capitulo": "39",
+    "versiculos": 13
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "10",
+    "versiculos": 27
+  },
+  {
+    "libro": "mat",
+    "capitulo": "6",
+    "versiculos": 34
+  },
+  {
+    "libro": "isa",
+    "capitulo": "49",
+    "versiculos": 26
+  },
+  {
+    "libro": "1ti",
+    "capitulo": "4",
+    "versiculos": 16
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "3",
+    "versiculos": 17
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "16",
+    "versiculos": 20
+  },
+  {
+    "libro": "1th",
+    "capitulo": "4",
+    "versiculos": 18
+  },
+  {
+    "libro": "jer",
+    "capitulo": "23",
+    "versiculos": 40
+  },
+  {
+    "libro": "job",
+    "capitulo": "7",
+    "versiculos": 21
+  },
+  {
+    "libro": "luk",
+    "capitulo": "24",
+    "versiculos": 53
+  },
+  {
+    "libro": "lev",
+    "capitulo": "19",
+    "versiculos": 37
+  },
+  {
+    "libro": "psa",
+    "capitulo": "81",
+    "versiculos": 16
+  },
+  {
+    "libro": "dan",
+    "capitulo": "1",
+    "versiculos": 21
+  },
+  {
+    "libro": "eph",
+    "capitulo": "6",
+    "versiculos": 24
+  },
+  {
+    "libro": "act",
+    "capitulo": "11",
+    "versiculos": 30
+  },
+  {
+    "libro": "1jn",
+    "capitulo": "2",
+    "versiculos": 29
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "4",
+    "versiculos": 17
+  },
+  {
+    "libro": "exo",
+    "capitulo": "38",
+    "versiculos": 31
+  },
+  {
+    "libro": "psa",
+    "capitulo": "97",
+    "versiculos": 12
+  },
+  {
+    "libro": "act",
+    "capitulo": "7",
+    "versiculos": 60
+  },
+  {
+    "libro": "psa",
+    "capitulo": "78",
+    "versiculos": 72
+  },
+  {
+    "libro": "num",
+    "capitulo": "29",
+    "versiculos": 40
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "12",
+    "versiculos": 28
+  },
+  {
+    "libro": "isa",
+    "capitulo": "8",
+    "versiculos": 22
+  },
+  {
+    "libro": "deu",
+    "capitulo": "27",
+    "versiculos": 26
+  },
+  {
+    "libro": "mic",
+    "capitulo": "1",
+    "versiculos": 16
+  },
+  {
+    "libro": "mat",
+    "capitulo": "10",
+    "versiculos": 42
+  },
+  {
+    "libro": "sng",
+    "capitulo": "8",
+    "versiculos": 14
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "6",
+    "versiculos": 21
+  },
+  {
+    "libro": "gen",
+    "capitulo": "31",
+    "versiculos": 55
+  },
+  {
+    "libro": "jer",
+    "capitulo": "35",
+    "versiculos": 19
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "15",
+    "versiculos": 19
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "45",
+    "versiculos": 25
+  },
+  {
+    "libro": "job",
+    "capitulo": "11",
+    "versiculos": 20
+  },
+  {
+    "libro": "ezr",
+    "capitulo": "2",
+    "versiculos": 2
+  },
+  {
+    "libro": "jdg",
+    "capitulo": "8",
+    "versiculos": 35
+  },
+  {
+    "libro": "psa",
+    "capitulo": "54",
+    "versiculos": 7
+  },
+  {
+    "libro": "neh",
+    "capitulo": "4",
+    "versiculos": 23
+  },
+  {
+    "libro": "psa",
+    "capitulo": "111",
+    "versiculos": 10
+  },
+  {
+    "libro": "pro",
+    "capitulo": "27",
+    "versiculos": 27
+  },
+  {
+    "libro": "exo",
+    "capitulo": "2",
+    "versiculos": 25
+  },
+  {
+    "libro": "heb",
+    "capitulo": "6",
+    "versiculos": 20
+  },
+  {
+    "libro": "isa",
+    "capitulo": "24",
+    "versiculos": 23
+  },
+  {
+    "libro": "num",
+    "capitulo": "5",
+    "versiculos": 31
+  },
+  {
+    "libro": "psa",
+    "capitulo": "3",
+    "versiculos": 8
+  },
+  {
+    "libro": "jos",
+    "capitulo": "12",
+    "versiculos": 24
+  },
+  {
+    "libro": "ecc",
+    "capitulo": "7",
+    "versiculos": 29
+  },
+  {
+    "libro": "2co",
+    "capitulo": "12",
+    "versiculos": 21
+  },
+  {
+    "libro": "psa",
+    "capitulo": "146",
+    "versiculos": 10
+  },
+  {
+    "libro": "hab",
+    "capitulo": "3",
+    "versiculos": 19
+  },
+  {
+    "libro": "lev",
+    "capitulo": "23",
+    "versiculos": 44
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "9",
+    "versiculos": 13
+  },
+  {
+    "libro": "jer",
+    "capitulo": "19",
+    "versiculos": 15
+  },
+  {
+    "libro": "2co",
+    "capitulo": "4",
+    "versiculos": 18
+  },
+  {
+    "libro": "ecc",
+    "capitulo": "11",
+    "versiculos": 10
+  },
+  {
+    "libro": "psa",
+    "capitulo": "15",
+    "versiculos": 5
+  },
+  {
+    "libro": "jos",
+    "capitulo": "4",
+    "versiculos": 24
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "19",
+    "versiculos": 21
+  },
+  {
+    "libro": "psa",
+    "capitulo": "150",
+    "versiculos": 6
+  },
+  {
+    "libro": "luk",
+    "capitulo": "8",
+    "versiculos": 56
+  },
+  {
+    "libro": "amo",
+    "capitulo": "6",
+    "versiculos": 14
+  },
+  {
+    "libro": "isa",
+    "capitulo": "65",
+    "versiculos": 25
+  },
+  {
+    "libro": "rev",
+    "capitulo": "19",
+    "versiculos": 21
+  },
+  {
+    "libro": "neh",
+    "capitulo": "12",
+    "versiculos": 47
+  },
+  {
+    "libro": "psa",
+    "capitulo": "42",
+    "versiculos": 11
+  },
+  {
+    "libro": "pro",
+    "capitulo": "31",
+    "versiculos": 31
+  },
+  {
+    "libro": "psa",
+    "capitulo": "107",
+    "versiculos": 43
+  },
+  {
+    "libro": "lam",
+    "capitulo": "5",
+    "versiculos": 22
+  },
+  {
+    "libro": "exo",
+    "capitulo": "14",
+    "versiculos": 31
+  },
+  {
+    "libro": "num",
+    "capitulo": "13",
+    "versiculos": 4
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "28",
+    "versiculos": 26
+  },
+  {
+    "libro": "isa",
+    "capitulo": "32",
+    "versiculos": 20
+  },
+  {
+    "libro": "heb",
+    "capitulo": "10",
+    "versiculos": 39
+  },
+  {
+    "libro": "lam",
+    "capitulo": "4",
+    "versiculos": 22
+  },
+  {
+    "libro": "exo",
+    "capitulo": "15",
+    "versiculos": 27
+  },
+  {
+    "libro": "num",
+    "capitulo": "12",
+    "versiculos": 16
+  },
+  {
+    "libro": "isa",
+    "capitulo": "33",
+    "versiculos": 24
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "29",
+    "versiculos": 21
+  },
+  {
+    "libro": "heb",
+    "capitulo": "11",
+    "versiculos": 40
+  },
+  {
+    "libro": "gal",
+    "capitulo": "6",
+    "versiculos": 18
+  },
+  {
+    "libro": "neh",
+    "capitulo": "13",
+    "versiculos": 31
+  },
+  {
+    "libro": "psa",
+    "capitulo": "43",
+    "versiculos": 5
+  },
+  {
+    "libro": "pro",
+    "capitulo": "30",
+    "versiculos": 33
+  },
+  {
+    "libro": "psa",
+    "capitulo": "106",
+    "versiculos": 48
+  },
+  {
+    "libro": "luk",
+    "capitulo": "9",
+    "versiculos": 62
+  },
+  {
+    "libro": "amo",
+    "capitulo": "7",
+    "versiculos": 17
+  },
+  {
+    "libro": "isa",
+    "capitulo": "64",
+    "versiculos": 12
+  },
+  {
+    "libro": "rev",
+    "capitulo": "18",
+    "versiculos": 24
+  },
+  {
+    "libro": "2co",
+    "capitulo": "5",
+    "versiculos": 21
+  },
+  {
+    "libro": "ecc",
+    "capitulo": "10",
+    "versiculos": 20
+  },
+  {
+    "libro": "jos",
+    "capitulo": "5",
+    "versiculos": 15
+  },
+  {
+    "libro": "psa",
+    "capitulo": "14",
+    "versiculos": 7
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "18",
+    "versiculos": 46
+  },
+  {
+    "libro": "lev",
+    "capitulo": "22",
+    "versiculos": 33
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "8",
+    "versiculos": 18
+  },
+  {
+    "libro": "mal",
+    "capitulo": "1",
+    "versiculos": 14
+  },
+  {
+    "libro": "jer",
+    "capitulo": "18",
+    "versiculos": 23
+  },
+  {
+    "libro": "jos",
+    "capitulo": "13",
+    "versiculos": 33
+  },
+  {
+    "libro": "psa",
+    "capitulo": "2",
+    "versiculos": 12
+  },
+  {
+    "libro": "ecc",
+    "capitulo": "6",
+    "versiculos": 12
+  },
+  {
+    "libro": "2co",
+    "capitulo": "13",
+    "versiculos": 14
+  },
+  {
+    "libro": "psa",
+    "capitulo": "147",
+    "versiculos": 20
+  },
+  {
+    "libro": "hab",
+    "capitulo": "2",
+    "versiculos": 20
+  },
+  {
+    "libro": "exo",
+    "capitulo": "3",
+    "versiculos": 22
+  },
+  {
+    "libro": "heb",
+    "capitulo": "7",
+    "versiculos": 28
+  },
+  {
+    "libro": "isa",
+    "capitulo": "25",
+    "versiculos": 12
+  },
+  {
+    "libro": "num",
+    "capitulo": "4",
+    "versiculos": 49
+  },
+  {
+    "libro": "jdg",
+    "capitulo": "9",
+    "versiculos": 57
+  },
+  {
+    "libro": "ezr",
+    "capitulo": "3",
+    "versiculos": 13
+  },
+  {
+    "libro": "psa",
+    "capitulo": "55",
+    "versiculos": 23
+  },
+  {
+    "libro": "neh",
+    "capitulo": "5",
+    "versiculos": 19
+  },
+  {
+    "libro": "psa",
+    "capitulo": "110",
+    "versiculos": 7
+  },
+  {
+    "libro": "pro",
+    "capitulo": "26",
+    "versiculos": 28
+  },
+  {
+    "libro": "jer",
+    "capitulo": "34",
+    "versiculos": 22
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "1",
+    "versiculos": 18
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "14",
+    "versiculos": 15
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "44",
+    "versiculos": 31
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "24",
+    "versiculos": 25
+  },
+  {
+    "libro": "rev",
+    "capitulo": "22",
+    "versiculos": 21
+  },
+  {
+    "libro": "job",
+    "capitulo": "10",
+    "versiculos": 22
+  },
+  {
+    "libro": "deu",
+    "capitulo": "26",
+    "versiculos": 19
+  },
+  {
+    "libro": "mat",
+    "capitulo": "11",
+    "versiculos": 30
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "7",
+    "versiculos": 17
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "22",
+    "versiculos": 53
+  },
+  {
+    "libro": "gen",
+    "capitulo": "30",
+    "versiculos": 43
+  },
+  {
+    "libro": "num",
+    "capitulo": "28",
+    "versiculos": 31
+  },
+  {
+    "libro": "isa",
+    "capitulo": "9",
+    "versiculos": 21
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "13",
+    "versiculos": 23
+  },
+  {
+    "libro": "psa",
+    "capitulo": "96",
+    "versiculos": 13
+  },
+  {
+    "libro": "act",
+    "capitulo": "6",
+    "versiculos": 15
+  },
+  {
+    "libro": "psa",
+    "capitulo": "79",
+    "versiculos": 13
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "5",
+    "versiculos": 17
+  },
+  {
+    "libro": "exo",
+    "capitulo": "39",
+    "versiculos": 43
+  },
+  {
+    "libro": "psa",
+    "capitulo": "80",
+    "versiculos": 19
+  },
+  {
+    "libro": "act",
+    "capitulo": "10",
+    "versiculos": 48
+  },
+  {
+    "libro": "1jn",
+    "capitulo": "3",
+    "versiculos": 24
+  },
+  {
+    "libro": "isa",
+    "capitulo": "48",
+    "versiculos": 22
+  },
+  {
+    "libro": "1ti",
+    "capitulo": "5",
+    "versiculos": 25
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "2",
+    "versiculos": 18
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "17",
+    "versiculos": 41
+  },
+  {
+    "libro": "1th",
+    "capitulo": "5",
+    "versiculos": 28
+  },
+  {
+    "libro": "jer",
+    "capitulo": "22",
+    "versiculos": 30
+  },
+  {
+    "libro": "job",
+    "capitulo": "6",
+    "versiculos": 30
+  },
+  {
+    "libro": "lev",
+    "capitulo": "18",
+    "versiculos": 30
+  },
+  {
+    "libro": "deu",
+    "capitulo": "30",
+    "versiculos": 20
+  },
+  {
+    "libro": "gen",
+    "capitulo": "26",
+    "versiculos": 35
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "21",
+    "versiculos": 30
+  },
+  {
+    "libro": "psa",
+    "capitulo": "38",
+    "versiculos": 22
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "11",
+    "versiculos": 15
+  },
+  {
+    "libro": "mat",
+    "capitulo": "7",
+    "versiculos": 29
+  },
+  {
+    "libro": "jdg",
+    "capitulo": "13",
+    "versiculos": 25
+  },
+  {
+    "libro": "mrk",
+    "capitulo": "11",
+    "versiculos": 32
+  },
+  {
+    "libro": "exo",
+    "capitulo": "19",
+    "versiculos": 25
+  },
+  {
+    "libro": "php",
+    "capitulo": "3",
+    "versiculos": 21
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "25",
+    "versiculos": 17
+  },
+  {
+    "libro": "gen",
+    "capitulo": "6",
+    "versiculos": 22
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "1",
+    "versiculos": 54
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "14",
+    "versiculos": 31
+  },
+  {
+    "libro": "psa",
+    "capitulo": "18",
+    "versiculos": 50
+  },
+  {
+    "libro": "jos",
+    "capitulo": "9",
+    "versiculos": 27
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "31",
+    "versiculos": 13
+  },
+  {
+    "libro": "2co",
+    "capitulo": "9",
+    "versiculos": 15
+  },
+  {
+    "libro": "mat",
+    "capitulo": "27",
+    "versiculos": 66
+  },
+  {
+    "libro": "deu",
+    "capitulo": "10",
+    "versiculos": 22
+  },
+  {
+    "libro": "job",
+    "capitulo": "26",
+    "versiculos": 14
+  },
+  {
+    "libro": "luk",
+    "capitulo": "5",
+    "versiculos": 39
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "12",
+    "versiculos": 31
+  },
+  {
+    "libro": "rev",
+    "capitulo": "14",
+    "versiculos": 20
+  },
+  {
+    "libro": "jhn",
+    "capitulo": "10",
+    "versiculos": 42
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "22",
+    "versiculos": 12
+  },
+  {
+    "libro": "jer",
+    "capitulo": "2",
+    "versiculos": 37
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "27",
+    "versiculos": 12
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "2",
+    "versiculos": 46
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "17",
+    "versiculos": 27
+  },
+  {
+    "libro": "gen",
+    "capitulo": "10",
+    "versiculos": 32
+  },
+  {
+    "libro": "jon",
+    "capitulo": "1",
+    "versiculos": 17
+  },
+  {
+    "libro": "deu",
+    "capitulo": "6",
+    "versiculos": 25
+  },
+  {
+    "libro": "luk",
+    "capitulo": "13",
+    "versiculos": 35
+  },
+  {
+    "libro": "job",
+    "capitulo": "30",
+    "versiculos": 31
+  },
+  {
+    "libro": "jer",
+    "capitulo": "14",
+    "versiculos": 22
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "21",
+    "versiculos": 26
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "34",
+    "versiculos": 33
+  },
+  {
+    "libro": "jhn",
+    "capitulo": "6",
+    "versiculos": 71
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "4",
+    "versiculos": 12
+  },
+  {
+    "libro": "rev",
+    "capitulo": "2",
+    "versiculos": 29
+  },
+  {
+    "libro": "gen",
+    "capitulo": "47",
+    "versiculos": 31
+  },
+  {
+    "libro": "neh",
+    "capitulo": "9",
+    "versiculos": 38
+  },
+  {
+    "libro": "act",
+    "capitulo": "26",
+    "versiculos": 32
+  },
+  {
+    "libro": "psa",
+    "capitulo": "59",
+    "versiculos": 17
+  },
+  {
+    "libro": "jdg",
+    "capitulo": "5",
+    "versiculos": 31
+  },
+  {
+    "libro": "mrk",
+    "capitulo": "7",
+    "versiculos": 36
+  },
+  {
+    "libro": "num",
+    "capitulo": "8",
+    "versiculos": 26
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "33",
+    "versiculos": 33
+  },
+  {
+    "libro": "isa",
+    "capitulo": "29",
+    "versiculos": 24
+  },
+  {
+    "libro": "tit",
+    "capitulo": "3",
+    "versiculos": 15
+  },
+  {
+    "libro": "jer",
+    "capitulo": "43",
+    "versiculos": 13
+  },
+  {
+    "libro": "zec",
+    "capitulo": "2",
+    "versiculos": 13
+  },
+  {
+    "libro": "psa",
+    "capitulo": "22",
+    "versiculos": 31
+  },
+  {
+    "libro": "est",
+    "capitulo": "1",
+    "versiculos": 22
+  },
+  {
+    "libro": "nam",
+    "capitulo": "2",
+    "versiculos": 13
+  },
+  {
+    "libro": "sng",
+    "capitulo": "5",
+    "versiculos": 16
+  },
+  {
+    "libro": "rut",
+    "capitulo": "4",
+    "versiculos": 22
+  },
+  {
+    "libro": "isa",
+    "capitulo": "52",
+    "versiculos": 15
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "48",
+    "versiculos": 35
+  },
+  {
+    "libro": "1co",
+    "capitulo": "10",
+    "versiculos": 33
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "18",
+    "versiculos": 34
+  },
+  {
+    "libro": "jer",
+    "capitulo": "38",
+    "versiculos": 28
+  },
+  {
+    "libro": "rom",
+    "capitulo": "10",
+    "versiculos": 21
+  },
+  {
+    "libro": "lev",
+    "capitulo": "2",
+    "versiculos": 16
+  },
+  {
+    "libro": "psa",
+    "capitulo": "130",
+    "versiculos": 8
+  },
+  {
+    "libro": "pro",
+    "capitulo": "6",
+    "versiculos": 35
+  },
+  {
+    "libro": "psa",
+    "capitulo": "75",
+    "versiculos": 10
+  },
+  {
+    "libro": "isa",
+    "capitulo": "5",
+    "versiculos": 30
+  },
+  {
+    "libro": "num",
+    "capitulo": "24",
+    "versiculos": 25
+  },
+  {
+    "libro": "hos",
+    "capitulo": "3",
+    "versiculos": 5
+  },
+  {
+    "libro": "exo",
+    "capitulo": "23",
+    "versiculos": 33
+  },
+  {
+    "libro": "pro",
+    "capitulo": "10",
+    "versiculos": 32
+  },
+  {
+    "libro": "psa",
+    "capitulo": "126",
+    "versiculos": 6
+  },
+  {
+    "libro": "psa",
+    "capitulo": "63",
+    "versiculos": 11
+  },
+  {
+    "libro": "num",
+    "capitulo": "32",
+    "versiculos": 42
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "9",
+    "versiculos": 11
+  },
+  {
+    "libro": "isa",
+    "capitulo": "13",
+    "versiculos": 22
+  },
+  {
+    "libro": "exo",
+    "capitulo": "35",
+    "versiculos": 35
+  },
+  {
+    "libro": "zec",
+    "capitulo": "14",
+    "versiculos": 21
+  },
+  {
+    "libro": "psa",
+    "capitulo": "34",
+    "versiculos": 22
+  },
+  {
+    "libro": "1co",
+    "capitulo": "6",
+    "versiculos": 20
+  },
+  {
+    "libro": "isa",
+    "capitulo": "44",
+    "versiculos": 28
+  },
+  {
+    "libro": "lev",
+    "capitulo": "14",
+    "versiculos": 57
+  },
+  {
+    "libro": "rom",
+    "capitulo": "6",
+    "versiculos": 23
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "16",
+    "versiculos": 23
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "26",
+    "versiculos": 32
+  },
+  {
+    "libro": "gen",
+    "capitulo": "21",
+    "versiculos": 34
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "5",
+    "versiculos": 14
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "10",
+    "versiculos": 36
+  },
+  {
+    "libro": "jer",
+    "capitulo": "25",
+    "versiculos": 38
+  },
+  {
+    "libro": "1th",
+    "capitulo": "2",
+    "versiculos": 20
+  },
+  {
+    "libro": "1ti",
+    "capitulo": "2",
+    "versiculos": 15
+  },
+  {
+    "libro": "luk",
+    "capitulo": "22",
+    "versiculos": 71
+  },
+  {
+    "libro": "job",
+    "capitulo": "1",
+    "versiculos": 22
+  },
+  {
+    "libro": "psa",
+    "capitulo": "87",
+    "versiculos": 7
+  },
+  {
+    "libro": "dan",
+    "capitulo": "7",
+    "versiculos": 28
+  },
+  {
+    "libro": "act",
+    "capitulo": "17",
+    "versiculos": 34
+  },
+  {
+    "libro": "1jn",
+    "capitulo": "4",
+    "versiculos": 21
+  },
+  {
+    "libro": "psa",
+    "capitulo": "68",
+    "versiculos": 35
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "2",
+    "versiculos": 10
+  },
+  {
+    "libro": "isa",
+    "capitulo": "18",
+    "versiculos": 7
+  },
+  {
+    "libro": "2pe",
+    "capitulo": "3",
+    "versiculos": 18
+  },
+  {
+    "libro": "dan",
+    "capitulo": "11",
+    "versiculos": 45
+  },
+  {
+    "libro": "psa",
+    "capitulo": "91",
+    "versiculos": 16
+  },
+  {
+    "libro": "act",
+    "capitulo": "1",
+    "versiculos": 26
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "14",
+    "versiculos": 23
+  },
+  {
+    "libro": "hos",
+    "capitulo": "8",
+    "versiculos": 14
+  },
+  {
+    "libro": "exo",
+    "capitulo": "28",
+    "versiculos": 43
+  },
+  {
+    "libro": "job",
+    "capitulo": "40",
+    "versiculos": 24
+  },
+  {
+    "libro": "mic",
+    "capitulo": "7",
+    "versiculos": 20
+  },
+  {
+    "libro": "zec",
+    "capitulo": "9",
+    "versiculos": 17
+  },
+  {
+    "libro": "deu",
+    "capitulo": "21",
+    "versiculos": 23
+  },
+  {
+    "libro": "gen",
+    "capitulo": "37",
+    "versiculos": 36
+  },
+  {
+    "libro": "mat",
+    "capitulo": "16",
+    "versiculos": 28
+  },
+  {
+    "libro": "psa",
+    "capitulo": "29",
+    "versiculos": 11
+  },
+  {
+    "libro": "isa",
+    "capitulo": "59",
+    "versiculos": 21
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "43",
+    "versiculos": 27
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "23",
+    "versiculos": 39
+  },
+  {
+    "libro": "jhn",
+    "capitulo": "21",
+    "versiculos": 25
+  },
+  {
+    "libro": "jer",
+    "capitulo": "33",
+    "versiculos": 26
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "6",
+    "versiculos": 33
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "13",
+    "versiculos": 22
+  },
+  {
+    "libro": "job",
+    "capitulo": "17",
+    "versiculos": 16
+  },
+  {
+    "libro": "lev",
+    "capitulo": "9",
+    "versiculos": 24
+  },
+  {
+    "libro": "neh",
+    "capitulo": "2",
+    "versiculos": 20
+  },
+  {
+    "libro": "ezr",
+    "capitulo": "4",
+    "versiculos": 24
+  },
+  {
+    "libro": "psa",
+    "capitulo": "52",
+    "versiculos": 9
+  },
+  {
+    "libro": "pro",
+    "capitulo": "21",
+    "versiculos": 31
+  },
+  {
+    "libro": "psa",
+    "capitulo": "117",
+    "versiculos": 2
+  },
+  {
+    "libro": "exo",
+    "capitulo": "4",
+    "versiculos": 31
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "38",
+    "versiculos": 23
+  },
+  {
+    "libro": "isa",
+    "capitulo": "22",
+    "versiculos": 25
+  },
+  {
+    "libro": "num",
+    "capitulo": "3",
+    "versiculos": 51
+  },
+  {
+    "libro": "jer",
+    "capitulo": "48",
+    "versiculos": 47
+  },
+  {
+    "libro": "psa",
+    "capitulo": "5",
+    "versiculos": 12
+  },
+  {
+    "libro": "jos",
+    "capitulo": "14",
+    "versiculos": 15
+  },
+  {
+    "libro": "ecc",
+    "capitulo": "1",
+    "versiculos": 18
+  },
+  {
+    "libro": "jol",
+    "capitulo": "3",
+    "versiculos": 21
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "9",
+    "versiculos": 28
+  },
+  {
+    "libro": "psa",
+    "capitulo": "140",
+    "versiculos": 13
+  },
+  {
+    "libro": "luk",
+    "capitulo": "18",
+    "versiculos": 43
+  },
+  {
+    "libro": "zep",
+    "capitulo": "3",
+    "versiculos": 20
+  },
+  {
+    "libro": "lev",
+    "capitulo": "25",
+    "versiculos": 55
+  },
+  {
+    "libro": "rev",
+    "capitulo": "9",
+    "versiculos": 21
+  },
+  {
+    "libro": "2co",
+    "capitulo": "2",
+    "versiculos": 17
+  },
+  {
+    "libro": "psa",
+    "capitulo": "13",
+    "versiculos": 6
+  },
+  {
+    "libro": "jos",
+    "capitulo": "2",
+    "versiculos": 24
+  },
+  {
+    "libro": "isa",
+    "capitulo": "63",
+    "versiculos": 19
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "19",
+    "versiculos": 43
+  },
+  {
+    "libro": "jer",
+    "capitulo": "9",
+    "versiculos": 26
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "29",
+    "versiculos": 36
+  },
+  {
+    "libro": "psa",
+    "capitulo": "44",
+    "versiculos": 26
+  },
+  {
+    "libro": "jdg",
+    "capitulo": "18",
+    "versiculos": 31
+  },
+  {
+    "libro": "psa",
+    "capitulo": "101",
+    "versiculos": 8
+  },
+  {
+    "libro": "lam",
+    "capitulo": "3",
+    "versiculos": 66
+  },
+  {
+    "libro": "exo",
+    "capitulo": "12",
+    "versiculos": 51
+  },
+  {
+    "libro": "gal",
+    "capitulo": "1",
+    "versiculos": 24
+  },
+  {
+    "libro": "num",
+    "capitulo": "15",
+    "versiculos": 41
+  },
+  {
+    "libro": "isa",
+    "capitulo": "34",
+    "versiculos": 17
+  },
+  {
+    "libro": "isa",
+    "capitulo": "43",
+    "versiculos": 28
+  },
+  {
+    "libro": "1co",
+    "capitulo": "1",
+    "versiculos": 31
+  },
+  {
+    "libro": "jer",
+    "capitulo": "29",
+    "versiculos": 32
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "9",
+    "versiculos": 31
+  },
+  {
+    "libro": "rom",
+    "capitulo": "1",
+    "versiculos": 32
+  },
+  {
+    "libro": "lev",
+    "capitulo": "13",
+    "versiculos": 59
+  },
+  {
+    "libro": "zec",
+    "capitulo": "13",
+    "versiculos": 9
+  },
+  {
+    "libro": "est",
+    "capitulo": "10",
+    "versiculos": 3
+  },
+  {
+    "libro": "jos",
+    "capitulo": "22",
+    "versiculos": 34
+  },
+  {
+    "libro": "psa",
+    "capitulo": "33",
+    "versiculos": 22
+  },
+  {
+    "libro": "num",
+    "capitulo": "35",
+    "versiculos": 34
+  },
+  {
+    "libro": "isa",
+    "capitulo": "14",
+    "versiculos": 32
+  },
+  {
+    "libro": "hos",
+    "capitulo": "12",
+    "versiculos": 14
+  },
+  {
+    "libro": "exo",
+    "capitulo": "32",
+    "versiculos": 35
+  },
+  {
+    "libro": "psa",
+    "capitulo": "121",
+    "versiculos": 8
+  },
+  {
+    "libro": "pro",
+    "capitulo": "17",
+    "versiculos": 28
+  },
+  {
+    "libro": "psa",
+    "capitulo": "64",
+    "versiculos": 10
+  },
+  {
+    "libro": "isa",
+    "capitulo": "2",
+    "versiculos": 22
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "18",
+    "versiculos": 32
+  },
+  {
+    "libro": "num",
+    "capitulo": "23",
+    "versiculos": 30
+  },
+  {
+    "libro": "exo",
+    "capitulo": "24",
+    "versiculos": 18
+  },
+  {
+    "libro": "hos",
+    "capitulo": "4",
+    "versiculos": 19
+  },
+  {
+    "libro": "pro",
+    "capitulo": "1",
+    "versiculos": 33
+  },
+  {
+    "libro": "psa",
+    "capitulo": "137",
+    "versiculos": 9
+  },
+  {
+    "libro": "psa",
+    "capitulo": "72",
+    "versiculos": 20
+  },
+  {
+    "libro": "rut",
+    "capitulo": "3",
+    "versiculos": 18
+  },
+  {
+    "libro": "isa",
+    "capitulo": "55",
+    "versiculos": 13
+  },
+  {
+    "libro": "lev",
+    "capitulo": "5",
+    "versiculos": 19
+  },
+  {
+    "libro": "zec",
+    "capitulo": "5",
+    "versiculos": 11
+  },
+  {
+    "libro": "psa",
+    "capitulo": "25",
+    "versiculos": 22
+  },
+  {
+    "libro": "sng",
+    "capitulo": "2",
+    "versiculos": 17
+  },
+  {
+    "libro": "est",
+    "capitulo": "6",
+    "versiculos": 14
+  },
+  {
+    "libro": "exo",
+    "capitulo": "8",
+    "versiculos": 32
+  },
+  {
+    "libro": "jer",
+    "capitulo": "44",
+    "versiculos": 30
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "34",
+    "versiculos": 31
+  },
+  {
+    "libro": "jdg",
+    "capitulo": "2",
+    "versiculos": 23
+  },
+  {
+    "libro": "ezr",
+    "capitulo": "8",
+    "versiculos": 36
+  },
+  {
+    "libro": "gen",
+    "capitulo": "40",
+    "versiculos": 23
+  },
+  {
+    "libro": "act",
+    "capitulo": "21",
+    "versiculos": 40
+  },
+  {
+    "libro": "job",
+    "capitulo": "37",
+    "versiculos": 24
+  },
+  {
+    "libro": "luk",
+    "capitulo": "14",
+    "versiculos": 35
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "3",
+    "versiculos": 39
+  },
+  {
+    "libro": "rev",
+    "capitulo": "5",
+    "versiculos": 14
+  },
+  {
+    "libro": "jhn",
+    "capitulo": "1",
+    "versiculos": 51
+  },
+  {
+    "libro": "jer",
+    "capitulo": "13",
+    "versiculos": 27
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "33",
+    "versiculos": 25
+  },
+  {
+    "libro": "gen",
+    "capitulo": "17",
+    "versiculos": 27
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "5",
+    "versiculos": 18
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "10",
+    "versiculos": 14
+  },
+  {
+    "libro": "jos",
+    "capitulo": "18",
+    "versiculos": 28
+  },
+  {
+    "libro": "psa",
+    "capitulo": "9",
+    "versiculos": 20
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "20",
+    "versiculos": 42
+  },
+  {
+    "libro": "deu",
+    "capitulo": "1",
+    "versiculos": 46
+  },
+  {
+    "libro": "luk",
+    "capitulo": "2",
+    "versiculos": 52
+  },
+  {
+    "libro": "job",
+    "capitulo": "21",
+    "versiculos": 34
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "25",
+    "versiculos": 28
+  },
+  {
+    "libro": "jer",
+    "capitulo": "5",
+    "versiculos": 31
+  },
+  {
+    "libro": "jhn",
+    "capitulo": "17",
+    "versiculos": 26
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "15",
+    "versiculos": 37
+  },
+  {
+    "libro": "rev",
+    "capitulo": "13",
+    "versiculos": 18
+  },
+  {
+    "libro": "mat",
+    "capitulo": "20",
+    "versiculos": 34
+  },
+  {
+    "libro": "2ti",
+    "capitulo": "1",
+    "versiculos": 18
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "6",
+    "versiculos": 81
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "13",
+    "versiculos": 34
+  },
+  {
+    "libro": "gen",
+    "capitulo": "1",
+    "versiculos": 31
+  },
+  {
+    "libro": "2th",
+    "capitulo": "1",
+    "versiculos": 12
+  },
+  {
+    "libro": "deu",
+    "capitulo": "17",
+    "versiculos": 20
+  },
+  {
+    "libro": "isa",
+    "capitulo": "38",
+    "versiculos": 22
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "22",
+    "versiculos": 31
+  },
+  {
+    "libro": "num",
+    "capitulo": "19",
+    "versiculos": 22
+  },
+  {
+    "libro": "jer",
+    "capitulo": "52",
+    "versiculos": 34
+  },
+  {
+    "libro": "php",
+    "capitulo": "4",
+    "versiculos": 23
+  },
+  {
+    "libro": "jdg",
+    "capitulo": "14",
+    "versiculos": 20
+  },
+  {
+    "libro": "psa",
+    "capitulo": "48",
+    "versiculos": 14
+  },
+  {
+    "libro": "mrk",
+    "capitulo": "16",
+    "versiculos": 20
+  },
+  {
+    "libro": "jdg",
+    "capitulo": "15",
+    "versiculos": 20
+  },
+  {
+    "libro": "psa",
+    "capitulo": "49",
+    "versiculos": 20
+  },
+  {
+    "libro": "jas",
+    "capitulo": "1",
+    "versiculos": 27
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "23",
+    "versiculos": 49
+  },
+  {
+    "libro": "isa",
+    "capitulo": "39",
+    "versiculos": 8
+  },
+  {
+    "libro": "num",
+    "capitulo": "18",
+    "versiculos": 32
+  },
+  {
+    "libro": "mat",
+    "capitulo": "21",
+    "versiculos": 46
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "7",
+    "versiculos": 40
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "12",
+    "versiculos": 33
+  },
+  {
+    "libro": "deu",
+    "capitulo": "16",
+    "versiculos": 22
+  },
+  {
+    "libro": "luk",
+    "capitulo": "3",
+    "versiculos": 38
+  },
+  {
+    "libro": "job",
+    "capitulo": "20",
+    "versiculos": 29
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "24",
+    "versiculos": 27
+  },
+  {
+    "libro": "jer",
+    "capitulo": "4",
+    "versiculos": 31
+  },
+  {
+    "libro": "jhn",
+    "capitulo": "16",
+    "versiculos": 33
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "14",
+    "versiculos": 33
+  },
+  {
+    "libro": "rev",
+    "capitulo": "12",
+    "versiculos": 18
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "4",
+    "versiculos": 34
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "11",
+    "versiculos": 47
+  },
+  {
+    "libro": "gen",
+    "capitulo": "16",
+    "versiculos": 16
+  },
+  {
+    "libro": "psa",
+    "capitulo": "8",
+    "versiculos": 9
+  },
+  {
+    "libro": "jos",
+    "capitulo": "19",
+    "versiculos": 51
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "21",
+    "versiculos": 15
+  },
+  {
+    "libro": "job",
+    "capitulo": "36",
+    "versiculos": 33
+  },
+  {
+    "libro": "luk",
+    "capitulo": "15",
+    "versiculos": 32
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "2",
+    "versiculos": 32
+  },
+  {
+    "libro": "rev",
+    "capitulo": "4",
+    "versiculos": 11
+  },
+  {
+    "libro": "jer",
+    "capitulo": "12",
+    "versiculos": 17
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "32",
+    "versiculos": 33
+  },
+  {
+    "libro": "ezr",
+    "capitulo": "9",
+    "versiculos": 15
+  },
+  {
+    "libro": "jdg",
+    "capitulo": "3",
+    "versiculos": 31
+  },
+  {
+    "libro": "gen",
+    "capitulo": "41",
+    "versiculos": 57
+  },
+  {
+    "libro": "act",
+    "capitulo": "20",
+    "versiculos": 38
+  },
+  {
+    "libro": "mrk",
+    "capitulo": "1",
+    "versiculos": 45
+  },
+  {
+    "libro": "exo",
+    "capitulo": "9",
+    "versiculos": 35
+  },
+  {
+    "libro": "1pe",
+    "capitulo": "1",
+    "versiculos": 25
+  },
+  {
+    "libro": "jer",
+    "capitulo": "45",
+    "versiculos": 5
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "35",
+    "versiculos": 15
+  },
+  {
+    "libro": "zec",
+    "capitulo": "4",
+    "versiculos": 14
+  },
+  {
+    "libro": "psa",
+    "capitulo": "24",
+    "versiculos": 10
+  },
+  {
+    "libro": "est",
+    "capitulo": "7",
+    "versiculos": 10
+  },
+  {
+    "libro": "sng",
+    "capitulo": "3",
+    "versiculos": 11
+  },
+  {
+    "libro": "rut",
+    "capitulo": "2",
+    "versiculos": 23
+  },
+  {
+    "libro": "1co",
+    "capitulo": "16",
+    "versiculos": 24
+  },
+  {
+    "libro": "isa",
+    "capitulo": "54",
+    "versiculos": 17
+  },
+  {
+    "libro": "lev",
+    "capitulo": "4",
+    "versiculos": 35
+  },
+  {
+    "libro": "rom",
+    "capitulo": "16",
+    "versiculos": 26
+  },
+  {
+    "libro": "psa",
+    "capitulo": "136",
+    "versiculos": 26
+  },
+  {
+    "libro": "psa",
+    "capitulo": "73",
+    "versiculos": 28
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "19",
+    "versiculos": 14
+  },
+  {
+    "libro": "isa",
+    "capitulo": "3",
+    "versiculos": 26
+  },
+  {
+    "libro": "num",
+    "capitulo": "22",
+    "versiculos": 41
+  },
+  {
+    "libro": "exo",
+    "capitulo": "25",
+    "versiculos": 40
+  },
+  {
+    "libro": "hos",
+    "capitulo": "5",
+    "versiculos": 15
+  },
+  {
+    "libro": "psa",
+    "capitulo": "120",
+    "versiculos": 7
+  },
+  {
+    "libro": "pro",
+    "capitulo": "16",
+    "versiculos": 33
+  },
+  {
+    "libro": "psa",
+    "capitulo": "65",
+    "versiculos": 13
+  },
+  {
+    "libro": "num",
+    "capitulo": "34",
+    "versiculos": 19
+  },
+  {
+    "libro": "isa",
+    "capitulo": "15",
+    "versiculos": 9
+  },
+  {
+    "libro": "hos",
+    "capitulo": "13",
+    "versiculos": 16
+  },
+  {
+    "libro": "exo",
+    "capitulo": "33",
+    "versiculos": 23
+  },
+  {
+    "libro": "zec",
+    "capitulo": "12",
+    "versiculos": 14
+  },
+  {
+    "libro": "psa",
+    "capitulo": "32",
+    "versiculos": 11
+  },
+  {
+    "libro": "jos",
+    "capitulo": "23",
+    "versiculos": 16
+  },
+  {
+    "libro": "isa",
+    "capitulo": "42",
+    "versiculos": 25
+  },
+  {
+    "libro": "jer",
+    "capitulo": "28",
+    "versiculos": 17
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "8",
+    "versiculos": 18
+  },
+  {
+    "libro": "lev",
+    "capitulo": "12",
+    "versiculos": 8
+  },
+  {
+    "libro": "lam",
+    "capitulo": "2",
+    "versiculos": 22
+  },
+  {
+    "libro": "exo",
+    "capitulo": "13",
+    "versiculos": 22
+  },
+  {
+    "libro": "num",
+    "capitulo": "14",
+    "versiculos": 45
+  },
+  {
+    "libro": "isa",
+    "capitulo": "35",
+    "versiculos": 10
+  },
+  {
+    "libro": "psa",
+    "capitulo": "45",
+    "versiculos": 17
+  },
+  {
+    "libro": "jdg",
+    "capitulo": "19",
+    "versiculos": 30
+  },
+  {
+    "libro": "psa",
+    "capitulo": "100",
+    "versiculos": 5
+  },
+  {
+    "libro": "isa",
+    "capitulo": "62",
+    "versiculos": 12
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "18",
+    "versiculos": 33
+  },
+  {
+    "libro": "jer",
+    "capitulo": "8",
+    "versiculos": 22
+  },
+  {
+    "libro": "amo",
+    "capitulo": "1",
+    "versiculos": 15
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "28",
+    "versiculos": 27
+  },
+  {
+    "libro": "2co",
+    "capitulo": "3",
+    "versiculos": 18
+  },
+  {
+    "libro": "jos",
+    "capitulo": "3",
+    "versiculos": 17
+  },
+  {
+    "libro": "psa",
+    "capitulo": "12",
+    "versiculos": 8
+  },
+  {
+    "libro": "zep",
+    "capitulo": "2",
+    "versiculos": 15
+  },
+  {
+    "libro": "luk",
+    "capitulo": "19",
+    "versiculos": 48
+  },
+  {
+    "libro": "lev",
+    "capitulo": "24",
+    "versiculos": 23
+  },
+  {
+    "libro": "rev",
+    "capitulo": "8",
+    "versiculos": 13
+  },
+  {
+    "libro": "jos",
+    "capitulo": "15",
+    "versiculos": 63
+  },
+  {
+    "libro": "psa",
+    "capitulo": "4",
+    "versiculos": 8
+  },
+  {
+    "libro": "jol",
+    "capitulo": "2",
+    "versiculos": 32
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "8",
+    "versiculos": 66
+  },
+  {
+    "libro": "psa",
+    "capitulo": "141",
+    "versiculos": 10
+  },
+  {
+    "libro": "phm",
+    "capitulo": "1",
+    "versiculos": 25
+  },
+  {
+    "libro": "exo",
+    "capitulo": "5",
+    "versiculos": 23
+  },
+  {
+    "libro": "isa",
+    "capitulo": "23",
+    "versiculos": 18
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "39",
+    "versiculos": 29
+  },
+  {
+    "libro": "num",
+    "capitulo": "2",
+    "versiculos": 3
+  },
+  {
+    "libro": "jer",
+    "capitulo": "49",
+    "versiculos": 39
+  },
+  {
+    "libro": "heb",
+    "capitulo": "1",
+    "versiculos": 14
+  },
+  {
+    "libro": "neh",
+    "capitulo": "3",
+    "versiculos": 32
+  },
+  {
+    "libro": "ezr",
+    "capitulo": "5",
+    "versiculos": 17
+  },
+  {
+    "libro": "psa",
+    "capitulo": "53",
+    "versiculos": 6
+  },
+  {
+    "libro": "pro",
+    "capitulo": "20",
+    "versiculos": 30
+  },
+  {
+    "libro": "psa",
+    "capitulo": "116",
+    "versiculos": 19
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "42",
+    "versiculos": 20
+  },
+  {
+    "libro": "isa",
+    "capitulo": "58",
+    "versiculos": 14
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "22",
+    "versiculos": 51
+  },
+  {
+    "libro": "jhn",
+    "capitulo": "20",
+    "versiculos": 31
+  },
+  {
+    "libro": "jer",
+    "capitulo": "32",
+    "versiculos": 44
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "7",
+    "versiculos": 20
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "12",
+    "versiculos": 16
+  },
+  {
+    "libro": "job",
+    "capitulo": "16",
+    "versiculos": 22
+  },
+  {
+    "libro": "lev",
+    "capitulo": "8",
+    "versiculos": 36
+  },
+  {
+    "libro": "mic",
+    "capitulo": "6",
+    "versiculos": 16
+  },
+  {
+    "libro": "deu",
+    "capitulo": "20",
+    "versiculos": 20
+  },
+  {
+    "libro": "zec",
+    "capitulo": "8",
+    "versiculos": 23
+  },
+  {
+    "libro": "gen",
+    "capitulo": "36",
+    "versiculos": 43
+  },
+  {
+    "libro": "mat",
+    "capitulo": "17",
+    "versiculos": 26
+  },
+  {
+    "libro": "psa",
+    "capitulo": "28",
+    "versiculos": 9
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "1",
+    "versiculos": 28
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "15",
+    "versiculos": 8
+  },
+  {
+    "libro": "hos",
+    "capitulo": "9",
+    "versiculos": 17
+  },
+  {
+    "libro": "exo",
+    "capitulo": "29",
+    "versiculos": 46
+  },
+  {
+    "libro": "job",
+    "capitulo": "41",
+    "versiculos": 34
+  },
+  {
+    "libro": "2pe",
+    "capitulo": "2",
+    "versiculos": 22
+  },
+  {
+    "libro": "psa",
+    "capitulo": "90",
+    "versiculos": 17
+  },
+  {
+    "libro": "dan",
+    "capitulo": "10",
+    "versiculos": 21
+  },
+  {
+    "libro": "isa",
+    "capitulo": "19",
+    "versiculos": 25
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "3",
+    "versiculos": 27
+  },
+  {
+    "libro": "dan",
+    "capitulo": "6",
+    "versiculos": 28
+  },
+  {
+    "libro": "psa",
+    "capitulo": "86",
+    "versiculos": 17
+  },
+  {
+    "libro": "eph",
+    "capitulo": "1",
+    "versiculos": 23
+  },
+  {
+    "libro": "act",
+    "capitulo": "16",
+    "versiculos": 40
+  },
+  {
+    "libro": "1jn",
+    "capitulo": "5",
+    "versiculos": 21
+  },
+  {
+    "libro": "psa",
+    "capitulo": "69",
+    "versiculos": 36
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "4",
+    "versiculos": 22
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "11",
+    "versiculos": 21
+  },
+  {
+    "libro": "jer",
+    "capitulo": "24",
+    "versiculos": 10
+  },
+  {
+    "libro": "1th",
+    "capitulo": "3",
+    "versiculos": 13
+  },
+  {
+    "libro": "1ti",
+    "capitulo": "3",
+    "versiculos": 16
+  },
+  {
+    "libro": "luk",
+    "capitulo": "23",
+    "versiculos": 55
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "17",
+    "versiculos": 58
+  },
+  {
+    "libro": "mat",
+    "capitulo": "1",
+    "versiculos": 25
+  },
+  {
+    "libro": "gen",
+    "capitulo": "20",
+    "versiculos": 18
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "27",
+    "versiculos": 16
+  },
+  {
+    "libro": "num",
+    "capitulo": "17",
+    "versiculos": 13
+  },
+  {
+    "libro": "isa",
+    "capitulo": "36",
+    "versiculos": 22
+  },
+  {
+    "libro": "gal",
+    "capitulo": "3",
+    "versiculos": 29
+  },
+  {
+    "libro": "lam",
+    "capitulo": "1",
+    "versiculos": 22
+  },
+  {
+    "libro": "exo",
+    "capitulo": "10",
+    "versiculos": 29
+  },
+  {
+    "libro": "psa",
+    "capitulo": "103",
+    "versiculos": 22
+  },
+  {
+    "libro": "psa",
+    "capitulo": "46",
+    "versiculos": 11
+  },
+  {
+    "libro": "ezr",
+    "capitulo": "10",
+    "versiculos": 44
+  },
+  {
+    "libro": "amo",
+    "capitulo": "2",
+    "versiculos": 16
+  },
+  {
+    "libro": "isa",
+    "capitulo": "61",
+    "versiculos": 11
+  },
+  {
+    "libro": "jhn",
+    "capitulo": "19",
+    "versiculos": 42
+  },
+  {
+    "libro": "deu",
+    "capitulo": "19",
+    "versiculos": 21
+  },
+  {
+    "libro": "psa",
+    "capitulo": "11",
+    "versiculos": 7
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "8",
+    "versiculos": 40
+  },
+  {
+    "libro": "mal",
+    "capitulo": "4",
+    "versiculos": 6
+  },
+  {
+    "libro": "job",
+    "capitulo": "39",
+    "versiculos": 30
+  },
+  {
+    "libro": "zep",
+    "capitulo": "1",
+    "versiculos": 18
+  },
+  {
+    "libro": "lev",
+    "capitulo": "27",
+    "versiculos": 34
+  },
+  {
+    "libro": "psa",
+    "capitulo": "142",
+    "versiculos": 7
+  },
+  {
+    "libro": "gen",
+    "capitulo": "19",
+    "versiculos": 38
+  },
+  {
+    "libro": "ecc",
+    "capitulo": "3",
+    "versiculos": 22
+  },
+  {
+    "libro": "jos",
+    "capitulo": "16",
+    "versiculos": 10
+  },
+  {
+    "libro": "psa",
+    "capitulo": "7",
+    "versiculos": 17
+  },
+  {
+    "libro": "jol",
+    "capitulo": "1",
+    "versiculos": 20
+  },
+  {
+    "libro": "heb",
+    "capitulo": "2",
+    "versiculos": 18
+  },
+  {
+    "libro": "isa",
+    "capitulo": "20",
+    "versiculos": 6
+  },
+  {
+    "libro": "num",
+    "capitulo": "1",
+    "versiculos": 5
+  },
+  {
+    "libro": "exo",
+    "capitulo": "6",
+    "versiculos": 30
+  },
+  {
+    "libro": "pro",
+    "capitulo": "23",
+    "versiculos": 35
+  },
+  {
+    "libro": "psa",
+    "capitulo": "115",
+    "versiculos": 18
+  },
+  {
+    "libro": "ezr",
+    "capitulo": "6",
+    "versiculos": 22
+  },
+  {
+    "libro": "psa",
+    "capitulo": "50",
+    "versiculos": 23
+  },
+  {
+    "libro": "job",
+    "capitulo": "15",
+    "versiculos": 35
+  },
+  {
+    "libro": "jer",
+    "capitulo": "31",
+    "versiculos": 40
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "11",
+    "versiculos": 23
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "4",
+    "versiculos": 44
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "41",
+    "versiculos": 26
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "21",
+    "versiculos": 22
+  },
+  {
+    "libro": "mat",
+    "capitulo": "14",
+    "versiculos": 36
+  },
+  {
+    "libro": "est",
+    "capitulo": "8",
+    "versiculos": 17
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "2",
+    "versiculos": 36
+  },
+  {
+    "libro": "gen",
+    "capitulo": "35",
+    "versiculos": 29
+  },
+  {
+    "libro": "mic",
+    "capitulo": "5",
+    "versiculos": 15
+  },
+  {
+    "libro": "deu",
+    "capitulo": "23",
+    "versiculos": 25
+  },
+  {
+    "libro": "job",
+    "capitulo": "42",
+    "versiculos": 17
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "16",
+    "versiculos": 63
+  },
+  {
+    "libro": "act",
+    "capitulo": "3",
+    "versiculos": 26
+  },
+  {
+    "libro": "jdg",
+    "capitulo": "20",
+    "versiculos": 48
+  },
+  {
+    "libro": "psa",
+    "capitulo": "139",
+    "versiculos": 24
+  },
+  {
+    "libro": "psa",
+    "capitulo": "93",
+    "versiculos": 5
+  },
+  {
+    "libro": "2pe",
+    "capitulo": "1",
+    "versiculos": 21
+  },
+  {
+    "libro": "act",
+    "capitulo": "15",
+    "versiculos": 40
+  },
+  {
+    "libro": "dan",
+    "capitulo": "5",
+    "versiculos": 31
+  },
+  {
+    "libro": "psa",
+    "capitulo": "85",
+    "versiculos": 13
+  },
+  {
+    "libro": "eph",
+    "capitulo": "2",
+    "versiculos": 22
+  },
+  {
+    "libro": "pro",
+    "capitulo": "19",
+    "versiculos": 29
+  },
+  {
+    "libro": "job",
+    "capitulo": "3",
+    "versiculos": 26
+  },
+  {
+    "libro": "luk",
+    "capitulo": "20",
+    "versiculos": 47
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "12",
+    "versiculos": 21
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "7",
+    "versiculos": 22
+  },
+  {
+    "libro": "jer",
+    "capitulo": "27",
+    "versiculos": 22
+  },
+  {
+    "libro": "gen",
+    "capitulo": "23",
+    "versiculos": 20
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "24",
+    "versiculos": 31
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "14",
+    "versiculos": 52
+  },
+  {
+    "libro": "mat",
+    "capitulo": "2",
+    "versiculos": 23
+  },
+  {
+    "libro": "jas",
+    "capitulo": "2",
+    "versiculos": 26
+  },
+  {
+    "libro": "mrk",
+    "capitulo": "14",
+    "versiculos": 72
+  },
+  {
+    "libro": "jdg",
+    "capitulo": "16",
+    "versiculos": 31
+  },
+  {
+    "libro": "jer",
+    "capitulo": "50",
+    "versiculos": 46
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "20",
+    "versiculos": 49
+  },
+  {
+    "libro": "deu",
+    "capitulo": "15",
+    "versiculos": 23
+  },
+  {
+    "libro": "gen",
+    "capitulo": "3",
+    "versiculos": 24
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "11",
+    "versiculos": 43
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "4",
+    "versiculos": 43
+  },
+  {
+    "libro": "2th",
+    "capitulo": "3",
+    "versiculos": 18
+  },
+  {
+    "libro": "mat",
+    "capitulo": "22",
+    "versiculos": 46
+  },
+  {
+    "libro": "2ti",
+    "capitulo": "3",
+    "versiculos": 17
+  },
+  {
+    "libro": "jhn",
+    "capitulo": "15",
+    "versiculos": 27
+  },
+  {
+    "libro": "rev",
+    "capitulo": "11",
+    "versiculos": 19
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "17",
+    "versiculos": 29
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "27",
+    "versiculos": 9
+  },
+  {
+    "libro": "jer",
+    "capitulo": "7",
+    "versiculos": 34
+  },
+  {
+    "libro": "job",
+    "capitulo": "23",
+    "versiculos": 17
+  },
+  {
+    "libro": "jon",
+    "capitulo": "4",
+    "versiculos": 11
+  },
+  {
+    "libro": "deu",
+    "capitulo": "3",
+    "versiculos": 29
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "22",
+    "versiculos": 23
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "12",
+    "versiculos": 40
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "7",
+    "versiculos": 51
+  },
+  {
+    "libro": "gen",
+    "capitulo": "15",
+    "versiculos": 21
+  },
+  {
+    "libro": "jer",
+    "capitulo": "11",
+    "versiculos": 23
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "31",
+    "versiculos": 21
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "24",
+    "versiculos": 20
+  },
+  {
+    "libro": "rev",
+    "capitulo": "7",
+    "versiculos": 4
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "1",
+    "versiculos": 27
+  },
+  {
+    "libro": "jhn",
+    "capitulo": "3",
+    "versiculos": 36
+  },
+  {
+    "libro": "luk",
+    "capitulo": "16",
+    "versiculos": 31
+  },
+  {
+    "libro": "job",
+    "capitulo": "35",
+    "versiculos": 16
+  },
+  {
+    "libro": "psa",
+    "capitulo": "119",
+    "versiculos": 176
+  },
+  {
+    "libro": "mrk",
+    "capitulo": "2",
+    "versiculos": 28
+  },
+  {
+    "libro": "gen",
+    "capitulo": "42",
+    "versiculos": 38
+  },
+  {
+    "libro": "act",
+    "capitulo": "23",
+    "versiculos": 35
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "36",
+    "versiculos": 38
+  },
+  {
+    "libro": "jer",
+    "capitulo": "46",
+    "versiculos": 28
+  },
+  {
+    "libro": "1pe",
+    "capitulo": "2",
+    "versiculos": 25
+  },
+  {
+    "libro": "gen",
+    "capitulo": "39",
+    "versiculos": 23
+  },
+  {
+    "libro": "psa",
+    "capitulo": "27",
+    "versiculos": 14
+  },
+  {
+    "libro": "mat",
+    "capitulo": "18",
+    "versiculos": 34
+  },
+  {
+    "libro": "est",
+    "capitulo": "4",
+    "versiculos": 17
+  },
+  {
+    "libro": "zec",
+    "capitulo": "7",
+    "versiculos": 14
+  },
+  {
+    "libro": "job",
+    "capitulo": "19",
+    "versiculos": 29
+  },
+  {
+    "libro": "rom",
+    "capitulo": "15",
+    "versiculos": 33
+  },
+  {
+    "libro": "lev",
+    "capitulo": "7",
+    "versiculos": 38
+  },
+  {
+    "libro": "rut",
+    "capitulo": "1",
+    "versiculos": 22
+  },
+  {
+    "libro": "1co",
+    "capitulo": "15",
+    "versiculos": 58
+  },
+  {
+    "libro": "isa",
+    "capitulo": "57",
+    "versiculos": 21
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "8",
+    "versiculos": 29
+  },
+  {
+    "libro": "psa",
+    "capitulo": "70",
+    "versiculos": 5
+  },
+  {
+    "libro": "pro",
+    "capitulo": "3",
+    "versiculos": 35
+  },
+  {
+    "libro": "psa",
+    "capitulo": "135",
+    "versiculos": 21
+  },
+  {
+    "libro": "exo",
+    "capitulo": "26",
+    "versiculos": 37
+  },
+  {
+    "libro": "hos",
+    "capitulo": "6",
+    "versiculos": 11
+  },
+  {
+    "libro": "num",
+    "capitulo": "21",
+    "versiculos": 35
+  },
+  {
+    "libro": "act",
+    "capitulo": "19",
+    "versiculos": 41
+  },
+  {
+    "libro": "psa",
+    "capitulo": "66",
+    "versiculos": 20
+  },
+  {
+    "libro": "psa",
+    "capitulo": "123",
+    "versiculos": 4
+  },
+  {
+    "libro": "pro",
+    "capitulo": "15",
+    "versiculos": 33
+  },
+  {
+    "libro": "psa",
+    "capitulo": "89",
+    "versiculos": 52
+  },
+  {
+    "libro": "dan",
+    "capitulo": "9",
+    "versiculos": 27
+  },
+  {
+    "libro": "hos",
+    "capitulo": "10",
+    "versiculos": 15
+  },
+  {
+    "libro": "exo",
+    "capitulo": "30",
+    "versiculos": 38
+  },
+  {
+    "libro": "isa",
+    "capitulo": "16",
+    "versiculos": 14
+  },
+  {
+    "libro": "psa",
+    "capitulo": "31",
+    "versiculos": 24
+  },
+  {
+    "libro": "jos",
+    "capitulo": "20",
+    "versiculos": 9
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "18",
+    "versiculos": 30
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "28",
+    "versiculos": 21
+  },
+  {
+    "libro": "zec",
+    "capitulo": "11",
+    "versiculos": 17
+  },
+  {
+    "libro": "lev",
+    "capitulo": "11",
+    "versiculos": 47
+  },
+  {
+    "libro": "rom",
+    "capitulo": "3",
+    "versiculos": 31
+  },
+  {
+    "libro": "isa",
+    "capitulo": "41",
+    "versiculos": 29
+  },
+  {
+    "libro": "1co",
+    "capitulo": "3",
+    "versiculos": 23
+  },
+  {
+    "libro": "lev",
+    "capitulo": "10",
+    "versiculos": 20
+  },
+  {
+    "libro": "rom",
+    "capitulo": "2",
+    "versiculos": 29
+  },
+  {
+    "libro": "isa",
+    "capitulo": "40",
+    "versiculos": 31
+  },
+  {
+    "libro": "1co",
+    "capitulo": "2",
+    "versiculos": 16
+  },
+  {
+    "libro": "jos",
+    "capitulo": "21",
+    "versiculos": 45
+  },
+  {
+    "libro": "psa",
+    "capitulo": "30",
+    "versiculos": 12
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "19",
+    "versiculos": 24
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "29",
+    "versiculos": 30
+  },
+  {
+    "libro": "zec",
+    "capitulo": "10",
+    "versiculos": 12
+  },
+  {
+    "libro": "hos",
+    "capitulo": "11",
+    "versiculos": 12
+  },
+  {
+    "libro": "exo",
+    "capitulo": "31",
+    "versiculos": 18
+  },
+  {
+    "libro": "num",
+    "capitulo": "36",
+    "versiculos": 13
+  },
+  {
+    "libro": "col",
+    "capitulo": "4",
+    "versiculos": 18
+  },
+  {
+    "libro": "isa",
+    "capitulo": "17",
+    "versiculos": 14
+  },
+  {
+    "libro": "act",
+    "capitulo": "18",
+    "versiculos": 28
+  },
+  {
+    "libro": "psa",
+    "capitulo": "67",
+    "versiculos": 7
+  },
+  {
+    "libro": "psa",
+    "capitulo": "122",
+    "versiculos": 9
+  },
+  {
+    "libro": "pro",
+    "capitulo": "14",
+    "versiculos": 35
+  },
+  {
+    "libro": "dan",
+    "capitulo": "8",
+    "versiculos": 27
+  },
+  {
+    "libro": "psa",
+    "capitulo": "88",
+    "versiculos": 18
+  },
+  {
+    "libro": "exo",
+    "capitulo": "27",
+    "versiculos": 21
+  },
+  {
+    "libro": "hos",
+    "capitulo": "7",
+    "versiculos": 16
+  },
+  {
+    "libro": "isa",
+    "capitulo": "1",
+    "versiculos": 31
+  },
+  {
+    "libro": "num",
+    "capitulo": "20",
+    "versiculos": 29
+  },
+  {
+    "libro": "psa",
+    "capitulo": "71",
+    "versiculos": 24
+  },
+  {
+    "libro": "pro",
+    "capitulo": "2",
+    "versiculos": 22
+  },
+  {
+    "libro": "psa",
+    "capitulo": "134",
+    "versiculos": 3
+  },
+  {
+    "libro": "job",
+    "capitulo": "18",
+    "versiculos": 21
+  },
+  {
+    "libro": "rom",
+    "capitulo": "14",
+    "versiculos": 23
+  },
+  {
+    "libro": "lev",
+    "capitulo": "6",
+    "versiculos": 30
+  },
+  {
+    "libro": "1co",
+    "capitulo": "14",
+    "versiculos": 40
+  },
+  {
+    "libro": "isa",
+    "capitulo": "56",
+    "versiculos": 12
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "9",
+    "versiculos": 37
+  },
+  {
+    "libro": "gen",
+    "capitulo": "38",
+    "versiculos": 30
+  },
+  {
+    "libro": "psa",
+    "capitulo": "26",
+    "versiculos": 12
+  },
+  {
+    "libro": "sng",
+    "capitulo": "1",
+    "versiculos": 17
+  },
+  {
+    "libro": "mat",
+    "capitulo": "19",
+    "versiculos": 30
+  },
+  {
+    "libro": "est",
+    "capitulo": "5",
+    "versiculos": 14
+  },
+  {
+    "libro": "zec",
+    "capitulo": "6",
+    "versiculos": 15
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "37",
+    "versiculos": 28
+  },
+  {
+    "libro": "jer",
+    "capitulo": "47",
+    "versiculos": 7
+  },
+  {
+    "libro": "1pe",
+    "capitulo": "3",
+    "versiculos": 22
+  },
+  {
+    "libro": "psa",
+    "capitulo": "118",
+    "versiculos": 29
+  },
+  {
+    "libro": "mrk",
+    "capitulo": "3",
+    "versiculos": 35
+  },
+  {
+    "libro": "gen",
+    "capitulo": "43",
+    "versiculos": 34
+  },
+  {
+    "libro": "act",
+    "capitulo": "22",
+    "versiculos": 30
+  },
+  {
+    "libro": "jdg",
+    "capitulo": "1",
+    "versiculos": 36
+  },
+  {
+    "libro": "jer",
+    "capitulo": "10",
+    "versiculos": 25
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "30",
+    "versiculos": 27
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "25",
+    "versiculos": 30
+  },
+  {
+    "libro": "rev",
+    "capitulo": "6",
+    "versiculos": 17
+  },
+  {
+    "libro": "jhn",
+    "capitulo": "2",
+    "versiculos": 25
+  },
+  {
+    "libro": "luk",
+    "capitulo": "17",
+    "versiculos": 36
+  },
+  {
+    "libro": "3jn",
+    "capitulo": "1",
+    "versiculos": 15
+  },
+  {
+    "libro": "job",
+    "capitulo": "34",
+    "versiculos": 37
+  },
+  {
+    "libro": "deu",
+    "capitulo": "2",
+    "versiculos": 37
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "23",
+    "versiculos": 29
+  },
+  {
+    "libro": "gen",
+    "capitulo": "14",
+    "versiculos": 24
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "13",
+    "versiculos": 14
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "6",
+    "versiculos": 38
+  },
+  {
+    "libro": "jhn",
+    "capitulo": "14",
+    "versiculos": 31
+  },
+  {
+    "libro": "rev",
+    "capitulo": "10",
+    "versiculos": 11
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "16",
+    "versiculos": 23
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "26",
+    "versiculos": 23
+  },
+  {
+    "libro": "jer",
+    "capitulo": "6",
+    "versiculos": 30
+  },
+  {
+    "libro": "job",
+    "capitulo": "22",
+    "versiculos": 30
+  },
+  {
+    "libro": "luk",
+    "capitulo": "1",
+    "versiculos": 80
+  },
+  {
+    "libro": "deu",
+    "capitulo": "14",
+    "versiculos": 29
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "10",
+    "versiculos": 29
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "5",
+    "versiculos": 26
+  },
+  {
+    "libro": "gen",
+    "capitulo": "2",
+    "versiculos": 25
+  },
+  {
+    "libro": "2th",
+    "capitulo": "2",
+    "versiculos": 17
+  },
+  {
+    "libro": "mat",
+    "capitulo": "23",
+    "versiculos": 38
+  },
+  {
+    "libro": "2ti",
+    "capitulo": "2",
+    "versiculos": 26
+  },
+  {
+    "libro": "jer",
+    "capitulo": "51",
+    "versiculos": 64
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "21",
+    "versiculos": 32
+  },
+  {
+    "libro": "mrk",
+    "capitulo": "15",
+    "versiculos": 46
+  },
+  {
+    "libro": "jas",
+    "capitulo": "3",
+    "versiculos": 18
+  },
+  {
+    "libro": "jdg",
+    "capitulo": "17",
+    "versiculos": 13
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "25",
+    "versiculos": 31
+  },
+  {
+    "libro": "gen",
+    "capitulo": "22",
+    "versiculos": 24
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "15",
+    "versiculos": 35
+  },
+  {
+    "libro": "mat",
+    "capitulo": "3",
+    "versiculos": 17
+  },
+  {
+    "libro": "deu",
+    "capitulo": "34",
+    "versiculos": 12
+  },
+  {
+    "libro": "job",
+    "capitulo": "2",
+    "versiculos": 13
+  },
+  {
+    "libro": "luk",
+    "capitulo": "21",
+    "versiculos": 38
+  },
+  {
+    "libro": "jud",
+    "capitulo": "1",
+    "versiculos": 25
+  },
+  {
+    "libro": "1ti",
+    "capitulo": "1",
+    "versiculos": 20
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "13",
+    "versiculos": 25
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "6",
+    "versiculos": 42
+  },
+  {
+    "libro": "jer",
+    "capitulo": "26",
+    "versiculos": 24
+  },
+  {
+    "libro": "1th",
+    "capitulo": "1",
+    "versiculos": 10
+  },
+  {
+    "libro": "act",
+    "capitulo": "14",
+    "versiculos": 28
+  },
+  {
+    "libro": "psa",
+    "capitulo": "84",
+    "versiculos": 12
+  },
+  {
+    "libro": "dan",
+    "capitulo": "4",
+    "versiculos": 37
+  },
+  {
+    "libro": "pro",
+    "capitulo": "18",
+    "versiculos": 24
+  },
+  {
+    "libro": "eph",
+    "capitulo": "3",
+    "versiculos": 21
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "1",
+    "versiculos": 28
+  },
+  {
+    "libro": "act",
+    "capitulo": "2",
+    "versiculos": 47
+  },
+  {
+    "libro": "jdg",
+    "capitulo": "21",
+    "versiculos": 25
+  },
+  {
+    "libro": "psa",
+    "capitulo": "138",
+    "versiculos": 8
+  },
+  {
+    "libro": "dan",
+    "capitulo": "12",
+    "versiculos": 13
+  },
+  {
+    "libro": "psa",
+    "capitulo": "92",
+    "versiculos": 15
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "17",
+    "versiculos": 24
+  },
+  {
+    "libro": "mat",
+    "capitulo": "15",
+    "versiculos": 39
+  },
+  {
+    "libro": "est",
+    "capitulo": "9",
+    "versiculos": 32
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "3",
+    "versiculos": 21
+  },
+  {
+    "libro": "gen",
+    "capitulo": "34",
+    "versiculos": 31
+  },
+  {
+    "libro": "mic",
+    "capitulo": "4",
+    "versiculos": 13
+  },
+  {
+    "libro": "deu",
+    "capitulo": "22",
+    "versiculos": 30
+  },
+  {
+    "libro": "job",
+    "capitulo": "14",
+    "versiculos": 22
+  },
+  {
+    "libro": "jer",
+    "capitulo": "30",
+    "versiculos": 24
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "10",
+    "versiculos": 19
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "5",
+    "versiculos": 27
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "40",
+    "versiculos": 49
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "20",
+    "versiculos": 26
+  },
+  {
+    "libro": "pro",
+    "capitulo": "22",
+    "versiculos": 29
+  },
+  {
+    "libro": "psa",
+    "capitulo": "114",
+    "versiculos": 8
+  },
+  {
+    "libro": "ezr",
+    "capitulo": "7",
+    "versiculos": 28
+  },
+  {
+    "libro": "psa",
+    "capitulo": "51",
+    "versiculos": 19
+  },
+  {
+    "libro": "neh",
+    "capitulo": "1",
+    "versiculos": 11
+  },
+  {
+    "libro": "heb",
+    "capitulo": "3",
+    "versiculos": 19
+  },
+  {
+    "libro": "isa",
+    "capitulo": "21",
+    "versiculos": 17
+  },
+  {
+    "libro": "exo",
+    "capitulo": "7",
+    "versiculos": 25
+  },
+  {
+    "libro": "psa",
+    "capitulo": "143",
+    "versiculos": 12
+  },
+  {
+    "libro": "gen",
+    "capitulo": "18",
+    "versiculos": 33
+  },
+  {
+    "libro": "ecc",
+    "capitulo": "2",
+    "versiculos": 26
+  },
+  {
+    "libro": "psa",
+    "capitulo": "6",
+    "versiculos": 10
+  },
+  {
+    "libro": "jos",
+    "capitulo": "17",
+    "versiculos": 18
+  },
+  {
+    "libro": "job",
+    "capitulo": "38",
+    "versiculos": 41
+  },
+  {
+    "libro": "lev",
+    "capitulo": "26",
+    "versiculos": 46
+  },
+  {
+    "libro": "deu",
+    "capitulo": "18",
+    "versiculos": 22
+  },
+  {
+    "libro": "2co",
+    "capitulo": "1",
+    "versiculos": 24
+  },
+  {
+    "libro": "psa",
+    "capitulo": "10",
+    "versiculos": 18
+  },
+  {
+    "libro": "jos",
+    "capitulo": "1",
+    "versiculos": 18
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "9",
+    "versiculos": 44
+  },
+  {
+    "libro": "amo",
+    "capitulo": "3",
+    "versiculos": 15
+  },
+  {
+    "libro": "isa",
+    "capitulo": "60",
+    "versiculos": 22
+  },
+  {
+    "libro": "jhn",
+    "capitulo": "18",
+    "versiculos": 40
+  },
+  {
+    "libro": "psa",
+    "capitulo": "102",
+    "versiculos": 28
+  },
+  {
+    "libro": "psa",
+    "capitulo": "47",
+    "versiculos": 9
+  },
+  {
+    "libro": "num",
+    "capitulo": "16",
+    "versiculos": 50
+  },
+  {
+    "libro": "isa",
+    "capitulo": "37",
+    "versiculos": 38
+  },
+  {
+    "libro": "gal",
+    "capitulo": "2",
+    "versiculos": 21
+  },
+  {
+    "libro": "exo",
+    "capitulo": "11",
+    "versiculos": 10
+  },
+  {
+    "libro": "psa",
+    "capitulo": "109",
+    "versiculos": 31
+  },
+  {
+    "libro": "jas",
+    "capitulo": "4",
+    "versiculos": 17
+  },
+  {
+    "libro": "mrk",
+    "capitulo": "12",
+    "versiculos": 44
+  },
+  {
+    "libro": "jdg",
+    "capitulo": "10",
+    "versiculos": 18
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "26",
+    "versiculos": 21
+  },
+  {
+    "libro": "deu",
+    "capitulo": "13",
+    "versiculos": 18
+  },
+  {
+    "libro": "mat",
+    "capitulo": "24",
+    "versiculos": 51
+  },
+  {
+    "libro": "gen",
+    "capitulo": "5",
+    "versiculos": 32
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "17",
+    "versiculos": 24
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "2",
+    "versiculos": 55
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "21",
+    "versiculos": 20
+  },
+  {
+    "libro": "amo",
+    "capitulo": "8",
+    "versiculos": 14
+  },
+  {
+    "libro": "jer",
+    "capitulo": "1",
+    "versiculos": 19
+  },
+  {
+    "libro": "rev",
+    "capitulo": "17",
+    "versiculos": 18
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "11",
+    "versiculos": 27
+  },
+  {
+    "libro": "jhn",
+    "capitulo": "13",
+    "versiculos": 38
+  },
+  {
+    "libro": "luk",
+    "capitulo": "6",
+    "versiculos": 49
+  },
+  {
+    "libro": "job",
+    "capitulo": "25",
+    "versiculos": 6
+  },
+  {
+    "libro": "deu",
+    "capitulo": "5",
+    "versiculos": 33
+  },
+  {
+    "libro": "psa",
+    "capitulo": "148",
+    "versiculos": 14
+  },
+  {
+    "libro": "jon",
+    "capitulo": "2",
+    "versiculos": 10
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "14",
+    "versiculos": 17
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "1",
+    "versiculos": 53
+  },
+  {
+    "libro": "gen",
+    "capitulo": "13",
+    "versiculos": 18
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "24",
+    "versiculos": 22
+  },
+  {
+    "libro": "ecc",
+    "capitulo": "9",
+    "versiculos": 18
+  },
+  {
+    "libro": "jhn",
+    "capitulo": "5",
+    "versiculos": 46
+  },
+  {
+    "libro": "rev",
+    "capitulo": "1",
+    "versiculos": 20
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "7",
+    "versiculos": 29
+  },
+  {
+    "libro": "jer",
+    "capitulo": "17",
+    "versiculos": 27
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "22",
+    "versiculos": 20
+  },
+  {
+    "libro": "job",
+    "capitulo": "33",
+    "versiculos": 33
+  },
+  {
+    "libro": "luk",
+    "capitulo": "10",
+    "versiculos": 42
+  },
+  {
+    "libro": "mrk",
+    "capitulo": "4",
+    "versiculos": 41
+  },
+  {
+    "libro": "pro",
+    "capitulo": "29",
+    "versiculos": 27
+  },
+  {
+    "libro": "jdg",
+    "capitulo": "6",
+    "versiculos": 40
+  },
+  {
+    "libro": "gen",
+    "capitulo": "44",
+    "versiculos": 34
+  },
+  {
+    "libro": "act",
+    "capitulo": "25",
+    "versiculos": 27
+  },
+  {
+    "libro": "heb",
+    "capitulo": "8",
+    "versiculos": 13
+  },
+  {
+    "libro": "jer",
+    "capitulo": "40",
+    "versiculos": 16
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "30",
+    "versiculos": 26
+  },
+  {
+    "libro": "1pe",
+    "capitulo": "4",
+    "versiculos": 19
+  },
+  {
+    "libro": "psa",
+    "capitulo": "21",
+    "versiculos": 13
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "8",
+    "versiculos": 22
+  },
+  {
+    "libro": "nam",
+    "capitulo": "1",
+    "versiculos": 15
+  },
+  {
+    "libro": "est",
+    "capitulo": "2",
+    "versiculos": 23
+  },
+  {
+    "libro": "sng",
+    "capitulo": "6",
+    "versiculos": 13
+  },
+  {
+    "libro": "zec",
+    "capitulo": "1",
+    "versiculos": 21
+  },
+  {
+    "libro": "deu",
+    "capitulo": "29",
+    "versiculos": 29
+  },
+  {
+    "libro": "lev",
+    "capitulo": "1",
+    "versiculos": 17
+  },
+  {
+    "libro": "rom",
+    "capitulo": "13",
+    "versiculos": 14
+  },
+  {
+    "libro": "isa",
+    "capitulo": "51",
+    "versiculos": 23
+  },
+  {
+    "libro": "1co",
+    "capitulo": "13",
+    "versiculos": 13
+  },
+  {
+    "libro": "act",
+    "capitulo": "9",
+    "versiculos": 43
+  },
+  {
+    "libro": "psa",
+    "capitulo": "76",
+    "versiculos": 12
+  },
+  {
+    "libro": "psa",
+    "capitulo": "99",
+    "versiculos": 9
+  },
+  {
+    "libro": "psa",
+    "capitulo": "133",
+    "versiculos": 3
+  },
+  {
+    "libro": "pro",
+    "capitulo": "5",
+    "versiculos": 23
+  },
+  {
+    "libro": "exo",
+    "capitulo": "20",
+    "versiculos": 26
+  },
+  {
+    "libro": "isa",
+    "capitulo": "6",
+    "versiculos": 13
+  },
+  {
+    "libro": "num",
+    "capitulo": "27",
+    "versiculos": 23
+  },
+  {
+    "libro": "psa",
+    "capitulo": "60",
+    "versiculos": 12
+  },
+  {
+    "libro": "pro",
+    "capitulo": "13",
+    "versiculos": 25
+  },
+  {
+    "libro": "psa",
+    "capitulo": "125",
+    "versiculos": 5
+  },
+  {
+    "libro": "exo",
+    "capitulo": "36",
+    "versiculos": 38
+  },
+  {
+    "libro": "num",
+    "capitulo": "31",
+    "versiculos": 54
+  },
+  {
+    "libro": "isa",
+    "capitulo": "10",
+    "versiculos": 34
+  },
+  {
+    "libro": "col",
+    "capitulo": "3",
+    "versiculos": 25
+  },
+  {
+    "libro": "gen",
+    "capitulo": "29",
+    "versiculos": 35
+  },
+  {
+    "libro": "mat",
+    "capitulo": "8",
+    "versiculos": 34
+  },
+  {
+    "libro": "psa",
+    "capitulo": "37",
+    "versiculos": 40
+  },
+  {
+    "libro": "rom",
+    "capitulo": "5",
+    "versiculos": 21
+  },
+  {
+    "libro": "job",
+    "capitulo": "9",
+    "versiculos": 35
+  },
+  {
+    "libro": "lev",
+    "capitulo": "17",
+    "versiculos": 16
+  },
+  {
+    "libro": "1co",
+    "capitulo": "5",
+    "versiculos": 13
+  },
+  {
+    "libro": "isa",
+    "capitulo": "47",
+    "versiculos": 15
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "18",
+    "versiculos": 37
+  },
+  {
+    "libro": "heb",
+    "capitulo": "12",
+    "versiculos": 29
+  },
+  {
+    "libro": "gal",
+    "capitulo": "5",
+    "versiculos": 26
+  },
+  {
+    "libro": "num",
+    "capitulo": "11",
+    "versiculos": 35
+  },
+  {
+    "libro": "isa",
+    "capitulo": "30",
+    "versiculos": 33
+  },
+  {
+    "libro": "exo",
+    "capitulo": "16",
+    "versiculos": 36
+  },
+  {
+    "libro": "psa",
+    "capitulo": "105",
+    "versiculos": 45
+  },
+  {
+    "libro": "psa",
+    "capitulo": "40",
+    "versiculos": 17
+  },
+  {
+    "libro": "neh",
+    "capitulo": "10",
+    "versiculos": 39
+  },
+  {
+    "libro": "amo",
+    "capitulo": "4",
+    "versiculos": 13
+  },
+  {
+    "libro": "job",
+    "capitulo": "29",
+    "versiculos": 25
+  },
+  {
+    "libro": "gen",
+    "capitulo": "9",
+    "versiculos": 29
+  },
+  {
+    "libro": "mat",
+    "capitulo": "28",
+    "versiculos": 20
+  },
+  {
+    "libro": "2co",
+    "capitulo": "6",
+    "versiculos": 18
+  },
+  {
+    "libro": "jos",
+    "capitulo": "6",
+    "versiculos": 27
+  },
+  {
+    "libro": "psa",
+    "capitulo": "17",
+    "versiculos": 15
+  },
+  {
+    "libro": "mal",
+    "capitulo": "2",
+    "versiculos": 17
+  },
+  {
+    "libro": "jhn",
+    "capitulo": "9",
+    "versiculos": 41
+  },
+  {
+    "libro": "oba",
+    "capitulo": "1",
+    "versiculos": 21
+  },
+  {
+    "libro": "lev",
+    "capitulo": "21",
+    "versiculos": 24
+  },
+  {
+    "libro": "psa",
+    "capitulo": "144",
+    "versiculos": 15
+  },
+  {
+    "libro": "deu",
+    "capitulo": "9",
+    "versiculos": 29
+  },
+  {
+    "libro": "hab",
+    "capitulo": "1",
+    "versiculos": 17
+  },
+  {
+    "libro": "ecc",
+    "capitulo": "5",
+    "versiculos": 20
+  },
+  {
+    "libro": "jos",
+    "capitulo": "10",
+    "versiculos": 43
+  },
+  {
+    "libro": "psa",
+    "capitulo": "1",
+    "versiculos": 6
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "28",
+    "versiculos": 25
+  },
+  {
+    "libro": "2co",
+    "capitulo": "10",
+    "versiculos": 18
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "18",
+    "versiculos": 17
+  },
+  {
+    "libro": "isa",
+    "capitulo": "26",
+    "versiculos": 21
+  },
+  {
+    "libro": "num",
+    "capitulo": "7",
+    "versiculos": 89
+  },
+  {
+    "libro": "heb",
+    "capitulo": "4",
+    "versiculos": 16
+  },
+  {
+    "libro": "psa",
+    "capitulo": "113",
+    "versiculos": 9
+  },
+  {
+    "libro": "pro",
+    "capitulo": "25",
+    "versiculos": 28
+  },
+  {
+    "libro": "mrk",
+    "capitulo": "8",
+    "versiculos": 38
+  },
+  {
+    "libro": "neh",
+    "capitulo": "6",
+    "versiculos": 19
+  },
+  {
+    "libro": "gen",
+    "capitulo": "48",
+    "versiculos": 22
+  },
+  {
+    "libro": "psa",
+    "capitulo": "56",
+    "versiculos": 13
+  },
+  {
+    "libro": "job",
+    "capitulo": "13",
+    "versiculos": 28
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "47",
+    "versiculos": 23
+  },
+  {
+    "libro": "rev",
+    "capitulo": "21",
+    "versiculos": 27
+  },
+  {
+    "libro": "jer",
+    "capitulo": "37",
+    "versiculos": 21
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "17",
+    "versiculos": 19
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "2",
+    "versiculos": 25
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "21",
+    "versiculos": 29
+  },
+  {
+    "libro": "gen",
+    "capitulo": "33",
+    "versiculos": 20
+  },
+  {
+    "libro": "mat",
+    "capitulo": "12",
+    "versiculos": 50
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "4",
+    "versiculos": 22
+  },
+  {
+    "libro": "deu",
+    "capitulo": "25",
+    "versiculos": 19
+  },
+  {
+    "libro": "mic",
+    "capitulo": "3",
+    "versiculos": 12
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "10",
+    "versiculos": 22
+  },
+  {
+    "libro": "act",
+    "capitulo": "5",
+    "versiculos": 42
+  },
+  {
+    "libro": "pro",
+    "capitulo": "9",
+    "versiculos": 18
+  },
+  {
+    "libro": "psa",
+    "capitulo": "95",
+    "versiculos": 11
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "6",
+    "versiculos": 14
+  },
+  {
+    "libro": "act",
+    "capitulo": "13",
+    "versiculos": 52
+  },
+  {
+    "libro": "dan",
+    "capitulo": "3",
+    "versiculos": 30
+  },
+  {
+    "libro": "psa",
+    "capitulo": "83",
+    "versiculos": 18
+  },
+  {
+    "libro": "psa",
+    "capitulo": "129",
+    "versiculos": 8
+  },
+  {
+    "libro": "eph",
+    "capitulo": "4",
+    "versiculos": 32
+  },
+  {
+    "libro": "job",
+    "capitulo": "5",
+    "versiculos": 27
+  },
+  {
+    "libro": "rom",
+    "capitulo": "9",
+    "versiculos": 33
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "14",
+    "versiculos": 29
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "1",
+    "versiculos": 17
+  },
+  {
+    "libro": "jer",
+    "capitulo": "21",
+    "versiculos": 14
+  },
+  {
+    "libro": "1co",
+    "capitulo": "9",
+    "versiculos": 27
+  },
+  {
+    "libro": "1ti",
+    "capitulo": "6",
+    "versiculos": 21
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "12",
+    "versiculos": 25
+  },
+  {
+    "libro": "mat",
+    "capitulo": "4",
+    "versiculos": 25
+  },
+  {
+    "libro": "gen",
+    "capitulo": "25",
+    "versiculos": 34
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "22",
+    "versiculos": 19
+  },
+  {
+    "libro": "deu",
+    "capitulo": "33",
+    "versiculos": 29
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "13",
+    "versiculos": 23
+  },
+  {
+    "libro": "mat",
+    "capitulo": "5",
+    "versiculos": 48
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "23",
+    "versiculos": 32
+  },
+  {
+    "libro": "gen",
+    "capitulo": "24",
+    "versiculos": 67
+  },
+  {
+    "libro": "deu",
+    "capitulo": "32",
+    "versiculos": 52
+  },
+  {
+    "libro": "job",
+    "capitulo": "4",
+    "versiculos": 21
+  },
+  {
+    "libro": "rom",
+    "capitulo": "8",
+    "versiculos": 39
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "15",
+    "versiculos": 38
+  },
+  {
+    "libro": "jer",
+    "capitulo": "20",
+    "versiculos": 18
+  },
+  {
+    "libro": "1co",
+    "capitulo": "8",
+    "versiculos": 13
+  },
+  {
+    "libro": "act",
+    "capitulo": "12",
+    "versiculos": 25
+  },
+  {
+    "libro": "1jn",
+    "capitulo": "1",
+    "versiculos": 10
+  },
+  {
+    "libro": "psa",
+    "capitulo": "82",
+    "versiculos": 8
+  },
+  {
+    "libro": "dan",
+    "capitulo": "2",
+    "versiculos": 49
+  },
+  {
+    "libro": "psa",
+    "capitulo": "128",
+    "versiculos": 6
+  },
+  {
+    "libro": "eph",
+    "capitulo": "5",
+    "versiculos": 33
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "7",
+    "versiculos": 27
+  },
+  {
+    "libro": "act",
+    "capitulo": "4",
+    "versiculos": 37
+  },
+  {
+    "libro": "pro",
+    "capitulo": "8",
+    "versiculos": 36
+  },
+  {
+    "libro": "psa",
+    "capitulo": "94",
+    "versiculos": 23
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "11",
+    "versiculos": 25
+  },
+  {
+    "libro": "gen",
+    "capitulo": "32",
+    "versiculos": 32
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "20",
+    "versiculos": 43
+  },
+  {
+    "libro": "mat",
+    "capitulo": "13",
+    "versiculos": 58
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "5",
+    "versiculos": 12
+  },
+  {
+    "libro": "deu",
+    "capitulo": "24",
+    "versiculos": 22
+  },
+  {
+    "libro": "mic",
+    "capitulo": "2",
+    "versiculos": 13
+  },
+  {
+    "libro": "job",
+    "capitulo": "12",
+    "versiculos": 25
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "46",
+    "versiculos": 24
+  },
+  {
+    "libro": "rev",
+    "capitulo": "20",
+    "versiculos": 15
+  },
+  {
+    "libro": "jer",
+    "capitulo": "36",
+    "versiculos": 32
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "16",
+    "versiculos": 14
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "3",
+    "versiculos": 27
+  },
+  {
+    "libro": "psa",
+    "capitulo": "112",
+    "versiculos": 10
+  },
+  {
+    "libro": "pro",
+    "capitulo": "24",
+    "versiculos": 34
+  },
+  {
+    "libro": "mrk",
+    "capitulo": "9",
+    "versiculos": 48
+  },
+  {
+    "libro": "neh",
+    "capitulo": "7",
+    "versiculos": 7
+  },
+  {
+    "libro": "act",
+    "capitulo": "28",
+    "versiculos": 30
+  },
+  {
+    "libro": "gen",
+    "capitulo": "49",
+    "versiculos": 33
+  },
+  {
+    "libro": "ezr",
+    "capitulo": "1",
+    "versiculos": 9
+  },
+  {
+    "libro": "psa",
+    "capitulo": "57",
+    "versiculos": 11
+  },
+  {
+    "libro": "isa",
+    "capitulo": "27",
+    "versiculos": 13
+  },
+  {
+    "libro": "num",
+    "capitulo": "6",
+    "versiculos": 27
+  },
+  {
+    "libro": "heb",
+    "capitulo": "5",
+    "versiculos": 14
+  },
+  {
+    "libro": "exo",
+    "capitulo": "1",
+    "versiculos": 22
+  },
+  {
+    "libro": "deu",
+    "capitulo": "8",
+    "versiculos": 20
+  },
+  {
+    "libro": "psa",
+    "capitulo": "145",
+    "versiculos": 21
+  },
+  {
+    "libro": "ecc",
+    "capitulo": "4",
+    "versiculos": 16
+  },
+  {
+    "libro": "jos",
+    "capitulo": "11",
+    "versiculos": 23
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "29",
+    "versiculos": 11
+  },
+  {
+    "libro": "2co",
+    "capitulo": "11",
+    "versiculos": 33
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "19",
+    "versiculos": 19
+  },
+  {
+    "libro": "mal",
+    "capitulo": "3",
+    "versiculos": 18
+  },
+  {
+    "libro": "jhn",
+    "capitulo": "8",
+    "versiculos": 59
+  },
+  {
+    "libro": "lev",
+    "capitulo": "20",
+    "versiculos": 27
+  },
+  {
+    "libro": "gen",
+    "capitulo": "8",
+    "versiculos": 22
+  },
+  {
+    "libro": "2co",
+    "capitulo": "7",
+    "versiculos": 16
+  },
+  {
+    "libro": "psa",
+    "capitulo": "16",
+    "versiculos": 11
+  },
+  {
+    "libro": "jos",
+    "capitulo": "7",
+    "versiculos": 26
+  },
+  {
+    "libro": "ecc",
+    "capitulo": "12",
+    "versiculos": 14
+  },
+  {
+    "libro": "isa",
+    "capitulo": "66",
+    "versiculos": 24
+  },
+  {
+    "libro": "amo",
+    "capitulo": "5",
+    "versiculos": 27
+  },
+  {
+    "libro": "job",
+    "capitulo": "28",
+    "versiculos": 28
+  },
+  {
+    "libro": "exo",
+    "capitulo": "40",
+    "versiculos": 38
+  },
+  {
+    "libro": "psa",
+    "capitulo": "104",
+    "versiculos": 35
+  },
+  {
+    "libro": "psa",
+    "capitulo": "41",
+    "versiculos": 13
+  },
+  {
+    "libro": "neh",
+    "capitulo": "11",
+    "versiculos": 36
+  },
+  {
+    "libro": "heb",
+    "capitulo": "13",
+    "versiculos": 25
+  },
+  {
+    "libro": "gal",
+    "capitulo": "4",
+    "versiculos": 31
+  },
+  {
+    "libro": "num",
+    "capitulo": "10",
+    "versiculos": 36
+  },
+  {
+    "libro": "isa",
+    "capitulo": "31",
+    "versiculos": 9
+  },
+  {
+    "libro": "exo",
+    "capitulo": "17",
+    "versiculos": 16
+  },
+  {
+    "libro": "rom",
+    "capitulo": "4",
+    "versiculos": 25
+  },
+  {
+    "libro": "job",
+    "capitulo": "8",
+    "versiculos": 22
+  },
+  {
+    "libro": "lev",
+    "capitulo": "16",
+    "versiculos": 34
+  },
+  {
+    "libro": "1co",
+    "capitulo": "4",
+    "versiculos": 21
+  },
+  {
+    "libro": "isa",
+    "capitulo": "46",
+    "versiculos": 13
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "19",
+    "versiculos": 37
+  },
+  {
+    "libro": "gen",
+    "capitulo": "28",
+    "versiculos": 22
+  },
+  {
+    "libro": "mat",
+    "capitulo": "9",
+    "versiculos": 38
+  },
+  {
+    "libro": "psa",
+    "capitulo": "36",
+    "versiculos": 12
+  },
+  {
+    "libro": "exo",
+    "capitulo": "37",
+    "versiculos": 29
+  },
+  {
+    "libro": "num",
+    "capitulo": "30",
+    "versiculos": 16
+  },
+  {
+    "libro": "isa",
+    "capitulo": "11",
+    "versiculos": 16
+  },
+  {
+    "libro": "col",
+    "capitulo": "2",
+    "versiculos": 23
+  },
+  {
+    "libro": "psa",
+    "capitulo": "61",
+    "versiculos": 8
+  },
+  {
+    "libro": "pro",
+    "capitulo": "12",
+    "versiculos": 28
+  },
+  {
+    "libro": "psa",
+    "capitulo": "124",
+    "versiculos": 8
+  },
+  {
+    "libro": "hos",
+    "capitulo": "1",
+    "versiculos": 11
+  },
+  {
+    "libro": "exo",
+    "capitulo": "21",
+    "versiculos": 36
+  },
+  {
+    "libro": "isa",
+    "capitulo": "7",
+    "versiculos": 25
+  },
+  {
+    "libro": "num",
+    "capitulo": "26",
+    "versiculos": 65
+  },
+  {
+    "libro": "act",
+    "capitulo": "8",
+    "versiculos": 39
+  },
+  {
+    "libro": "psa",
+    "capitulo": "77",
+    "versiculos": 20
+  },
+  {
+    "libro": "psa",
+    "capitulo": "98",
+    "versiculos": 9
+  },
+  {
+    "libro": "psa",
+    "capitulo": "132",
+    "versiculos": 18
+  },
+  {
+    "libro": "pro",
+    "capitulo": "4",
+    "versiculos": 27
+  },
+  {
+    "libro": "rom",
+    "capitulo": "12",
+    "versiculos": 21
+  },
+  {
+    "libro": "hag",
+    "capitulo": "2",
+    "versiculos": 23
+  },
+  {
+    "libro": "isa",
+    "capitulo": "50",
+    "versiculos": 11
+  },
+  {
+    "libro": "1co",
+    "capitulo": "12",
+    "versiculos": 31
+  },
+  {
+    "libro": "psa",
+    "capitulo": "20",
+    "versiculos": 9
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "9",
+    "versiculos": 27
+  },
+  {
+    "libro": "sng",
+    "capitulo": "7",
+    "versiculos": 13
+  },
+  {
+    "libro": "est",
+    "capitulo": "3",
+    "versiculos": 15
+  },
+  {
+    "libro": "deu",
+    "capitulo": "28",
+    "versiculos": 68
+  },
+  {
+    "libro": "tit",
+    "capitulo": "1",
+    "versiculos": 16
+  },
+  {
+    "libro": "heb",
+    "capitulo": "9",
+    "versiculos": 28
+  },
+  {
+    "libro": "jer",
+    "capitulo": "41",
+    "versiculos": 18
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "31",
+    "versiculos": 18
+  },
+  {
+    "libro": "1pe",
+    "capitulo": "5",
+    "versiculos": 14
+  },
+  {
+    "libro": "mrk",
+    "capitulo": "5",
+    "versiculos": 43
+  },
+  {
+    "libro": "pro",
+    "capitulo": "28",
+    "versiculos": 28
+  },
+  {
+    "libro": "jdg",
+    "capitulo": "7",
+    "versiculos": 25
+  },
+  {
+    "libro": "gen",
+    "capitulo": "45",
+    "versiculos": 28
+  },
+  {
+    "libro": "act",
+    "capitulo": "24",
+    "versiculos": 26
+  },
+  {
+    "libro": "jhn",
+    "capitulo": "4",
+    "versiculos": 54
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "6",
+    "versiculos": 23
+  },
+  {
+    "libro": "jer",
+    "capitulo": "16",
+    "versiculos": 21
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "36",
+    "versiculos": 23
+  },
+  {
+    "libro": "2ki",
+    "capitulo": "23",
+    "versiculos": 37
+  },
+  {
+    "libro": "job",
+    "capitulo": "32",
+    "versiculos": 22
+  },
+  {
+    "libro": "luk",
+    "capitulo": "11",
+    "versiculos": 54
+  },
+  {
+    "libro": "psa",
+    "capitulo": "149",
+    "versiculos": 9
+  },
+  {
+    "libro": "deu",
+    "capitulo": "4",
+    "versiculos": 49
+  },
+  {
+    "libro": "jon",
+    "capitulo": "3",
+    "versiculos": 10
+  },
+  {
+    "libro": "gen",
+    "capitulo": "12",
+    "versiculos": 20
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "15",
+    "versiculos": 29
+  },
+  {
+    "libro": "1sa",
+    "capitulo": "25",
+    "versiculos": 44
+  },
+  {
+    "libro": "ecc",
+    "capitulo": "8",
+    "versiculos": 17
+  },
+  {
+    "libro": "2ch",
+    "capitulo": "20",
+    "versiculos": 37
+  },
+  {
+    "libro": "amo",
+    "capitulo": "9",
+    "versiculos": 15
+  },
+  {
+    "libro": "rev",
+    "capitulo": "16",
+    "versiculos": 21
+  },
+  {
+    "libro": "2sa",
+    "capitulo": "10",
+    "versiculos": 19
+  },
+  {
+    "libro": "jhn",
+    "capitulo": "12",
+    "versiculos": 50
+  },
+  {
+    "libro": "luk",
+    "capitulo": "7",
+    "versiculos": 50
+  },
+  {
+    "libro": "job",
+    "capitulo": "24",
+    "versiculos": 25
+  },
+  {
+    "libro": "deu",
+    "capitulo": "12",
+    "versiculos": 32
+  },
+  {
+    "libro": "2ti",
+    "capitulo": "4",
+    "versiculos": 22
+  },
+  {
+    "libro": "mat",
+    "capitulo": "25",
+    "versiculos": 46
+  },
+  {
+    "libro": "1ki",
+    "capitulo": "16",
+    "versiculos": 34
+  },
+  {
+    "libro": "1ch",
+    "capitulo": "3",
+    "versiculos": 24
+  },
+  {
+    "libro": "gen",
+    "capitulo": "4",
+    "versiculos": 26
+  },
+  {
+    "libro": "ezk",
+    "capitulo": "27",
+    "versiculos": 36
+  },
+  {
+    "libro": "php",
+    "capitulo": "1",
+    "versiculos": 30
+  },
+  {
+    "libro": "psa",
+    "capitulo": "108",
+    "versiculos": 13
+  },
+  {
+    "libro": "mrk",
+    "capitulo": "13",
+    "versiculos": 37
+  },
+  {
+    "libro": "jas",
+    "capitulo": "5",
+    "versiculos": 20
+  },
+  {
+    "libro": "jdg",
+    "capitulo": "11",
+    "versiculos": 40
+  }
+]
