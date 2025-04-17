@@ -1,1 +1,197 @@
-{"book":"LUK","rev":"PDT","chapter":"3","verses":[{"verse":"1","text":"El emperador Tiberio llevaba 15 a&#241;os gobernando, cuando Poncio Pilato gobernaba en Judea, Herodes gobernaba en Galilea, su hermano Felipe gobernaba en la regi&#243;n de Iturea y Traconite  y Lisanias gobernaba en Abilene. \n","readableText":"El emperador Tiberio llevaba 15 años gobernando, cuando Poncio Pilato gobernaba\nen Judea, Herodes gobernaba en Galilea, su hermano Felipe gobernaba en la\nregión de Iturea y Traconite y Lisanias gobernaba en Abilene.\n\n"},{"verse":"2","text":"An&#225;s y Caif&#225;s eran los sumos sacerdotes. En ese tiempo, Dios le habl&#243; en el desierto a Juan, el hijo de Zacar&#237;as. \n","readableText":"Anás y Caifás eran los sumos sacerdotes. En ese tiempo, Dios le habló en el\ndesierto a Juan, el hijo de Zacarías.\n\n"},{"verse":"3","text":"Juan iba por toda la regi&#243;n del r&#237;o Jord&#225;n, anunci&#225;ndoles a todos que cambiaran su manera de pensar y de vivir, y que se bautizaran para que Dios les perdonara sus pecados. \n","readableText":"Juan iba por toda la región del río Jordán, anunciándoles a todos que cambiaran\nsu manera de pensar y de vivir, y que se bautizaran para que Dios les perdonara\nsus pecados.\n\n"},{"verse":"4","text":"Esto estaba de acuerdo con lo que hab&#237;a escrito el profeta Isa&#237;as: &#171;Alguien grita en el desierto: &#8220;&#161;Preparen el camino para el Se&#241;or; h&#225;ganle caminos derechos!   \n","readableText":"Esto estaba de acuerdo con lo que había escrito el profeta Isaías: «Alguien\ngrita en el desierto: “¡Preparen el camino para el Señor; háganle caminos\nderechos!\n\n"},{"verse":"5","text":"Todo valle ser&#225; llenado, toda monta&#241;a y colina ser&#225; allanada. Las sendas torcidas ser&#225;n enderezadas, y los caminos escabrosos ser&#225;n alisados.   \n","readableText":"Todo valle será llenado, toda montaña y colina será allanada. Las sendas\ntorcidas serán enderezadas, y los caminos escabrosos serán alisados.\n\n"},{"verse":"6","text":"  \n","readableText":"\n\n"}]}
+{
+  "book": "LUK",
+  "rev": "PDT",
+  "chapter": "3",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "3 El emperador Tiberio llevaba 15 años gobernando, cuando Poncio Pilato gobernaba en Judea, Herodes gobernaba en Galilea, su hermano Felipe gobernaba en la región de Iturea y Traconite y Lisanias gobernaba en Abilene.",
+      "readableText": "3 El emperador Tiberio llevaba 15 años gobernando, cuando Poncio Pilato gobernaba en Judea, Herodes gobernaba en Galilea, su hermano Felipe gobernaba en la región de Iturea y Traconite y Lisanias gobernaba en Abilene."
+    },
+    {
+      "verse": "2",
+      "text": "Anás y Caifás eran los sumos sacerdotes. En ese tiempo, Dios le habló en el desierto a Juan, el hijo de Zacarías.",
+      "readableText": "Anás y Caifás eran los sumos sacerdotes. En ese tiempo, Dios le habló en el desierto a Juan, el hijo de Zacarías."
+    },
+    {
+      "verse": "3",
+      "text": "Juan iba por toda la región del río Jordán, anunciándoles a todos que cambiaran su manera de pensar y de vivir, y que se bautizaran para que Dios les perdonara sus pecados.",
+      "readableText": "Juan iba por toda la región del río Jordán, anunciándoles a todos que cambiaran su manera de pensar y de vivir, y que se bautizaran para que Dios les perdonara sus pecados."
+    },
+    {
+      "verse": "4",
+      "text": "Esto estaba de acuerdo con lo que había escrito el profeta Isaías:«Alguien grita en el desierto:\n“¡Preparen el camino para el Señor;\n    háganle caminos derechos!",
+      "readableText": "Esto estaba de acuerdo con lo que había escrito el profeta Isaías:«Alguien grita en el desierto: “¡Preparen el camino para el Señor; háganle caminos derechos!"
+    },
+    {
+      "verse": "5",
+      "text": "Todo valle será llenado,\n    toda montaña y colina será allanada.\nLas sendas torcidas serán enderezadas,\n    y los caminos escabrosos serán alisados.",
+      "readableText": "Todo valle será llenado, toda montaña y colina será allanada. Las sendas torcidas serán enderezadas, y los caminos escabrosos serán alisados."
+    },
+    {
+      "verse": "6",
+      "text": "Todo el mundo verá la salvación que viene de Dios”».",
+      "readableText": "Todo el mundo verá la salvación que viene de Dios”»."
+    },
+    {
+      "verse": "7",
+      "text": "Cuando la multitud venía para que Juan los bautizara, él les decía: «¡Partida de víboras! ¿Quién les advirtió que escaparan de la ira de Dios que está por venir?",
+      "readableText": "Cuando la multitud venía para que Juan los bautizara, él les decía: «¡Partida de víboras! ¿Quién les advirtió que escaparan de la ira de Dios que está por venir?"
+    },
+    {
+      "verse": "8",
+      "text": "Vivan de tal manera que demuestre que realmente han cambiado. Y no me vengan con que “Abraham es nuestro antepasado”, porque les aseguro que Dios puede convertir hasta estas piedras en descendientes de Abraham.",
+      "readableText": "Vivan de tal manera que demuestre que realmente han cambiado. Y no me vengan con que “Abraham es nuestro antepasado”, porque les aseguro que Dios puede convertir hasta estas piedras en descendientes de Abraham."
+    },
+    {
+      "verse": "9",
+      "text": "Y ya también el hacha está lista para cortar los árboles de raíz. Por tanto, todo árbol que no produzca buenos frutos será cortado y echado al fuego para que se queme».",
+      "readableText": "Y ya también el hacha está lista para cortar los árboles de raíz. Por tanto, todo árbol que no produzca buenos frutos será cortado y echado al fuego para que se queme»."
+    },
+    {
+      "verse": "10",
+      "text": "La multitud le preguntó:—¿Entonces qué debemos hacer?",
+      "readableText": "La multitud le preguntó:—¿Entonces qué debemos hacer?"
+    },
+    {
+      "verse": "11",
+      "text": "Juan les contestó:—El que tenga dos mantos que le dé uno al que no tiene y el que tenga comida que la comparta.",
+      "readableText": "Juan les contestó:—El que tenga dos mantos que le dé uno al que no tiene y el que tenga comida que la comparta."
+    },
+    {
+      "verse": "12",
+      "text": "Algunos cobradores de impuestos vinieron también a bautizarse y le dijeron a Juan:—¿Maestro, qué debemos hacer?",
+      "readableText": "Algunos cobradores de impuestos vinieron también a bautizarse y le dijeron a Juan:—¿Maestro, qué debemos hacer?"
+    },
+    {
+      "verse": "13",
+      "text": "Él les dijo:—No cobren más de lo debido.",
+      "readableText": "Él les dijo:—No cobren más de lo debido."
+    },
+    {
+      "verse": "14",
+      "text": "Algunos soldados también le preguntaron:—¿Y qué debemos hacer nosotros?Él les dijo:—No estafen ni chantajeen a nadie y confórmense con su salario.",
+      "readableText": "Algunos soldados también le preguntaron:—¿Y qué debemos hacer nosotros?Él les dijo:—No estafen ni chantajeen a nadie y confórmense con su salario."
+    },
+    {
+      "verse": "15",
+      "text": "La gente estaba a la expectativa y se preguntaba: «¿Será posible que Juan sea el Mesías?»",
+      "readableText": "La gente estaba a la expectativa y se preguntaba: «¿Será posible que Juan sea el Mesías?»"
+    },
+    {
+      "verse": "16",
+      "text": "Juan les respondió a todos: «Los bautizo con agua, pero el que viene después de mí es más poderoso que yo. Ni siquiera soy digno de desatar las correas de sus sandalias. Él los bautizará con el Espíritu Santo y con fuego.",
+      "readableText": "Juan les respondió a todos: «Los bautizo con agua, pero el que viene después de mí es más poderoso que yo. Ni siquiera soy digno de desatar las correas de sus sandalias. Él los bautizará con el Espíritu Santo y con fuego."
+    },
+    {
+      "verse": "17",
+      "text": "Vendrá preparado para separar el trigo de la paja. Guardará el trigo bueno en el granero y quemará la paja en un fuego que nunca se apagará».",
+      "readableText": "Vendrá preparado para separar el trigo de la paja. Guardará el trigo bueno en el granero y quemará la paja en un fuego que nunca se apagará»."
+    },
+    {
+      "verse": "18",
+      "text": "Juan seguía anunciando las buenas noticias y animaba a la gente a cambiar.",
+      "readableText": "Juan seguía anunciando las buenas noticias y animaba a la gente a cambiar."
+    },
+    {
+      "verse": "19",
+      "text": "Tiempo después Juan criticó a Herodes, el gobernador, por vivir con Herodías, la esposa de su hermano, y también por otras maldades que había cometido.",
+      "readableText": "Tiempo después Juan criticó a Herodes, el gobernador, por vivir con Herodías, la esposa de su hermano, y también por otras maldades que había cometido."
+    },
+    {
+      "verse": "20",
+      "text": "Y a esas maldades, Herodes añadió una más: metió a Juan en la cárcel. (Mt 3:13-17; Mr 1:9-11)",
+      "readableText": "Y a esas maldades, Herodes añadió una más: metió a Juan en la cárcel. (Mt 3:13-17; Mr 1:9-11)"
+    },
+    {
+      "verse": "21",
+      "text": "Toda la gente se estaba bautizando, y Jesús también fue bautizado. Mientras estaba orando, el cielo se abrió",
+      "readableText": "Toda la gente se estaba bautizando, y Jesús también fue bautizado. Mientras estaba orando, el cielo se abrió"
+    },
+    {
+      "verse": "22",
+      "text": "y el Espíritu Santo bajó en forma de paloma. Entonces vino una voz del cielo que decía: «Tú eres mi hijo amado. Estoy muy contento contigo». (Mt 1:1-17)",
+      "readableText": "y el Espíritu Santo bajó en forma de paloma. Entonces vino una voz del cielo que decía: «Tú eres mi hijo amado. Estoy muy contento contigo». (Mt 1:1-17)"
+    },
+    {
+      "verse": "23",
+      "text": "Jesús tenía unos 30 años cuando comenzó a enseñar. La gente creía que él era hijo de José, yJosé era hijo de Elí.",
+      "readableText": "Jesús tenía unos 30 años cuando comenzó a enseñar. La gente creía que él era hijo de José, yJosé era hijo de Elí."
+    },
+    {
+      "verse": "24",
+      "text": "Elí era hijo de Matat.Matat era hijo de Leví.Leví era hijo de Melquí.Melquí era hijo de Jana.Jana era hijo de José.",
+      "readableText": "Elí era hijo de Matat.Matat era hijo de Leví.Leví era hijo de Melquí.Melquí era hijo de Jana.Jana era hijo de José."
+    },
+    {
+      "verse": "25",
+      "text": "José era hijo de Matatías.Matatías era hijo de Amós.Amós era hijo de Nahúm.Nahúm era hijo de Esli.Esli era hijo de Nagai.",
+      "readableText": "José era hijo de Matatías.Matatías era hijo de Amós.Amós era hijo de Nahúm.Nahúm era hijo de Esli.Esli era hijo de Nagai."
+    },
+    {
+      "verse": "26",
+      "text": "Nagai era hijo de Maat.Maat era hijo de Matatías.Matatías era hijo de Semei.Semei era hijo de Josec.Josec era hijo de Judá.",
+      "readableText": "Nagai era hijo de Maat.Maat era hijo de Matatías.Matatías era hijo de Semei.Semei era hijo de Josec.Josec era hijo de Judá."
+    },
+    {
+      "verse": "27",
+      "text": "Judá era hijo de Joanán.Joanán era hijo de Resa.Resa era hijo de Zorobabel.Zorobabel era hijo de Salatiel.Salatiel era hijo de Neri.",
+      "readableText": "Judá era hijo de Joanán.Joanán era hijo de Resa.Resa era hijo de Zorobabel.Zorobabel era hijo de Salatiel.Salatiel era hijo de Neri."
+    },
+    {
+      "verse": "28",
+      "text": "Neri era hijo de Melquí.Melquí era hijo de Adi.Adi era hijo de Cosam.Cosam era hijo de Elmodam.Elmodam era hijo de Er.",
+      "readableText": "Neri era hijo de Melquí.Melquí era hijo de Adi.Adi era hijo de Cosam.Cosam era hijo de Elmodam.Elmodam era hijo de Er."
+    },
+    {
+      "verse": "29",
+      "text": "Er era hijo de Josué.Josué era hijo de Eliezer.Eliezer era hijo de Jorim.Jorim era hijo de Matat.Matat era hijo de Leví.",
+      "readableText": "Er era hijo de Josué.Josué era hijo de Eliezer.Eliezer era hijo de Jorim.Jorim era hijo de Matat.Matat era hijo de Leví."
+    },
+    {
+      "verse": "30",
+      "text": "Leví era hijo de Simeón.Simeón era hijo de Judá.Judá era hijo de José.José era hijo de Jonán.Jonán era hijo de Eliaquim.",
+      "readableText": "Leví era hijo de Simeón.Simeón era hijo de Judá.Judá era hijo de José.José era hijo de Jonán.Jonán era hijo de Eliaquim."
+    },
+    {
+      "verse": "31",
+      "text": "Eliaquim era hijo de Melea.Melea era hijo de Mainán.Mainán era hijo de Matata.Matata era hijo de Natán.Natán era hijo de David.",
+      "readableText": "Eliaquim era hijo de Melea.Melea era hijo de Mainán.Mainán era hijo de Matata.Matata era hijo de Natán.Natán era hijo de David."
+    },
+    {
+      "verse": "32",
+      "text": "David era hijo de Isaí.Isaí era hijo de Obed.Obed era hijo de Booz.Booz era hijo de Salmón.Salmón era hijo de Naasón.",
+      "readableText": "David era hijo de Isaí.Isaí era hijo de Obed.Obed era hijo de Booz.Booz era hijo de Salmón.Salmón era hijo de Naasón."
+    },
+    {
+      "verse": "33",
+      "text": "Naasón era hijo de Aminadab.Aminadab era hijo de Admín.Admín era hijo de Arní.Arní era hijo de Esrom.Esrom era hijo de Fares.Fares era hijo de Judá.",
+      "readableText": "Naasón era hijo de Aminadab.Aminadab era hijo de Admín.Admín era hijo de Arní.Arní era hijo de Esrom.Esrom era hijo de Fares.Fares era hijo de Judá."
+    },
+    {
+      "verse": "34",
+      "text": "Judá era hijo de Jacob.Jacob era hijo de Isaac.Isaac era hijo de Abraham.Abraham era hijo de Taré.Taré era hijo de Nacor.",
+      "readableText": "Judá era hijo de Jacob.Jacob era hijo de Isaac.Isaac era hijo de Abraham.Abraham era hijo de Taré.Taré era hijo de Nacor."
+    },
+    {
+      "verse": "35",
+      "text": "Nacor era hijo de Serug.Serug era hijo de Ragau.Ragau era hijo de Péleg.Péleg era hijo de Héber.Héber era hijo de Sala.",
+      "readableText": "Nacor era hijo de Serug.Serug era hijo de Ragau.Ragau era hijo de Péleg.Péleg era hijo de Héber.Héber era hijo de Sala."
+    },
+    {
+      "verse": "36",
+      "text": "Sala era hijo de Cainán.Cainán era hijo de Arfaxad.Arfaxad era hijo de Sem.Sem era hijo de Noé.Noé era hijo de Lamec.",
+      "readableText": "Sala era hijo de Cainán.Cainán era hijo de Arfaxad.Arfaxad era hijo de Sem.Sem era hijo de Noé.Noé era hijo de Lamec."
+    },
+    {
+      "verse": "37",
+      "text": "Lamec era hijo de Matusalén.Matusalén era hijo de Enoc.Enoc era hijo de Jared.Jared era hijo de Mahalaleel.Mahalaleel era hijo de Cainán.",
+      "readableText": "Lamec era hijo de Matusalén.Matusalén era hijo de Enoc.Enoc era hijo de Jared.Jared era hijo de Mahalaleel.Mahalaleel era hijo de Cainán."
+    },
+    {
+      "verse": "38",
+      "text": "Cainán era hijo de Enós.Enós era hijo de Set.Set era hijo de Adán.Adán era hijo de Dios.  end of footnotes\n end of crossrefs",
+      "readableText": "Cainán era hijo de Enós.Enós era hijo de Set.Set era hijo de Adán.Adán era hijo de Dios. end of footnotes end of crossrefs"
+    }
+  ]
+}

@@ -1,1 +1,102 @@
-{"book":"HEB","rev":"PDT","chapter":"3","verses":[{"verse":"1","text":"Por lo tanto, hermanos santos, ustedes que participan de una invitaci&#243;n que les llega del cielo, fijen su atenci&#243;n en Jes&#250;s, ap&#243;stol y sumo sacerdote de la fe que nosotros confesamos. \n","readableText":"Por lo tanto, hermanos santos, ustedes que participan de una invitación que les\nllega del cielo, fijen su atención en Jesús, apóstol y sumo sacerdote de la fe\nque nosotros confesamos.\n\n"},{"verse":"2","text":"&#201;l fue fiel a Dios, tal como Mois&#233;s fue miembro fiel de la familia de Dios. \n","readableText":"Él fue fiel a Dios, tal como Moisés fue miembro fiel de la familia de Dios.\n\n"},{"verse":"3","text":"Jes&#250;s es m&#225;s importante que Mois&#233;s porque el que construye una casa  tiene m&#225;s importancia que la casa misma. \n","readableText":"Jesús es más importante que Moisés porque el que construye una casa tiene más\nimportancia que la casa misma.\n\n"},{"verse":"4","text":"Toda casa tiene un constructor, pero Dios es el arquitecto del universo. \n","readableText":"Toda casa tiene un constructor, pero Dios es el arquitecto del universo.\n\n"},{"verse":"5","text":"Mois&#233;s fue respetado como siervo fiel en toda la casa de Dios y su trabajo era ser testigo de lo que Dios iba a decir. \n","readableText":"Moisés fue respetado como siervo fiel en toda la casa de Dios y su trabajo era\nser testigo de lo que Dios iba a decir.\n\n"},{"verse":"6","text":"Pero Cristo dirige la casa de Dios como un hijo fiel. Somos la familia de Dios siempre y cuando nos mantengamos seguros y confiados de hablar abiertamente de la esperanza que tenemos.   \n","readableText":"Pero Cristo dirige la casa de Dios como un hijo fiel. Somos la familia de Dios\nsiempre y cuando nos mantengamos seguros y confiados de hablar abiertamente de\nla esperanza que tenemos.\n\n"},{"verse":"7","text":"Pues el Esp&#237;ritu Santo dice: &#171;Si escuchan hoy la voz de Dios,   \n","readableText":"Pues el Espíritu Santo dice: «Si escuchan hoy la voz de Dios,\n\n"},{"verse":"8","text":"no se opongan como antes, cuando se rebelaron contra &#233;l, el d&#237;a en que lo pusieron a prueba en el desierto.   \n","readableText":"no se opongan como antes, cuando se rebelaron contra él, el día en que lo\npusieron a prueba en el desierto.\n\n"},{"verse":"9","text":"Durante 40 a&#241;os sus antepasados vieron las obras que hice en el desierto; sin embargo, me pusieron a prueba, se me agot&#243; la paciencia que les ten&#237;a   \n","readableText":"Durante 40 años sus antepasados vieron las obras que hice en el desierto; sin\nembargo, me pusieron a prueba, se me agotó la paciencia que les tenía\n\n"},{"verse":"10","text":"y por eso me enoj&#233; con ese pueblo. Dije: &#8220;Sus pensamientos siempre est&#225;n equivocados y nunca han entendido mis ense&#241;anzas&#8221;.   \n","readableText":"y por eso me enojé con ese pueblo. Dije: “Sus pensamientos siempre están\nequivocados y nunca han entendido mis enseñanzas”.\n\n"},{"verse":"11","text":"  \n","readableText":"\n\n"}]}
+{
+  "book": "HEB",
+  "rev": "PDT",
+  "chapter": "3",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "3 Por lo tanto, hermanos santos, ustedes que participan de una invitación que les llega del cielo, fijen su atención en Jesús, apóstol y sumo sacerdote de la fe que nosotros confesamos.",
+      "readableText": "3 Por lo tanto, hermanos santos, ustedes que participan de una invitación que les llega del cielo, fijen su atención en Jesús, apóstol y sumo sacerdote de la fe que nosotros confesamos."
+    },
+    {
+      "verse": "2",
+      "text": "Él fue fiel a Dios, tal como Moisés fue miembro fiel de la familia de Dios.",
+      "readableText": "Él fue fiel a Dios, tal como Moisés fue miembro fiel de la familia de Dios."
+    },
+    {
+      "verse": "3",
+      "text": "Jesús es más importante que Moisés porque el que construye una casa tiene más importancia que la casa misma.",
+      "readableText": "Jesús es más importante que Moisés porque el que construye una casa tiene más importancia que la casa misma."
+    },
+    {
+      "verse": "4",
+      "text": "Toda casa tiene un constructor, pero Dios es el arquitecto del universo.",
+      "readableText": "Toda casa tiene un constructor, pero Dios es el arquitecto del universo."
+    },
+    {
+      "verse": "5",
+      "text": "Moisés fue respetado como siervo fiel en toda la casa de Dios y su trabajo era ser testigo de lo que Dios iba a decir.",
+      "readableText": "Moisés fue respetado como siervo fiel en toda la casa de Dios y su trabajo era ser testigo de lo que Dios iba a decir."
+    },
+    {
+      "verse": "6",
+      "text": "Pero Cristo dirige la casa de Dios como un hijo fiel. Somos la familia de Dios siempre y cuando nos mantengamos seguros y confiados de hablar abiertamente de la esperanza que tenemos.",
+      "readableText": "Pero Cristo dirige la casa de Dios como un hijo fiel. Somos la familia de Dios siempre y cuando nos mantengamos seguros y confiados de hablar abiertamente de la esperanza que tenemos."
+    },
+    {
+      "verse": "7",
+      "text": "Pues el Espíritu Santo dice:«Si escuchan hoy la voz de Dios,",
+      "readableText": "Pues el Espíritu Santo dice:«Si escuchan hoy la voz de Dios,"
+    },
+    {
+      "verse": "8",
+      "text": "no se opongan como antes,\ncuando se rebelaron contra él,\n    el día en que lo pusieron a prueba en el desierto.",
+      "readableText": "no se opongan como antes, cuando se rebelaron contra él, el día en que lo pusieron a prueba en el desierto."
+    },
+    {
+      "verse": "9",
+      "text": "Durante 40 años sus antepasados\n    vieron las obras que hice en el desierto;\nsin embargo, me pusieron a prueba,\n    se me agotó la paciencia que les tenía",
+      "readableText": "Durante 40 años sus antepasados vieron las obras que hice en el desierto; sin embargo, me pusieron a prueba, se me agotó la paciencia que les tenía"
+    },
+    {
+      "verse": "10",
+      "text": "y por eso me enojé con ese pueblo.\n    Dije: “Sus pensamientos siempre están equivocados\n    y nunca han entendido mis enseñanzas”.",
+      "readableText": "y por eso me enojé con ese pueblo. Dije: “Sus pensamientos siempre están equivocados y nunca han entendido mis enseñanzas”."
+    },
+    {
+      "verse": "11",
+      "text": "Como estaba enojado hice una promesa:\n    “Ese pueblo nunca entrará a disfrutar de mi reposo”».",
+      "readableText": "Como estaba enojado hice una promesa: “Ese pueblo nunca entrará a disfrutar de mi reposo”»."
+    },
+    {
+      "verse": "12",
+      "text": "Tengan cuidado, hermanos, de que en ninguno de ustedes se esconda la maldad ni la falta de fe como para darle la espalda al Dios viviente.",
+      "readableText": "Tengan cuidado, hermanos, de que en ninguno de ustedes se esconda la maldad ni la falta de fe como para darle la espalda al Dios viviente."
+    },
+    {
+      "verse": "13",
+      "text": "Al contrario, anímense unos a otros todos los días, mientras todavía exista ese «hoy». Ayúdense para evitar que el pecado engañe a alguno de ustedes y lo vuelva tan terco que le impida cambiar.",
+      "readableText": "Al contrario, anímense unos a otros todos los días, mientras todavía exista ese «hoy». Ayúdense para evitar que el pecado engañe a alguno de ustedes y lo vuelva tan terco que le impida cambiar."
+    },
+    {
+      "verse": "14",
+      "text": "Tenemos el privilegio de compartir todo lo que Cristo tiene, pero si es que seguimos firmes hasta el final con la misma confianza que teníamos al principio.",
+      "readableText": "Tenemos el privilegio de compartir todo lo que Cristo tiene, pero si es que seguimos firmes hasta el final con la misma confianza que teníamos al principio."
+    },
+    {
+      "verse": "15",
+      "text": "Les repito:«Si escuchan hoy la voz de Dios,\n    no se opongan como antes,\n    cuando se rebelaron contra él».",
+      "readableText": "Les repito:«Si escuchan hoy la voz de Dios, no se opongan como antes, cuando se rebelaron contra él»."
+    },
+    {
+      "verse": "16",
+      "text": "¿Y quiénes fueron los que escucharon la voz de Dios y aun así se rebelaron contra él? Los que Moisés sacó de Egipto.",
+      "readableText": "¿Y quiénes fueron los que escucharon la voz de Dios y aun así se rebelaron contra él? Los que Moisés sacó de Egipto."
+    },
+    {
+      "verse": "17",
+      "text": "¿Con quién estuvo enojado Dios durante 40 años? Con esos mismos pecadores que murieron y cuyos cuerpos quedaron tendidos en el desierto.",
+      "readableText": "¿Con quién estuvo enojado Dios durante 40 años? Con esos mismos pecadores que murieron y cuyos cuerpos quedaron tendidos en el desierto."
+    },
+    {
+      "verse": "18",
+      "text": "¿A quiénes les estaba hablando Dios cuando dijo que nunca entrarían a disfrutar de su reposo? A los que se rebelaron.",
+      "readableText": "¿A quiénes les estaba hablando Dios cuando dijo que nunca entrarían a disfrutar de su reposo? A los que se rebelaron."
+    },
+    {
+      "verse": "19",
+      "text": "Entonces vemos que por su falta de fe, ellos no pudieron entrar a disfrutar del reposo de Dios.  end of footnotes\n end of crossrefs",
+      "readableText": "Entonces vemos que por su falta de fe, ellos no pudieron entrar a disfrutar del reposo de Dios. end of footnotes end of crossrefs"
+    }
+  ]
+}

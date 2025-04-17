@@ -1,1 +1,202 @@
-{"book":"MAT","rev":"PDT","chapter":"15","verses":[{"verse":"1","text":"Despu&#233;s de esto, vinieron de Jerusal&#233;n algunos fariseos y maestros de la ley. Se acercaron a Jes&#250;s y le preguntaron:   \n","readableText":"Después de esto, vinieron de Jerusalén algunos fariseos y maestros de la ley.\nSe acercaron a Jesús y le preguntaron:\n\n"},{"verse":"2","text":"&#8212;&#191;Por qu&#233; tus seguidores violan las tradiciones de nuestros antepasados? Ellos no se lavan las manos antes de comer.   \n","readableText":"—¿Por qué tus seguidores violan las tradiciones de nuestros antepasados? Ellos\nno se lavan las manos antes de comer.\n\n"},{"verse":"3","text":"Jes&#250;s les pregunt&#243;: &#8212;&#191;Y por qu&#233; ustedes tampoco hacen caso del mandamiento de Dios por seguir su tradici&#243;n? \n","readableText":"Jesús les preguntó: —¿Y por qué ustedes tampoco hacen caso del mandamiento de\nDios por seguir su tradición?\n\n"},{"verse":"4","text":"Dios dice: &#8220;Respeta a tu pap&#225; y a tu mam&#225;&#8221;  y &#8220;El que insulte al pap&#225; o a la mam&#225; debe morir&#8221;.   \n","readableText":"Dios dice: “Respeta a tu papá y a tu mamá” y “El que insulte al papá o a la\nmamá debe morir”.\n\n"},{"verse":"5","text":"Pero ustedes ense&#241;an que est&#225; bien decirle al pap&#225; o a la mam&#225;: &#8220;Tengo algo que te podr&#237;a ayudar pero lo voy a entregar a Dios&#8221;. \n","readableText":"Pero ustedes enseñan que está bien decirle al papá o a la mamá: “Tengo algo que\nte podría ayudar pero lo voy a entregar a Dios”.\n\n"},{"verse":"6","text":"De esta forma ense&#241;an que uno no tiene que respetar a sus padres. As&#237; con su tradici&#243;n anulan la palabra de Dios. \n","readableText":"De esta forma enseñan que uno no tiene que respetar a sus padres. Así con su\ntradición anulan la palabra de Dios.\n\n"},{"verse":"7","text":"&#161;Hip&#243;critas! Isa&#237;as ten&#237;a raz&#243;n cuando profetiz&#243; sobre ustedes:   \n","readableText":"¡Hipócritas! Isaías tenía razón cuando profetizó sobre ustedes:\n\n"},{"verse":"8","text":"&#8220;Este pueblo me honra de labios para afuera, pero su coraz&#243;n est&#225; lejos de m&#237;.   \n","readableText":"“Este pueblo me honra de labios para afuera, pero su corazón está lejos de mí.\n\n\n"},{"verse":"9","text":"  \n","readableText":"\n\n"}]}
+{
+  "book": "MAT",
+  "rev": "PDT",
+  "chapter": "15",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "15 Después de esto, vinieron de Jerusalén algunos fariseos y maestros de la ley. Se acercaron a Jesús y le preguntaron:",
+      "readableText": "15 Después de esto, vinieron de Jerusalén algunos fariseos y maestros de la ley. Se acercaron a Jesús y le preguntaron:"
+    },
+    {
+      "verse": "2",
+      "text": "—¿Por qué tus seguidores violan las tradiciones de nuestros antepasados? Ellos no se lavan las manos antes de comer.",
+      "readableText": "—¿Por qué tus seguidores violan las tradiciones de nuestros antepasados? Ellos no se lavan las manos antes de comer."
+    },
+    {
+      "verse": "3",
+      "text": "Jesús les preguntó:—¿Y por qué ustedes tampoco hacen caso del mandamiento de Dios por seguir su tradición?",
+      "readableText": "Jesús les preguntó:—¿Y por qué ustedes tampoco hacen caso del mandamiento de Dios por seguir su tradición?"
+    },
+    {
+      "verse": "4",
+      "text": "Dios dice: “Respeta a tu papá y a tu mamá” y “El que insulte al papá o a la mamá debe morir”.",
+      "readableText": "Dios dice: “Respeta a tu papá y a tu mamá” y “El que insulte al papá o a la mamá debe morir”."
+    },
+    {
+      "verse": "5",
+      "text": "Pero ustedes enseñan que está bien decirle al papá o a la mamá: “Tengo algo que te podría ayudar pero lo voy a entregar a Dios”.",
+      "readableText": "Pero ustedes enseñan que está bien decirle al papá o a la mamá: “Tengo algo que te podría ayudar pero lo voy a entregar a Dios”."
+    },
+    {
+      "verse": "6",
+      "text": "De esta forma enseñan que uno no tiene que respetar a sus padres. Así con su tradición anulan la palabra de Dios.",
+      "readableText": "De esta forma enseñan que uno no tiene que respetar a sus padres. Así con su tradición anulan la palabra de Dios."
+    },
+    {
+      "verse": "7",
+      "text": "¡Hipócritas! Isaías tenía razón cuando profetizó sobre ustedes:",
+      "readableText": "¡Hipócritas! Isaías tenía razón cuando profetizó sobre ustedes:"
+    },
+    {
+      "verse": "8",
+      "text": "“Este pueblo me honra de labios para afuera,\n    pero su corazón está lejos de mí.",
+      "readableText": "“Este pueblo me honra de labios para afuera, pero su corazón está lejos de mí."
+    },
+    {
+      "verse": "9",
+      "text": "De nada les sirve que me adoren\n    porque todo lo que enseñan son normas de hombres”.",
+      "readableText": "De nada les sirve que me adoren porque todo lo que enseñan son normas de hombres”."
+    },
+    {
+      "verse": "10",
+      "text": "Jesús llamó a la multitud y le dijo:—Escuchen y entiendan:",
+      "readableText": "Jesús llamó a la multitud y le dijo:—Escuchen y entiendan:"
+    },
+    {
+      "verse": "11",
+      "text": "No es lo que entra en la boca de alguien lo que lo vuelve impuro, sino lo que sale de ella.",
+      "readableText": "No es lo que entra en la boca de alguien lo que lo vuelve impuro, sino lo que sale de ella."
+    },
+    {
+      "verse": "12",
+      "text": "Entonces sus seguidores se acercaron y le dijeron:—¿Te diste cuenta de que los fariseos se ofendieron por lo que dijiste?",
+      "readableText": "Entonces sus seguidores se acercaron y le dijeron:—¿Te diste cuenta de que los fariseos se ofendieron por lo que dijiste?"
+    },
+    {
+      "verse": "13",
+      "text": "Jesús les contestó:—Toda planta que mi Padre no haya sembrado con sus propias manos, será arrancada de raíz.",
+      "readableText": "Jesús les contestó:—Toda planta que mi Padre no haya sembrado con sus propias manos, será arrancada de raíz."
+    },
+    {
+      "verse": "14",
+      "text": "Así que déjenlos que se vayan. Ellos son ciegos que guían a otros ciegos y si un ciego es el guía de otro ciego, los dos se van a caer en un hoyo.",
+      "readableText": "Así que déjenlos que se vayan. Ellos son ciegos que guían a otros ciegos y si un ciego es el guía de otro ciego, los dos se van a caer en un hoyo."
+    },
+    {
+      "verse": "15",
+      "text": "Entonces Pedro le dijo:—Explícanos lo que les dijiste antes a los fariseos.",
+      "readableText": "Entonces Pedro le dijo:—Explícanos lo que les dijiste antes a los fariseos."
+    },
+    {
+      "verse": "16",
+      "text": "Jesús dijo:—¿Es que ustedes tampoco entienden?",
+      "readableText": "Jesús dijo:—¿Es que ustedes tampoco entienden?"
+    },
+    {
+      "verse": "17",
+      "text": "¿No ven que todo lo que entra en la boca va al estómago y después termina en la letrina?",
+      "readableText": "¿No ven que todo lo que entra en la boca va al estómago y después termina en la letrina?"
+    },
+    {
+      "verse": "18",
+      "text": "En cambio, todo lo malo que la gente dice viene de su mente. Eso es lo que vuelve impuro a alguien.",
+      "readableText": "En cambio, todo lo malo que la gente dice viene de su mente. Eso es lo que vuelve impuro a alguien."
+    },
+    {
+      "verse": "19",
+      "text": "De la mente salen los malos pensamientos, asesinatos, adulterios, pecados sexuales, robos, calumnias e insultos.",
+      "readableText": "De la mente salen los malos pensamientos, asesinatos, adulterios, pecados sexuales, robos, calumnias e insultos."
+    },
+    {
+      "verse": "20",
+      "text": "Eso es lo que vuelve impuro a alguien y no el hecho de que no se lave las manos antes de comer. (Mr 7:24-30)",
+      "readableText": "Eso es lo que vuelve impuro a alguien y no el hecho de que no se lave las manos antes de comer. (Mr 7:24-30)"
+    },
+    {
+      "verse": "21",
+      "text": "Jesús salió de allí y se fue a la región de Tiro y de Sidón.",
+      "readableText": "Jesús salió de allí y se fue a la región de Tiro y de Sidón."
+    },
+    {
+      "verse": "22",
+      "text": "Una mujer cananea que vivía en esa región salió y empezó a gritar:—¡Señor, Hijo de David, ten compasión de mí! ¡Mi hija está poseída por un demonio que la atormenta terriblemente!",
+      "readableText": "Una mujer cananea que vivía en esa región salió y empezó a gritar:—¡Señor, Hijo de David, ten compasión de mí! ¡Mi hija está poseída por un demonio que la atormenta terriblemente!"
+    },
+    {
+      "verse": "23",
+      "text": "Jesús no le decía nada. Entonces los seguidores se acercaron a él y le rogaron:—Por favor, dile que se vaya porque viene gritando detrás de nosotros.",
+      "readableText": "Jesús no le decía nada. Entonces los seguidores se acercaron a él y le rogaron:—Por favor, dile que se vaya porque viene gritando detrás de nosotros."
+    },
+    {
+      "verse": "24",
+      "text": "Jesús les dijo:—Dios solamente me envió a las ovejas perdidas de Israel.",
+      "readableText": "Jesús les dijo:—Dios solamente me envió a las ovejas perdidas de Israel."
+    },
+    {
+      "verse": "25",
+      "text": "Entonces la mujer se puso enfrente de Jesús, se arrodilló y le dijo:—¡Señor, ayúdame!",
+      "readableText": "Entonces la mujer se puso enfrente de Jesús, se arrodilló y le dijo:—¡Señor, ayúdame!"
+    },
+    {
+      "verse": "26",
+      "text": "Jesús le contestó:—No está bien darles a los perros el pan de los hijos.",
+      "readableText": "Jesús le contestó:—No está bien darles a los perros el pan de los hijos."
+    },
+    {
+      "verse": "27",
+      "text": "Ella dijo:—Es cierto, Señor, pero hasta los perros se comen las migajas que caen de la mesa de sus dueños.",
+      "readableText": "Ella dijo:—Es cierto, Señor, pero hasta los perros se comen las migajas que caen de la mesa de sus dueños."
+    },
+    {
+      "verse": "28",
+      "text": "Jesús le dijo:—Mujer, tienes mucha fe. Por eso haré lo que quieres que haga.Y en ese momento la hija de la mujer fue sanada.",
+      "readableText": "Jesús le dijo:—Mujer, tienes mucha fe. Por eso haré lo que quieres que haga.Y en ese momento la hija de la mujer fue sanada."
+    },
+    {
+      "verse": "29",
+      "text": "Jesús se fue de allí y se dirigió a la orilla del lago de Galilea. Subió a un monte y se sentó en ese lugar.",
+      "readableText": "Jesús se fue de allí y se dirigió a la orilla del lago de Galilea. Subió a un monte y se sentó en ese lugar."
+    },
+    {
+      "verse": "30",
+      "text": "Muchísima gente se reunía junto a él llevando cojos, ciegos, mancos, sordomudos y muchos otros enfermos. Los ponían a los pies de Jesús y él los sanaba.",
+      "readableText": "Muchísima gente se reunía junto a él llevando cojos, ciegos, mancos, sordomudos y muchos otros enfermos. Los ponían a los pies de Jesús y él los sanaba."
+    },
+    {
+      "verse": "31",
+      "text": "La gente se asombraba al ver que los sordomudos hablaban, que los mancos eran curados y que los ciegos ahora veían; y alababan al Dios de Israel. (Mr 8:1-10)",
+      "readableText": "La gente se asombraba al ver que los sordomudos hablaban, que los mancos eran curados y que los ciegos ahora veían; y alababan al Dios de Israel. (Mr 8:1-10)"
+    },
+    {
+      "verse": "32",
+      "text": "Jesús llamó a sus seguidores y les dijo:—Me da pesar con esta gente, porque han estado tres días conmigo y no han comido nada. No quiero que se vayan a sus casas sin comer algo porque se pueden desmayar por el camino.",
+      "readableText": "Jesús llamó a sus seguidores y les dijo:—Me da pesar con esta gente, porque han estado tres días conmigo y no han comido nada. No quiero que se vayan a sus casas sin comer algo porque se pueden desmayar por el camino."
+    },
+    {
+      "verse": "33",
+      "text": "Los seguidores le dijeron:—¿En dónde crees que vamos a encontrar comida suficiente para alimentar a tanta gente? Este es un lugar despoblado.",
+      "readableText": "Los seguidores le dijeron:—¿En dónde crees que vamos a encontrar comida suficiente para alimentar a tanta gente? Este es un lugar despoblado."
+    },
+    {
+      "verse": "34",
+      "text": "Jesús les preguntó:—¿Cuántos panes tienen?Ellos dijeron:—Siete panes y unos cuantos pescaditos.",
+      "readableText": "Jesús les preguntó:—¿Cuántos panes tienen?Ellos dijeron:—Siete panes y unos cuantos pescaditos."
+    },
+    {
+      "verse": "35",
+      "text": "Jesús ordenó a la gente que se sentara en el suelo.",
+      "readableText": "Jesús ordenó a la gente que se sentara en el suelo."
+    },
+    {
+      "verse": "36",
+      "text": "Tomó los siete panes y los pescados, dio gracias a Dios, los partió y comenzó a dárselos a sus seguidores para que se los repartieran a la gente.",
+      "readableText": "Tomó los siete panes y los pescados, dio gracias a Dios, los partió y comenzó a dárselos a sus seguidores para que se los repartieran a la gente."
+    },
+    {
+      "verse": "37",
+      "text": "Todos comieron hasta quedar satisfechos. Con lo que sobró se llenaron siete canastas.",
+      "readableText": "Todos comieron hasta quedar satisfechos. Con lo que sobró se llenaron siete canastas."
+    },
+    {
+      "verse": "38",
+      "text": "Comieron 4000 hombres, sin contar a las mujeres ni a los niños.",
+      "readableText": "Comieron 4000 hombres, sin contar a las mujeres ni a los niños."
+    },
+    {
+      "verse": "39",
+      "text": "Después de que Jesús despidió a toda la multitud, subió a la barca y se fue a la región de Magadán.  end of footnotes\n end of crossrefs",
+      "readableText": "Después de que Jesús despidió a toda la multitud, subió a la barca y se fue a la región de Magadán. end of footnotes end of crossrefs"
+    }
+  ]
+}

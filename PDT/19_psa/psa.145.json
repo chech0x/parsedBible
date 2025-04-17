@@ -1,1 +1,112 @@
-{"book":"PSA","rev":"PDT","chapter":"145","verses":[{"verse":"1","text":"Te alabar&#233; mi Dios, mi Rey, y bendecir&#233; tu nombre, eternamente y para siempre.   \n","readableText":"Te alabaré mi Dios, mi Rey, y bendeciré tu nombre, eternamente y para siempre.\n\n\n"},{"verse":"2","text":"Cada d&#237;a te bendecir&#233; y alabar&#233; tu nombre, eternamente y para siempre.   \n","readableText":"Cada día te bendeciré y alabaré tu nombre, eternamente y para siempre.\n\n"},{"verse":"3","text":"Grande es el SE&#209;OR y merece ser alabado; su grandeza sobrepasa todo entendimiento.   \n","readableText":"Grande es el SEÑOR y merece ser alabado; su grandeza sobrepasa todo\nentendimiento.\n\n"},{"verse":"4","text":"Tus obras ser&#225;n festejadas de generaci&#243;n en generaci&#243;n; siempre se hablar&#225; de tus poderosos hechos.   \n","readableText":"Tus obras serán festejadas de generación en generación; siempre se hablará de\ntus poderosos hechos.\n\n"},{"verse":"5","text":"Se hablar&#225; de tu gloria maravillosa; yo siempre hablar&#233; de tus milagros.   \n","readableText":"Se hablará de tu gloria maravillosa; yo siempre hablaré de tus milagros.\n\n"},{"verse":"6","text":"Siempre se recordar&#225; tu asombroso poder; yo les contar&#233; de tu grandeza.   \n","readableText":"Siempre se recordará tu asombroso poder; yo les contaré de tu grandeza.\n\n"},{"verse":"7","text":"Se recordar&#225; tu bondad y se cantar&#225;n canciones que hablen de tu generosidad.   \n","readableText":"Se recordará tu bondad y se cantarán canciones que hablen de tu generosidad.\n\n"},{"verse":"8","text":"El SE&#209;OR es bueno y compasivo, no se enoja con facilidad y rebosa de fiel amor.   \n","readableText":"El SEÑOR es bueno y compasivo, no se enoja con facilidad y rebosa de fiel amor.\n\n\n"},{"verse":"9","text":"El SE&#209;OR es bueno para con todos y muestra compasi&#243;n hacia todo lo que ha creado.   \n","readableText":"El SEÑOR es bueno para con todos y muestra compasión hacia todo lo que ha\ncreado.\n\n"},{"verse":"10","text":"Que todo lo que has creado alabe tu poder y gloria, SE&#209;OR; que todos tus fieles te alaben.   \n","readableText":"Que todo lo que has creado alabe tu poder y gloria, SEÑOR; que todos tus fieles\nte alaben.\n\n"},{"verse":"11","text":"Ellos les contar&#225;n a los dem&#225;s lo grandioso que es tu reino y lo bueno que eres.   \n","readableText":"Ellos les contarán a los demás lo grandioso que es tu reino y lo bueno que\neres.\n\n"},{"verse":"12","text":"La gente sabr&#225; las maravillas que has hecho y sabr&#225;n de la gloria del esplendor de tu reino.   \n","readableText":"La gente sabrá las maravillas que has hecho y sabrán de la gloria del esplendor\nde tu reino.\n\n"},{"verse":"13","text":"Tu reino existir&#225; para siempre; tu dominio permanecer&#225; de generaci&#243;n en generaci&#243;n. El SE&#209;OR es fiel a sus promesas y todo lo que hace es bueno.   \n","readableText":"Tu reino existirá para siempre; tu dominio permanecerá de generación en\ngeneración. El SEÑOR es fiel a sus promesas y todo lo que hace es bueno.\n\n"},{"verse":"14","text":"El SE&#209;OR levanta a quienes caen y sostiene a los que est&#225;n angustiados.   \n","readableText":"El SEÑOR levanta a quienes caen y sostiene a los que están angustiados.\n\n"},{"verse":"15","text":"Todos buscan en ti el alimento y en el momento apropiado les das su comida.   \n","readableText":"Todos buscan en ti el alimento y en el momento apropiado les das su comida.\n\n"},{"verse":"16","text":"Abres tus manos y a todos los seres vivos les das lo que necesitan.   \n","readableText":"Abres tus manos y a todos los seres vivos les das lo que necesitan.\n\n"},{"verse":"17","text":"El SE&#209;OR es justo en todo lo que hace; sus hechos muestran lo bueno que es.   \n","readableText":"El SEÑOR es justo en todo lo que hace; sus hechos muestran lo bueno que es.\n\n"},{"verse":"18","text":"El SE&#209;OR est&#225; cerca de todos los que lo buscan; de los que lo buscan sinceramente.   \n","readableText":"El SEÑOR está cerca de todos los que lo buscan; de los que lo buscan\nsinceramente.\n\n"},{"verse":"19","text":"Cumple los deseos de los que lo respetan; escucha sus peticiones de ayuda y los salva.   \n","readableText":"Cumple los deseos de los que lo respetan; escucha sus peticiones de ayuda y los\nsalva.\n\n"},{"verse":"20","text":"El SE&#209;OR protege a todos los que lo aman pero destruir&#225; a los perversos.   \n","readableText":"El SEÑOR protege a todos los que lo aman pero destruirá a los perversos.\n\n"},{"verse":"21","text":"Que mi boca alabe al SE&#209;OR; que todos alaben su santo nombre, ahora y siempre.\n","readableText":"Que mi boca alabe al SEÑOR; que todos alaben su santo nombre, ahora y\nsiempre.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "145",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Te alabaré mi Dios, mi Rey,\n    y bendeciré tu nombre,\n    eternamente y para siempre.",
+      "readableText": "Te alabaré mi Dios, mi Rey, y bendeciré tu nombre, eternamente y para siempre."
+    },
+    {
+      "verse": "2",
+      "text": "Cada día te bendeciré y alabaré tu nombre,\n    eternamente y para siempre.",
+      "readableText": "Cada día te bendeciré y alabaré tu nombre, eternamente y para siempre."
+    },
+    {
+      "verse": "3",
+      "text": "Grande es el SEÑOR y merece ser alabado;\n    su grandeza sobrepasa todo entendimiento.",
+      "readableText": "Grande es el SEÑOR y merece ser alabado; su grandeza sobrepasa todo entendimiento."
+    },
+    {
+      "verse": "4",
+      "text": "Tus obras serán festejadas de generación en generación;\n    siempre se hablará de tus poderosos hechos.",
+      "readableText": "Tus obras serán festejadas de generación en generación; siempre se hablará de tus poderosos hechos."
+    },
+    {
+      "verse": "5",
+      "text": "Se hablará de tu gloria maravillosa;\n    yo siempre hablaré de tus milagros.",
+      "readableText": "Se hablará de tu gloria maravillosa; yo siempre hablaré de tus milagros."
+    },
+    {
+      "verse": "6",
+      "text": "Siempre se recordará tu asombroso poder;\n    yo les contaré de tu grandeza.",
+      "readableText": "Siempre se recordará tu asombroso poder; yo les contaré de tu grandeza."
+    },
+    {
+      "verse": "7",
+      "text": "Se recordará tu bondad\n    y se cantarán canciones que hablen de tu generosidad.",
+      "readableText": "Se recordará tu bondad y se cantarán canciones que hablen de tu generosidad."
+    },
+    {
+      "verse": "8",
+      "text": "El SEÑOR es bueno y compasivo,\n    no se enoja con facilidad y rebosa de fiel amor.",
+      "readableText": "El SEÑOR es bueno y compasivo, no se enoja con facilidad y rebosa de fiel amor."
+    },
+    {
+      "verse": "9",
+      "text": "El SEÑOR es bueno para con todos\n    y muestra compasión hacia todo lo que ha creado.",
+      "readableText": "El SEÑOR es bueno para con todos y muestra compasión hacia todo lo que ha creado."
+    },
+    {
+      "verse": "10",
+      "text": "Que todo lo que has creado alabe tu poder y gloria, SEÑOR;\n    que todos tus fieles te alaben.",
+      "readableText": "Que todo lo que has creado alabe tu poder y gloria, SEÑOR; que todos tus fieles te alaben."
+    },
+    {
+      "verse": "11",
+      "text": "Ellos les contarán a los demás\n    lo grandioso que es tu reino y lo bueno que eres.",
+      "readableText": "Ellos les contarán a los demás lo grandioso que es tu reino y lo bueno que eres."
+    },
+    {
+      "verse": "12",
+      "text": "La gente sabrá las maravillas que has hecho\n    y sabrán de la gloria del esplendor de tu reino.",
+      "readableText": "La gente sabrá las maravillas que has hecho y sabrán de la gloria del esplendor de tu reino."
+    },
+    {
+      "verse": "13",
+      "text": "Tu reino existirá para siempre;\n    tu dominio permanecerá de generación en generación. El SEÑOR es fiel a sus promesas\n    y todo lo que hace es bueno.",
+      "readableText": "Tu reino existirá para siempre; tu dominio permanecerá de generación en generación. El SEÑOR es fiel a sus promesas y todo lo que hace es bueno."
+    },
+    {
+      "verse": "14",
+      "text": "El SEÑOR levanta a quienes caen\n    y sostiene a los que están angustiados.",
+      "readableText": "El SEÑOR levanta a quienes caen y sostiene a los que están angustiados."
+    },
+    {
+      "verse": "15",
+      "text": "Todos buscan en ti el alimento\n    y en el momento apropiado les das su comida.",
+      "readableText": "Todos buscan en ti el alimento y en el momento apropiado les das su comida."
+    },
+    {
+      "verse": "16",
+      "text": "Abres tus manos y a todos los seres vivos\n    les das lo que necesitan.",
+      "readableText": "Abres tus manos y a todos los seres vivos les das lo que necesitan."
+    },
+    {
+      "verse": "17",
+      "text": "El SEÑOR es justo en todo lo que hace;\n    sus hechos muestran lo bueno que es.",
+      "readableText": "El SEÑOR es justo en todo lo que hace; sus hechos muestran lo bueno que es."
+    },
+    {
+      "verse": "18",
+      "text": "El SEÑOR está cerca de todos los que lo buscan;\n    de los que lo buscan sinceramente.",
+      "readableText": "El SEÑOR está cerca de todos los que lo buscan; de los que lo buscan sinceramente."
+    },
+    {
+      "verse": "19",
+      "text": "Cumple los deseos de los que lo respetan;\n    escucha sus peticiones de ayuda y los salva.",
+      "readableText": "Cumple los deseos de los que lo respetan; escucha sus peticiones de ayuda y los salva."
+    },
+    {
+      "verse": "20",
+      "text": "El SEÑOR protege a todos los que lo aman\n    pero destruirá a los perversos.",
+      "readableText": "El SEÑOR protege a todos los que lo aman pero destruirá a los perversos."
+    },
+    {
+      "verse": "21",
+      "text": "Que mi boca alabe al SEÑOR;\n    que todos alaben su santo nombre, ahora y siempre.  end of footnotes",
+      "readableText": "Que mi boca alabe al SEÑOR; que todos alaben su santo nombre, ahora y siempre. end of footnotes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "book": "PSA",
+  "rev": "TLA",
+  "chapter": "120",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "120 Dios mío,\ncuando me siento angustiado,\nte llamo y tú me respondes.",
+      "readableText": "120 Dios mío, cuando me siento angustiado, te llamo y tú me respondes."
+    },
+    {
+      "verse": "2",
+      "text": "Dios mío,\nsálvame de la gente mentirosa;\nsálvame de la gente embustera.",
+      "readableText": "Dios mío, sálvame de la gente mentirosa; sálvame de la gente embustera."
+    },
+    {
+      "verse": "3",
+      "text": "¡Muy mal les va a ir a ustedes,\nmentirosos!\n¡Dios los va a castigar!",
+      "readableText": "¡Muy mal les va a ir a ustedes, mentirosos! ¡Dios los va a castigar!"
+    },
+    {
+      "verse": "4",
+      "text": "¡Les disparará flechas\npuntiagudas y encendidas,\ncomo las que lanzan los guerreros!",
+      "readableText": "¡Les disparará flechas puntiagudas y encendidas, como las que lanzan los guerreros!"
+    },
+    {
+      "verse": "5",
+      "text": "¡Pobre de mí!\n¡Soy un hombre sin patria\nque vive entre gente salvaje!",
+      "readableText": "¡Pobre de mí! ¡Soy un hombre sin patria que vive entre gente salvaje!"
+    },
+    {
+      "verse": "6",
+      "text": "¡Ya he vivido mucho tiempo\nentre los que aborrecen la paz!",
+      "readableText": "¡Ya he vivido mucho tiempo entre los que aborrecen la paz!"
+    },
+    {
+      "verse": "7",
+      "text": "Yo soy un hombre tranquilo,\n¡pero ellos hablan de guerra\nmientras yo hablo de paz!",
+      "readableText": "Yo soy un hombre tranquilo, ¡pero ellos hablan de guerra mientras yo hablo de paz!"
+    }
+  ]
+}

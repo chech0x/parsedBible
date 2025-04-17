@@ -1,1 +1,47 @@
-{"book":"PSA","rev":"PDT","chapter":"124","verses":[{"verse":"1","text":"&#191;Qu&#233; nos habr&#237;a pasado si el SE&#209;OR no hubiera estado a nuestro lado?, que lo diga Israel,   \n","readableText":"¿Qué nos habría pasado si el SEÑOR no hubiera estado a nuestro lado?, que lo\ndiga Israel,\n\n"},{"verse":"2","text":"si el SE&#209;OR no hubiera estado a nuestro lado, cuando todos se levantaron para atacarnos, &#191;qu&#233; nos habr&#237;a pasado?   \n","readableText":"si el SEÑOR no hubiera estado a nuestro lado, cuando todos se levantaron para\natacarnos, ¿qué nos habría pasado?\n\n"},{"verse":"3","text":"Nuestros enemigos nos habr&#237;an tragado vivos cuando ard&#237;an de ira contra nosotros.   \n","readableText":"Nuestros enemigos nos habrían tragado vivos cuando ardían de ira contra\nnosotros.\n\n"},{"verse":"4","text":"Habr&#237;an arrasado con nosotros como un r&#237;o desbordado arrastra con todo a su paso;   \n","readableText":"Habrían arrasado con nosotros como un río desbordado arrastra con todo a su\npaso;\n\n"},{"verse":"5","text":"las aguas turbulentas habr&#237;an pasado sobre nosotros.   \n","readableText":"las aguas turbulentas habrían pasado sobre nosotros.\n\n"},{"verse":"6","text":"Bendito sea el SE&#209;OR que no permiti&#243; que nos destrozaran como presa entre sus dientes.   \n","readableText":"Bendito sea el SEÑOR que no permitió que nos destrozaran como presa entre sus\ndientes.\n\n"},{"verse":"7","text":"Fuimos como p&#225;jaros que escaparon del cazador. La red se rompi&#243; y pudimos escapar.   \n","readableText":"Fuimos como pájaros que escaparon del cazador. La red se rompió y pudimos\nescapar.\n\n"},{"verse":"8","text":"Nuestra ayuda viene del SE&#209;OR, creador del cielo y de la tierra.\n","readableText":"Nuestra ayuda viene del SEÑOR, creador del cielo y de la tierra.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "124",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "¿Qué nos habría pasado\n    si el SEÑOR no hubiera estado a nuestro lado?,\n    que lo diga Israel,",
+      "readableText": "¿Qué nos habría pasado si el SEÑOR no hubiera estado a nuestro lado?, que lo diga Israel,"
+    },
+    {
+      "verse": "2",
+      "text": "si el SEÑOR no hubiera estado a nuestro lado,\n    cuando todos se levantaron para atacarnos,\n    ¿qué nos habría pasado?",
+      "readableText": "si el SEÑOR no hubiera estado a nuestro lado, cuando todos se levantaron para atacarnos, ¿qué nos habría pasado?"
+    },
+    {
+      "verse": "3",
+      "text": "Nuestros enemigos nos habrían tragado vivos\n    cuando ardían de ira contra nosotros.",
+      "readableText": "Nuestros enemigos nos habrían tragado vivos cuando ardían de ira contra nosotros."
+    },
+    {
+      "verse": "4",
+      "text": "Habrían arrasado con nosotros\n    como un río desbordado arrastra con todo a su paso;",
+      "readableText": "Habrían arrasado con nosotros como un río desbordado arrastra con todo a su paso;"
+    },
+    {
+      "verse": "5",
+      "text": "las aguas turbulentas\n    habrían pasado sobre nosotros.",
+      "readableText": "las aguas turbulentas habrían pasado sobre nosotros."
+    },
+    {
+      "verse": "6",
+      "text": "Bendito sea el SEÑOR que no permitió que nos destrozaran\n    como presa entre sus dientes.",
+      "readableText": "Bendito sea el SEÑOR que no permitió que nos destrozaran como presa entre sus dientes."
+    },
+    {
+      "verse": "7",
+      "text": "Fuimos como pájaros que escaparon del cazador.\n    La red se rompió y pudimos escapar.",
+      "readableText": "Fuimos como pájaros que escaparon del cazador. La red se rompió y pudimos escapar."
+    },
+    {
+      "verse": "8",
+      "text": "Nuestra ayuda viene del SEÑOR,\n    creador del cielo y de la tierra.",
+      "readableText": "Nuestra ayuda viene del SEÑOR, creador del cielo y de la tierra."
+    }
+  ]
+}

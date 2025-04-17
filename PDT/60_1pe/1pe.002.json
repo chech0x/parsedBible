@@ -1,1 +1,132 @@
-{"book":"1PE","rev":"PDT","chapter":"2","verses":[{"verse":"1","text":"Entonces, no hagan ning&#250;n mal: no digan mentiras, no sean hip&#243;critas, no sean envidiosos ni se maldigan unos a otros. \n","readableText":"Entonces, no hagan ningún mal: no digan mentiras, no sean hipócritas, no sean\nenvidiosos ni se maldigan unos a otros.\n\n"},{"verse":"2","text":"Sean como beb&#233;s reci&#233;n nacidos y busquen con ansias la leche espiritual pura. As&#237; podr&#225;n crecer y ser salvos, \n","readableText":"Sean como bebés recién nacidos y busquen con ansias la leche espiritual pura.\nAsí podrán crecer y ser salvos,\n\n"},{"verse":"3","text":"ya que han saboreado lo bueno que es el Se&#241;or.   \n","readableText":"ya que han saboreado lo bueno que es el Señor.\n\n"},{"verse":"4","text":"Ac&#233;rquense al Se&#241;or Jes&#250;s, quien es la piedra viva, rechazada por los hombres, pero elegida y de mucho valor ante Dios. \n","readableText":"Acérquense al Señor Jesús, quien es la piedra viva, rechazada por los hombres,\npero elegida y de mucho valor ante Dios.\n\n"},{"verse":"5","text":"Ustedes tambi&#233;n son como piedras vivas que Dios utiliza para construir un templo espiritual. Ustedes sirven a Dios en ese templo como sacerdotes santos, y por medio de Jesucristo ofrecen sacrificios espirituales agradables a Dios. \n","readableText":"Ustedes también son como piedras vivas que Dios utiliza para construir un\ntemplo espiritual. Ustedes sirven a Dios en ese templo como sacerdotes santos,\ny por medio de Jesucristo ofrecen sacrificios espirituales agradables a Dios.\n\n\n"},{"verse":"6","text":"Pues as&#237; tambi&#233;n dice la Escritura: &#171;Miren, pongo en Sion la piedra principal, elegido por su mucho valor. El que conf&#237;e en esa piedra, no ser&#225; defraudado&#187;.   \n","readableText":"Pues así también dice la Escritura: «Miren, pongo en Sion la piedra principal,\nelegido por su mucho valor. El que confíe en esa piedra, no será defraudado».\n\n\n"},{"verse":"7","text":"  \n","readableText":"\n\n"}]}
+{
+  "book": "1PE",
+  "rev": "PDT",
+  "chapter": "2",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "2 Entonces, no hagan ningún mal: no digan mentiras, no sean hipócritas, no sean envidiosos ni se maldigan unos a otros.",
+      "readableText": "2 Entonces, no hagan ningún mal: no digan mentiras, no sean hipócritas, no sean envidiosos ni se maldigan unos a otros."
+    },
+    {
+      "verse": "2",
+      "text": "Sean como bebés recién nacidos y busquen con ansias la leche espiritual pura. Así podrán crecer y ser salvos,",
+      "readableText": "Sean como bebés recién nacidos y busquen con ansias la leche espiritual pura. Así podrán crecer y ser salvos,"
+    },
+    {
+      "verse": "3",
+      "text": "ya que han saboreado lo bueno que es el Señor.",
+      "readableText": "ya que han saboreado lo bueno que es el Señor."
+    },
+    {
+      "verse": "4",
+      "text": "Acérquense al Señor Jesús, quien es la piedra viva, rechazada por los hombres, pero elegida y de mucho valor ante Dios.",
+      "readableText": "Acérquense al Señor Jesús, quien es la piedra viva, rechazada por los hombres, pero elegida y de mucho valor ante Dios."
+    },
+    {
+      "verse": "5",
+      "text": "Ustedes también son como piedras vivas que Dios utiliza para construir un templo espiritual. Ustedes sirven a Dios en ese templo como sacerdotes santos, y por medio de Jesucristo ofrecen sacrificios espirituales agradables a Dios.",
+      "readableText": "Ustedes también son como piedras vivas que Dios utiliza para construir un templo espiritual. Ustedes sirven a Dios en ese templo como sacerdotes santos, y por medio de Jesucristo ofrecen sacrificios espirituales agradables a Dios."
+    },
+    {
+      "verse": "6",
+      "text": "Pues así también dice la Escritura:«Miren, pongo en Sion la piedra principal,\n    elegido por su mucho valor.\nEl que confíe en esa piedra,\n    no será defraudado».",
+      "readableText": "Pues así también dice la Escritura:«Miren, pongo en Sion la piedra principal, elegido por su mucho valor. El que confíe en esa piedra, no será defraudado»."
+    },
+    {
+      "verse": "7",
+      "text": "Para ustedes los que creen, esa piedra les dará honra; pero en cuanto a los que no creen:«La piedra que los constructores rechazaron\n    se ha convertido en la piedra principal».",
+      "readableText": "Para ustedes los que creen, esa piedra les dará honra; pero en cuanto a los que no creen:«La piedra que los constructores rechazaron se ha convertido en la piedra principal»."
+    },
+    {
+      "verse": "8",
+      "text": "Para los que no creen, esa piedra también es:«Una piedra de tropiezo\n    y roca de escándalo».Tropezaron porque no obedecieron el mensaje; eso es lo que Dios tenía planeado para ellos.",
+      "readableText": "Para los que no creen, esa piedra también es:«Una piedra de tropiezo y roca de escándalo».Tropezaron porque no obedecieron el mensaje; eso es lo que Dios tenía planeado para ellos."
+    },
+    {
+      "verse": "9",
+      "text": "Pero ustedes son un pueblo elegido por Dios, sacerdotes al servicio del Rey, una nación santa, y un pueblo que pertenece a Dios. Él los eligió para que anuncien las poderosas obras de aquel que los llamó a salir de la oscuridad para entrar en su luz maravillosa.",
+      "readableText": "Pero ustedes son un pueblo elegido por Dios, sacerdotes al servicio del Rey, una nación santa, y un pueblo que pertenece a Dios. Él los eligió para que anuncien las poderosas obras de aquel que los llamó a salir de la oscuridad para entrar en su luz maravillosa."
+    },
+    {
+      "verse": "10",
+      "text": "Antes, ustedes no eran ni siquiera un pueblo, pero ahora son el pueblo de Dios. Ustedes no habían recibido compasión, pero ahora han recibido la compasión de Dios.",
+      "readableText": "Antes, ustedes no eran ni siquiera un pueblo, pero ahora son el pueblo de Dios. Ustedes no habían recibido compasión, pero ahora han recibido la compasión de Dios."
+    },
+    {
+      "verse": "11",
+      "text": "Estimados hermanos, ustedes son como exiliados y refugiados en esta sociedad. Por eso les ruego que luchen para no complacer aquellos deseos humanos que van en contra de su nueva vida.",
+      "readableText": "Estimados hermanos, ustedes son como exiliados y refugiados en esta sociedad. Por eso les ruego que luchen para no complacer aquellos deseos humanos que van en contra de su nueva vida."
+    },
+    {
+      "verse": "12",
+      "text": "Ustedes viven rodeados de gente que no cree y tal vez ellos digan que ustedes hacen el mal; sin embargo, si ustedes llevan una vida honesta, ellos verán el bien que ustedes hacen y alabarán a Dios el día que él venga a juzgar a todos.",
+      "readableText": "Ustedes viven rodeados de gente que no cree y tal vez ellos digan que ustedes hacen el mal; sin embargo, si ustedes llevan una vida honesta, ellos verán el bien que ustedes hacen y alabarán a Dios el día que él venga a juzgar a todos."
+    },
+    {
+      "verse": "13",
+      "text": "Por el honor que le deben al Señor, respeten a todo ser humano: tanto al emperador, que es la máxima autoridad,",
+      "readableText": "Por el honor que le deben al Señor, respeten a todo ser humano: tanto al emperador, que es la máxima autoridad,"
+    },
+    {
+      "verse": "14",
+      "text": "como a los gobernadores que son enviados por el emperador para castigar a los que hacen el mal y elogiar a los que hacen el bien.",
+      "readableText": "como a los gobernadores que son enviados por el emperador para castigar a los que hacen el mal y elogiar a los que hacen el bien."
+    },
+    {
+      "verse": "15",
+      "text": "Dios quiere que ustedes hagan el bien para que de esa manera los insensatos dejen de hacer acusaciones ignorantes en contra de ustedes.",
+      "readableText": "Dios quiere que ustedes hagan el bien para que de esa manera los insensatos dejen de hacer acusaciones ignorantes en contra de ustedes."
+    },
+    {
+      "verse": "16",
+      "text": "Vivan como gente libre, pero no usen su libertad como excusa para hacer el mal. Vivan como siervos de Dios.",
+      "readableText": "Vivan como gente libre, pero no usen su libertad como excusa para hacer el mal. Vivan como siervos de Dios."
+    },
+    {
+      "verse": "17",
+      "text": "Respeten a todos y amen a los hermanos de la familia de Dios. Teman a Dios y den honor al emperador.",
+      "readableText": "Respeten a todos y amen a los hermanos de la familia de Dios. Teman a Dios y den honor al emperador."
+    },
+    {
+      "verse": "18",
+      "text": "Esclavos, acepten con respeto la autoridad de su amo, no importa si él es amable y bueno, o si es malo.",
+      "readableText": "Esclavos, acepten con respeto la autoridad de su amo, no importa si él es amable y bueno, o si es malo."
+    },
+    {
+      "verse": "19",
+      "text": "Pues Dios bendice a los que están dispuestos a sufrir y soportar dolor injustamente con tal de cumplir la voluntad de Dios.",
+      "readableText": "Pues Dios bendice a los que están dispuestos a sufrir y soportar dolor injustamente con tal de cumplir la voluntad de Dios."
+    },
+    {
+      "verse": "20",
+      "text": "Si son castigados por hacer el mal, no hay por qué felicitarlos cuando soporten el dolor, pero si hacen el bien y soportan con paciencia el sufrimiento, Dios los bendecirá.",
+      "readableText": "Si son castigados por hacer el mal, no hay por qué felicitarlos cuando soporten el dolor, pero si hacen el bien y soportan con paciencia el sufrimiento, Dios los bendecirá."
+    },
+    {
+      "verse": "21",
+      "text": "Dios los llamó a soportar tal sufrimiento. Es que Cristo mismo sufrió por ustedes, y así les dejó un ejemplo a seguir para que ustedes sigan sus pasos.",
+      "readableText": "Dios los llamó a soportar tal sufrimiento. Es que Cristo mismo sufrió por ustedes, y así les dejó un ejemplo a seguir para que ustedes sigan sus pasos."
+    },
+    {
+      "verse": "22",
+      "text": "«Él no cometió pecado\n    ni jamás engañó a nadie».",
+      "readableText": "«Él no cometió pecado ni jamás engañó a nadie»."
+    },
+    {
+      "verse": "23",
+      "text": "Cuando insultaban a Cristo, él no respondía con insultos, y cuando sufría no respondía con amenazas. Él dejó todo en manos de Dios, quien siempre juzga con justicia.",
+      "readableText": "Cuando insultaban a Cristo, él no respondía con insultos, y cuando sufría no respondía con amenazas. Él dejó todo en manos de Dios, quien siempre juzga con justicia."
+    },
+    {
+      "verse": "24",
+      "text": "En la cruz, Cristo cargó nuestros pecados en su propio cuerpo para apartarnos de ellos y para que vivamos como le agrada a Dios; por las heridas que él sufrió, ustedes fueron sanados.",
+      "readableText": "En la cruz, Cristo cargó nuestros pecados en su propio cuerpo para apartarnos de ellos y para que vivamos como le agrada a Dios; por las heridas que él sufrió, ustedes fueron sanados."
+    },
+    {
+      "verse": "25",
+      "text": "Ustedes eran como ovejas perdidas, pero ahora han regresado al Pastor y Protector de sus vidas.  end of footnotes\n end of crossrefs",
+      "readableText": "Ustedes eran como ovejas perdidas, pero ahora han regresado al Pastor y Protector de sus vidas. end of footnotes end of crossrefs"
+    }
+  ]
+}

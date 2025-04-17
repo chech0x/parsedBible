@@ -1,1 +1,297 @@
-{"book":"MAT","rev":"PDT","chapter":"13","verses":[{"verse":"1","text":"Ese mismo d&#237;a Jes&#250;s sali&#243; de la casa y se sent&#243; junto al lago. \n","readableText":"Ese mismo día Jesús salió de la casa y se sentó junto al lago.\n\n"},{"verse":"2","text":"Hab&#237;a tanta gente a su alrededor que tuvo que subir a una barca y se sent&#243; para ense&#241;arles, mientras la gente se quedaba en la orilla. \n","readableText":"Había tanta gente a su alrededor que tuvo que subir a una barca y se sentó para\nenseñarles, mientras la gente se quedaba en la orilla.\n\n"},{"verse":"3","text":"Les dio muchas ense&#241;anzas por medio de historias. Les dijo: &#171;&#161;Escuchen! El sembrador sali&#243; a sembrar. \n","readableText":"Les dio muchas enseñanzas por medio de historias. Les dijo: «¡Escuchen! El\nsembrador salió a sembrar.\n\n"},{"verse":"4","text":"Al esparcir las semillas, algunas cayeron en el camino; vinieron las aves y se las comieron. \n","readableText":"Al esparcir las semillas, algunas cayeron en el camino; vinieron las aves y se\nlas comieron.\n\n"},{"verse":"5","text":"Otras semillas cayeron en terreno pedregoso, donde no hab&#237;a mucha tierra. Esas semillas brotaron r&#225;pido porque la tierra no era profunda. \n","readableText":"Otras semillas cayeron en terreno pedregoso, donde no había mucha tierra. Esas\nsemillas brotaron rápido porque la tierra no era profunda.\n\n"},{"verse":"6","text":"Pero cuando sali&#243; el sol, las plantas se quemaron y como no ten&#237;an ra&#237;ces, se secaron. \n","readableText":"Pero cuando salió el sol, las plantas se quemaron y como no tenían raíces, se\nsecaron.\n\n"},{"verse":"7","text":"Otras cayeron entre espinos, crecieron con las plantas y las ahogaron. \n","readableText":"Otras cayeron entre espinos, crecieron con las plantas y las ahogaron.\n\n"},{"verse":"8","text":"Otras semillas cayeron en tierra buena y empezaron a dar fruto. Algunas plantas produjeron 100 granos m&#225;s por semilla, otras 60 y otras 30. \n","readableText":"Otras semillas cayeron en tierra buena y empezaron a dar fruto. Algunas plantas\nprodujeron 100 granos más por semilla, otras 60 y otras 30.\n\n"},{"verse":"9","text":"&#161;Oigan bien lo que les digo!&#187;   \n","readableText":"¡Oigan bien lo que les digo!»\n\n"},{"verse":"10","text":"Sus seguidores se acercaron y le preguntaron a Jes&#250;s: &#8212;&#191;Por qu&#233; ense&#241;as a la gente por medio de historias?   \n","readableText":"Sus seguidores se acercaron y le preguntaron a Jesús: —¿Por qué enseñas a la\ngente por medio de historias?\n\n"},{"verse":"11","text":"&#201;l les respondi&#243;: &#8212;Ustedes tienen el privilegio de entender la verdad que no se ha dado a conocer sobre el reino de Dios, pero ellos no. \n","readableText":"Él les respondió: —Ustedes tienen el privilegio de entender la verdad que no se\nha dado a conocer sobre el reino de Dios, pero ellos no.\n\n"},{"verse":"12","text":"Porque al que entienda algo, se le dar&#225; m&#225;s a entender y tendr&#225; m&#225;s que suficiente. Pero al que no entienda, hasta lo que entienda se le quitar&#225;. \n","readableText":"Porque al que entienda algo, se le dará más a entender y tendrá más que\nsuficiente. Pero al que no entienda, hasta lo que entienda se le quitará.\n\n"},{"verse":"13","text":"Por eso yo les hablo por medio de historias, porque aunque ellos miran, no ven nada. Oyen, pero no escuchan ni entienden nada. \n","readableText":"Por eso yo les hablo por medio de historias, porque aunque ellos miran, no ven\nnada. Oyen, pero no escuchan ni entienden nada.\n\n"},{"verse":"14","text":"De esta manera ellos muestran que era cierto lo que dijo Isa&#237;as sobre ellos: &#8220;Por m&#225;s que oigan, no entender&#225;n. Por m&#225;s que miren, no captar&#225;n.   \n","readableText":"De esta manera ellos muestran que era cierto lo que dijo Isaías sobre ellos:\n“Por más que oigan, no entenderán. Por más que miren, no captarán.\n\n"},{"verse":"15","text":"  \n","readableText":"\n\n"}]}
+{
+  "book": "MAT",
+  "rev": "PDT",
+  "chapter": "13",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "13 Ese mismo día Jesús salió de la casa y se sentó junto al lago.",
+      "readableText": "13 Ese mismo día Jesús salió de la casa y se sentó junto al lago."
+    },
+    {
+      "verse": "2",
+      "text": "Había tanta gente a su alrededor que tuvo que subir a una barca y se sentó para enseñarles, mientras la gente se quedaba en la orilla.",
+      "readableText": "Había tanta gente a su alrededor que tuvo que subir a una barca y se sentó para enseñarles, mientras la gente se quedaba en la orilla."
+    },
+    {
+      "verse": "3",
+      "text": "Les dio muchas enseñanzas por medio de historias. Les dijo:«¡Escuchen! El sembrador salió a sembrar.",
+      "readableText": "Les dio muchas enseñanzas por medio de historias. Les dijo:«¡Escuchen! El sembrador salió a sembrar."
+    },
+    {
+      "verse": "4",
+      "text": "Al esparcir las semillas, algunas cayeron en el camino; vinieron las aves y se las comieron.",
+      "readableText": "Al esparcir las semillas, algunas cayeron en el camino; vinieron las aves y se las comieron."
+    },
+    {
+      "verse": "5",
+      "text": "Otras semillas cayeron en terreno pedregoso, donde no había mucha tierra. Esas semillas brotaron rápido porque la tierra no era profunda.",
+      "readableText": "Otras semillas cayeron en terreno pedregoso, donde no había mucha tierra. Esas semillas brotaron rápido porque la tierra no era profunda."
+    },
+    {
+      "verse": "6",
+      "text": "Pero cuando salió el sol, las plantas se quemaron y como no tenían raíces, se secaron.",
+      "readableText": "Pero cuando salió el sol, las plantas se quemaron y como no tenían raíces, se secaron."
+    },
+    {
+      "verse": "7",
+      "text": "Otras cayeron entre espinos, crecieron con las plantas y las ahogaron.",
+      "readableText": "Otras cayeron entre espinos, crecieron con las plantas y las ahogaron."
+    },
+    {
+      "verse": "8",
+      "text": "Otras semillas cayeron en tierra buena y empezaron a dar fruto. Algunas plantas produjeron 100 granos más por semilla, otras 60 y otras 30.",
+      "readableText": "Otras semillas cayeron en tierra buena y empezaron a dar fruto. Algunas plantas produjeron 100 granos más por semilla, otras 60 y otras 30."
+    },
+    {
+      "verse": "9",
+      "text": "¡Oigan bien lo que les digo!» (Mr 4:10-12; Lc 8:9-10)",
+      "readableText": "¡Oigan bien lo que les digo!» (Mr 4:10-12; Lc 8:9-10)"
+    },
+    {
+      "verse": "10",
+      "text": "Sus seguidores se acercaron y le preguntaron a Jesús:—¿Por qué enseñas a la gente por medio de historias?",
+      "readableText": "Sus seguidores se acercaron y le preguntaron a Jesús:—¿Por qué enseñas a la gente por medio de historias?"
+    },
+    {
+      "verse": "11",
+      "text": "Él les respondió:—Ustedes tienen el privilegio de entender la verdad que no se ha dado a conocer sobre el reino de Dios, pero ellos no.",
+      "readableText": "Él les respondió:—Ustedes tienen el privilegio de entender la verdad que no se ha dado a conocer sobre el reino de Dios, pero ellos no."
+    },
+    {
+      "verse": "12",
+      "text": "Porque al que entienda algo, se le dará más a entender y tendrá más que suficiente. Pero al que no entienda, hasta lo que entienda se le quitará.",
+      "readableText": "Porque al que entienda algo, se le dará más a entender y tendrá más que suficiente. Pero al que no entienda, hasta lo que entienda se le quitará."
+    },
+    {
+      "verse": "13",
+      "text": "Por eso yo les hablo por medio de historias, porque aunque ellos miran, no ven nada. Oyen, pero no escuchan ni entienden nada.",
+      "readableText": "Por eso yo les hablo por medio de historias, porque aunque ellos miran, no ven nada. Oyen, pero no escuchan ni entienden nada."
+    },
+    {
+      "verse": "14",
+      "text": "De esta manera ellos muestran que era cierto lo que dijo Isaías sobre ellos:“Por más que oigan, no entenderán.\n    Por más que miren, no captarán.",
+      "readableText": "De esta manera ellos muestran que era cierto lo que dijo Isaías sobre ellos:“Por más que oigan, no entenderán. Por más que miren, no captarán."
+    },
+    {
+      "verse": "15",
+      "text": "Han cerrado su mente,\n    se taparon los oídos\n    y cerraron los ojos.\nSi no fuera así, entenderían lo que ven\n    y lo que oyen.\nSe volverían a mí\n    y yo los sanaría”.",
+      "readableText": "Han cerrado su mente, se taparon los oídos y cerraron los ojos. Si no fuera así, entenderían lo que ven y lo que oyen. Se volverían a mí y yo los sanaría”."
+    },
+    {
+      "verse": "16",
+      "text": "»Pero ustedes son afortunados porque pueden ver lo que hago y oír lo que enseño.",
+      "readableText": "»Pero ustedes son afortunados porque pueden ver lo que hago y oír lo que enseño."
+    },
+    {
+      "verse": "17",
+      "text": "Les digo la verdad: muchos profetas y otros justos quisieron ver lo que ustedes ven, pero no lo vieron; también quisieron oír lo que ustedes oyen, pero no lo oyeron. (Mr 4:13-20; Lc 8:11-15)",
+      "readableText": "Les digo la verdad: muchos profetas y otros justos quisieron ver lo que ustedes ven, pero no lo vieron; también quisieron oír lo que ustedes oyen, pero no lo oyeron. (Mr 4:13-20; Lc 8:11-15)"
+    },
+    {
+      "verse": "18",
+      "text": "»Ahora escuchen lo que significa la historia del sembrador:",
+      "readableText": "»Ahora escuchen lo que significa la historia del sembrador:"
+    },
+    {
+      "verse": "19",
+      "text": "¿Qué significa la semilla que cae en el camino? Esa semilla es como algunos que oyen el mensaje del reino y no lo entienden. Viene el maligno y quita lo sembrado en ellos.",
+      "readableText": "¿Qué significa la semilla que cae en el camino? Esa semilla es como algunos que oyen el mensaje del reino y no lo entienden. Viene el maligno y quita lo sembrado en ellos."
+    },
+    {
+      "verse": "20",
+      "text": "¿Qué significa la semilla que cae en el terreno pedregoso? Esa semilla es como aquellos que oyen el mensaje y lo aceptan rápidamente con alegría,",
+      "readableText": "¿Qué significa la semilla que cae en el terreno pedregoso? Esa semilla es como aquellos que oyen el mensaje y lo aceptan rápidamente con alegría,"
+    },
+    {
+      "verse": "21",
+      "text": "pero no tienen raíz en sí y duran poco tiempo. Cuando surgen los problemas o la persecución por causa del mensaje, inmediatamente se dan por vencidos.",
+      "readableText": "pero no tienen raíz en sí y duran poco tiempo. Cuando surgen los problemas o la persecución por causa del mensaje, inmediatamente se dan por vencidos."
+    },
+    {
+      "verse": "22",
+      "text": "¿Qué significa la semilla que cae entre los espinos? Es como aquellos que oyen el mensaje, pero dejan que las preocupaciones de esta vida y el engaño de las riquezas ahoguen el mensaje y se vuelven estériles.",
+      "readableText": "¿Qué significa la semilla que cae entre los espinos? Es como aquellos que oyen el mensaje, pero dejan que las preocupaciones de esta vida y el engaño de las riquezas ahoguen el mensaje y se vuelven estériles."
+    },
+    {
+      "verse": "23",
+      "text": "¿Y qué significa la semilla que cae en tierra buena? Esa semilla son los que aceptan el mensaje, lo entienden y producen una buena cosecha. Darán mucho más de lo sembrado, hasta 100, 60 y 30 veces más».",
+      "readableText": "¿Y qué significa la semilla que cae en tierra buena? Esa semilla son los que aceptan el mensaje, lo entienden y producen una buena cosecha. Darán mucho más de lo sembrado, hasta 100, 60 y 30 veces más»."
+    },
+    {
+      "verse": "24",
+      "text": "Entonces Jesús les contó otra historia: «El reino de Dios se puede comparar con un hombre que un día sembró buena semilla en su campo.",
+      "readableText": "Entonces Jesús les contó otra historia: «El reino de Dios se puede comparar con un hombre que un día sembró buena semilla en su campo."
+    },
+    {
+      "verse": "25",
+      "text": "Pero por la noche, cuando todos estaban durmiendo, vino su enemigo y sembró mala hierba entre el trigo, y luego se fue.",
+      "readableText": "Pero por la noche, cuando todos estaban durmiendo, vino su enemigo y sembró mala hierba entre el trigo, y luego se fue."
+    },
+    {
+      "verse": "26",
+      "text": "Cuando el trigo creció y dio sus granos, también creció la mala hierba.",
+      "readableText": "Cuando el trigo creció y dio sus granos, también creció la mala hierba."
+    },
+    {
+      "verse": "27",
+      "text": "Entonces los siervos del dueño de la cosecha se acercaron a él y le dijeron: “Señor, usted plantó semillas buenas, ¿no es cierto? Entonces, ¿por qué hay hierbas malas?”",
+      "readableText": "Entonces los siervos del dueño de la cosecha se acercaron a él y le dijeron: “Señor, usted plantó semillas buenas, ¿no es cierto? Entonces, ¿por qué hay hierbas malas?”"
+    },
+    {
+      "verse": "28",
+      "text": "Él les dijo: “Eso lo hizo un enemigo mío”. Los siervos preguntaron: “¿Quiere que salgamos y quitemos la mala hierba?”",
+      "readableText": "Él les dijo: “Eso lo hizo un enemigo mío”. Los siervos preguntaron: “¿Quiere que salgamos y quitemos la mala hierba?”"
+    },
+    {
+      "verse": "29",
+      "text": "El dueño dijo: “No, porque cuando estén arrancando la mala hierba también pueden arrancar el trigo.",
+      "readableText": "El dueño dijo: “No, porque cuando estén arrancando la mala hierba también pueden arrancar el trigo."
+    },
+    {
+      "verse": "30",
+      "text": "Dejen que ambos crezcan juntos hasta el día de la cosecha. Cuando llegue ese día, les ordenaré a los que recogen la cosecha que primero recojan la mala hierba y hagan un bulto para quemarlo y que después pongan el trigo en mi granero”». (Mr 4:30-34; Lc 13:18-21)",
+      "readableText": "Dejen que ambos crezcan juntos hasta el día de la cosecha. Cuando llegue ese día, les ordenaré a los que recogen la cosecha que primero recojan la mala hierba y hagan un bulto para quemarlo y que después pongan el trigo en mi granero”». (Mr 4:30-34; Lc 13:18-21)"
+    },
+    {
+      "verse": "31",
+      "text": "Después, Jesús les contó otra historia: «El reino de Dios se puede comparar con una semilla de mostaza que un hombre sembró en su campo.",
+      "readableText": "Después, Jesús les contó otra historia: «El reino de Dios se puede comparar con una semilla de mostaza que un hombre sembró en su campo."
+    },
+    {
+      "verse": "32",
+      "text": "Esta semilla es la más pequeña de todas, pero cuando crece, se vuelve la planta más grande del campo. Se hace árbol a tal punto que vienen las aves y hacen nidos en sus ramas».",
+      "readableText": "Esta semilla es la más pequeña de todas, pero cuando crece, se vuelve la planta más grande del campo. Se hace árbol a tal punto que vienen las aves y hacen nidos en sus ramas»."
+    },
+    {
+      "verse": "33",
+      "text": "Les dijo otra historia: «El reino de Dios se puede comparar con la levadura que una mujer mezcla con mucha harina. Al final toda la masa queda fermentada».",
+      "readableText": "Les dijo otra historia: «El reino de Dios se puede comparar con la levadura que una mujer mezcla con mucha harina. Al final toda la masa queda fermentada»."
+    },
+    {
+      "verse": "34",
+      "text": "Jesús le dijo todo esto a la gente por medio de historias, y si no era por medio de historias no les hablaba.",
+      "readableText": "Jesús le dijo todo esto a la gente por medio de historias, y si no era por medio de historias no les hablaba."
+    },
+    {
+      "verse": "35",
+      "text": "Esto es lo mismo que dijo el profeta:«Yo hablaré por medio de historias;\n    contaré cosas que han estado en secreto desde la creación del mundo».",
+      "readableText": "Esto es lo mismo que dijo el profeta:«Yo hablaré por medio de historias; contaré cosas que han estado en secreto desde la creación del mundo»."
+    },
+    {
+      "verse": "36",
+      "text": "Luego, Jesús despidió a la gente y entró a la casa. Sus seguidores se acercaron y le pidieron:—Explícanos la historia de la mala hierba del campo.",
+      "readableText": "Luego, Jesús despidió a la gente y entró a la casa. Sus seguidores se acercaron y le pidieron:—Explícanos la historia de la mala hierba del campo."
+    },
+    {
+      "verse": "37",
+      "text": "Jesús les respondió:—El que planta la semilla buena en el campo es el Hijo del hombre.",
+      "readableText": "Jesús les respondió:—El que planta la semilla buena en el campo es el Hijo del hombre."
+    },
+    {
+      "verse": "38",
+      "text": "El campo es el mundo y la semilla buena son todos los hijos del reino de Dios. La mala hierba es la gente que está con el maligno.",
+      "readableText": "El campo es el mundo y la semilla buena son todos los hijos del reino de Dios. La mala hierba es la gente que está con el maligno."
+    },
+    {
+      "verse": "39",
+      "text": "El enemigo que puso la mala hierba entre el trigo es el diablo. La cosecha es el fin del mundo y los que recogen la cosecha son los ángeles.",
+      "readableText": "El enemigo que puso la mala hierba entre el trigo es el diablo. La cosecha es el fin del mundo y los que recogen la cosecha son los ángeles."
+    },
+    {
+      "verse": "40",
+      "text": "Lo mismo que le pasa a la mala hierba que se saca y se quema en el fuego, va a suceder al fin del mundo.",
+      "readableText": "Lo mismo que le pasa a la mala hierba que se saca y se quema en el fuego, va a suceder al fin del mundo."
+    },
+    {
+      "verse": "41",
+      "text": "El Hijo del hombre enviará a sus ángeles y ellos van a juntar a todos los perversos y a los que hacían pecar a los demás y los expulsará de su reino.",
+      "readableText": "El Hijo del hombre enviará a sus ángeles y ellos van a juntar a todos los perversos y a los que hacían pecar a los demás y los expulsará de su reino."
+    },
+    {
+      "verse": "42",
+      "text": "Los echarán al horno encendido donde gritarán y crujirán los dientes de dolor.",
+      "readableText": "Los echarán al horno encendido donde gritarán y crujirán los dientes de dolor."
+    },
+    {
+      "verse": "43",
+      "text": "Entonces los justos brillarán como el sol en el reino de su Padre. ¡Oigan bien lo que les digo!",
+      "readableText": "Entonces los justos brillarán como el sol en el reino de su Padre. ¡Oigan bien lo que les digo!"
+    },
+    {
+      "verse": "44",
+      "text": "»El reino de Dios se puede comparar con un tesoro escondido en un campo. Un día, un hombre encontró el tesoro y lo escondió allí otra vez. Estaba tan feliz que fue y vendió todo lo que tenía y compró ese terreno.",
+      "readableText": "»El reino de Dios se puede comparar con un tesoro escondido en un campo. Un día, un hombre encontró el tesoro y lo escondió allí otra vez. Estaba tan feliz que fue y vendió todo lo que tenía y compró ese terreno."
+    },
+    {
+      "verse": "45",
+      "text": "»El reino de Dios también se puede comparar con un vendedor que buscaba perlas finas.",
+      "readableText": "»El reino de Dios también se puede comparar con un vendedor que buscaba perlas finas."
+    },
+    {
+      "verse": "46",
+      "text": "Cuando el vendedor encontró una perla muy costosa, fue y vendió todo lo que tenía y la compró.",
+      "readableText": "Cuando el vendedor encontró una perla muy costosa, fue y vendió todo lo que tenía y la compró."
+    },
+    {
+      "verse": "47",
+      "text": "»También, el reino de Dios se puede comparar con una red para pescar que se lanza al mar y en la que caen muchos peces de diferentes clases.",
+      "readableText": "»También, el reino de Dios se puede comparar con una red para pescar que se lanza al mar y en la que caen muchos peces de diferentes clases."
+    },
+    {
+      "verse": "48",
+      "text": "Cuando la red está llena, los pescadores la llevan a la orilla. Se sientan allí y eligen los peces buenos y los meten en canastas pero tiran a los peces malos.",
+      "readableText": "Cuando la red está llena, los pescadores la llevan a la orilla. Se sientan allí y eligen los peces buenos y los meten en canastas pero tiran a los peces malos."
+    },
+    {
+      "verse": "49",
+      "text": "Lo mismo va a pasar cuando llegue el fin del mundo. Los ángeles van a venir y van a separar a los malos de los justos.",
+      "readableText": "Lo mismo va a pasar cuando llegue el fin del mundo. Los ángeles van a venir y van a separar a los malos de los justos."
+    },
+    {
+      "verse": "50",
+      "text": "A los malos los van a lanzar a las llamas del fuego y llorarán y crujirán los dientes.",
+      "readableText": "A los malos los van a lanzar a las llamas del fuego y llorarán y crujirán los dientes."
+    },
+    {
+      "verse": "51",
+      "text": "Jesús les preguntó:—¿Entienden todo esto?Ellos contestaron.—Sí entendemos.",
+      "readableText": "Jesús les preguntó:—¿Entienden todo esto?Ellos contestaron.—Sí entendemos."
+    },
+    {
+      "verse": "52",
+      "text": "Él les dijo:—Bueno, todo maestro de la ley que ha aprendido sobre el reino de Dios es como el dueño de una casa. De lo que tiene guardado saca cosas nuevas y cosas antiguas. (Mr 6:1-6; Lc 4:16-30)",
+      "readableText": "Él les dijo:—Bueno, todo maestro de la ley que ha aprendido sobre el reino de Dios es como el dueño de una casa. De lo que tiene guardado saca cosas nuevas y cosas antiguas. (Mr 6:1-6; Lc 4:16-30)"
+    },
+    {
+      "verse": "53",
+      "text": "Cuando Jesús terminó de enseñar por medio de esas historias, se fue de ahí",
+      "readableText": "Cuando Jesús terminó de enseñar por medio de esas historias, se fue de ahí"
+    },
+    {
+      "verse": "54",
+      "text": "para su pueblo. Allí comenzó a enseñarles en la sinagoga. La gente estaba sorprendida y decía:—¿De dónde sacó este hombre la sabiduría y el poder para hacer estos milagros?",
+      "readableText": "para su pueblo. Allí comenzó a enseñarles en la sinagoga. La gente estaba sorprendida y decía:—¿De dónde sacó este hombre la sabiduría y el poder para hacer estos milagros?"
+    },
+    {
+      "verse": "55",
+      "text": "¿No es este el hijo del carpintero? ¿No se llama su mamá María y sus hermanos Santiago, José, Simón y Judas?",
+      "readableText": "¿No es este el hijo del carpintero? ¿No se llama su mamá María y sus hermanos Santiago, José, Simón y Judas?"
+    },
+    {
+      "verse": "56",
+      "text": "¿Acaso no están todas sus hermanas aquí con nosotros? Entonces, ¿de dónde sacó este toda esta sabiduría y poder?",
+      "readableText": "¿Acaso no están todas sus hermanas aquí con nosotros? Entonces, ¿de dónde sacó este toda esta sabiduría y poder?"
+    },
+    {
+      "verse": "57",
+      "text": "Y ellos no podían aceptarlo, pero Jesús les dijo:—Se honra a un profeta en todas partes, pero nadie es profeta en su propio pueblo y en su propia casa.",
+      "readableText": "Y ellos no podían aceptarlo, pero Jesús les dijo:—Se honra a un profeta en todas partes, pero nadie es profeta en su propio pueblo y en su propia casa."
+    },
+    {
+      "verse": "58",
+      "text": "Debido a la falta de fe de ellos, no hizo muchos milagros allí.  end of footnotes\n end of crossrefs",
+      "readableText": "Debido a la falta de fe de ellos, no hizo muchos milagros allí. end of footnotes end of crossrefs"
+    }
+  ]
+}

@@ -1,1 +1,72 @@
-{"book":"PSA","rev":"PDT","chapter":"39","verses":[{"verse":"1","text":"Yo dije: &#171;Ser&#233; cuidadoso con lo que haga, cuidar&#233; mis palabras; mantendr&#233; mi boca cerrada cuando est&#233; rodeado de perversos&#187;.   \n","readableText":"Yo dije: «Seré cuidadoso con lo que haga, cuidaré mis palabras; mantendré mi\nboca cerrada cuando esté rodeado de perversos».\n\n"},{"verse":"2","text":"As&#237; que no dije nada. Ni siquiera dije cosas buenas. Pero me sent&#237;a aun peor.   \n","readableText":"Así que no dije nada. Ni siquiera dije cosas buenas. Pero me sentía aun peor.\n\n\n"},{"verse":"3","text":"Estaba furioso, y entre m&#225;s lo pensaba, m&#225;s molesto estaba. As&#237; que decid&#237; hablar:   \n","readableText":"Estaba furioso, y entre más lo pensaba, más molesto estaba. Así que decidí\nhablar:\n\n"},{"verse":"4","text":"&#171;SE&#209;OR, dime qu&#233; pasar&#225; ahora. Dime cu&#225;nto tiempo me queda de vida. Quiero saber qu&#233; tan corta ser&#225; mi vida.   \n","readableText":"«SEÑOR, dime qué pasará ahora. Dime cuánto tiempo me queda de vida. Quiero\nsaber qué tan corta será mi vida.\n\n"},{"verse":"5","text":"T&#250; hiciste que mis d&#237;as fueran s&#243;lo un suspiro. Mi corta vida no es nada ante ti; la vida de los seres humanos es como una nube.  Selah   \n","readableText":"Tú hiciste que mis días fueran sólo un suspiro. Mi corta vida no es nada ante\nti; la vida de los seres humanos es como una nube. Selah\n\n"},{"verse":"6","text":"&#187;La vida de los seres humanos es un simple reflejo en un espejo; desaparece r&#225;pidamente. Nos afanamos por acumular cosas sin saber qui&#233;n se quedar&#225; con ellas.   \n","readableText":"»La vida de los seres humanos es un simple reflejo en un espejo; desaparece\nrápidamente. Nos afanamos por acumular cosas sin saber quién se quedará con\nellas.\n\n"},{"verse":"7","text":"&#187;As&#237; que, Se&#241;or, &#191;qu&#233; esperanza me queda? &#161;T&#250; y s&#243;lo t&#250; eres mi esperanza!   \n","readableText":"»Así que, Señor, ¿qué esperanza me queda? ¡Tú y sólo tú eres mi esperanza!\n\n"},{"verse":"8","text":"T&#250; me salvas de las rebeliones que he cometido. No permitas que se burlen de m&#237; como de un tonto.   \n","readableText":"Tú me salvas de las rebeliones que he cometido. No permitas que se burlen de mí\ncomo de un tonto.\n\n"},{"verse":"9","text":"No pronunciar&#233; ni una sola palabra; no dir&#233; nada. T&#250; har&#225;s lo que deba hacerse.   \n","readableText":"No pronunciaré ni una sola palabra; no diré nada. Tú harás lo que deba hacerse.\n\n\n"},{"verse":"10","text":"Deja de castigarme; me destruir&#225;s si no te detienes.   \n","readableText":"Deja de castigarme; me destruirás si no te detienes.\n\n"},{"verse":"11","text":"T&#250; castigas a la gente por su maldad, consumiendo como polilla sus tesoros para ense&#241;arle la forma en que debe vivir. Las cosas que la gente busca y atesora desaparecen f&#225;cilmente. Nuestra vida es como una nube de humo.  Selah   \n","readableText":"Tú castigas a la gente por su maldad, consumiendo como polilla sus tesoros para\nenseñarle la forma en que debe vivir. Las cosas que la gente busca y atesora\ndesaparecen fácilmente. Nuestra vida es como una nube de humo. Selah\n\n"},{"verse":"12","text":"&#187;SE&#209;OR, escucha mi oraci&#243;n. Escucha mis lamentos. No ignores mis l&#225;grimas. Soy s&#243;lo un viajero que pasa por esta vida contigo. Como todos mis antepasados, soy s&#243;lo un habitante temporal de este mundo.   \n","readableText":"»SEÑOR, escucha mi oración. Escucha mis lamentos. No ignores mis lágrimas. Soy\nsólo un viajero que pasa por esta vida contigo. Como todos mis antepasados, soy\nsólo un habitante temporal de este mundo.\n\n"},{"verse":"13","text":"D&#233;jame solo  y d&#233;jame ser feliz antes de morir&#187;.\n","readableText":"Déjame solo y déjame ser feliz antes de morir».\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "39",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Yo dije: «Seré cuidadoso con lo que haga,\n    cuidaré mis palabras;\nmantendré mi boca cerrada\n    cuando esté rodeado de perversos».",
+      "readableText": "Yo dije: «Seré cuidadoso con lo que haga, cuidaré mis palabras; mantendré mi boca cerrada cuando esté rodeado de perversos»."
+    },
+    {
+      "verse": "2",
+      "text": "Así que no dije nada.\n    Ni siquiera dije cosas buenas.\n    Pero me sentía aun peor.",
+      "readableText": "Así que no dije nada. Ni siquiera dije cosas buenas. Pero me sentía aun peor."
+    },
+    {
+      "verse": "3",
+      "text": "Estaba furioso,\n    y entre más lo pensaba, más molesto estaba.\n    Así que decidí hablar:",
+      "readableText": "Estaba furioso, y entre más lo pensaba, más molesto estaba. Así que decidí hablar:"
+    },
+    {
+      "verse": "4",
+      "text": "«SEÑOR, dime qué pasará ahora.\n    Dime cuánto tiempo me queda de vida.\n    Quiero saber qué tan corta será mi vida.",
+      "readableText": "«SEÑOR, dime qué pasará ahora. Dime cuánto tiempo me queda de vida. Quiero saber qué tan corta será mi vida."
+    },
+    {
+      "verse": "5",
+      "text": "Tú hiciste que mis días fueran sólo un suspiro.\n    Mi corta vida no es nada ante ti;\n    la vida de los seres humanos es como una nube. Selah",
+      "readableText": "Tú hiciste que mis días fueran sólo un suspiro. Mi corta vida no es nada ante ti; la vida de los seres humanos es como una nube. Selah"
+    },
+    {
+      "verse": "6",
+      "text": "»La vida de los seres humanos es un simple reflejo en un espejo;\n    desaparece rápidamente.\nNos afanamos por acumular cosas\n    sin saber quién se quedará con ellas.",
+      "readableText": "»La vida de los seres humanos es un simple reflejo en un espejo; desaparece rápidamente. Nos afanamos por acumular cosas sin saber quién se quedará con ellas."
+    },
+    {
+      "verse": "7",
+      "text": "»Así que, Señor, ¿qué esperanza me queda?\n    ¡Tú y sólo tú eres mi esperanza!",
+      "readableText": "»Así que, Señor, ¿qué esperanza me queda? ¡Tú y sólo tú eres mi esperanza!"
+    },
+    {
+      "verse": "8",
+      "text": "Tú me salvas de las rebeliones que he cometido.\n    No permitas que se burlen de mí como de un tonto.",
+      "readableText": "Tú me salvas de las rebeliones que he cometido. No permitas que se burlen de mí como de un tonto."
+    },
+    {
+      "verse": "9",
+      "text": "No pronunciaré ni una sola palabra; no diré nada.\n    Tú harás lo que deba hacerse.",
+      "readableText": "No pronunciaré ni una sola palabra; no diré nada. Tú harás lo que deba hacerse."
+    },
+    {
+      "verse": "10",
+      "text": "Deja de castigarme;\n    me destruirás si no te detienes.",
+      "readableText": "Deja de castigarme; me destruirás si no te detienes."
+    },
+    {
+      "verse": "11",
+      "text": "Tú castigas a la gente por su maldad,\n    consumiendo como polilla sus tesoros\n    para enseñarle la forma en que debe vivir.\nLas cosas que la gente busca y atesora desaparecen fácilmente.\n    Nuestra vida es como una nube de humo. Selah",
+      "readableText": "Tú castigas a la gente por su maldad, consumiendo como polilla sus tesoros para enseñarle la forma en que debe vivir. Las cosas que la gente busca y atesora desaparecen fácilmente. Nuestra vida es como una nube de humo. Selah"
+    },
+    {
+      "verse": "12",
+      "text": "»SEÑOR, escucha mi oración.\n    Escucha mis lamentos.\n    No ignores mis lágrimas.\nSoy sólo un viajero\n    que pasa por esta vida contigo.\nComo todos mis antepasados,\n    soy sólo un habitante temporal de este mundo.",
+      "readableText": "»SEÑOR, escucha mi oración. Escucha mis lamentos. No ignores mis lágrimas. Soy sólo un viajero que pasa por esta vida contigo. Como todos mis antepasados, soy sólo un habitante temporal de este mundo."
+    },
+    {
+      "verse": "13",
+      "text": "Déjame solo y déjame ser feliz\n    antes de morir».  end of footnotes",
+      "readableText": "Déjame solo y déjame ser feliz antes de morir». end of footnotes"
+    }
+  ]
+}

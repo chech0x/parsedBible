@@ -1,1 +1,57 @@
-{"book":"PSA","rev":"PDT","chapter":"64","verses":[{"verse":"1","text":"Dios m&#237;o, escucha mi queja, prot&#233;geme de las amenazas de mis enemigos.   \n","readableText":"Dios mío, escucha mi queja, protégeme de las amenazas de mis enemigos.\n\n"},{"verse":"2","text":"Prot&#233;geme de los planes secretos de los delincuentes; esc&#243;ndeme de esa pandilla de perversos.   \n","readableText":"Protégeme de los planes secretos de los delincuentes; escóndeme de esa pandilla\nde perversos.\n\n"},{"verse":"3","text":"Afilan su lengua como afilar una espada; lanzan palabras venenosas como si fueran flechas.   \n","readableText":"Afilan su lengua como afilar una espada; lanzan palabras venenosas como si\nfueran flechas.\n\n"},{"verse":"4","text":"De repente disparan flechas contra gente inocente; nadie los ve en sus escondites.   \n","readableText":"De repente disparan flechas contra gente inocente; nadie los ve en sus\nescondites.\n\n"},{"verse":"5","text":"Se animan unos a otros a hacer el mal. Planean juntos c&#243;mo tender sus trampas a los dem&#225;s y est&#225;n seguros de que nadie podr&#225; descubrirlos.   \n","readableText":"Se animan unos a otros a hacer el mal. Planean juntos cómo tender sus trampas a\nlos demás y están seguros de que nadie podrá descubrirlos.\n\n"},{"verse":"6","text":"Ellos planean hacer injusticias, hacen investigaciones minuciosas. El ser humano puede llegar a ser muy malo, es muy dif&#237;cil saber qu&#233; es lo que realmente est&#225; pensando.   \n","readableText":"Ellos planean hacer injusticias, hacen investigaciones minuciosas. El ser\nhumano puede llegar a ser muy malo, es muy difícil saber qué es lo que\nrealmente está pensando.\n\n"},{"verse":"7","text":"Pero Dios les lanzar&#225; sus flechas, caer&#225;n heridos sin previo aviso.   \n","readableText":"Pero Dios les lanzará sus flechas, caerán heridos sin previo aviso.\n\n"},{"verse":"8","text":"Sus propias palabras los har&#225;n caer, el que los vea se burlar&#225; de ellos.   \n","readableText":"Sus propias palabras los harán caer, el que los vea se burlará de ellos.\n\n"},{"verse":"9","text":"Todo el mundo ver&#225; lo que Dios es capaz de hacer y se lo contar&#225; a los dem&#225;s. As&#237; todos conocer&#225;n lo que Dios es capaz de hacer.   \n","readableText":"Todo el mundo verá lo que Dios es capaz de hacer y se lo contará a los demás.\nAsí todos conocerán lo que Dios es capaz de hacer.\n\n"},{"verse":"10","text":"Los justos conf&#237;an en Dios, y el SE&#209;OR les da refugio. La gente honesta se sentir&#225; bien.\n","readableText":"Los justos confían en Dios, y el SEÑOR les da refugio. La gente honesta se\nsentirá bien.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "64",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Dios mío, escucha mi queja,\n    protégeme de las amenazas de mis enemigos.",
+      "readableText": "Dios mío, escucha mi queja, protégeme de las amenazas de mis enemigos."
+    },
+    {
+      "verse": "2",
+      "text": "Protégeme de los planes secretos de los delincuentes;\n    escóndeme de esa pandilla de perversos.",
+      "readableText": "Protégeme de los planes secretos de los delincuentes; escóndeme de esa pandilla de perversos."
+    },
+    {
+      "verse": "3",
+      "text": "Afilan su lengua como afilar una espada;\n    lanzan palabras venenosas como si fueran flechas.",
+      "readableText": "Afilan su lengua como afilar una espada; lanzan palabras venenosas como si fueran flechas."
+    },
+    {
+      "verse": "4",
+      "text": "De repente disparan flechas contra gente inocente;\n    nadie los ve en sus escondites.",
+      "readableText": "De repente disparan flechas contra gente inocente; nadie los ve en sus escondites."
+    },
+    {
+      "verse": "5",
+      "text": "Se animan unos a otros a hacer el mal.\n    Planean juntos cómo tender sus trampas a los demás\n    y están seguros de que nadie podrá descubrirlos.",
+      "readableText": "Se animan unos a otros a hacer el mal. Planean juntos cómo tender sus trampas a los demás y están seguros de que nadie podrá descubrirlos."
+    },
+    {
+      "verse": "6",
+      "text": "Ellos planean hacer injusticias,\n    hacen investigaciones minuciosas.\nEl ser humano puede llegar a ser muy malo,\n    es muy difícil saber qué es lo que realmente está pensando.",
+      "readableText": "Ellos planean hacer injusticias, hacen investigaciones minuciosas. El ser humano puede llegar a ser muy malo, es muy difícil saber qué es lo que realmente está pensando."
+    },
+    {
+      "verse": "7",
+      "text": "Pero Dios les lanzará sus flechas,\n    caerán heridos sin previo aviso.",
+      "readableText": "Pero Dios les lanzará sus flechas, caerán heridos sin previo aviso."
+    },
+    {
+      "verse": "8",
+      "text": "Sus propias palabras los harán caer,\n    el que los vea se burlará de ellos.",
+      "readableText": "Sus propias palabras los harán caer, el que los vea se burlará de ellos."
+    },
+    {
+      "verse": "9",
+      "text": "Todo el mundo verá lo que Dios es capaz de hacer\n    y se lo contará a los demás.\n    Así todos conocerán lo que Dios es capaz de hacer.",
+      "readableText": "Todo el mundo verá lo que Dios es capaz de hacer y se lo contará a los demás. Así todos conocerán lo que Dios es capaz de hacer."
+    },
+    {
+      "verse": "10",
+      "text": "Los justos confían en Dios,\n    y el SEÑOR les da refugio.\n    La gente honesta se sentirá bien.",
+      "readableText": "Los justos confían en Dios, y el SEÑOR les da refugio. La gente honesta se sentirá bien."
+    }
+  ]
+}

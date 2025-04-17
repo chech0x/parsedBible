@@ -1,1 +1,67 @@
-{"book":"PSA","rev":"PDT","chapter":"30","verses":[{"verse":"1","text":"SE&#209;OR, yo te alabo porque t&#250; me sacaste del peligro y no les diste motivo a mis enemigos de alegrarse con mi desgracia.   \n","readableText":"SEÑOR, yo te alabo porque tú me sacaste del peligro y no les diste motivo a mis\nenemigos de alegrarse con mi desgracia.\n\n"},{"verse":"2","text":"SE&#209;OR Dios m&#237;o, clam&#233; por tu ayuda y t&#250; me sanaste.   \n","readableText":"SEÑOR Dios mío, clamé por tu ayuda y tú me sanaste.\n\n"},{"verse":"3","text":"SE&#209;OR, t&#250; me sacaste del lugar de la muerte ; estaba al borde de la tumba y me diste vida.   \n","readableText":"SEÑOR, tú me sacaste del lugar de la muerte ; estaba al borde de la tumba y me\ndiste vida.\n\n"},{"verse":"4","text":"Que cante al SE&#209;OR todo su pueblo fiel y honre su sagrado nombre.   \n","readableText":"Que cante al SEÑOR todo su pueblo fiel y honre su sagrado nombre.\n\n"},{"verse":"5","text":"Porque su enojo dura s&#243;lo por un momento, pero luego su favor sigue dando vida. Por la noche hubo llanto, pero al amanecer hubo canto.   \n","readableText":"Porque su enojo dura sólo por un momento, pero luego su favor sigue dando vida.\nPor la noche hubo llanto, pero al amanecer hubo canto.\n\n"},{"verse":"6","text":"Yo pensaba, muy seguro, que nada pod&#237;a vencerme.   \n","readableText":"Yo pensaba, muy seguro, que nada podía vencerme.\n\n"},{"verse":"7","text":"Mientras me mostraste tu bondad me sent&#237;a invencible,  SE&#209;OR. Pero cuando te alejaste de m&#237;, me invadi&#243; el miedo.   \n","readableText":"Mientras me mostraste tu bondad me sentía invencible, SEÑOR. Pero cuando te\nalejaste de mí, me invadió el miedo.\n\n"},{"verse":"8","text":"SE&#209;OR, entonces te ped&#237; ayuda; implor&#233; tu compasi&#243;n, Se&#241;or.   \n","readableText":"SEÑOR, entonces te pedí ayuda; imploré tu compasión, Señor.\n\n"},{"verse":"9","text":"&#191;De qu&#233; servir&#237;a que yo muriera, que descienda al sepulcro? El polvo no puede alabarte ni puede hablarle a otros de tu bondad.   \n","readableText":"¿De qué serviría que yo muriera, que descienda al sepulcro? El polvo no puede\nalabarte ni puede hablarle a otros de tu bondad.\n\n"},{"verse":"10","text":"SE&#209;OR, escucha mi oraci&#243;n y mu&#233;strame tu compasi&#243;n. &#161;Ay&#250;dame, SE&#209;OR!   \n","readableText":"SEÑOR, escucha mi oración y muéstrame tu compasión. ¡Ayúdame, SEÑOR!\n\n"},{"verse":"11","text":"Entonces t&#250; cambiaste mi tristeza en baile. Me quitaste el luto y me vestiste de alegr&#237;a.   \n","readableText":"Entonces tú cambiaste mi tristeza en baile. Me quitaste el luto y me vestiste\nde alegría.\n\n"},{"verse":"12","text":"Que todo mi ser te alabe, te alabar&#233; por siempre, SE&#209;OR.\n","readableText":"Que todo mi ser te alabe, te alabaré por siempre, SEÑOR.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "30",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "SEÑOR, yo te alabo porque tú me sacaste del peligro\n    y no les diste motivo a mis enemigos de alegrarse con mi desgracia.",
+      "readableText": "SEÑOR, yo te alabo porque tú me sacaste del peligro y no les diste motivo a mis enemigos de alegrarse con mi desgracia."
+    },
+    {
+      "verse": "2",
+      "text": "SEÑOR Dios mío, clamé por tu ayuda\n    y tú me sanaste.",
+      "readableText": "SEÑOR Dios mío, clamé por tu ayuda y tú me sanaste."
+    },
+    {
+      "verse": "3",
+      "text": "SEÑOR, tú me sacaste del lugar de la muerte;\n    estaba al borde de la tumba y me diste vida.",
+      "readableText": "SEÑOR, tú me sacaste del lugar de la muerte; estaba al borde de la tumba y me diste vida."
+    },
+    {
+      "verse": "4",
+      "text": "Que cante al SEÑOR todo su pueblo fiel\n    y honre su sagrado nombre.",
+      "readableText": "Que cante al SEÑOR todo su pueblo fiel y honre su sagrado nombre."
+    },
+    {
+      "verse": "5",
+      "text": "Porque su enojo dura sólo por un momento,\n    pero luego su favor sigue dando vida.\nPor la noche hubo llanto,\n    pero al amanecer hubo canto.",
+      "readableText": "Porque su enojo dura sólo por un momento, pero luego su favor sigue dando vida. Por la noche hubo llanto, pero al amanecer hubo canto."
+    },
+    {
+      "verse": "6",
+      "text": "Yo pensaba, muy seguro,\n    que nada podía vencerme.",
+      "readableText": "Yo pensaba, muy seguro, que nada podía vencerme."
+    },
+    {
+      "verse": "7",
+      "text": "Mientras me mostraste tu bondad\n    me sentía invencible, SEÑOR.\nPero cuando te alejaste de mí,\n    me invadió el miedo.",
+      "readableText": "Mientras me mostraste tu bondad me sentía invencible, SEÑOR. Pero cuando te alejaste de mí, me invadió el miedo."
+    },
+    {
+      "verse": "8",
+      "text": "SEÑOR, entonces te pedí ayuda;\n    imploré tu compasión, Señor.",
+      "readableText": "SEÑOR, entonces te pedí ayuda; imploré tu compasión, Señor."
+    },
+    {
+      "verse": "9",
+      "text": "¿De qué serviría que yo muriera,\n    que descienda al sepulcro?\nEl polvo no puede alabarte\n    ni puede hablarle a otros de tu bondad.",
+      "readableText": "¿De qué serviría que yo muriera, que descienda al sepulcro? El polvo no puede alabarte ni puede hablarle a otros de tu bondad."
+    },
+    {
+      "verse": "10",
+      "text": "SEÑOR, escucha mi oración y muéstrame tu compasión.\n    ¡Ayúdame, SEÑOR!",
+      "readableText": "SEÑOR, escucha mi oración y muéstrame tu compasión. ¡Ayúdame, SEÑOR!"
+    },
+    {
+      "verse": "11",
+      "text": "Entonces tú cambiaste mi tristeza en baile.\n    Me quitaste el luto y me vestiste de alegría.",
+      "readableText": "Entonces tú cambiaste mi tristeza en baile. Me quitaste el luto y me vestiste de alegría."
+    },
+    {
+      "verse": "12",
+      "text": "Que todo mi ser te alabe,\n    te alabaré por siempre, SEÑOR.  end of footnotes",
+      "readableText": "Que todo mi ser te alabe, te alabaré por siempre, SEÑOR. end of footnotes"
+    }
+  ]
+}

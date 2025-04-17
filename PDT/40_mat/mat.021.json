@@ -1,1 +1,237 @@
-{"book":"MAT","rev":"PDT","chapter":"21","verses":[{"verse":"1","text":"Cuando estaban cerca de Jerusal&#233;n y hab&#237;an llegado a Betfag&#233; en el monte de los Olivos, Jes&#250;s envi&#243; a dos de sus seguidores \n","readableText":"Cuando estaban cerca de Jerusalén y habían llegado a Betfagé en el monte de los\nOlivos, Jesús envió a dos de sus seguidores\n\n"},{"verse":"2","text":"y les dijo: &#171;Vayan a la aldea que est&#225; enfrente. All&#225; van a encontrar una burra atada y tambi&#233;n un burrito. Des&#225;tenlos y tr&#225;iganmelos. \n","readableText":"y les dijo: «Vayan a la aldea que está enfrente. Allá van a encontrar una burra\natada y también un burrito. Desátenlos y tráiganmelos.\n\n"},{"verse":"3","text":"Si alguien les dice algo, d&#237;ganle: &#8220;El Se&#241;or los necesita, pero &#233;l los devolver&#225; despu&#233;s&#8221;&#187;.   \n","readableText":"Si alguien les dice algo, díganle: “El Señor los necesita, pero él los\ndevolverá después”».\n\n"},{"verse":"4","text":"Esto sucedi&#243; para que se cumpliera lo que dijo uno de los profetas:   \n","readableText":"Esto sucedió para que se cumpliera lo que dijo uno de los profetas:\n\n"},{"verse":"5","text":"  \n","readableText":"\n\n"}]}
+{
+  "book": "MAT",
+  "rev": "PDT",
+  "chapter": "21",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "21 Cuando estaban cerca de Jerusalén y habían llegado a Betfagé en el monte de los Olivos, Jesús envió a dos de sus seguidores",
+      "readableText": "21 Cuando estaban cerca de Jerusalén y habían llegado a Betfagé en el monte de los Olivos, Jesús envió a dos de sus seguidores"
+    },
+    {
+      "verse": "2",
+      "text": "y les dijo: «Vayan a la aldea que está enfrente. Allá van a encontrar una burra atada y también un burrito. Desátenlos y tráiganmelos.",
+      "readableText": "y les dijo: «Vayan a la aldea que está enfrente. Allá van a encontrar una burra atada y también un burrito. Desátenlos y tráiganmelos."
+    },
+    {
+      "verse": "3",
+      "text": "Si alguien les dice algo, díganle: “El Señor los necesita, pero él los devolverá después”».",
+      "readableText": "Si alguien les dice algo, díganle: “El Señor los necesita, pero él los devolverá después”»."
+    },
+    {
+      "verse": "4",
+      "text": "Esto sucedió para que se cumpliera lo que dijo uno de los profetas:",
+      "readableText": "Esto sucedió para que se cumpliera lo que dijo uno de los profetas:"
+    },
+    {
+      "verse": "5",
+      "text": "«Díganle a la gente de Sion:\n    “Mira, tu rey viene hacia ti,\nhumilde y montado en un burro;\n    sí, en un burrito, cría de un animal de carga”».",
+      "readableText": "«Díganle a la gente de Sion: “Mira, tu rey viene hacia ti, humilde y montado en un burro; sí, en un burrito, cría de un animal de carga”»."
+    },
+    {
+      "verse": "6",
+      "text": "Los seguidores se fueron e hicieron lo que Jesús les había dicho.",
+      "readableText": "Los seguidores se fueron e hicieron lo que Jesús les había dicho."
+    },
+    {
+      "verse": "7",
+      "text": "Trajeron la burra y el burrito, pusieron sobre ellos sus mantos y Jesús se sentó encima.",
+      "readableText": "Trajeron la burra y el burrito, pusieron sobre ellos sus mantos y Jesús se sentó encima."
+    },
+    {
+      "verse": "8",
+      "text": "Mucha gente extendía sus mantos sobre el camino. Otros cortaban ramas de los árboles y las extendían en el camino.",
+      "readableText": "Mucha gente extendía sus mantos sobre el camino. Otros cortaban ramas de los árboles y las extendían en el camino."
+    },
+    {
+      "verse": "9",
+      "text": "Los que caminaban al frente de él y los que lo seguían, gritaban:—¡Viva el Salvador, el Hijo de David!\n    ¡Bendito el que viene en el nombre del Señor!\n    ¡Viva Dios que está en los cielos!",
+      "readableText": "Los que caminaban al frente de él y los que lo seguían, gritaban:—¡Viva el Salvador, el Hijo de David! ¡Bendito el que viene en el nombre del Señor! ¡Viva Dios que está en los cielos!"
+    },
+    {
+      "verse": "10",
+      "text": "Cuando Jesús entró a Jerusalén, toda la ciudad se alborotó. Unos preguntaban:—¿Quién es este hombre?",
+      "readableText": "Cuando Jesús entró a Jerusalén, toda la ciudad se alborotó. Unos preguntaban:—¿Quién es este hombre?"
+    },
+    {
+      "verse": "11",
+      "text": "La gente contestaba:—Este es el profeta Jesús, de Nazaret de Galilea. (Mr 11:15-19; Lc 19:45-48; Jn 2:13-22)",
+      "readableText": "La gente contestaba:—Este es el profeta Jesús, de Nazaret de Galilea. (Mr 11:15-19; Lc 19:45-48; Jn 2:13-22)"
+    },
+    {
+      "verse": "12",
+      "text": "Entonces Jesús entró al área del templo. Comenzó a echar a todos los que estaban comprando y vendiendo ahí. Derribó las mesas de los que cambiaban dinero y los asientos de los que vendían palomas.",
+      "readableText": "Entonces Jesús entró al área del templo. Comenzó a echar a todos los que estaban comprando y vendiendo ahí. Derribó las mesas de los que cambiaban dinero y los asientos de los que vendían palomas."
+    },
+    {
+      "verse": "13",
+      "text": "Jesús les dijo:—Está escrito: “Mi casa será llamada casa de oración”. ¡Pero ustedes la están convirtiendo en una “guarida de ladrones”!",
+      "readableText": "Jesús les dijo:—Está escrito: “Mi casa será llamada casa de oración”. ¡Pero ustedes la están convirtiendo en una “guarida de ladrones”!"
+    },
+    {
+      "verse": "14",
+      "text": "Unos ciegos y cojos se acercaron a Jesús en el área del templo y él los sanó.",
+      "readableText": "Unos ciegos y cojos se acercaron a Jesús en el área del templo y él los sanó."
+    },
+    {
+      "verse": "15",
+      "text": "Pero cuando los jefes de los sacerdotes y los maestros de la ley vieron las maravillas que él había hecho y a los niños gritando en el área del templo: «¡Viva el Salvador, el Hijo de David!», se enojaron.",
+      "readableText": "Pero cuando los jefes de los sacerdotes y los maestros de la ley vieron las maravillas que él había hecho y a los niños gritando en el área del templo: «¡Viva el Salvador, el Hijo de David!», se enojaron."
+    },
+    {
+      "verse": "16",
+      "text": "Le preguntaron a Jesús:—¿Oyes lo que estos niños están diciendo?Jesús les contestó:—Sí, los oigo. ¿No han leído la Escritura sobre esto?“Tú lo has hecho\n    para que hasta los niños y los bebés\n    canten alabanzas”.",
+      "readableText": "Le preguntaron a Jesús:—¿Oyes lo que estos niños están diciendo?Jesús les contestó:—Sí, los oigo. ¿No han leído la Escritura sobre esto?“Tú lo has hecho para que hasta los niños y los bebés canten alabanzas”."
+    },
+    {
+      "verse": "17",
+      "text": "Entonces él los dejó y salió de la ciudad para Betania donde pasó la noche. (Mr 11:12-14, 20-24)",
+      "readableText": "Entonces él los dejó y salió de la ciudad para Betania donde pasó la noche. (Mr 11:12-14, 20-24)"
+    },
+    {
+      "verse": "18",
+      "text": "Muy de mañana, Jesús estaba de regreso en Jerusalén y sintió hambre.",
+      "readableText": "Muy de mañana, Jesús estaba de regreso en Jerusalén y sintió hambre."
+    },
+    {
+      "verse": "19",
+      "text": "Vio una higuera, pero sólo tenía hojas, se acercó y le dijo:—¡Que nunca más vuelvas a dar fruto!La higuera se secó al instante y murió.",
+      "readableText": "Vio una higuera, pero sólo tenía hojas, se acercó y le dijo:—¡Que nunca más vuelvas a dar fruto!La higuera se secó al instante y murió."
+    },
+    {
+      "verse": "20",
+      "text": "Cuando sus seguidores vieron esto, se sorprendieron y dijeron:—¿Cómo se secó la higuera y murió tan rápido?",
+      "readableText": "Cuando sus seguidores vieron esto, se sorprendieron y dijeron:—¿Cómo se secó la higuera y murió tan rápido?"
+    },
+    {
+      "verse": "21",
+      "text": "Jesús les respondió:—Les digo la verdad: si ustedes tienen fe y no dudan, no solamente serán capaces de hacer lo que yo hice con la higuera. Es más, podrán decirle a esta montaña: “Levántate y lánzate al mar” y así sucederá.",
+      "readableText": "Jesús les respondió:—Les digo la verdad: si ustedes tienen fe y no dudan, no solamente serán capaces de hacer lo que yo hice con la higuera. Es más, podrán decirle a esta montaña: “Levántate y lánzate al mar” y así sucederá."
+    },
+    {
+      "verse": "22",
+      "text": "Si ustedes creen, recibirán todo lo que pidan en oración. (Mr 11:27-33; Lc 20:1-8)",
+      "readableText": "Si ustedes creen, recibirán todo lo que pidan en oración. (Mr 11:27-33; Lc 20:1-8)"
+    },
+    {
+      "verse": "23",
+      "text": "Cuando Jesús entró al área del templo, los jefes de los sacerdotes y los ancianos líderes del pueblo se le acercaron mientras estaba enseñando, y le preguntaron:—¿Con qué autoridad haces esto? ¿Quién te la dio?",
+      "readableText": "Cuando Jesús entró al área del templo, los jefes de los sacerdotes y los ancianos líderes del pueblo se le acercaron mientras estaba enseñando, y le preguntaron:—¿Con qué autoridad haces esto? ¿Quién te la dio?"
+    },
+    {
+      "verse": "24",
+      "text": "Jesús les contestó:—Yo también les haré una pregunta y si me la responden les diré con qué autoridad hago estas cosas:",
+      "readableText": "Jesús les contestó:—Yo también les haré una pregunta y si me la responden les diré con qué autoridad hago estas cosas:"
+    },
+    {
+      "verse": "25",
+      "text": "¿De dónde venía el bautismo de Juan? ¿De Dios o de los hombres?Ellos comenzaron a discutir entre sí y decían: «Si decimos que venía de Dios, él nos preguntará: “¿Por qué entonces no le creyeron?”",
+      "readableText": "¿De dónde venía el bautismo de Juan? ¿De Dios o de los hombres?Ellos comenzaron a discutir entre sí y decían: «Si decimos que venía de Dios, él nos preguntará: “¿Por qué entonces no le creyeron?”"
+    },
+    {
+      "verse": "26",
+      "text": "Pero no podemos decir que venía de los hombres. Tenemos miedo de la gente porque todos creen que Juan era un profeta».",
+      "readableText": "Pero no podemos decir que venía de los hombres. Tenemos miedo de la gente porque todos creen que Juan era un profeta»."
+    },
+    {
+      "verse": "27",
+      "text": "Entonces le respondieron a Jesús:—No sabemos.Él les dijo:—Pues yo tampoco les voy a decir con qué autoridad hago estas cosas.",
+      "readableText": "Entonces le respondieron a Jesús:—No sabemos.Él les dijo:—Pues yo tampoco les voy a decir con qué autoridad hago estas cosas."
+    },
+    {
+      "verse": "28",
+      "text": "Jesús continuó:—¿Qué piensan de esto? Un hombre tenía dos hijos. Le dijo al mayor: “Hijo, ve hoy y trabaja en el viñedo”.",
+      "readableText": "Jesús continuó:—¿Qué piensan de esto? Un hombre tenía dos hijos. Le dijo al mayor: “Hijo, ve hoy y trabaja en el viñedo”."
+    },
+    {
+      "verse": "29",
+      "text": "Él le contestó: “No quiero ir”. Pero más tarde cambió de idea y fue.",
+      "readableText": "Él le contestó: “No quiero ir”. Pero más tarde cambió de idea y fue."
+    },
+    {
+      "verse": "30",
+      "text": "Después, el papá le pidió lo mismo al hijo menor. Él le respondió: “Sí señor, iré”. Pero no lo hizo.",
+      "readableText": "Después, el papá le pidió lo mismo al hijo menor. Él le respondió: “Sí señor, iré”. Pero no lo hizo."
+    },
+    {
+      "verse": "31",
+      "text": "¿Cuál de los dos hizo lo que el papá quería?Ellos respondieron:—El hijo mayor.Jesús les dijo:—Les digo la verdad: los cobradores de impuestos y las prostitutas van a entrar primero que ustedes al reino de Dios.",
+      "readableText": "¿Cuál de los dos hizo lo que el papá quería?Ellos respondieron:—El hijo mayor.Jesús les dijo:—Les digo la verdad: los cobradores de impuestos y las prostitutas van a entrar primero que ustedes al reino de Dios."
+    },
+    {
+      "verse": "32",
+      "text": "Juan el Bautista vino para mostrarles el camino de justicia y ustedes no le creyeron. En cambio, los cobradores de impuestos y las prostitutas sí le creyeron. Ustedes los vieron cambiar a ellos, pero aun así ustedes no creyeron ni cambiaron. (Mr 12:1-12; Lc 20:9-19)",
+      "readableText": "Juan el Bautista vino para mostrarles el camino de justicia y ustedes no le creyeron. En cambio, los cobradores de impuestos y las prostitutas sí le creyeron. Ustedes los vieron cambiar a ellos, pero aun así ustedes no creyeron ni cambiaron. (Mr 12:1-12; Lc 20:9-19)"
+    },
+    {
+      "verse": "33",
+      "text": "»Escuchen esta historia: El dueño de una finca plantó un viñedo y construyó un muro alrededor. Luego, cavó un lugar para hacer el vino y construyó una torre de vigilancia. Después alquiló el viñedo a unos labradores y se fue de viaje.",
+      "readableText": "»Escuchen esta historia: El dueño de una finca plantó un viñedo y construyó un muro alrededor. Luego, cavó un lugar para hacer el vino y construyó una torre de vigilancia. Después alquiló el viñedo a unos labradores y se fue de viaje."
+    },
+    {
+      "verse": "34",
+      "text": "Cuando llegó el tiempo de la cosecha, el dueño mandó a sus siervos para que hablaran con los labradores y pidieran la parte que le correspondía al dueño.",
+      "readableText": "Cuando llegó el tiempo de la cosecha, el dueño mandó a sus siervos para que hablaran con los labradores y pidieran la parte que le correspondía al dueño."
+    },
+    {
+      "verse": "35",
+      "text": "Pero los labradores agarraron a los siervos. Golpearon a uno, mataron a otro y agarraron a pedradas a otro más.",
+      "readableText": "Pero los labradores agarraron a los siervos. Golpearon a uno, mataron a otro y agarraron a pedradas a otro más."
+    },
+    {
+      "verse": "36",
+      "text": "El dueño mandó otra vez a otros siervos, y los labradores les hicieron lo mismo.",
+      "readableText": "El dueño mandó otra vez a otros siervos, y los labradores les hicieron lo mismo."
+    },
+    {
+      "verse": "37",
+      "text": "»Más tarde, el dueño les envió a su propio hijo. Se decía a sí mismo: “A mi hijo sí lo respetarán”.",
+      "readableText": "»Más tarde, el dueño les envió a su propio hijo. Se decía a sí mismo: “A mi hijo sí lo respetarán”."
+    },
+    {
+      "verse": "38",
+      "text": "Pero cuando los labradores vieron que era el hijo del dueño, dijeron entre ellos: “Este es el heredero, ¡vamos a matarlo para quedarnos con la herencia!”",
+      "readableText": "Pero cuando los labradores vieron que era el hijo del dueño, dijeron entre ellos: “Este es el heredero, ¡vamos a matarlo para quedarnos con la herencia!”"
+    },
+    {
+      "verse": "39",
+      "text": "Entonces, lo agarraron, lo echaron fuera del viñedo y lo mataron.",
+      "readableText": "Entonces, lo agarraron, lo echaron fuera del viñedo y lo mataron."
+    },
+    {
+      "verse": "40",
+      "text": "»¿Ustedes qué creen que hará el dueño del viñedo con esos labradores cuando llegue?",
+      "readableText": "»¿Ustedes qué creen que hará el dueño del viñedo con esos labradores cuando llegue?"
+    },
+    {
+      "verse": "41",
+      "text": "Le respondieron:—Él matará de manera terrible a esos perversos y les alquilará el viñedo a otros labradores que sí le darán su parte de la cosecha.",
+      "readableText": "Le respondieron:—Él matará de manera terrible a esos perversos y les alquilará el viñedo a otros labradores que sí le darán su parte de la cosecha."
+    },
+    {
+      "verse": "42",
+      "text": "Jesús les dijo:—Seguramente habrán leído las Escrituras que dicen:“La piedra que los constructores rechazaron\n    se ha convertido en la piedra principal.\nEsto fue lo que hizo el Señor\n    y es maravilloso verlo”.",
+      "readableText": "Jesús les dijo:—Seguramente habrán leído las Escrituras que dicen:“La piedra que los constructores rechazaron se ha convertido en la piedra principal. Esto fue lo que hizo el Señor y es maravilloso verlo”."
+    },
+    {
+      "verse": "43",
+      "text": "»Por eso les digo: a ustedes se les quitará el reino de Dios y se le dará a otra nación que produzca lo que Dios quiere que su reino produzca.",
+      "readableText": "»Por eso les digo: a ustedes se les quitará el reino de Dios y se le dará a otra nación que produzca lo que Dios quiere que su reino produzca."
+    },
+    {
+      "verse": "44",
+      "text": "El que caiga sobre esa piedra se hará en pedazos y si la piedra le cae encima a alguien, lo hará polvo.",
+      "readableText": "El que caiga sobre esa piedra se hará en pedazos y si la piedra le cae encima a alguien, lo hará polvo."
+    },
+    {
+      "verse": "45",
+      "text": "Cuando los jefes de los sacerdotes y los fariseos escucharon estas historias, se dieron cuenta de que Jesús estaba hablando de ellos.",
+      "readableText": "Cuando los jefes de los sacerdotes y los fariseos escucharon estas historias, se dieron cuenta de que Jesús estaba hablando de ellos."
+    },
+    {
+      "verse": "46",
+      "text": "Querían arrestarlo, pero tenían miedo del pueblo porque la gente consideraba que era un profeta.  end of footnotes\n end of crossrefs",
+      "readableText": "Querían arrestarlo, pero tenían miedo del pueblo porque la gente consideraba que era un profeta. end of footnotes end of crossrefs"
+    }
+  ]
+}

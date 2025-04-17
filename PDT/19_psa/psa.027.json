@@ -1,1 +1,77 @@
-{"book":"PSA","rev":"PDT","chapter":"27","verses":[{"verse":"1","text":"El SE&#209;OR es mi luz y mi salvaci&#243;n. &#191;A qui&#233;n podr&#237;a yo temerle? El SE&#209;OR es la fortaleza de mi vida, as&#237; que no le temo a nadie.   \n","readableText":"El SEÑOR es mi luz y mi salvación. ¿A quién podría yo temerle? El SEÑOR es la\nfortaleza de mi vida, así que no le temo a nadie.\n\n"},{"verse":"2","text":"Aunque los perversos me ataquen y traten de destruirme, aunque mis enemigos me ataquen, ser&#225;n ellos los que tropiecen y caigan.   \n","readableText":"Aunque los perversos me ataquen y traten de destruirme, aunque mis enemigos me\nataquen, serán ellos los que tropiecen y caigan.\n\n"},{"verse":"3","text":"No tendr&#233; miedo aunque todo un ej&#233;rcito me rodee. Confiar&#233; en Dios aunque me declaren la guerra.   \n","readableText":"No tendré miedo aunque todo un ejército me rodee. Confiaré en Dios aunque me\ndeclaren la guerra.\n\n"},{"verse":"4","text":"S&#243;lo una cosa le pido al SE&#209;OR; esto es lo que m&#225;s quiero: habitar en la casa del SE&#209;OR por el resto de mi vida. As&#237; podr&#233; disfrutar del placer de estar junto al SE&#209;OR y visitarlo en su templo.   \n","readableText":"Sólo una cosa le pido al SEÑOR; esto es lo que más quiero: habitar en la casa\ndel SEÑOR por el resto de mi vida. Así podré disfrutar del placer de estar\njunto al SEÑOR y visitarlo en su templo.\n\n"},{"verse":"5","text":"Cuando est&#233; en peligro, &#233;l me proteger&#225; en su casa. &#201;l me esconder&#225; bajo su techo, me llevar&#225; a un lugar seguro.   \n","readableText":"Cuando esté en peligro, él me protegerá en su casa. Él me esconderá bajo su\ntecho, me llevará a un lugar seguro.\n\n"},{"verse":"6","text":"El SE&#209;OR me ayudar&#225; a derrotar a los enemigos que me rodean. As&#237; con alegr&#237;a podr&#233; ofrecerle sacrificios en su templo y cantar en su honor.   \n","readableText":"El SEÑOR me ayudará a derrotar a los enemigos que me rodean. Así con alegría\npodré ofrecerle sacrificios en su templo y cantar en su honor.\n\n"},{"verse":"7","text":"SE&#209;OR, escucha mi llamado, ten compasi&#243;n de m&#237; y cont&#233;stame.   \n","readableText":"SEÑOR, escucha mi llamado, ten compasión de mí y contéstame.\n\n"},{"verse":"8","text":"SE&#209;OR, de todo coraz&#243;n quiero conversar contigo y aqu&#237; estoy para adorarte.   \n","readableText":"SEÑOR, de todo corazón quiero conversar contigo y aquí estoy para adorarte.\n\n"},{"verse":"9","text":"No te alejes de m&#237;, no ignores a tu servidor. Dios m&#237;o, t&#250; eres mi Salvador. &#161;No me dejes solo, no me abandones!   \n","readableText":"No te alejes de mí, no ignores a tu servidor. Dios mío, tú eres mi Salvador.\n¡No me dejes solo, no me abandones!\n\n"},{"verse":"10","text":"Aunque mis padres me abandonen, el SE&#209;OR se encargar&#225; de m&#237;.   \n","readableText":"Aunque mis padres me abandonen, el SEÑOR se encargará de mí.\n\n"},{"verse":"11","text":"SE&#209;OR, ens&#233;&#241;ame a vivir como t&#250; quieres. Gu&#237;ame por el camino seguro; ay&#250;dame porque tengo muchos enemigos.   \n","readableText":"SEÑOR, enséñame a vivir como tú quieres. Guíame por el camino seguro; ayúdame\nporque tengo muchos enemigos.\n\n"},{"verse":"12","text":"No permitas que mis enemigos me derroten, porque son muchos los que dicen mentiras de m&#237; y tratan de hacerme da&#241;o.   \n","readableText":"No permitas que mis enemigos me derroten, porque son muchos los que dicen\nmentiras de mí y tratan de hacerme daño.\n\n"},{"verse":"13","text":"Yo, en cambio, espero disfrutar de la bondad del SE&#209;OR mientras viva.   \n","readableText":"Yo, en cambio, espero disfrutar de la bondad del SEÑOR mientras viva.\n\n"},{"verse":"14","text":"Mientras aguardan, conf&#237;en en el SE&#209;OR. Sean fuertes y valientes, y esperen que el SE&#209;OR les ayudar&#225;.\n","readableText":"Mientras aguardan, confíen en el SEÑOR. Sean fuertes y valientes, y esperen que\nel SEÑOR les ayudará.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "27",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "El SEÑOR es mi luz y mi salvación.\n    ¿A quién podría yo temerle?\nEl SEÑOR es la fortaleza de mi vida,\n    así que no le temo a nadie.",
+      "readableText": "El SEÑOR es mi luz y mi salvación. ¿A quién podría yo temerle? El SEÑOR es la fortaleza de mi vida, así que no le temo a nadie."
+    },
+    {
+      "verse": "2",
+      "text": "Aunque los perversos me ataquen\n    y traten de destruirme,\naunque mis enemigos me ataquen,\n    serán ellos los que tropiecen y caigan.",
+      "readableText": "Aunque los perversos me ataquen y traten de destruirme, aunque mis enemigos me ataquen, serán ellos los que tropiecen y caigan."
+    },
+    {
+      "verse": "3",
+      "text": "No tendré miedo aunque todo un ejército me rodee.\n    Confiaré en Dios aunque me declaren la guerra.",
+      "readableText": "No tendré miedo aunque todo un ejército me rodee. Confiaré en Dios aunque me declaren la guerra."
+    },
+    {
+      "verse": "4",
+      "text": "Sólo una cosa le pido al SEÑOR;\n    esto es lo que más quiero:\nhabitar en la casa del SEÑOR\n    por el resto de mi vida.\nAsí podré disfrutar del placer de estar junto al SEÑOR\n    y visitarlo en su templo.",
+      "readableText": "Sólo una cosa le pido al SEÑOR; esto es lo que más quiero: habitar en la casa del SEÑOR por el resto de mi vida. Así podré disfrutar del placer de estar junto al SEÑOR y visitarlo en su templo."
+    },
+    {
+      "verse": "5",
+      "text": "Cuando esté en peligro,\n    él me protegerá en su casa.\nÉl me esconderá bajo su techo,\n    me llevará a un lugar seguro.",
+      "readableText": "Cuando esté en peligro, él me protegerá en su casa. Él me esconderá bajo su techo, me llevará a un lugar seguro."
+    },
+    {
+      "verse": "6",
+      "text": "El SEÑOR me ayudará a derrotar\n    a los enemigos que me rodean.\nAsí con alegría podré ofrecerle sacrificios en su templo\n    y cantar en su honor.",
+      "readableText": "El SEÑOR me ayudará a derrotar a los enemigos que me rodean. Así con alegría podré ofrecerle sacrificios en su templo y cantar en su honor."
+    },
+    {
+      "verse": "7",
+      "text": "SEÑOR, escucha mi llamado,\n    ten compasión de mí y contéstame.",
+      "readableText": "SEÑOR, escucha mi llamado, ten compasión de mí y contéstame."
+    },
+    {
+      "verse": "8",
+      "text": "SEÑOR, de todo corazón quiero conversar contigo\n    y aquí estoy para adorarte.",
+      "readableText": "SEÑOR, de todo corazón quiero conversar contigo y aquí estoy para adorarte."
+    },
+    {
+      "verse": "9",
+      "text": "No te alejes de mí,\n    no ignores a tu servidor.\n    Dios mío, tú eres mi Salvador.\n¡No me dejes solo,\n    no me abandones!",
+      "readableText": "No te alejes de mí, no ignores a tu servidor. Dios mío, tú eres mi Salvador. ¡No me dejes solo, no me abandones!"
+    },
+    {
+      "verse": "10",
+      "text": "Aunque mis padres me abandonen,\n    el SEÑOR se encargará de mí.",
+      "readableText": "Aunque mis padres me abandonen, el SEÑOR se encargará de mí."
+    },
+    {
+      "verse": "11",
+      "text": "SEÑOR, enséñame a vivir como tú quieres.\n    Guíame por el camino seguro;\n    ayúdame porque tengo muchos enemigos.",
+      "readableText": "SEÑOR, enséñame a vivir como tú quieres. Guíame por el camino seguro; ayúdame porque tengo muchos enemigos."
+    },
+    {
+      "verse": "12",
+      "text": "No permitas que mis enemigos me derroten,\n    porque son muchos los que dicen mentiras de mí\n    y tratan de hacerme daño.",
+      "readableText": "No permitas que mis enemigos me derroten, porque son muchos los que dicen mentiras de mí y tratan de hacerme daño."
+    },
+    {
+      "verse": "13",
+      "text": "Yo, en cambio, espero disfrutar\n    de la bondad del SEÑOR mientras viva.",
+      "readableText": "Yo, en cambio, espero disfrutar de la bondad del SEÑOR mientras viva."
+    },
+    {
+      "verse": "14",
+      "text": "Mientras aguardan,\n    confíen en el SEÑOR.\nSean fuertes y valientes,\n    y esperen que el SEÑOR les ayudará.",
+      "readableText": "Mientras aguardan, confíen en el SEÑOR. Sean fuertes y valientes, y esperen que el SEÑOR les ayudará."
+    }
+  ]
+}

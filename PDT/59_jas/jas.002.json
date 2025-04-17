@@ -1,1 +1,137 @@
-{"book":"JAS","rev":"PDT","chapter":"2","verses":[{"verse":"1","text":"Hermanos m&#237;os, ya que tienen fe en nuestro glorioso Se&#241;or Jesucristo, no se consideren mejores que los dem&#225;s. \n","readableText":"Hermanos míos, ya que tienen fe en nuestro glorioso Señor Jesucristo, no se\nconsideren mejores que los demás.\n\n"},{"verse":"2","text":"Supongan que dos hombres entran a su reuni&#243;n: uno con anillo de oro y muy bien vestido, el otro muy pobre y con la ropa toda sucia. \n","readableText":"Supongan que dos hombres entran a su reunión: uno con anillo de oro y muy bien\nvestido, el otro muy pobre y con la ropa toda sucia.\n\n"},{"verse":"3","text":"Y supongan que ustedes dan especial atenci&#243;n al que est&#225; bien vestido y le dicen: &#171;Tome asiento, aqu&#237; hay un buen lugar&#187; y le dicen al pobre: &#171;Usted qu&#233;dese parado all&#237;&#187; o &#171;Si&#233;ntese en el suelo&#187;. \n","readableText":"Y supongan que ustedes dan especial atención al que está bien vestido y le\ndicen: «Tome asiento, aquí hay un buen lugar» y le dicen al pobre: «Usted\nquédese parado allí» o «Siéntese en el suelo».\n\n"},{"verse":"4","text":"Si act&#250;an as&#237;, se hacen jueces de los dem&#225;s, y jueces injustos. &#191;Acaso hacer eso no es discriminar?   \n","readableText":"Si actúan así, se hacen jueces de los demás, y jueces injustos. ¿Acaso hacer\neso no es discriminar?\n\n"},{"verse":"5","text":"Escuchen, mis estimados hermanos: Dios eligi&#243; a los pobres del mundo para hacerlos ricos en la fe; ellos recibir&#225;n de herencia el reino que Dios prometi&#243; a los que lo aman. \n","readableText":"Escuchen, mis estimados hermanos: Dios eligió a los pobres del mundo para\nhacerlos ricos en la fe; ellos recibirán de herencia el reino que Dios prometió\na los que lo aman.\n\n"},{"verse":"6","text":"Pero ustedes no han mostrado respeto por el pobre. &#161;Eso es absurdo! &#191;Acaso no son los ricos los que los explotan a ustedes? &#191;No son ellos mismos los que los arrastran a los tribunales? \n","readableText":"Pero ustedes no han mostrado respeto por el pobre. ¡Eso es absurdo! ¿Acaso no\nson los ricos los que los explotan a ustedes? ¿No son ellos mismos los que los\narrastran a los tribunales?\n\n"},{"verse":"7","text":"&#191;No son ellos quienes han hablado mal del buen nombre de Cristo, el Se&#241;or de ustedes?   \n","readableText":"¿No son ellos quienes han hablado mal del buen nombre de Cristo, el Señor de\nustedes?\n\n"},{"verse":"8","text":"  \n","readableText":"\n\n"}]}
+{
+  "book": "JAS",
+  "rev": "PDT",
+  "chapter": "2",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "2 Hermanos míos, ya que tienen fe en nuestro glorioso Señor Jesucristo, no se consideren mejores que los demás.",
+      "readableText": "2 Hermanos míos, ya que tienen fe en nuestro glorioso Señor Jesucristo, no se consideren mejores que los demás."
+    },
+    {
+      "verse": "2",
+      "text": "Supongan que dos hombres entran a su reunión: uno con anillo de oro y muy bien vestido, el otro muy pobre y con la ropa toda sucia.",
+      "readableText": "Supongan que dos hombres entran a su reunión: uno con anillo de oro y muy bien vestido, el otro muy pobre y con la ropa toda sucia."
+    },
+    {
+      "verse": "3",
+      "text": "Y supongan que ustedes dan especial atención al que está bien vestido y le dicen: «Tome asiento, aquí hay un buen lugar» y le dicen al pobre: «Usted quédese parado allí» o «Siéntese en el suelo».",
+      "readableText": "Y supongan que ustedes dan especial atención al que está bien vestido y le dicen: «Tome asiento, aquí hay un buen lugar» y le dicen al pobre: «Usted quédese parado allí» o «Siéntese en el suelo»."
+    },
+    {
+      "verse": "4",
+      "text": "Si actúan así, se hacen jueces de los demás, y jueces injustos. ¿Acaso hacer eso no es discriminar?",
+      "readableText": "Si actúan así, se hacen jueces de los demás, y jueces injustos. ¿Acaso hacer eso no es discriminar?"
+    },
+    {
+      "verse": "5",
+      "text": "Escuchen, mis estimados hermanos: Dios eligió a los pobres del mundo para hacerlos ricos en la fe; ellos recibirán de herencia el reino que Dios prometió a los que lo aman.",
+      "readableText": "Escuchen, mis estimados hermanos: Dios eligió a los pobres del mundo para hacerlos ricos en la fe; ellos recibirán de herencia el reino que Dios prometió a los que lo aman."
+    },
+    {
+      "verse": "6",
+      "text": "Pero ustedes no han mostrado respeto por el pobre. ¡Eso es absurdo! ¿Acaso no son los ricos los que los explotan a ustedes? ¿No son ellos mismos los que los arrastran a los tribunales?",
+      "readableText": "Pero ustedes no han mostrado respeto por el pobre. ¡Eso es absurdo! ¿Acaso no son los ricos los que los explotan a ustedes? ¿No son ellos mismos los que los arrastran a los tribunales?"
+    },
+    {
+      "verse": "7",
+      "text": "¿No son ellos quienes han hablado mal del buen nombre de Cristo, el Señor de ustedes?",
+      "readableText": "¿No son ellos quienes han hablado mal del buen nombre de Cristo, el Señor de ustedes?"
+    },
+    {
+      "verse": "8",
+      "text": "Lo que ustedes deberían hacer es cumplir la ley que rige sobre todas las demás, tal como está en la Escritura: «Ama a tus semejantes como te amas a ti mismo».",
+      "readableText": "Lo que ustedes deberían hacer es cumplir la ley que rige sobre todas las demás, tal como está en la Escritura: «Ama a tus semejantes como te amas a ti mismo»."
+    },
+    {
+      "verse": "9",
+      "text": "Pero si ustedes discriminan a los demás, están pecando y son culpables de violar esa ley.",
+      "readableText": "Pero si ustedes discriminan a los demás, están pecando y son culpables de violar esa ley."
+    },
+    {
+      "verse": "10",
+      "text": "Pues si ustedes cumplen toda la ley de Dios pero la desobedecen en un solo punto, son culpables de desobedecer toda la ley.",
+      "readableText": "Pues si ustedes cumplen toda la ley de Dios pero la desobedecen en un solo punto, son culpables de desobedecer toda la ley."
+    },
+    {
+      "verse": "11",
+      "text": "Puesto que Dios dijo: «No cometas adulterio», y también dijo: «No mates», si no cometen adulterio pero matan a alguien, ustedes son culpables de violar la ley.",
+      "readableText": "Puesto que Dios dijo: «No cometas adulterio», y también dijo: «No mates», si no cometen adulterio pero matan a alguien, ustedes son culpables de violar la ley."
+    },
+    {
+      "verse": "12",
+      "text": "La ley de la libertad será la que los juzgue a ustedes, tengan eso en cuenta en todo lo que digan y hagan.",
+      "readableText": "La ley de la libertad será la que los juzgue a ustedes, tengan eso en cuenta en todo lo que digan y hagan."
+    },
+    {
+      "verse": "13",
+      "text": "Dios juzgará sin compasión a los que no han tenido compasión de los demás. ¡La compasión triunfa sobre el juicio!",
+      "readableText": "Dios juzgará sin compasión a los que no han tenido compasión de los demás. ¡La compasión triunfa sobre el juicio!"
+    },
+    {
+      "verse": "14",
+      "text": "Hermanos míos, ¿de qué puede servir que alguien diga que tiene fe si no hace el bien? ¿Lo podrá salvar esa clase de fe?",
+      "readableText": "Hermanos míos, ¿de qué puede servir que alguien diga que tiene fe si no hace el bien? ¿Lo podrá salvar esa clase de fe?"
+    },
+    {
+      "verse": "15",
+      "text": "Supongamos que un hermano o hermana tiene necesidad de vestido o comida.",
+      "readableText": "Supongamos que un hermano o hermana tiene necesidad de vestido o comida."
+    },
+    {
+      "verse": "16",
+      "text": "Llega uno de ustedes y le dice: «¡Que Dios lo bendiga, abríguese y aliméntese!» Sin embargo, si no le da lo que realmente necesita en ese momento, ¿de qué sirve?",
+      "readableText": "Llega uno de ustedes y le dice: «¡Que Dios lo bendiga, abríguese y aliméntese!» Sin embargo, si no le da lo que realmente necesita en ese momento, ¿de qué sirve?"
+    },
+    {
+      "verse": "17",
+      "text": "De la misma manera, si la fe no está acompañada de hechos, así sola está muerta.",
+      "readableText": "De la misma manera, si la fe no está acompañada de hechos, así sola está muerta."
+    },
+    {
+      "verse": "18",
+      "text": "Pero alguien puede decir: «Unos tienen fe, otros hacen buenas obras». Mi respuesta es que tú no puedes demostrarme que tienes fe si no haces nada. En cambio, yo te demuestro mi fe con las buenas obras que hago.",
+      "readableText": "Pero alguien puede decir: «Unos tienen fe, otros hacen buenas obras». Mi respuesta es que tú no puedes demostrarme que tienes fe si no haces nada. En cambio, yo te demuestro mi fe con las buenas obras que hago."
+    },
+    {
+      "verse": "19",
+      "text": "¿Crees que hay un solo Dios? ¡Qué bien! Pero los demonios también creen que hay un solo Dios y tiemblan de miedo.",
+      "readableText": "¿Crees que hay un solo Dios? ¡Qué bien! Pero los demonios también creen que hay un solo Dios y tiemblan de miedo."
+    },
+    {
+      "verse": "20",
+      "text": "No seas tonto, la fe sin hechos no sirve para nada. ¿Sabes por qué?",
+      "readableText": "No seas tonto, la fe sin hechos no sirve para nada. ¿Sabes por qué?"
+    },
+    {
+      "verse": "21",
+      "text": "Nuestro antepasado Abraham consiguió la aprobación de Dios por medio de sus hechos cuando ofreció a su hijo Isaac en el altar.",
+      "readableText": "Nuestro antepasado Abraham consiguió la aprobación de Dios por medio de sus hechos cuando ofreció a su hijo Isaac en el altar."
+    },
+    {
+      "verse": "22",
+      "text": "Ahora puedes ver que la fe de Abraham iba de la mano con sus hechos. Su fe se perfeccionó con el bien que hizo.",
+      "readableText": "Ahora puedes ver que la fe de Abraham iba de la mano con sus hechos. Su fe se perfeccionó con el bien que hizo."
+    },
+    {
+      "verse": "23",
+      "text": "Es así como se cumplió lo que dice la Escritura: «Abraham creyó a Dios, quien tomó en cuenta la fe de Abraham como si hubiera realizado algo muy bueno y lo aprobó». Por esa razón, Abraham fue llamado «amigo de Dios».",
+      "readableText": "Es así como se cumplió lo que dice la Escritura: «Abraham creyó a Dios, quien tomó en cuenta la fe de Abraham como si hubiera realizado algo muy bueno y lo aprobó». Por esa razón, Abraham fue llamado «amigo de Dios»."
+    },
+    {
+      "verse": "24",
+      "text": "Como puedes ver, Dios aprueba a un hombre no solamente por la fe que tenga, sino también por lo que haga.",
+      "readableText": "Como puedes ver, Dios aprueba a un hombre no solamente por la fe que tenga, sino también por lo que haga."
+    },
+    {
+      "verse": "25",
+      "text": "Otro ejemplo es Rahab, la prostituta. Fue aprobada por Dios por lo que hizo cuando recibió a los mensajeros de Dios en su casa y luego los ayudó a escapar por otro camino.",
+      "readableText": "Otro ejemplo es Rahab, la prostituta. Fue aprobada por Dios por lo que hizo cuando recibió a los mensajeros de Dios en su casa y luego los ayudó a escapar por otro camino."
+    },
+    {
+      "verse": "26",
+      "text": "De manera que así como un cuerpo que no tiene espíritu está muerto, así también una fe que no tiene hechos está muerta.  end of footnotes\n end of crossrefs",
+      "readableText": "De manera que así como un cuerpo que no tiene espíritu está muerto, así también una fe que no tiene hechos está muerta. end of footnotes end of crossrefs"
+    }
+  ]
+}

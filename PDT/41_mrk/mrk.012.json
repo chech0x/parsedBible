@@ -1,1 +1,227 @@
-{"book":"MRK","rev":"PDT","chapter":"12","verses":[{"verse":"1","text":"Entonces Jes&#250;s les cont&#243; la siguiente historia: &#171;Un hombre plant&#243; un vi&#241;edo y construy&#243; un muro alrededor. Cav&#243; un lugar para hacer el vino y construy&#243; una torre de vigilancia. Despu&#233;s alquil&#243; el vi&#241;edo a unos labradores y se fue de viaje. \n","readableText":"Entonces Jesús les contó la siguiente historia: «Un hombre plantó un viñedo y\nconstruyó un muro alrededor. Cavó un lugar para hacer el vino y construyó una\ntorre de vigilancia. Después alquiló el viñedo a unos labradores y se fue de\nviaje.\n\n"},{"verse":"2","text":"Y a su debido tiempo, el due&#241;o mand&#243; a un siervo a hablar con los labradores para cobrar las ganancias del vi&#241;edo. \n","readableText":"Y a su debido tiempo, el dueño mandó a un siervo a hablar con los labradores\npara cobrar las ganancias del viñedo.\n\n"},{"verse":"3","text":"Pero los labradores agarraron al siervo, lo golpearon y lo enviaron a su amo con las manos vac&#237;as. \n","readableText":"Pero los labradores agarraron al siervo, lo golpearon y lo enviaron a su amo\ncon las manos vacías.\n\n"},{"verse":"4","text":"Despu&#233;s, el hombre les mand&#243; a otro siervo, pero ellos lo golpearon en la cabeza \n","readableText":"Después, el hombre les mandó a otro siervo, pero ellos lo golpearon en la\ncabeza\n\n"},{"verse":"5","text":"y lo insultaron. El hombre mand&#243; entonces a otro siervo, y los labradores lo mataron. El hombre sigui&#243; mandando a otros siervos pero ellos golpearon a unos y mataron a otros.   \n","readableText":"y lo insultaron. El hombre mandó entonces a otro siervo, y los labradores lo\nmataron. El hombre siguió mandando a otros siervos pero ellos golpearon a unos\ny mataron a otros.\n\n"},{"verse":"6","text":"&#187;Ya el hombre no ten&#237;a a qui&#233;n m&#225;s enviar, sino a su hijo amado. El hombre lo envi&#243; por &#250;ltimo y pens&#243;: &#8220;A mi hijo s&#237; lo respetar&#225;n&#8221;. \n","readableText":"»Ya el hombre no tenía a quién más enviar, sino a su hijo amado. El hombre lo\nenvió por último y pensó: “A mi hijo sí lo respetarán”.\n\n"},{"verse":"7","text":"Pero los labradores se dijeron unos a otros: &#8220;Este es el heredero, &#161;vamos a matarlo para quedarnos con la herencia!&#8221; \n","readableText":"Pero los labradores se dijeron unos a otros: “Este es el heredero, ¡vamos a\nmatarlo para quedarnos con la herencia!”\n\n"},{"verse":"8","text":"As&#237; que lo agarraron, lo mataron y luego lo tiraron fuera del vi&#241;edo. \n","readableText":"Así que lo agarraron, lo mataron y luego lo tiraron fuera del viñedo.\n\n"},{"verse":"9","text":"&#191;Qu&#233; har&#225; despu&#233;s el due&#241;o del vi&#241;edo? Ir&#225; al vi&#241;edo, matar&#225; a los labradores y lo dar&#225; a otros. \n","readableText":"¿Qué hará después el dueño del viñedo? Irá al viñedo, matará a los labradores y\nlo dará a otros.\n\n"},{"verse":"10","text":"Seguramente habr&#225;n le&#237;do las Escrituras que dicen: &#187;&#8220;La piedra que los constructores rechazaron se ha convertido en la piedra principal.   \n","readableText":"Seguramente habrán leído las Escrituras que dicen: »“La piedra que los\nconstructores rechazaron se ha convertido en la piedra principal.\n\n"},{"verse":"11","text":"  \n","readableText":"\n\n"}]}
+{
+  "book": "MRK",
+  "rev": "PDT",
+  "chapter": "12",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "12 Entonces Jesús les contó la siguiente historia: «Un hombre plantó un viñedo y construyó un muro alrededor. Cavó un lugar para hacer el vino y construyó una torre de vigilancia. Después alquiló el viñedo a unos labradores y se fue de viaje.",
+      "readableText": "12 Entonces Jesús les contó la siguiente historia: «Un hombre plantó un viñedo y construyó un muro alrededor. Cavó un lugar para hacer el vino y construyó una torre de vigilancia. Después alquiló el viñedo a unos labradores y se fue de viaje."
+    },
+    {
+      "verse": "2",
+      "text": "Y a su debido tiempo, el dueño mandó a un siervo a hablar con los labradores para cobrar las ganancias del viñedo.",
+      "readableText": "Y a su debido tiempo, el dueño mandó a un siervo a hablar con los labradores para cobrar las ganancias del viñedo."
+    },
+    {
+      "verse": "3",
+      "text": "Pero los labradores agarraron al siervo, lo golpearon y lo enviaron a su amo con las manos vacías.",
+      "readableText": "Pero los labradores agarraron al siervo, lo golpearon y lo enviaron a su amo con las manos vacías."
+    },
+    {
+      "verse": "4",
+      "text": "Después, el hombre les mandó a otro siervo, pero ellos lo golpearon en la cabeza",
+      "readableText": "Después, el hombre les mandó a otro siervo, pero ellos lo golpearon en la cabeza"
+    },
+    {
+      "verse": "5",
+      "text": "y lo insultaron. El hombre mandó entonces a otro siervo, y los labradores lo mataron. El hombre siguió mandando a otros siervos pero ellos golpearon a unos y mataron a otros.",
+      "readableText": "y lo insultaron. El hombre mandó entonces a otro siervo, y los labradores lo mataron. El hombre siguió mandando a otros siervos pero ellos golpearon a unos y mataron a otros."
+    },
+    {
+      "verse": "6",
+      "text": "»Ya el hombre no tenía a quién más enviar, sino a su hijo amado. El hombre lo envió por último y pensó: “A mi hijo sí lo respetarán”.",
+      "readableText": "»Ya el hombre no tenía a quién más enviar, sino a su hijo amado. El hombre lo envió por último y pensó: “A mi hijo sí lo respetarán”."
+    },
+    {
+      "verse": "7",
+      "text": "Pero los labradores se dijeron unos a otros: “Este es el heredero, ¡vamos a matarlo para quedarnos con la herencia!”",
+      "readableText": "Pero los labradores se dijeron unos a otros: “Este es el heredero, ¡vamos a matarlo para quedarnos con la herencia!”"
+    },
+    {
+      "verse": "8",
+      "text": "Así que lo agarraron, lo mataron y luego lo tiraron fuera del viñedo.",
+      "readableText": "Así que lo agarraron, lo mataron y luego lo tiraron fuera del viñedo."
+    },
+    {
+      "verse": "9",
+      "text": "¿Qué hará después el dueño del viñedo? Irá al viñedo, matará a los labradores y lo dará a otros.",
+      "readableText": "¿Qué hará después el dueño del viñedo? Irá al viñedo, matará a los labradores y lo dará a otros."
+    },
+    {
+      "verse": "10",
+      "text": "Seguramente habrán leído las Escrituras que dicen:»“La piedra que los constructores rechazaron\n    se ha convertido en la piedra principal.",
+      "readableText": "Seguramente habrán leído las Escrituras que dicen:»“La piedra que los constructores rechazaron se ha convertido en la piedra principal."
+    },
+    {
+      "verse": "11",
+      "text": "Esto fue lo que hizo el Señor\n    y es maravilloso verlo”».",
+      "readableText": "Esto fue lo que hizo el Señor y es maravilloso verlo”»."
+    },
+    {
+      "verse": "12",
+      "text": "Querían arrestarlo porque sabían que la historia que había contado se trataba de ellos. Pero como tenían miedo de la gente, entonces lo dejaron y se alejaron de Jesús. (Mt 22:15-22; Lc 20:20-26)",
+      "readableText": "Querían arrestarlo porque sabían que la historia que había contado se trataba de ellos. Pero como tenían miedo de la gente, entonces lo dejaron y se alejaron de Jesús. (Mt 22:15-22; Lc 20:20-26)"
+    },
+    {
+      "verse": "13",
+      "text": "Después le enviaron a Jesús algunos de los fariseos y algunos herodianos, para atraparlo en algo que él dijera.",
+      "readableText": "Después le enviaron a Jesús algunos de los fariseos y algunos herodianos, para atraparlo en algo que él dijera."
+    },
+    {
+      "verse": "14",
+      "text": "Ellos fueron y le dijeron:—Maestro, sabemos que eres un hombre honesto. No te dejas llevar por lo que piensen los demás pues para ti todos son iguales. Enseñas con sinceridad el camino de Dios. Dinos, ¿está bien que paguemos impuestos al emperador? ¿Debemos pagarlos o no?",
+      "readableText": "Ellos fueron y le dijeron:—Maestro, sabemos que eres un hombre honesto. No te dejas llevar por lo que piensen los demás pues para ti todos son iguales. Enseñas con sinceridad el camino de Dios. Dinos, ¿está bien que paguemos impuestos al emperador? ¿Debemos pagarlos o no?"
+    },
+    {
+      "verse": "15",
+      "text": "Pero él vio su hipocresía y les dijo:—¿Por qué tratan de ponerme una trampa? Denme una moneda de plata. Déjenme verla.",
+      "readableText": "Pero él vio su hipocresía y les dijo:—¿Por qué tratan de ponerme una trampa? Denme una moneda de plata. Déjenme verla."
+    },
+    {
+      "verse": "16",
+      "text": "Ellos le dieron una moneda y Jesús preguntó:—¿De quién es la imagen que está en la moneda y el nombre que está escrito en ella?Ellos dijeron:—Del emperador.",
+      "readableText": "Ellos le dieron una moneda y Jesús preguntó:—¿De quién es la imagen que está en la moneda y el nombre que está escrito en ella?Ellos dijeron:—Del emperador."
+    },
+    {
+      "verse": "17",
+      "text": "Entonces Jesús les dijo:—Den al emperador lo que es del emperador y a Dios lo que es de Dios.Se asombraron de lo que Jesús dijo. (Mt 22:23-33; Lc 20:27-40)",
+      "readableText": "Entonces Jesús les dijo:—Den al emperador lo que es del emperador y a Dios lo que es de Dios.Se asombraron de lo que Jesús dijo. (Mt 22:23-33; Lc 20:27-40)"
+    },
+    {
+      "verse": "18",
+      "text": "Entonces unos saduceos, los que dicen que no hay resurrección, se acercaron a Jesús y le preguntaron:",
+      "readableText": "Entonces unos saduceos, los que dicen que no hay resurrección, se acercaron a Jesús y le preguntaron:"
+    },
+    {
+      "verse": "19",
+      "text": "—Maestro, Moisés nos escribió que si un hombre casado moría sin haber tenido hijos, su hermano debía casarse con la viuda. De esa manera los hijos que tuvieran serían considerados hijos del hermano fallecido.",
+      "readableText": "—Maestro, Moisés nos escribió que si un hombre casado moría sin haber tenido hijos, su hermano debía casarse con la viuda. De esa manera los hijos que tuvieran serían considerados hijos del hermano fallecido."
+    },
+    {
+      "verse": "20",
+      "text": "Una vez hubo siete hermanos. El primero murió sin dejar hijos,",
+      "readableText": "Una vez hubo siete hermanos. El primero murió sin dejar hijos,"
+    },
+    {
+      "verse": "21",
+      "text": "así que el segundo se casó con la viuda. Pero él también murió sin dejar hijos. Lo mismo pasó con el tercer hermano.",
+      "readableText": "así que el segundo se casó con la viuda. Pero él también murió sin dejar hijos. Lo mismo pasó con el tercer hermano."
+    },
+    {
+      "verse": "22",
+      "text": "Todos los siete hermanos se casaron con la viuda y murieron sin que ninguno dejara hijos. Después la mujer también murió.",
+      "readableText": "Todos los siete hermanos se casaron con la viuda y murieron sin que ninguno dejara hijos. Después la mujer también murió."
+    },
+    {
+      "verse": "23",
+      "text": "Como todos los siete hermanos se habían casado con ella, el día en que la gente resucite, ¿de quién será esposa la viuda?",
+      "readableText": "Como todos los siete hermanos se habían casado con ella, el día en que la gente resucite, ¿de quién será esposa la viuda?"
+    },
+    {
+      "verse": "24",
+      "text": "Jesús les contestó:—¿Por qué cometen ese error? ¿Acaso no saben lo que dicen las Escrituras ni conocen el poder de Dios?",
+      "readableText": "Jesús les contestó:—¿Por qué cometen ese error? ¿Acaso no saben lo que dicen las Escrituras ni conocen el poder de Dios?"
+    },
+    {
+      "verse": "25",
+      "text": "Cuando la gente resucite de la muerte, no se casará, sino que todos serán como los ángeles del cielo.",
+      "readableText": "Cuando la gente resucite de la muerte, no se casará, sino que todos serán como los ángeles del cielo."
+    },
+    {
+      "verse": "26",
+      "text": "Pero en cuanto a que los muertos resucitan, ¿no han leído en el libro de Moisés como Dios le habló en el arbusto ardiente y le dijo: “Yo soy el Dios de Abraham, el Dios de Isaac y el Dios de Jacob”?",
+      "readableText": "Pero en cuanto a que los muertos resucitan, ¿no han leído en el libro de Moisés como Dios le habló en el arbusto ardiente y le dijo: “Yo soy el Dios de Abraham, el Dios de Isaac y el Dios de Jacob”?"
+    },
+    {
+      "verse": "27",
+      "text": "Él no es Dios de muertos, sino de vivos. Ustedes están muy equivocados. (Mt 22:34-40; Lc 10:25-28)",
+      "readableText": "Él no es Dios de muertos, sino de vivos. Ustedes están muy equivocados. (Mt 22:34-40; Lc 10:25-28)"
+    },
+    {
+      "verse": "28",
+      "text": "Se acercó uno de los maestros de la ley que los había oído discutir. Se había fijado en lo bien que Jesús les había contestado, y le preguntó:—¿Cuál es el mandamiento más importante?",
+      "readableText": "Se acercó uno de los maestros de la ley que los había oído discutir. Se había fijado en lo bien que Jesús les había contestado, y le preguntó:—¿Cuál es el mandamiento más importante?"
+    },
+    {
+      "verse": "29",
+      "text": "Jesús contestó:—El mandamiento más importante es este: “¡Oye, Israel! El Señor nuestro Dios es el único Señor.",
+      "readableText": "Jesús contestó:—El mandamiento más importante es este: “¡Oye, Israel! El Señor nuestro Dios es el único Señor."
+    },
+    {
+      "verse": "30",
+      "text": "Ama al Señor tu Dios con todo tu corazón, con todo tu ser, con toda tu mente y con todas tus fuerzas”.",
+      "readableText": "Ama al Señor tu Dios con todo tu corazón, con todo tu ser, con toda tu mente y con todas tus fuerzas”."
+    },
+    {
+      "verse": "31",
+      "text": "Y el segundo es: “Ama a tu semejante como te amas a ti mismo”. No hay otro mandamiento más importante que estos.",
+      "readableText": "Y el segundo es: “Ama a tu semejante como te amas a ti mismo”. No hay otro mandamiento más importante que estos."
+    },
+    {
+      "verse": "32",
+      "text": "Entonces el maestro de la ley contestó:—Esa fue una buena respuesta, Maestro. Tienes razón, el Señor es el único Dios y no hay otro aparte de él.",
+      "readableText": "Entonces el maestro de la ley contestó:—Esa fue una buena respuesta, Maestro. Tienes razón, el Señor es el único Dios y no hay otro aparte de él."
+    },
+    {
+      "verse": "33",
+      "text": "Uno debe amar a Dios con todo su corazón, con todo su entendimiento y con todas sus fuerzas, y al semejante como a sí mismo. Estos mandamientos son más importantes que todos los sacrificios que se queman completamente y otros sacrificios que ofrecemos a Dios.",
+      "readableText": "Uno debe amar a Dios con todo su corazón, con todo su entendimiento y con todas sus fuerzas, y al semejante como a sí mismo. Estos mandamientos son más importantes que todos los sacrificios que se queman completamente y otros sacrificios que ofrecemos a Dios."
+    },
+    {
+      "verse": "34",
+      "text": "Al ver Jesús que el hombre había contestado sabiamente, le dijo:—No estás lejos del reino de Dios.Después de aquel momento nadie tuvo el valor de hacerle más preguntas. (Mt 22:41-46; Lc 20:41-44)",
+      "readableText": "Al ver Jesús que el hombre había contestado sabiamente, le dijo:—No estás lejos del reino de Dios.Después de aquel momento nadie tuvo el valor de hacerle más preguntas. (Mt 22:41-46; Lc 20:41-44)"
+    },
+    {
+      "verse": "35",
+      "text": "Jesús estaba enseñando en el área del templo y preguntó:—¿Por qué los maestros de la ley dicen que el Mesías es Hijo de David?",
+      "readableText": "Jesús estaba enseñando en el área del templo y preguntó:—¿Por qué los maestros de la ley dicen que el Mesías es Hijo de David?"
+    },
+    {
+      "verse": "36",
+      "text": "Inspirado por el Espíritu Santo, David mismo dice:“El Señor Dios le dijo a mi Señor:\n    Siéntate a mi derecha,\nhasta que ponga a tus enemigos\n    bajo tu poder”.",
+      "readableText": "Inspirado por el Espíritu Santo, David mismo dice:“El Señor Dios le dijo a mi Señor: Siéntate a mi derecha, hasta que ponga a tus enemigos bajo tu poder”."
+    },
+    {
+      "verse": "37",
+      "text": "David mismo llama al Mesías “Señor”, ¿cómo entonces puede él ser su hijo?Mucha gente oía a Jesús con gusto. (Mt 23:1-36; Lc 11:37-54; 20:45-47)",
+      "readableText": "David mismo llama al Mesías “Señor”, ¿cómo entonces puede él ser su hijo?Mucha gente oía a Jesús con gusto. (Mt 23:1-36; Lc 11:37-54; 20:45-47)"
+    },
+    {
+      "verse": "38",
+      "text": "Jesús continuó enseñando: «Tengan cuidado de los maestros de la ley. A ellos les gusta pasearse vistiendo ropa que muestre su autoridad y que la gente los salude con respeto en las plazas de mercado.",
+      "readableText": "Jesús continuó enseñando: «Tengan cuidado de los maestros de la ley. A ellos les gusta pasearse vistiendo ropa que muestre su autoridad y que la gente los salude con respeto en las plazas de mercado."
+    },
+    {
+      "verse": "39",
+      "text": "También les gusta mucho sentarse en los lugares de honor de las sinagogas y tener los mejores lugares en los banquetes.",
+      "readableText": "También les gusta mucho sentarse en los lugares de honor de las sinagogas y tener los mejores lugares en los banquetes."
+    },
+    {
+      "verse": "40",
+      "text": "Ellos se roban los bienes de las viudas y para disimularlo hacen largas oraciones. Por eso Dios los castigará con más severidad». (Lc 21:1-4)",
+      "readableText": "Ellos se roban los bienes de las viudas y para disimularlo hacen largas oraciones. Por eso Dios los castigará con más severidad». (Lc 21:1-4)"
+    },
+    {
+      "verse": "41",
+      "text": "Jesús estaba sentado cerca de la caja del dinero del templo y veía cómo la gente daba sus ofrendas. Muchos ricos daban bastante dinero.",
+      "readableText": "Jesús estaba sentado cerca de la caja del dinero del templo y veía cómo la gente daba sus ofrendas. Muchos ricos daban bastante dinero."
+    },
+    {
+      "verse": "42",
+      "text": "Luego vino una viuda y dio dos pequeñas monedas de cobre que valían muy poco.",
+      "readableText": "Luego vino una viuda y dio dos pequeñas monedas de cobre que valían muy poco."
+    },
+    {
+      "verse": "43",
+      "text": "Jesús llamó a sus seguidores y les dijo:—Les digo la verdad: esa pobre viuda echó más que todos demás a la caja del tesoro del templo.",
+      "readableText": "Jesús llamó a sus seguidores y les dijo:—Les digo la verdad: esa pobre viuda echó más que todos demás a la caja del tesoro del templo."
+    },
+    {
+      "verse": "44",
+      "text": "Porque los demás dieron de lo que les sobraba, pero ella, a pesar de su pobreza, entregó todo lo que tenía para vivir.  end of footnotes\n end of crossrefs",
+      "readableText": "Porque los demás dieron de lo que les sobraba, pero ella, a pesar de su pobreza, entregó todo lo que tenía para vivir. end of footnotes end of crossrefs"
+    }
+  ]
+}

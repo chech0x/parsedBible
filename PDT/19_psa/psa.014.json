@@ -1,1 +1,42 @@
-{"book":"PSA","rev":"PDT","chapter":"14","verses":[{"verse":"1","text":"Van pensando los insensatos sin tener presente a Dios. Se han corrompido y cometen cr&#237;menes horribles. No hay ni uno que haga el bien.   \n","readableText":"Van pensando los insensatos sin tener presente a Dios. Se han corrompido y\ncometen crímenes horribles. No hay ni uno que haga el bien.\n\n"},{"verse":"2","text":"El SE&#209;OR observ&#243; desde el cielo a los seres humanos para ver si hab&#237;a alguien que fuera sabio y buscara seguir a Dios.   \n","readableText":"El SEÑOR observó desde el cielo a los seres humanos para ver si había alguien\nque fuera sabio y buscara seguir a Dios.\n\n"},{"verse":"3","text":"Pero todos se hab&#237;an alejado de Dios; todos se hab&#237;an vuelto perversos. No hay ni uno que haga el bien. &#161;Ni uno solo!   \n","readableText":"Pero todos se habían alejado de Dios; todos se habían vuelto perversos. No hay\nni uno que haga el bien. ¡Ni uno solo!\n\n"},{"verse":"4","text":"&#191;Acaso son tan ignorantes los perversos, esos que devoran a mi pueblo como si fuera pan? &#161;Nunca buscan al SE&#209;OR!   \n","readableText":"¿Acaso son tan ignorantes los perversos, esos que devoran a mi pueblo como si\nfuera pan? ¡Nunca buscan al SEÑOR!\n\n"},{"verse":"5","text":"Cuando Dios env&#237;e su castigo a los que hacen el mal, se apoderar&#225; de ellos un gran terror porque Dios est&#225; siempre con la gente justa.   \n","readableText":"Cuando Dios envíe su castigo a los que hacen el mal, se apoderará de ellos un\ngran terror porque Dios está siempre con la gente justa.\n\n"},{"verse":"6","text":"Aunque ustedes traten de frustrar los deseos del oprimido, el SE&#209;OR es su refugio.   \n","readableText":"Aunque ustedes traten de frustrar los deseos del oprimido, el SEÑOR es su\nrefugio.\n\n"},{"verse":"7","text":"&#161;Ojal&#225; que la salvaci&#243;n de Israel viniera del que habita en el monte Sion! Cuando el SE&#209;OR restaure la fortuna de su gente, que sea feliz el pueblo de Jacob, que se alegre el pueblo de Israel.\n","readableText":"¡Ojalá que la salvación de Israel viniera del que habita en el monte Sion!\nCuando el SEÑOR restaure la fortuna de su gente, que sea feliz el pueblo de\nJacob, que se alegre el pueblo de Israel.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "14",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Van pensando los insensatos\n    sin tener presente a Dios.\nSe han corrompido y cometen crímenes horribles.\n    No hay ni uno que haga el bien.",
+      "readableText": "Van pensando los insensatos sin tener presente a Dios. Se han corrompido y cometen crímenes horribles. No hay ni uno que haga el bien."
+    },
+    {
+      "verse": "2",
+      "text": "El SEÑOR observó desde el cielo a los seres humanos\n    para ver si había alguien que fuera sabio\n    y buscara seguir a Dios.",
+      "readableText": "El SEÑOR observó desde el cielo a los seres humanos para ver si había alguien que fuera sabio y buscara seguir a Dios."
+    },
+    {
+      "verse": "3",
+      "text": "Pero todos se habían alejado de Dios;\n    todos se habían vuelto perversos.\nNo hay ni uno que haga el bien.\n    ¡Ni uno solo!",
+      "readableText": "Pero todos se habían alejado de Dios; todos se habían vuelto perversos. No hay ni uno que haga el bien. ¡Ni uno solo!"
+    },
+    {
+      "verse": "4",
+      "text": "¿Acaso son tan ignorantes los perversos,\n    esos que devoran a mi pueblo como si fuera pan?\n    ¡Nunca buscan al SEÑOR!",
+      "readableText": "¿Acaso son tan ignorantes los perversos, esos que devoran a mi pueblo como si fuera pan? ¡Nunca buscan al SEÑOR!"
+    },
+    {
+      "verse": "5",
+      "text": "Cuando Dios envíe su castigo a los que hacen el mal,\n    se apoderará de ellos un gran terror\n    porque Dios está siempre con la gente justa.",
+      "readableText": "Cuando Dios envíe su castigo a los que hacen el mal, se apoderará de ellos un gran terror porque Dios está siempre con la gente justa."
+    },
+    {
+      "verse": "6",
+      "text": "Aunque ustedes traten de frustrar los deseos del oprimido,\n    el SEÑOR es su refugio.",
+      "readableText": "Aunque ustedes traten de frustrar los deseos del oprimido, el SEÑOR es su refugio."
+    },
+    {
+      "verse": "7",
+      "text": "¡Ojalá que la salvación de Israel\n    viniera del que habita en el monte Sion!\nCuando el SEÑOR restaure la fortuna de su gente,\n    que sea feliz el pueblo de Jacob,\n    que se alegre el pueblo de Israel.",
+      "readableText": "¡Ojalá que la salvación de Israel viniera del que habita en el monte Sion! Cuando el SEÑOR restaure la fortuna de su gente, que sea feliz el pueblo de Jacob, que se alegre el pueblo de Israel."
+    }
+  ]
+}

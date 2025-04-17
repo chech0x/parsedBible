@@ -1,1 +1,67 @@
-{"book":"PSA","rev":"PDT","chapter":"60","verses":[{"verse":"1","text":"Dios m&#237;o, t&#250; te has enojado con nosotros; nos has rechazado y destruido. Ay&#250;danos a recuperarnos.   \n","readableText":"Dios mío, tú te has enojado con nosotros; nos has rechazado y destruido.\nAyúdanos a recuperarnos.\n\n"},{"verse":"2","text":"T&#250; hiciste que la tierra temblara y se abriera. Cierra sus grietas, porque se est&#225; desmoronando.   \n","readableText":"Tú hiciste que la tierra temblara y se abriera. Cierra sus grietas, porque se\nestá desmoronando.\n\n"},{"verse":"3","text":"T&#250; has hecho sufrir mucho a tu pueblo, nos ha hecho beber un vino que aturde.   \n","readableText":"Tú has hecho sufrir mucho a tu pueblo, nos ha hecho beber un vino que aturde.\n\n\n"},{"verse":"4","text":"Elevaste una bandera para los que te respetan, para que vuelvan a encontrarte y as&#237; poder evitar los arqueros del enemigo.  Selah   \n","readableText":"Elevaste una bandera para los que te respetan, para que vuelvan a encontrarte y\nasí poder evitar los arqueros del enemigo. Selah\n\n"},{"verse":"5","text":"Esc&#250;chanos y usa tu gran poder para salvarnos; salva a la gente que amas.   \n","readableText":"Escúchanos y usa tu gran poder para salvarnos; salva a la gente que amas.\n\n"},{"verse":"6","text":"Dios ha dicho en su santuario: &#171;Triunfar&#233; y repartir&#233; entre mi pueblo las tierras de Siqu&#233;n y las del valle de Sucot.   \n","readableText":"Dios ha dicho en su santuario: «Triunfaré y repartiré entre mi pueblo las\ntierras de Siquén y las del valle de Sucot.\n\n"},{"verse":"7","text":"Galaad y Manas&#233;s son m&#237;os; Efra&#237;n es un casco para mi cabeza. Jud&#225; es mi cetro real.   \n","readableText":"Galaad y Manasés son míos; Efraín es un casco para mi cabeza. Judá es mi cetro\nreal.\n\n"},{"verse":"8","text":"Moab ser&#225; el recipiente en que me lavo; Edom ser&#225; como un esclavo que me lleva la sandalia. Sobre la tierra de los Filisteos, gritar&#233; la victoria&#187;.   \n","readableText":"Moab será el recipiente en que me lavo; Edom será como un esclavo que me lleva\nla sandalia. Sobre la tierra de los Filisteos, gritaré la victoria».\n\n"},{"verse":"9","text":"&#191;Qui&#233;n me guiar&#225; a la ciudad fortificada? &#191;Qui&#233;n me guiar&#225; hasta Edom?   \n","readableText":"¿Quién me guiará a la ciudad fortificada? ¿Quién me guiará hasta Edom?\n\n"},{"verse":"10","text":"Es que t&#250; nos abandonaste. Dios m&#237;o, &#191;saldr&#225;s t&#250; con nuestro ej&#233;rcito?   \n","readableText":"Es que tú nos abandonaste. Dios mío, ¿saldrás tú con nuestro ejército?\n\n"},{"verse":"11","text":"Ay&#250;danos a derrotar al enemigo, pues la ayuda del ser humano es in&#250;til.   \n","readableText":"Ayúdanos a derrotar al enemigo, pues la ayuda del ser humano es inútil.\n\n"},{"verse":"12","text":"Con Dios conseguiremos la victoria; &#233;l pisotear&#225; a nuestros enemigos.\n","readableText":"Con Dios conseguiremos la victoria; él pisoteará a nuestros enemigos.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "60",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Dios mío, tú te has enojado con nosotros;\n    nos has rechazado y destruido.\n    Ayúdanos a recuperarnos.",
+      "readableText": "Dios mío, tú te has enojado con nosotros; nos has rechazado y destruido. Ayúdanos a recuperarnos."
+    },
+    {
+      "verse": "2",
+      "text": "Tú hiciste que la tierra temblara y se abriera.\n    Cierra sus grietas, porque se está desmoronando.",
+      "readableText": "Tú hiciste que la tierra temblara y se abriera. Cierra sus grietas, porque se está desmoronando."
+    },
+    {
+      "verse": "3",
+      "text": "Tú has hecho sufrir mucho a tu pueblo,\n    nos ha hecho beber un vino que aturde.",
+      "readableText": "Tú has hecho sufrir mucho a tu pueblo, nos ha hecho beber un vino que aturde."
+    },
+    {
+      "verse": "4",
+      "text": "Elevaste una bandera para los que te respetan,\n    para que vuelvan a encontrarte\n    y así poder evitar los arqueros del enemigo. Selah",
+      "readableText": "Elevaste una bandera para los que te respetan, para que vuelvan a encontrarte y así poder evitar los arqueros del enemigo. Selah"
+    },
+    {
+      "verse": "5",
+      "text": "Escúchanos y usa tu gran poder para salvarnos;\n    salva a la gente que amas.",
+      "readableText": "Escúchanos y usa tu gran poder para salvarnos; salva a la gente que amas."
+    },
+    {
+      "verse": "6",
+      "text": "Dios ha dicho en su santuario:\n«Triunfaré y repartiré entre mi pueblo\n    las tierras de Siquén y las del valle de Sucot.",
+      "readableText": "Dios ha dicho en su santuario: «Triunfaré y repartiré entre mi pueblo las tierras de Siquén y las del valle de Sucot."
+    },
+    {
+      "verse": "7",
+      "text": "Galaad y Manasés son míos;\n    Efraín es un casco para mi cabeza.\n    Judá es mi cetro real.",
+      "readableText": "Galaad y Manasés son míos; Efraín es un casco para mi cabeza. Judá es mi cetro real."
+    },
+    {
+      "verse": "8",
+      "text": "Moab será el recipiente en que me lavo;\n    Edom será como un esclavo que me lleva la sandalia.\n    Sobre la tierra de los Filisteos, gritaré la victoria».",
+      "readableText": "Moab será el recipiente en que me lavo; Edom será como un esclavo que me lleva la sandalia. Sobre la tierra de los Filisteos, gritaré la victoria»."
+    },
+    {
+      "verse": "9",
+      "text": "¿Quién me guiará a la ciudad fortificada?\n    ¿Quién me guiará hasta Edom?",
+      "readableText": "¿Quién me guiará a la ciudad fortificada? ¿Quién me guiará hasta Edom?"
+    },
+    {
+      "verse": "10",
+      "text": "Es que tú nos abandonaste.\n    Dios mío, ¿saldrás tú con nuestro ejército?",
+      "readableText": "Es que tú nos abandonaste. Dios mío, ¿saldrás tú con nuestro ejército?"
+    },
+    {
+      "verse": "11",
+      "text": "Ayúdanos a derrotar al enemigo,\n    pues la ayuda del ser humano es inútil.",
+      "readableText": "Ayúdanos a derrotar al enemigo, pues la ayuda del ser humano es inútil."
+    },
+    {
+      "verse": "12",
+      "text": "Con Dios conseguiremos la victoria;\n    él pisoteará a nuestros enemigos.",
+      "readableText": "Con Dios conseguiremos la victoria; él pisoteará a nuestros enemigos."
+    }
+  ]
+}

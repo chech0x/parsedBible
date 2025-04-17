@@ -1,1 +1,67 @@
-{"book":"PSA","rev":"PDT","chapter":"84","verses":[{"verse":"1","text":"&#161;Qu&#233; hermoso es tu templo, SE&#209;OR Todopoderoso!   \n","readableText":"¡Qué hermoso es tu templo, SEÑOR Todopoderoso!\n\n"},{"verse":"2","text":"Deseo con ansia y emoci&#243;n estar en los patios de tu templo, SE&#209;OR. Mi coraz&#243;n canta de alegr&#237;a; al Dios vivo canta todo mi cuerpo.   \n","readableText":"Deseo con ansia y emoción estar en los patios de tu templo, SEÑOR. Mi corazón\ncanta de alegría; al Dios vivo canta todo mi cuerpo.\n\n"},{"verse":"3","text":"SE&#209;OR Todopoderoso, mi Dios y Rey, hasta los p&#225;jaros han encontrado un hogar en tu templo. Hacen sus nidos cerca de tu altar y all&#237; tienen su cr&#237;a.   \n","readableText":"SEÑOR Todopoderoso, mi Dios y Rey, hasta los pájaros han encontrado un hogar en\ntu templo. Hacen sus nidos cerca de tu altar y allí tienen su cría.\n\n"},{"verse":"4","text":"Qu&#233; afortunado es el que vive en tu templo porque siempre te est&#225; adorando.  Selah   \n","readableText":"Qué afortunado es el que vive en tu templo porque siempre te está adorando.\nSelah\n\n"},{"verse":"5","text":"Qu&#233; afortunado es el que se apoya en ti, el que s&#243;lo piensa en andar en tus caminos.   \n","readableText":"Qué afortunado es el que se apoya en ti, el que sólo piensa en andar en tus\ncaminos.\n\n"},{"verse":"6","text":"Cuando pasa por el valle de las L&#225;grimas, lo convierte en un oasis bendecido por la lluvia temprana.   \n","readableText":"Cuando pasa por el valle de las Lágrimas, lo convierte en un oasis bendecido\npor la lluvia temprana.\n\n"},{"verse":"7","text":"Mientras se acercan, son cada vez m&#225;s fuertes hasta llegar al monte Sion y encontrarse con el Dios m&#225;s fuerte.   \n","readableText":"Mientras se acercan, son cada vez más fuertes hasta llegar al monte Sion y\nencontrarse con el Dios más fuerte.\n\n"},{"verse":"8","text":"SE&#209;OR Dios Todopoderoso, escucha mi oraci&#243;n; Dios de Jacob, esc&#250;chame.  Selah   \n","readableText":"SEÑOR Dios Todopoderoso, escucha mi oración; Dios de Jacob, escúchame. Selah\n\n"},{"verse":"9","text":"Dios nuestro, protege a nuestro protector. S&#233; bueno con tu rey elegido.   \n","readableText":"Dios nuestro, protege a nuestro protector. Sé bueno con tu rey elegido.\n\n"},{"verse":"10","text":"Un d&#237;a en tu templo es mejor que mil d&#237;as en cualquier otro lugar. Preferir&#237;a ser el portero de la casa de mi Dios que vivir en la casa de un perverso.   \n","readableText":"Un día en tu templo es mejor que mil días en cualquier otro lugar. Preferiría\nser el portero de la casa de mi Dios que vivir en la casa de un perverso.\n\n"},{"verse":"11","text":"El SE&#209;OR Dios brilla sobre nosotros y nos protege; nos bendice con bondad y gloria. El SE&#209;OR no le niega ninguna bendici&#243;n al que vive con integridad.   \n","readableText":"El SEÑOR Dios brilla sobre nosotros y nos protege; nos bendice con bondad y\ngloria. El SEÑOR no le niega ninguna bendición al que vive con integridad.\n\n"},{"verse":"12","text":"SE&#209;OR Todopoderoso, &#161;qu&#233; afortunados son los que conf&#237;an en ti!\n","readableText":"SEÑOR Todopoderoso, ¡qué afortunados son los que confían en ti!\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "84",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "¡Qué hermoso es tu templo,\n    SEÑOR Todopoderoso!",
+      "readableText": "¡Qué hermoso es tu templo, SEÑOR Todopoderoso!"
+    },
+    {
+      "verse": "2",
+      "text": "Deseo con ansia y emoción\n    estar en los patios de tu templo, SEÑOR.\nMi corazón canta de alegría;\n    al Dios vivo canta todo mi cuerpo.",
+      "readableText": "Deseo con ansia y emoción estar en los patios de tu templo, SEÑOR. Mi corazón canta de alegría; al Dios vivo canta todo mi cuerpo."
+    },
+    {
+      "verse": "3",
+      "text": "SEÑOR Todopoderoso, mi Dios y Rey,\n    hasta los pájaros han encontrado un hogar en tu templo.\nHacen sus nidos cerca de tu altar\n    y allí tienen su cría.",
+      "readableText": "SEÑOR Todopoderoso, mi Dios y Rey, hasta los pájaros han encontrado un hogar en tu templo. Hacen sus nidos cerca de tu altar y allí tienen su cría."
+    },
+    {
+      "verse": "4",
+      "text": "Qué afortunado es el que vive en tu templo\n    porque siempre te está adorando. Selah",
+      "readableText": "Qué afortunado es el que vive en tu templo porque siempre te está adorando. Selah"
+    },
+    {
+      "verse": "5",
+      "text": "Qué afortunado es el que se apoya en ti,\n    el que sólo piensa en andar en tus caminos.",
+      "readableText": "Qué afortunado es el que se apoya en ti, el que sólo piensa en andar en tus caminos."
+    },
+    {
+      "verse": "6",
+      "text": "Cuando pasa por el valle de las Lágrimas,\n    lo convierte en un oasis bendecido por la lluvia temprana.",
+      "readableText": "Cuando pasa por el valle de las Lágrimas, lo convierte en un oasis bendecido por la lluvia temprana."
+    },
+    {
+      "verse": "7",
+      "text": "Mientras se acercan, son cada vez más fuertes hasta llegar al monte Sion\n    y encontrarse con el Dios más fuerte.",
+      "readableText": "Mientras se acercan, son cada vez más fuertes hasta llegar al monte Sion y encontrarse con el Dios más fuerte."
+    },
+    {
+      "verse": "8",
+      "text": "SEÑOR Dios Todopoderoso, escucha mi oración;\n    Dios de Jacob, escúchame. Selah",
+      "readableText": "SEÑOR Dios Todopoderoso, escucha mi oración; Dios de Jacob, escúchame. Selah"
+    },
+    {
+      "verse": "9",
+      "text": "Dios nuestro, protege a nuestro protector.\n    Sé bueno con tu rey elegido.",
+      "readableText": "Dios nuestro, protege a nuestro protector. Sé bueno con tu rey elegido."
+    },
+    {
+      "verse": "10",
+      "text": "Un día en tu templo es mejor\n    que mil días en cualquier otro lugar.\nPreferiría ser el portero de la casa de mi Dios\n    que vivir en la casa de un perverso.",
+      "readableText": "Un día en tu templo es mejor que mil días en cualquier otro lugar. Preferiría ser el portero de la casa de mi Dios que vivir en la casa de un perverso."
+    },
+    {
+      "verse": "11",
+      "text": "El SEÑOR Dios brilla sobre nosotros y nos protege;\n    nos bendice con bondad y gloria.\nEl SEÑOR no le niega ninguna bendición\n    al que vive con integridad.",
+      "readableText": "El SEÑOR Dios brilla sobre nosotros y nos protege; nos bendice con bondad y gloria. El SEÑOR no le niega ninguna bendición al que vive con integridad."
+    },
+    {
+      "verse": "12",
+      "text": "SEÑOR Todopoderoso,\n    ¡qué afortunados son los que confían en ti!  end of footnotes",
+      "readableText": "SEÑOR Todopoderoso, ¡qué afortunados son los que confían en ti! end of footnotes"
+    }
+  ]
+}

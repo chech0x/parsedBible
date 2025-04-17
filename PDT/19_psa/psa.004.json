@@ -1,1 +1,47 @@
-{"book":"PSA","rev":"PDT","chapter":"4","verses":[{"verse":"1","text":"Dios m&#237;o, t&#250; que me defiendes, resp&#243;ndeme cuando te llame. Me libraste cuando estaba en aprietos. Escucha mi oraci&#243;n y ten compasi&#243;n de m&#237;.   \n","readableText":"Dios mío, tú que me defiendes, respóndeme cuando te llame. Me libraste cuando\nestaba en aprietos. Escucha mi oración y ten compasión de mí.\n\n"},{"verse":"2","text":"Ustedes que son gente importante , &#191;hasta cu&#225;ndo seguir&#225;n hablando mal de m&#237;? Les encantan los chismes y se la pasan inventando mentiras de m&#237;.  Selah   \n","readableText":"Ustedes que son gente importante , ¿hasta cuándo seguirán hablando mal de mí?\nLes encantan los chismes y se la pasan inventando mentiras de mí. Selah\n\n"},{"verse":"3","text":"Sepan que el SE&#209;OR escucha a un fiel suyo. Por eso el SE&#209;OR me escucha cuando le pido ayuda.   \n","readableText":"Sepan que el SEÑOR escucha a un fiel suyo. Por eso el SEÑOR me escucha cuando\nle pido ayuda.\n\n"},{"verse":"4","text":"Tiemblen y dejen de pecar. Cuando se vayan a dormir, piensen acerca de eso que tanto les molesta y guarden silencio.  Selah   \n","readableText":"Tiemblen y dejen de pecar. Cuando se vayan a dormir, piensen acerca de eso que\ntanto les molesta y guarden silencio. Selah\n\n"},{"verse":"5","text":"Conf&#237;en en el SE&#209;OR y como sacrificio, hagan el bien.   \n","readableText":"Confíen en el SEÑOR y como sacrificio, hagan el bien.\n\n"},{"verse":"6","text":"Mucha gente dice: &#171;Ojal&#225; pudi&#233;ramos tener buena suerte&#187;. Pero nosotros decimos: &#171;&#161;SE&#209;OR, m&#237;ranos con buenos ojos!&#187;   \n","readableText":"Mucha gente dice: «Ojalá pudiéramos tener buena suerte». Pero nosotros decimos:\n«¡SEÑOR, míranos con buenos ojos!»\n\n"},{"verse":"7","text":"T&#250; me has hecho sentirme m&#225;s feliz que ellos en los momentos de las mejores cosechas.   \n","readableText":"Tú me has hecho sentirme más feliz que ellos en los momentos de las mejores\ncosechas.\n\n"},{"verse":"8","text":"En completa paz me acuesto y me duermo, porque t&#250;, SE&#209;OR, me haces vivir tranquilo.\n","readableText":"En completa paz me acuesto y me duermo, porque tú, SEÑOR, me haces vivir\ntranquilo.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "4",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Dios mío, tú que me defiendes,\n    respóndeme cuando te llame.\nMe libraste cuando estaba en aprietos.\n    Escucha mi oración y ten compasión de mí.",
+      "readableText": "Dios mío, tú que me defiendes, respóndeme cuando te llame. Me libraste cuando estaba en aprietos. Escucha mi oración y ten compasión de mí."
+    },
+    {
+      "verse": "2",
+      "text": "Ustedes que son gente importante,\n    ¿hasta cuándo seguirán hablando mal de mí?\nLes encantan los chismes\n    y se la pasan inventando mentiras de mí. Selah",
+      "readableText": "Ustedes que son gente importante, ¿hasta cuándo seguirán hablando mal de mí? Les encantan los chismes y se la pasan inventando mentiras de mí. Selah"
+    },
+    {
+      "verse": "3",
+      "text": "Sepan que el SEÑOR escucha a un fiel suyo.\n    Por eso el SEÑOR me escucha cuando le pido ayuda.",
+      "readableText": "Sepan que el SEÑOR escucha a un fiel suyo. Por eso el SEÑOR me escucha cuando le pido ayuda."
+    },
+    {
+      "verse": "4",
+      "text": "Tiemblen y dejen de pecar.\n    Cuando se vayan a dormir,\n    piensen acerca de eso que tanto les molesta y guarden silencio. Selah",
+      "readableText": "Tiemblen y dejen de pecar. Cuando se vayan a dormir, piensen acerca de eso que tanto les molesta y guarden silencio. Selah"
+    },
+    {
+      "verse": "5",
+      "text": "Confíen en el SEÑOR\n    y como sacrificio, hagan el bien.",
+      "readableText": "Confíen en el SEÑOR y como sacrificio, hagan el bien."
+    },
+    {
+      "verse": "6",
+      "text": "Mucha gente dice:\n    «Ojalá pudiéramos tener buena suerte».\nPero nosotros decimos:\n    «¡SEÑOR, míranos con buenos ojos!»",
+      "readableText": "Mucha gente dice: «Ojalá pudiéramos tener buena suerte». Pero nosotros decimos: «¡SEÑOR, míranos con buenos ojos!»"
+    },
+    {
+      "verse": "7",
+      "text": "Tú me has hecho sentirme más feliz\n    que ellos en los momentos de las mejores cosechas.",
+      "readableText": "Tú me has hecho sentirme más feliz que ellos en los momentos de las mejores cosechas."
+    },
+    {
+      "verse": "8",
+      "text": "En completa paz me acuesto y me duermo,\n    porque tú, SEÑOR, me haces vivir tranquilo.  end of footnotes",
+      "readableText": "En completa paz me acuesto y me duermo, porque tú, SEÑOR, me haces vivir tranquilo. end of footnotes"
+    }
+  ]
+}

@@ -1,1 +1,52 @@
-{"book":"PSA","rev":"PDT","chapter":"8","verses":[{"verse":"1","text":"SE&#209;OR, Dios nuestro, tu nombre es sin par en el mundo entero. Tu gloria se extiende m&#225;s all&#225; de los cielos.   \n","readableText":"SEÑOR, Dios nuestro, tu nombre es sin par en el mundo entero. Tu gloria se\nextiende más allá de los cielos.\n\n"},{"verse":"2","text":"Los beb&#233;s y los ni&#241;os te cantan canciones de alabanza. T&#250; les diste estas canciones poderosas para silenciar a tus enemigos que buscan venganza.   \n","readableText":"Los bebés y los niños te cantan canciones de alabanza. Tú les diste estas\ncanciones poderosas para silenciar a tus enemigos que buscan venganza.\n\n"},{"verse":"3","text":"Cuando veo el cielo que hiciste con tus dedos, y la luna y las estrellas que pusiste en su lugar,   \n","readableText":"Cuando veo el cielo que hiciste con tus dedos, y la luna y las estrellas que\npusiste en su lugar,\n\n"},{"verse":"4","text":"me pregunto: &#171;&#191;Qu&#233; es el ser humano? &#191;Por qu&#233; te acuerdas de &#233;l? &#191;Qu&#233; es la raza humana ? &#191;Para qu&#233; te ocupas de ella?&#187;   \n","readableText":"me pregunto: «¿Qué es el ser humano? ¿Por qué te acuerdas de él? ¿Qué es la\nraza humana ? ¿Para qué te ocupas de ella?»\n\n"},{"verse":"5","text":"T&#250; has creado a los seres humanos casi como dioses y los has llenado de honor y gloria.   \n","readableText":"Tú has creado a los seres humanos casi como dioses y los has llenado de honor y\ngloria.\n\n"},{"verse":"6","text":"Los has puesto al cuidado de todo lo que creaste; pusiste todo bajo sus pies.   \n","readableText":"Los has puesto al cuidado de todo lo que creaste; pusiste todo bajo sus pies.\n\n\n"},{"verse":"7","text":"Ellos gobiernan todas las ovejas y el ganado, y tambi&#233;n todas las bestias del campo,   \n","readableText":"Ellos gobiernan todas las ovejas y el ganado, y también todas las bestias del\ncampo,\n\n"},{"verse":"8","text":"las aves del cielo y los peces del mar, y todo lo que pasa por las corrientes del mar.   \n","readableText":"las aves del cielo y los peces del mar, y todo lo que pasa por las corrientes\ndel mar.\n\n"},{"verse":"9","text":"SE&#209;OR, Dios nuestro, tu nombre es sin par en el mundo entero.\n","readableText":"SEÑOR, Dios nuestro, tu nombre es sin par en el mundo entero.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "8",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "SEÑOR, Dios nuestro,\n    tu nombre es sin par en el mundo entero.\n    Tu gloria se extiende más allá de los cielos.",
+      "readableText": "SEÑOR, Dios nuestro, tu nombre es sin par en el mundo entero. Tu gloria se extiende más allá de los cielos."
+    },
+    {
+      "verse": "2",
+      "text": "Los bebés y los niños\n    te cantan canciones de alabanza.\nTú les diste estas canciones poderosas\n    para silenciar a tus enemigos que buscan venganza.",
+      "readableText": "Los bebés y los niños te cantan canciones de alabanza. Tú les diste estas canciones poderosas para silenciar a tus enemigos que buscan venganza."
+    },
+    {
+      "verse": "3",
+      "text": "Cuando veo el cielo que hiciste con tus dedos,\n    y la luna y las estrellas que pusiste en su lugar,",
+      "readableText": "Cuando veo el cielo que hiciste con tus dedos, y la luna y las estrellas que pusiste en su lugar,"
+    },
+    {
+      "verse": "4",
+      "text": "me pregunto: «¿Qué es el ser humano?\n    ¿Por qué te acuerdas de él?\n¿Qué es la raza humana?\n    ¿Para qué te ocupas de ella?»",
+      "readableText": "me pregunto: «¿Qué es el ser humano? ¿Por qué te acuerdas de él? ¿Qué es la raza humana? ¿Para qué te ocupas de ella?»"
+    },
+    {
+      "verse": "5",
+      "text": "Tú has creado a los seres humanos casi como dioses\n    y los has llenado de honor y gloria.",
+      "readableText": "Tú has creado a los seres humanos casi como dioses y los has llenado de honor y gloria."
+    },
+    {
+      "verse": "6",
+      "text": "Los has puesto al cuidado de todo lo que creaste;\n    pusiste todo bajo sus pies.",
+      "readableText": "Los has puesto al cuidado de todo lo que creaste; pusiste todo bajo sus pies."
+    },
+    {
+      "verse": "7",
+      "text": "Ellos gobiernan todas las ovejas y el ganado,\n    y también todas las bestias del campo,",
+      "readableText": "Ellos gobiernan todas las ovejas y el ganado, y también todas las bestias del campo,"
+    },
+    {
+      "verse": "8",
+      "text": "las aves del cielo y los peces del mar,\n    y todo lo que pasa por las corrientes del mar.",
+      "readableText": "las aves del cielo y los peces del mar, y todo lo que pasa por las corrientes del mar."
+    },
+    {
+      "verse": "9",
+      "text": "SEÑOR, Dios nuestro,\n    tu nombre es sin par en el mundo entero.  end of footnotes",
+      "readableText": "SEÑOR, Dios nuestro, tu nombre es sin par en el mundo entero. end of footnotes"
+    }
+  ]
+}

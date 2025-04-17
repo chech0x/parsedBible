@@ -1,1 +1,52 @@
-{"book":"PSA","rev":"PDT","chapter":"149","verses":[{"verse":"1","text":"&#161;Aleluya! Canten al SE&#209;OR una canci&#243;n nueva; al&#225;benlo en la comunidad de los fieles.   \n","readableText":"¡Aleluya! Canten al SEÑOR una canción nueva; alábenlo en la comunidad de los\nfieles.\n\n"},{"verse":"2","text":"Israel, al&#233;grate por tu Creador. Habitantes de Sion, al&#233;grense con su Rey.   \n","readableText":"Israel, alégrate por tu Creador. Habitantes de Sion, alégrense con su Rey.\n\n"},{"verse":"3","text":"Que alaben a Dios con danzas y bellas melod&#237;as, al ritmo de panderos e instrumentos de cuerda.   \n","readableText":"Que alaben a Dios con danzas y bellas melodías, al ritmo de panderos e\ninstrumentos de cuerda.\n\n"},{"verse":"4","text":"El SE&#209;OR es feliz con su pueblo; les da a los humildes el honor de la victoria.   \n","readableText":"El SEÑOR es feliz con su pueblo; les da a los humildes el honor de la victoria.\n\n\n"},{"verse":"5","text":"Que se alegren los fieles por su gloria; que hasta en su cama griten de alegr&#237;a.   \n","readableText":"Que se alegren los fieles por su gloria; que hasta en su cama griten de\nalegría.\n\n"},{"verse":"6","text":"Que salgan de su garganta alabanzas a Dios; y tengan en su mano una espada de dos filos,   \n","readableText":"Que salgan de su garganta alabanzas a Dios; y tengan en su mano una espada de\ndos filos,\n\n"},{"verse":"7","text":"para vengarse de los pueblos y castigar a las naciones,   \n","readableText":"para vengarse de los pueblos y castigar a las naciones,\n\n"},{"verse":"8","text":"para encadenar a los reyes y a los poderosos con grillos de hierro.   \n","readableText":"para encadenar a los reyes y a los poderosos con grillos de hierro.\n\n"},{"verse":"9","text":"Que los castiguen tal como Dios lo orden&#243;. Es un honor para todos sus fieles. &#161;Aleluya!\n","readableText":"Que los castiguen tal como Dios lo ordenó. Es un honor para todos sus fieles.\n¡Aleluya!\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "149",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "¡Aleluya! Canten al SEÑOR una canción nueva;\n    alábenlo en la comunidad de los fieles.",
+      "readableText": "¡Aleluya! Canten al SEÑOR una canción nueva; alábenlo en la comunidad de los fieles."
+    },
+    {
+      "verse": "2",
+      "text": "Israel, alégrate por tu Creador.\n    Habitantes de Sion, alégrense con su Rey.",
+      "readableText": "Israel, alégrate por tu Creador. Habitantes de Sion, alégrense con su Rey."
+    },
+    {
+      "verse": "3",
+      "text": "Que alaben a Dios con danzas y bellas melodías,\n    al ritmo de panderos e instrumentos de cuerda.",
+      "readableText": "Que alaben a Dios con danzas y bellas melodías, al ritmo de panderos e instrumentos de cuerda."
+    },
+    {
+      "verse": "4",
+      "text": "El SEÑOR es feliz con su pueblo;\n    les da a los humildes el honor de la victoria.",
+      "readableText": "El SEÑOR es feliz con su pueblo; les da a los humildes el honor de la victoria."
+    },
+    {
+      "verse": "5",
+      "text": "Que se alegren los fieles por su gloria;\n    que hasta en su cama griten de alegría.",
+      "readableText": "Que se alegren los fieles por su gloria; que hasta en su cama griten de alegría."
+    },
+    {
+      "verse": "6",
+      "text": "Que salgan de su garganta alabanzas a Dios;\n    y tengan en su mano una espada de dos filos,",
+      "readableText": "Que salgan de su garganta alabanzas a Dios; y tengan en su mano una espada de dos filos,"
+    },
+    {
+      "verse": "7",
+      "text": "para vengarse de los pueblos\n    y castigar a las naciones,",
+      "readableText": "para vengarse de los pueblos y castigar a las naciones,"
+    },
+    {
+      "verse": "8",
+      "text": "para encadenar a los reyes\n    y a los poderosos con grillos de hierro.",
+      "readableText": "para encadenar a los reyes y a los poderosos con grillos de hierro."
+    },
+    {
+      "verse": "9",
+      "text": "Que los castiguen tal como Dios lo ordenó.\n    Es un honor para todos sus fieles. ¡Aleluya!",
+      "readableText": "Que los castiguen tal como Dios lo ordenó. Es un honor para todos sus fieles. ¡Aleluya!"
+    }
+  ]
+}

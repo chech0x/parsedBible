@@ -1,1 +1,17 @@
-{"book":"PSA","rev":"PDT","chapter":"117","verses":[{"verse":"1","text":"Alaben al SE&#209;OR, todas las naciones y todos los pueblos;   \n","readableText":"Alaben al SEÑOR, todas las naciones y todos los pueblos;\n\n"},{"verse":"2","text":"porque su fiel amor por nosotros es inmenso y la lealtad del SE&#209;OR es eterna. &#161;Aleluya!\n","readableText":"porque su fiel amor por nosotros es inmenso y la lealtad del SEÑOR es eterna.\n¡Aleluya!\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "117",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Alaben al SEÑOR,\n    todas las naciones y todos los pueblos;",
+      "readableText": "Alaben al SEÑOR, todas las naciones y todos los pueblos;"
+    },
+    {
+      "verse": "2",
+      "text": "porque su fiel amor por nosotros es inmenso\n    y la lealtad del SEÑOR es eterna. ¡Aleluya!",
+      "readableText": "porque su fiel amor por nosotros es inmenso y la lealtad del SEÑOR es eterna. ¡Aleluya!"
+    }
+  ]
+}

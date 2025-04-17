@@ -1,1 +1,32 @@
-{"book":"PSA","rev":"PDT","chapter":"125","verses":[{"verse":"1","text":"Al igual que el monte Sion, quienes conf&#237;an en el SE&#209;OR nunca temblar&#225;n ni caer&#225;n; permanecer&#225;n para siempre.   \n","readableText":"Al igual que el monte Sion, quienes confían en el SEÑOR nunca temblarán ni\ncaerán; permanecerán para siempre.\n\n"},{"verse":"2","text":"As&#237; como Jerusal&#233;n est&#225; rodeada de monta&#241;as, as&#237; el SE&#209;OR rodea a su pueblo, desde ahora y para siempre.   \n","readableText":"Así como Jerusalén está rodeada de montañas, así el SEÑOR rodea a su pueblo,\ndesde ahora y para siempre.\n\n"},{"verse":"3","text":"El gobernante perverso no permanecer&#225; sobre la tierra dada a los justos para que as&#237; los justos no extiendan sus manos hacia el delito.   \n","readableText":"El gobernante perverso no permanecerá sobre la tierra dada a los justos para\nque así los justos no extiendan sus manos hacia el delito.\n\n"},{"verse":"4","text":"SE&#209;OR, haz bien a la gente buena, a los que son honestos;   \n","readableText":"SEÑOR, haz bien a la gente buena, a los que son honestos;\n\n"},{"verse":"5","text":"pero a los que se desv&#237;an por caminos torcidos, el SE&#209;OR los llevar&#225; con los que hacen maldades. &#161;Que haya paz en Israel!\n","readableText":"pero a los que se desvían por caminos torcidos, el SEÑOR los llevará con los\nque hacen maldades. ¡Que haya paz en Israel!\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "125",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Al igual que el monte Sion,\n    quienes confían en el SEÑOR\nnunca temblarán ni caerán;\n    permanecerán para siempre.",
+      "readableText": "Al igual que el monte Sion, quienes confían en el SEÑOR nunca temblarán ni caerán; permanecerán para siempre."
+    },
+    {
+      "verse": "2",
+      "text": "Así como Jerusalén está rodeada de montañas,\n    así el SEÑOR rodea a su pueblo, desde ahora y para siempre.",
+      "readableText": "Así como Jerusalén está rodeada de montañas, así el SEÑOR rodea a su pueblo, desde ahora y para siempre."
+    },
+    {
+      "verse": "3",
+      "text": "El gobernante perverso no permanecerá sobre la tierra dada a los justos\n    para que así los justos no extiendan sus manos hacia el delito.",
+      "readableText": "El gobernante perverso no permanecerá sobre la tierra dada a los justos para que así los justos no extiendan sus manos hacia el delito."
+    },
+    {
+      "verse": "4",
+      "text": "SEÑOR, haz bien a la gente buena,\n    a los que son honestos;",
+      "readableText": "SEÑOR, haz bien a la gente buena, a los que son honestos;"
+    },
+    {
+      "verse": "5",
+      "text": "pero a los que se desvían por caminos torcidos,\n    el SEÑOR los llevará con los que hacen maldades. ¡Que haya paz en Israel!",
+      "readableText": "pero a los que se desvían por caminos torcidos, el SEÑOR los llevará con los que hacen maldades. ¡Que haya paz en Israel!"
+    }
+  ]
+}

@@ -1,1 +1,32 @@
-{"book":"PSA","rev":"PDT","chapter":"93","verses":[{"verse":"1","text":"El SE&#209;OR reina, se viste de majestad; el SE&#209;OR se viste, se pone el poder como cintur&#243;n. El mundo est&#225; bien firme, no ser&#225; removido.   \n","readableText":"El SEÑOR reina, se viste de majestad; el SEÑOR se viste, se pone el poder como\ncinturón. El mundo está bien firme, no será removido.\n\n"},{"verse":"2","text":"Tu reino ha existido siempre; t&#250; existes desde la eternidad.   \n","readableText":"Tu reino ha existido siempre; tú existes desde la eternidad.\n\n"},{"verse":"3","text":"Se levantaron los r&#237;os, SE&#209;OR, hacen gran estruendo. Alzan sus olas rugientes,   \n","readableText":"Se levantaron los ríos, SEÑOR, hacen gran estruendo. Alzan sus olas rugientes,\n\n\n"},{"verse":"4","text":"pero t&#250;, SE&#209;OR, reinando desde el cielo, eres m&#225;s poderoso que las fuertes olas y que el estruendo de las aguas.   \n","readableText":"pero tú, SEÑOR, reinando desde el cielo, eres más poderoso que las fuertes olas\ny que el estruendo de las aguas.\n\n"},{"verse":"5","text":"Se puede confiar en lo que t&#250; declaras, lo que t&#250; siempre dijiste en cuanto a tu casa, tu hogar santo, SE&#209;OR.\n","readableText":"Se puede confiar en lo que tú declaras, lo que tú siempre dijiste en cuanto a\ntu casa, tu hogar santo, SEÑOR.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "93",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "El SEÑOR reina,\n    se viste de majestad;\nel SEÑOR se viste,\n    se pone el poder como cinturón.\nEl mundo está bien firme,\n    no será removido.",
+      "readableText": "El SEÑOR reina, se viste de majestad; el SEÑOR se viste, se pone el poder como cinturón. El mundo está bien firme, no será removido."
+    },
+    {
+      "verse": "2",
+      "text": "Tu reino ha existido siempre;\n    tú existes desde la eternidad.",
+      "readableText": "Tu reino ha existido siempre; tú existes desde la eternidad."
+    },
+    {
+      "verse": "3",
+      "text": "Se levantaron los ríos, SEÑOR,\n    hacen gran estruendo.\n    Alzan sus olas rugientes,",
+      "readableText": "Se levantaron los ríos, SEÑOR, hacen gran estruendo. Alzan sus olas rugientes,"
+    },
+    {
+      "verse": "4",
+      "text": "pero tú, SEÑOR, reinando desde el cielo,\n    eres más poderoso que las fuertes olas\n    y que el estruendo de las aguas.",
+      "readableText": "pero tú, SEÑOR, reinando desde el cielo, eres más poderoso que las fuertes olas y que el estruendo de las aguas."
+    },
+    {
+      "verse": "5",
+      "text": "Se puede confiar en lo que tú declaras,\n    lo que tú siempre dijiste en cuanto a tu casa,\n    tu hogar santo, SEÑOR.  end of footnotes",
+      "readableText": "Se puede confiar en lo que tú declaras, lo que tú siempre dijiste en cuanto a tu casa, tu hogar santo, SEÑOR. end of footnotes"
+    }
+  ]
+}

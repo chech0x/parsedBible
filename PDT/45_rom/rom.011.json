@@ -1,1 +1,187 @@
-{"book":"ROM","rev":"PDT","chapter":"11","verses":[{"verse":"1","text":"Entonces yo pregunto: &#191;Es que Dios ha rechazado a su pueblo? &#161;Por supuesto que no! Yo mismo soy israelita, descendiente de Abraham y de la tribu de Benjam&#237;n. \n","readableText":"Entonces yo pregunto: ¿Es que Dios ha rechazado a su pueblo? ¡Por supuesto que\nno! Yo mismo soy israelita, descendiente de Abraham y de la tribu de Benjamín.\n\n\n"},{"verse":"2","text":"Dios no ha rechazado al pueblo que ya ha elegido. &#191;Se acuerdan de lo que dice la Escritura sobre El&#237;as cuando se quej&#243; ante Dios contra Israel? \n","readableText":"Dios no ha rechazado al pueblo que ya ha elegido. ¿Se acuerdan de lo que dice\nla Escritura sobre Elías cuando se quejó ante Dios contra Israel?\n\n"},{"verse":"3","text":"&#171;Se&#241;or, ellos han matado a tus profetas, han destruido tus altares. Yo soy el &#250;nico profeta que queda y ellos est&#225;n tratando de matarme&#187;.   \n","readableText":"«Señor, ellos han matado a tus profetas, han destruido tus altares. Yo soy el\núnico profeta que queda y ellos están tratando de matarme».\n\n"},{"verse":"4","text":"&#191;Y qu&#233; le respondi&#243; Dios? &#171;He reservado para m&#237; 7000 hombres que no se han arrodillado ante Baal&#187;.   \n","readableText":"¿Y qué le respondió Dios? «He reservado para mí 7000 hombres que no se han\narrodillado ante Baal».\n\n"},{"verse":"5","text":"Ahora es igual. Hay un peque&#241;o resto de jud&#237;os que Dios eligi&#243; por su generoso amor. \n","readableText":"Ahora es igual. Hay un pequeño resto de judíos que Dios eligió por su generoso\namor.\n\n"},{"verse":"6","text":"Y si Dios lo hizo como un regalo de su generoso amor, no fue por las buenas acciones de ellos. Si hubieran sido elegidos por sus buenas acciones, entonces el regalo del generoso amor de Dios no ser&#237;a de verdad un regalo.   \n","readableText":"Y si Dios lo hizo como un regalo de su generoso amor, no fue por las buenas\nacciones de ellos. Si hubieran sido elegidos por sus buenas acciones, entonces\nel regalo del generoso amor de Dios no sería de verdad un regalo.\n\n"},{"verse":"7","text":"&#191;Entonces qu&#233;? El pueblo de Israel no consigui&#243; lo que buscaba. S&#243;lo lo logr&#243; la gente que Dios eligi&#243; y los otros se volvieron tercos, \n","readableText":"¿Entonces qué? El pueblo de Israel no consiguió lo que buscaba. Sólo lo logró\nla gente que Dios eligió y los otros se volvieron tercos,\n\n"},{"verse":"8","text":"como est&#225; escrito: &#171;Dios los puso a dormir. Les cerr&#243; los ojos para que no pudieran ver, les cerr&#243; los o&#237;dos para que no pudieran o&#237;r, y as&#237; siguen hasta el d&#237;a de hoy&#187;.   \n","readableText":"como está escrito: «Dios los puso a dormir. Les cerró los ojos para que no\npudieran ver, les cerró los oídos para que no pudieran oír, y así siguen hasta\nel día de hoy».\n\n"},{"verse":"9","text":"Y David dice: &#171;Que sus fiestas se vuelvan trampas. Que caigan y reciban su merecido.   \n","readableText":"Y David dice: «Que sus fiestas se vuelvan trampas. Que caigan y reciban su\nmerecido.\n\n"},{"verse":"10","text":"  \n","readableText":"\n\n"}]}
+{
+  "book": "ROM",
+  "rev": "PDT",
+  "chapter": "11",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "11 Entonces yo pregunto: ¿Es que Dios ha rechazado a su pueblo? ¡Por supuesto que no! Yo mismo soy israelita, descendiente de Abraham y de la tribu de Benjamín.",
+      "readableText": "11 Entonces yo pregunto: ¿Es que Dios ha rechazado a su pueblo? ¡Por supuesto que no! Yo mismo soy israelita, descendiente de Abraham y de la tribu de Benjamín."
+    },
+    {
+      "verse": "2",
+      "text": "Dios no ha rechazado al pueblo que ya ha elegido. ¿Se acuerdan de lo que dice la Escritura sobre Elías cuando se quejó ante Dios contra Israel?",
+      "readableText": "Dios no ha rechazado al pueblo que ya ha elegido. ¿Se acuerdan de lo que dice la Escritura sobre Elías cuando se quejó ante Dios contra Israel?"
+    },
+    {
+      "verse": "3",
+      "text": "«Señor, ellos han matado a tus profetas, han destruido tus altares. Yo soy el único profeta que queda y ellos están tratando de matarme».",
+      "readableText": "«Señor, ellos han matado a tus profetas, han destruido tus altares. Yo soy el único profeta que queda y ellos están tratando de matarme»."
+    },
+    {
+      "verse": "4",
+      "text": "¿Y qué le respondió Dios? «He reservado para mí 7000 hombres que no se han arrodillado ante Baal».",
+      "readableText": "¿Y qué le respondió Dios? «He reservado para mí 7000 hombres que no se han arrodillado ante Baal»."
+    },
+    {
+      "verse": "5",
+      "text": "Ahora es igual. Hay un pequeño resto de judíos que Dios eligió por su generoso amor.",
+      "readableText": "Ahora es igual. Hay un pequeño resto de judíos que Dios eligió por su generoso amor."
+    },
+    {
+      "verse": "6",
+      "text": "Y si Dios lo hizo como un regalo de su generoso amor, no fue por las buenas acciones de ellos. Si hubieran sido elegidos por sus buenas acciones, entonces el regalo del generoso amor de Dios no sería de verdad un regalo.",
+      "readableText": "Y si Dios lo hizo como un regalo de su generoso amor, no fue por las buenas acciones de ellos. Si hubieran sido elegidos por sus buenas acciones, entonces el regalo del generoso amor de Dios no sería de verdad un regalo."
+    },
+    {
+      "verse": "7",
+      "text": "¿Entonces qué? El pueblo de Israel no consiguió lo que buscaba. Sólo lo logró la gente que Dios eligió y los otros se volvieron tercos,",
+      "readableText": "¿Entonces qué? El pueblo de Israel no consiguió lo que buscaba. Sólo lo logró la gente que Dios eligió y los otros se volvieron tercos,"
+    },
+    {
+      "verse": "8",
+      "text": "como está escrito:«Dios los puso a dormir.\nLes cerró los ojos para que no pudieran ver,\n    les cerró los oídos para que no pudieran oír,\ny así siguen hasta el día de hoy».",
+      "readableText": "como está escrito:«Dios los puso a dormir. Les cerró los ojos para que no pudieran ver, les cerró los oídos para que no pudieran oír, y así siguen hasta el día de hoy»."
+    },
+    {
+      "verse": "9",
+      "text": "Y David dice:«Que sus fiestas se vuelvan trampas.\n    Que caigan y reciban su merecido.",
+      "readableText": "Y David dice:«Que sus fiestas se vuelvan trampas. Que caigan y reciban su merecido."
+    },
+    {
+      "verse": "10",
+      "text": "Que se cierren sus ojos y que no puedan ver.\n    Que para siempre se les doble su espalda».",
+      "readableText": "Que se cierren sus ojos y que no puedan ver. Que para siempre se les doble su espalda»."
+    },
+    {
+      "verse": "11",
+      "text": "Entonces yo pregunto: ¿cayó Israel hasta destruirse? ¡De ninguna manera! Pero el error que cometieron trajo la salvación a los que no son judíos para que los judíos sientan celos.",
+      "readableText": "Entonces yo pregunto: ¿cayó Israel hasta destruirse? ¡De ninguna manera! Pero el error que cometieron trajo la salvación a los que no son judíos para que los judíos sientan celos."
+    },
+    {
+      "verse": "12",
+      "text": "El error de Israel ha traído muchas bendiciones a todo el mundo; el fracaso de su misión, sirvió para traer muchas bendiciones a los que no son judíos. Y con toda seguridad habrá aun más bendiciones cuando cumplan la misión que Dios les dio.",
+      "readableText": "El error de Israel ha traído muchas bendiciones a todo el mundo; el fracaso de su misión, sirvió para traer muchas bendiciones a los que no son judíos. Y con toda seguridad habrá aun más bendiciones cuando cumplan la misión que Dios les dio."
+    },
+    {
+      "verse": "13",
+      "text": "A ustedes que no son judíos, les digo: puesto que soy apóstol de los que no son judíos, le doy la mayor importancia a este trabajo.",
+      "readableText": "A ustedes que no son judíos, les digo: puesto que soy apóstol de los que no son judíos, le doy la mayor importancia a este trabajo."
+    },
+    {
+      "verse": "14",
+      "text": "Quisiera hacer sentir celos a mi propio pueblo para poder salvar a algunos de ellos.",
+      "readableText": "Quisiera hacer sentir celos a mi propio pueblo para poder salvar a algunos de ellos."
+    },
+    {
+      "verse": "15",
+      "text": "Al rechazar a los judíos, Dios les dio oportunidad a los que no son judíos de hacerse amigos de él. Así que cuando Dios vuelva a aceptar a los judíos, eso traerá al mundo nada menos que vida después de la muerte.",
+      "readableText": "Al rechazar a los judíos, Dios les dio oportunidad a los que no son judíos de hacerse amigos de él. Así que cuando Dios vuelva a aceptar a los judíos, eso traerá al mundo nada menos que vida después de la muerte."
+    },
+    {
+      "verse": "16",
+      "text": "Si el primer trozo de pan fue dedicado a Dios, entonces todo el pan está dedicado a él. Si las raíces del árbol fueron consagradas, entonces las ramas también están consagradas.",
+      "readableText": "Si el primer trozo de pan fue dedicado a Dios, entonces todo el pan está dedicado a él. Si las raíces del árbol fueron consagradas, entonces las ramas también están consagradas."
+    },
+    {
+      "verse": "17",
+      "text": "Algunas ramas naturales del olivo, fueron cortadas. En su lugar, tú fuiste injertado como una rama silvestre. Entonces ahora eres parte de la misma raíz y compartes la misma vida del olivo.",
+      "readableText": "Algunas ramas naturales del olivo, fueron cortadas. En su lugar, tú fuiste injertado como una rama silvestre. Entonces ahora eres parte de la misma raíz y compartes la misma vida del olivo."
+    },
+    {
+      "verse": "18",
+      "text": "No te sientas más importante que las ramas cortadas. Si te crees más importante recuerda que no eres tú quien da vida a la raíz, sino la raíz la que te da vida a ti.",
+      "readableText": "No te sientas más importante que las ramas cortadas. Si te crees más importante recuerda que no eres tú quien da vida a la raíz, sino la raíz la que te da vida a ti."
+    },
+    {
+      "verse": "19",
+      "text": "Tal vez ahora digas: «Pero las ramas fueron cortadas para injertarme a mí».",
+      "readableText": "Tal vez ahora digas: «Pero las ramas fueron cortadas para injertarme a mí»."
+    },
+    {
+      "verse": "20",
+      "text": "Eso es cierto. Esas ramas fueron cortadas debido a su falta de fe, pero tú sigues en tu puesto sólo por tu fe. Eso significa que no debes sentirte muy orgulloso, más bien deberías sentir miedo.",
+      "readableText": "Eso es cierto. Esas ramas fueron cortadas debido a su falta de fe, pero tú sigues en tu puesto sólo por tu fe. Eso significa que no debes sentirte muy orgulloso, más bien deberías sentir miedo."
+    },
+    {
+      "verse": "21",
+      "text": "Porque si Dios no permitió que las ramas naturales siguieran en el árbol, tampoco a ti te dejará seguir si te falta fe.",
+      "readableText": "Porque si Dios no permitió que las ramas naturales siguieran en el árbol, tampoco a ti te dejará seguir si te falta fe."
+    },
+    {
+      "verse": "22",
+      "text": "Date cuenta entonces, que Dios es bondadoso, pero también estricto. Es estricto con los que han dejado de creer en él y es bondadoso contigo. Tú tienes que vivir confiado en su bondad o de lo contrario tú también serás cortado del árbol.",
+      "readableText": "Date cuenta entonces, que Dios es bondadoso, pero también estricto. Es estricto con los que han dejado de creer en él y es bondadoso contigo. Tú tienes que vivir confiado en su bondad o de lo contrario tú también serás cortado del árbol."
+    },
+    {
+      "verse": "23",
+      "text": "Por otro lado, si ellos dejan su falta de fe en Dios, entonces podrán otra vez estar en el árbol. Dios los puede poner otra vez donde estaban.",
+      "readableText": "Por otro lado, si ellos dejan su falta de fe en Dios, entonces podrán otra vez estar en el árbol. Dios los puede poner otra vez donde estaban."
+    },
+    {
+      "verse": "24",
+      "text": "Tú eres como una rama silvestre, pero pudiste ser injertado en un árbol al que no pertenecías. Entonces con más facilidad un judío puede otra vez ser puesto en su propio árbol, porque es como una rama que pertenecía al árbol.",
+      "readableText": "Tú eres como una rama silvestre, pero pudiste ser injertado en un árbol al que no pertenecías. Entonces con más facilidad un judío puede otra vez ser puesto en su propio árbol, porque es como una rama que pertenecía al árbol."
+    },
+    {
+      "verse": "25",
+      "text": "Hermanos, quiero que sepan algo que les ayudará a no creerse sabelotodos. Así que les explicaré un secreto que Dios ha revelado: parte de Israel se ha puesto terca, pero sólo hasta que se complete el número de los que no son judíos que llegue a Cristo.",
+      "readableText": "Hermanos, quiero que sepan algo que les ayudará a no creerse sabelotodos. Así que les explicaré un secreto que Dios ha revelado: parte de Israel se ha puesto terca, pero sólo hasta que se complete el número de los que no son judíos que llegue a Cristo."
+    },
+    {
+      "verse": "26",
+      "text": "Y así todo Israel se salvará. Como dicen las Escrituras:«Un libertador vendrá de Sion,\n    y quitará todo el mal de la familia de Jacob.",
+      "readableText": "Y así todo Israel se salvará. Como dicen las Escrituras:«Un libertador vendrá de Sion, y quitará todo el mal de la familia de Jacob."
+    },
+    {
+      "verse": "27",
+      "text": "Y yo haré este pacto con ellos\n    cuando les perdone todos los pecados».",
+      "readableText": "Y yo haré este pacto con ellos cuando les perdone todos los pecados»."
+    },
+    {
+      "verse": "28",
+      "text": "En cuanto a las buenas noticias, ellos las rechazan y se hacen enemigos de Dios; eso los favorece a ustedes que no son judíos. Pero en cuanto a ser elegidos por Dios, él los ama porque esa fue la promesa que hizo a los antepasados de los judíos;",
+      "readableText": "En cuanto a las buenas noticias, ellos las rechazan y se hacen enemigos de Dios; eso los favorece a ustedes que no son judíos. Pero en cuanto a ser elegidos por Dios, él los ama porque esa fue la promesa que hizo a los antepasados de los judíos;"
+    },
+    {
+      "verse": "29",
+      "text": "y Dios no quita lo que regala, ni retira su invitación a los que él elige.",
+      "readableText": "y Dios no quita lo que regala, ni retira su invitación a los que él elige."
+    },
+    {
+      "verse": "30",
+      "text": "Antes ustedes no quisieron obedecer a Dios, pero ahora reciben la compasión de Dios porque los judíos no quieren obedecer.",
+      "readableText": "Antes ustedes no quisieron obedecer a Dios, pero ahora reciben la compasión de Dios porque los judíos no quieren obedecer."
+    },
+    {
+      "verse": "31",
+      "text": "Ahora ellos son desobedientes y ustedes consiguen compasión, pero esto sucede para que ellos también consigan la compasión de Dios.",
+      "readableText": "Ahora ellos son desobedientes y ustedes consiguen compasión, pero esto sucede para que ellos también consigan la compasión de Dios."
+    },
+    {
+      "verse": "32",
+      "text": "Dios metió a todo el mundo en prisión por su desobediencia, y lo ha hecho así para poder tener compasión de todos.",
+      "readableText": "Dios metió a todo el mundo en prisión por su desobediencia, y lo ha hecho así para poder tener compasión de todos."
+    },
+    {
+      "verse": "33",
+      "text": "Qué grande es la riqueza de Dios,\n    qué enorme su sabiduría y entendimiento.\nNadie puede explicar las decisiones de Dios,\n    ni puede entender lo que hace y cómo lo hace.",
+      "readableText": "Qué grande es la riqueza de Dios, qué enorme su sabiduría y entendimiento. Nadie puede explicar las decisiones de Dios, ni puede entender lo que hace y cómo lo hace."
+    },
+    {
+      "verse": "34",
+      "text": "«¿Quién conoce la mente del Señor?\n    ¿Quién puede darle consejos a Dios?",
+      "readableText": "«¿Quién conoce la mente del Señor? ¿Quién puede darle consejos a Dios?"
+    },
+    {
+      "verse": "35",
+      "text": "Nadie le ha prestado nada a Dios\n    como para que Dios esté obligado a pagarle».",
+      "readableText": "Nadie le ha prestado nada a Dios como para que Dios esté obligado a pagarle»."
+    },
+    {
+      "verse": "36",
+      "text": "Dios ha creado todo\n    y todo existe por él y para él.\n¡A Dios sea el honor por toda la eternidad!\n    Así sea.  end of footnotes\n end of crossrefs",
+      "readableText": "Dios ha creado todo y todo existe por él y para él. ¡A Dios sea el honor por toda la eternidad! Así sea. end of footnotes end of crossrefs"
+    }
+  ]
+}

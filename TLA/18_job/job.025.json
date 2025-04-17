@@ -1,0 +1,37 @@
+{
+  "book": "JOB",
+  "rev": "TLA",
+  "chapter": "25",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "25 Bildad respondió:",
+      "readableText": "25 Bildad respondió:"
+    },
+    {
+      "verse": "2",
+      "text": "«Es tan grande el poder de Dios\nque nos hace temblar de miedo.\nDios es quien pone orden en el cielo.",
+      "readableText": "«Es tan grande el poder de Dios que nos hace temblar de miedo. Dios es quien pone orden en el cielo."
+    },
+    {
+      "verse": "3",
+      "text": "¿Puede alguien contar sus ejércitos?\n¿Hay alguien a quien el sol no alumbre?",
+      "readableText": "¿Puede alguien contar sus ejércitos? ¿Hay alguien a quien el sol no alumbre?"
+    },
+    {
+      "verse": "4",
+      "text": "¡Ante Dios no hay nadie\nque pueda declararse inocente!",
+      "readableText": "¡Ante Dios no hay nadie que pueda declararse inocente!"
+    },
+    {
+      "verse": "5",
+      "text": "Si a los ojos de Dios nada vale\nel brillo de la luna\nni tampoco el de las estrellas",
+      "readableText": "Si a los ojos de Dios nada vale el brillo de la luna ni tampoco el de las estrellas"
+    },
+    {
+      "verse": "6",
+      "text": "¡mucho menos valemos nosotros,\nque somos simples gusanos!»",
+      "readableText": "¡mucho menos valemos nosotros, que somos simples gusanos!»"
+    }
+  ]
+}

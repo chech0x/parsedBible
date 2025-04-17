@@ -1,1 +1,62 @@
-{"book":"PSA","rev":"PDT","chapter":"16","verses":[{"verse":"1","text":"Dios m&#237;o, prot&#233;geme, pues en ti me refugio.   \n","readableText":"Dios mío, protégeme, pues en ti me refugio.\n\n"},{"verse":"2","text":"Algunos dijeron: &#171;SE&#209;OR, t&#250; eres mi due&#241;o, sin ti soy un infeliz&#187;.   \n","readableText":"Algunos dijeron: «SEÑOR, tú eres mi dueño, sin ti soy un infeliz».\n\n"},{"verse":"3","text":"Y al mismo tiempo dijeron a los dioses santos  del pa&#237;s: &#171;Ustedes tambi&#233;n son fuertes y muy agradables&#187;.   \n","readableText":"Y al mismo tiempo dijeron a los dioses santos del país: «Ustedes también son\nfuertes y muy agradables».\n\n"},{"verse":"4","text":"Los que siguen a otro dios sufrir&#225;n mucho. Yo no participar&#233; en las ofrendas sangrientas que ellos hacen a sus &#237;dolos. Ni siquiera permitir&#233; que mis labios pronuncien el nombre de esos dioses falsos.   \n","readableText":"Los que siguen a otro dios sufrirán mucho. Yo no participaré en las ofrendas\nsangrientas que ellos hacen a sus ídolos. Ni siquiera permitiré que mis labios\npronuncien el nombre de esos dioses falsos.\n\n"},{"verse":"5","text":"SE&#209;OR, t&#250; eres mi alimento, lo &#250;nico que poseo de valor y la copa de la que bebo. &#161;Mi futuro est&#225; en tus manos!   \n","readableText":"SEÑOR, tú eres mi alimento, lo único que poseo de valor y la copa de la que\nbebo. ¡Mi futuro está en tus manos!\n\n"},{"verse":"6","text":"Con la tierra m&#237;a fue como ganarme la loter&#237;a. La m&#237;a es una herencia hermosa.   \n","readableText":"Con la tierra mía fue como ganarme la lotería. La mía es una herencia hermosa.\n\n\n"},{"verse":"7","text":"Adoro al SE&#209;OR porque &#233;l me gu&#237;a; incluso en la noche, me orienta y gu&#237;a mis pasos.   \n","readableText":"Adoro al SEÑOR porque él me guía; incluso en la noche, me orienta y guía mis\npasos.\n\n"},{"verse":"8","text":"Siempre tomo en cuenta primero al SE&#209;OR; nada me har&#225; tambalear, pues &#233;l est&#225; a mi lado.   \n","readableText":"Siempre tomo en cuenta primero al SEÑOR; nada me hará tambalear, pues él está a\nmi lado.\n\n"},{"verse":"9","text":"Por eso mi coraz&#243;n y mi alma estar&#225;n llenos de alegr&#237;a y hasta mi cuerpo vivir&#225; seguro por siempre.   \n","readableText":"Por eso mi corazón y mi alma estarán llenos de alegría y hasta mi cuerpo vivirá\nseguro por siempre.\n\n"},{"verse":"10","text":"Porque yo s&#233; que nunca me abandonar&#225;s en el lugar de los muertos. Nunca dejar&#225;s que tu fiel servidor se hunda  en la muerte.   \n","readableText":"Porque yo sé que nunca me abandonarás en el lugar de los muertos. Nunca dejarás\nque tu fiel servidor se hunda en la muerte.\n\n"},{"verse":"11","text":"T&#250; me ense&#241;as el camino que lleva a la vida. Hay mucha alegr&#237;a en tu presencia; a tu derecha hay placeres que duran para siempre.\n","readableText":"Tú me enseñas el camino que lleva a la vida. Hay mucha alegría en tu presencia;\na tu derecha hay placeres que duran para siempre.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "16",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Dios mío, protégeme,\n    pues en ti me refugio.",
+      "readableText": "Dios mío, protégeme, pues en ti me refugio."
+    },
+    {
+      "verse": "2",
+      "text": "Algunos dijeron: «SEÑOR, tú eres mi dueño,\n    sin ti soy un infeliz».",
+      "readableText": "Algunos dijeron: «SEÑOR, tú eres mi dueño, sin ti soy un infeliz»."
+    },
+    {
+      "verse": "3",
+      "text": "Y al mismo tiempo dijeron a los dioses santos del país:\n    «Ustedes también son fuertes y muy agradables».",
+      "readableText": "Y al mismo tiempo dijeron a los dioses santos del país: «Ustedes también son fuertes y muy agradables»."
+    },
+    {
+      "verse": "4",
+      "text": "Los que siguen a otro dios sufrirán mucho.\n    Yo no participaré en las ofrendas sangrientas que ellos hacen a sus ídolos.\n    Ni siquiera permitiré que mis labios pronuncien el nombre de esos dioses falsos.",
+      "readableText": "Los que siguen a otro dios sufrirán mucho. Yo no participaré en las ofrendas sangrientas que ellos hacen a sus ídolos. Ni siquiera permitiré que mis labios pronuncien el nombre de esos dioses falsos."
+    },
+    {
+      "verse": "5",
+      "text": "SEÑOR, tú eres mi alimento,\n    lo único que poseo de valor y la copa de la que bebo.\n    ¡Mi futuro está en tus manos!",
+      "readableText": "SEÑOR, tú eres mi alimento, lo único que poseo de valor y la copa de la que bebo. ¡Mi futuro está en tus manos!"
+    },
+    {
+      "verse": "6",
+      "text": "Con la tierra mía fue como ganarme la lotería.\n    La mía es una herencia hermosa.",
+      "readableText": "Con la tierra mía fue como ganarme la lotería. La mía es una herencia hermosa."
+    },
+    {
+      "verse": "7",
+      "text": "Adoro al SEÑOR porque él me guía;\n    incluso en la noche, me orienta y guía mis pasos.",
+      "readableText": "Adoro al SEÑOR porque él me guía; incluso en la noche, me orienta y guía mis pasos."
+    },
+    {
+      "verse": "8",
+      "text": "Siempre tomo en cuenta primero al SEÑOR;\n    nada me hará tambalear, pues él está a mi lado.",
+      "readableText": "Siempre tomo en cuenta primero al SEÑOR; nada me hará tambalear, pues él está a mi lado."
+    },
+    {
+      "verse": "9",
+      "text": "Por eso mi corazón y mi alma estarán llenos de alegría\n    y hasta mi cuerpo vivirá seguro por siempre.",
+      "readableText": "Por eso mi corazón y mi alma estarán llenos de alegría y hasta mi cuerpo vivirá seguro por siempre."
+    },
+    {
+      "verse": "10",
+      "text": "Porque yo sé que nunca me abandonarás en el lugar de los muertos.\n    Nunca dejarás que tu fiel servidor se hunda en la muerte.",
+      "readableText": "Porque yo sé que nunca me abandonarás en el lugar de los muertos. Nunca dejarás que tu fiel servidor se hunda en la muerte."
+    },
+    {
+      "verse": "11",
+      "text": "Tú me enseñas el camino que lleva a la vida.\n    Hay mucha alegría en tu presencia;\n    a tu derecha hay placeres que duran para siempre.  end of footnotes",
+      "readableText": "Tú me enseñas el camino que lleva a la vida. Hay mucha alegría en tu presencia; a tu derecha hay placeres que duran para siempre. end of footnotes"
+    }
+  ]
+}

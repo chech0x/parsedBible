@@ -1,1 +1,202 @@
-{"book":"HEB","rev":"PDT","chapter":"10","verses":[{"verse":"1","text":"La ley era s&#243;lo una imagen borrosa de las bendiciones que llegar&#237;an en el futuro. La ley no es la verdadera bendici&#243;n porque exige a la gente que ofrezca los mismos sacrificios todos los a&#241;os. Los que se acercan a ofrecer culto a Dios siguen ofreciendo esos sacrificios, pero la ley jam&#225;s puede hacerlos perfectos. \n","readableText":"La ley era sólo una imagen borrosa de las bendiciones que llegarían en el\nfuturo. La ley no es la verdadera bendición porque exige a la gente que ofrezca\nlos mismos sacrificios todos los años. Los que se acercan a ofrecer culto a\nDios siguen ofreciendo esos sacrificios, pero la ley jamás puede hacerlos\nperfectos.\n\n"},{"verse":"2","text":"Si la ley lo pudiera hacer, entonces ya estar&#237;an limpios, no se sentir&#237;an culpables de sus pecados y esos sacrificios ya hubieran dejado de ofrecerse. \n","readableText":"Si la ley lo pudiera hacer, entonces ya estarían limpios, no se sentirían\nculpables de sus pecados y esos sacrificios ya hubieran dejado de ofrecerse.\n\n"},{"verse":"3","text":"Cada a&#241;o los sacrificios sirven para recordarles sus pecados, \n","readableText":"Cada año los sacrificios sirven para recordarles sus pecados,\n\n"},{"verse":"4","text":"porque es imposible quitar los pecados con la sangre de toros y chivos.   \n","readableText":"porque es imposible quitar los pecados con la sangre de toros y chivos.\n\n"},{"verse":"5","text":"Por eso, cuando Cristo vino al mundo dijo: &#171;T&#250; no quieres sacrificios ni ofrendas, sino que has preparado un cuerpo para m&#237;.   \n","readableText":"Por eso, cuando Cristo vino al mundo dijo: «Tú no quieres sacrificios ni\nofrendas, sino que has preparado un cuerpo para mí.\n\n"},{"verse":"6","text":"A ti no te gustan los sacrificios de animales muertos y quemados, ni los sacrificios que se ofrecen por los pecados.   \n","readableText":"A ti no te gustan los sacrificios de animales muertos y quemados, ni los\nsacrificios que se ofrecen por los pecados.\n\n"},{"verse":"7","text":"  \n","readableText":"\n\n"}]}
+{
+  "book": "HEB",
+  "rev": "PDT",
+  "chapter": "10",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "10 La ley era sólo una imagen borrosa de las bendiciones que llegarían en el futuro. La ley no es la verdadera bendición porque exige a la gente que ofrezca los mismos sacrificios todos los años. Los que se acercan a ofrecer culto a Dios siguen ofreciendo esos sacrificios, pero la ley jamás puede hacerlos perfectos.",
+      "readableText": "10 La ley era sólo una imagen borrosa de las bendiciones que llegarían en el futuro. La ley no es la verdadera bendición porque exige a la gente que ofrezca los mismos sacrificios todos los años. Los que se acercan a ofrecer culto a Dios siguen ofreciendo esos sacrificios, pero la ley jamás puede hacerlos perfectos."
+    },
+    {
+      "verse": "2",
+      "text": "Si la ley lo pudiera hacer, entonces ya estarían limpios, no se sentirían culpables de sus pecados y esos sacrificios ya hubieran dejado de ofrecerse.",
+      "readableText": "Si la ley lo pudiera hacer, entonces ya estarían limpios, no se sentirían culpables de sus pecados y esos sacrificios ya hubieran dejado de ofrecerse."
+    },
+    {
+      "verse": "3",
+      "text": "Cada año los sacrificios sirven para recordarles sus pecados,",
+      "readableText": "Cada año los sacrificios sirven para recordarles sus pecados,"
+    },
+    {
+      "verse": "4",
+      "text": "porque es imposible quitar los pecados con la sangre de toros y chivos.",
+      "readableText": "porque es imposible quitar los pecados con la sangre de toros y chivos."
+    },
+    {
+      "verse": "5",
+      "text": "Por eso, cuando Cristo vino al mundo dijo:«Tú no quieres sacrificios ni ofrendas,\n    sino que has preparado un cuerpo para mí.",
+      "readableText": "Por eso, cuando Cristo vino al mundo dijo:«Tú no quieres sacrificios ni ofrendas, sino que has preparado un cuerpo para mí."
+    },
+    {
+      "verse": "6",
+      "text": "A ti no te gustan los sacrificios de animales muertos y quemados,\n    ni los sacrificios que se ofrecen por los pecados.",
+      "readableText": "A ti no te gustan los sacrificios de animales muertos y quemados, ni los sacrificios que se ofrecen por los pecados."
+    },
+    {
+      "verse": "7",
+      "text": "Entonces dije: “Aquí estoy, Dios.\n    En el libro de la ley está escrito acerca de mí:\n    Vine a hacer lo que tú quieres que haga”».",
+      "readableText": "Entonces dije: “Aquí estoy, Dios. En el libro de la ley está escrito acerca de mí: Vine a hacer lo que tú quieres que haga”»."
+    },
+    {
+      "verse": "8",
+      "text": "Cristo comienza diciendo: «No te agradan los sacrificios ni las ofrendas. Tampoco te gustan los sacrificios de animales muertos y quemados, ni los sacrificios que se ofrecen por los pecados», aunque todos estos sacrificios los ordena la ley.",
+      "readableText": "Cristo comienza diciendo: «No te agradan los sacrificios ni las ofrendas. Tampoco te gustan los sacrificios de animales muertos y quemados, ni los sacrificios que se ofrecen por los pecados», aunque todos estos sacrificios los ordena la ley."
+    },
+    {
+      "verse": "9",
+      "text": "Luego añade: «Aquí estoy, Dios. En el libro de la ley está escrito acerca de mí: Vine a hacer lo que tú quieres que haga». Dios reemplaza el primer sistema de sacrificios por el sacrificio de Cristo.",
+      "readableText": "Luego añade: «Aquí estoy, Dios. En el libro de la ley está escrito acerca de mí: Vine a hacer lo que tú quieres que haga». Dios reemplaza el primer sistema de sacrificios por el sacrificio de Cristo."
+    },
+    {
+      "verse": "10",
+      "text": "Por eso el sacrificio del cuerpo de Cristo nos hace santos. Él cumplió con lo que quería Dios cuando se entregó por nosotros una sola vez y para siempre.",
+      "readableText": "Por eso el sacrificio del cuerpo de Cristo nos hace santos. Él cumplió con lo que quería Dios cuando se entregó por nosotros una sola vez y para siempre."
+    },
+    {
+      "verse": "11",
+      "text": "Todos los días los sacerdotes celebran sus servicios religiosos. Una y otra vez ofrecen los mismos sacrificios que nunca podrán quitar los pecados.",
+      "readableText": "Todos los días los sacerdotes celebran sus servicios religiosos. Una y otra vez ofrecen los mismos sacrificios que nunca podrán quitar los pecados."
+    },
+    {
+      "verse": "12",
+      "text": "Pero Cristo ofreció un solo sacrificio por los pecados, que es suficiente para todos los tiempos. Luego, se sentó a la derecha de Dios.",
+      "readableText": "Pero Cristo ofreció un solo sacrificio por los pecados, que es suficiente para todos los tiempos. Luego, se sentó a la derecha de Dios."
+    },
+    {
+      "verse": "13",
+      "text": "Ahora Cristo está esperando que Dios ponga a sus enemigos bajo su poder.",
+      "readableText": "Ahora Cristo está esperando que Dios ponga a sus enemigos bajo su poder."
+    },
+    {
+      "verse": "14",
+      "text": "Con una sola ofrenda, Cristo ha hecho perfectos a los que él purifica.",
+      "readableText": "Con una sola ofrenda, Cristo ha hecho perfectos a los que él purifica."
+    },
+    {
+      "verse": "15",
+      "text": "El Espíritu Santo también nos testifica de ello. Primero dice:",
+      "readableText": "El Espíritu Santo también nos testifica de ello. Primero dice:"
+    },
+    {
+      "verse": "16",
+      "text": "«Este es el pacto que haré\n    con mi pueblo en el futuro, dice el Señor.\nPondré mis leyes en su corazón\n    y las escribiré en su mente».",
+      "readableText": "«Este es el pacto que haré con mi pueblo en el futuro, dice el Señor. Pondré mis leyes en su corazón y las escribiré en su mente»."
+    },
+    {
+      "verse": "17",
+      "text": "Luego dice:«Nunca más recordaré\n    sus pecados ni sus maldades».",
+      "readableText": "Luego dice:«Nunca más recordaré sus pecados ni sus maldades»."
+    },
+    {
+      "verse": "18",
+      "text": "Una vez que todo ha sido perdonado, ya no hay necesidad de otro sacrificio.",
+      "readableText": "Una vez que todo ha sido perdonado, ya no hay necesidad de otro sacrificio."
+    },
+    {
+      "verse": "19",
+      "text": "Entonces, hermanos, podemos entrar con toda libertad al Lugar Santísimo gracias a la sangre que Jesús derramó.",
+      "readableText": "Entonces, hermanos, podemos entrar con toda libertad al Lugar Santísimo gracias a la sangre que Jesús derramó."
+    },
+    {
+      "verse": "20",
+      "text": "Jesús abrió un camino nuevo para nosotros a través de la cortina. Él mismo es ese camino nuevo y vivo. Es decir, lo abrió ofreciendo su propio cuerpo como sacrificio.",
+      "readableText": "Jesús abrió un camino nuevo para nosotros a través de la cortina. Él mismo es ese camino nuevo y vivo. Es decir, lo abrió ofreciendo su propio cuerpo como sacrificio."
+    },
+    {
+      "verse": "21",
+      "text": "El gran sacerdote que tenemos reina sobre la casa de Dios.",
+      "readableText": "El gran sacerdote que tenemos reina sobre la casa de Dios."
+    },
+    {
+      "verse": "22",
+      "text": "Nos ha limpiado y liberado de toda culpa, y ahora nuestro cuerpo está lavado con agua pura. Entonces acerquémonos a Dios con un corazón sincero, seguros de la fe que tenemos.",
+      "readableText": "Nos ha limpiado y liberado de toda culpa, y ahora nuestro cuerpo está lavado con agua pura. Entonces acerquémonos a Dios con un corazón sincero, seguros de la fe que tenemos."
+    },
+    {
+      "verse": "23",
+      "text": "Mantengámonos firmes en nuestra esperanza porque Dios cumplirá lo que prometió. No dejemos nunca de hablarles a los demás de nuestra fe.",
+      "readableText": "Mantengámonos firmes en nuestra esperanza porque Dios cumplirá lo que prometió. No dejemos nunca de hablarles a los demás de nuestra fe."
+    },
+    {
+      "verse": "24",
+      "text": "Seamos solidarios. Ayudemos a los demás a demostrar su amor y a hacer el bien.",
+      "readableText": "Seamos solidarios. Ayudemos a los demás a demostrar su amor y a hacer el bien."
+    },
+    {
+      "verse": "25",
+      "text": "Algunos están faltando a las reuniones, y eso no está bien. Reunámonos para animarnos unos a otros y con mayor razón ahora que vemos que se acerca el día.",
+      "readableText": "Algunos están faltando a las reuniones, y eso no está bien. Reunámonos para animarnos unos a otros y con mayor razón ahora que vemos que se acerca el día."
+    },
+    {
+      "verse": "26",
+      "text": "Si decidimos seguir pecando después de conocer la verdad, entonces no queda otro sacrificio que quite los pecados.",
+      "readableText": "Si decidimos seguir pecando después de conocer la verdad, entonces no queda otro sacrificio que quite los pecados."
+    },
+    {
+      "verse": "27",
+      "text": "Sólo nos queda esperar el juicio terrible, un fuego ardiente que destruirá a los enemigos de Dios.",
+      "readableText": "Sólo nos queda esperar el juicio terrible, un fuego ardiente que destruirá a los enemigos de Dios."
+    },
+    {
+      "verse": "28",
+      "text": "Si alguien desobedece la ley de Moisés, es ejecutado sin compasión cuando hay dos o tres testigos que declaran contra él.",
+      "readableText": "Si alguien desobedece la ley de Moisés, es ejecutado sin compasión cuando hay dos o tres testigos que declaran contra él."
+    },
+    {
+      "verse": "29",
+      "text": "¿Qué creen que le pasará al que desprecia al Hijo de Dios? Es seguro que recibirá mayor castigo por considerar la sangre de Cristo una porquería. Esa sangre que estableció el nuevo pacto lo había purificado de sus pecados. Por eso recibirá un castigo peor por insultar al Espíritu que nos muestra el generoso amor de Dios.",
+      "readableText": "¿Qué creen que le pasará al que desprecia al Hijo de Dios? Es seguro que recibirá mayor castigo por considerar la sangre de Cristo una porquería. Esa sangre que estableció el nuevo pacto lo había purificado de sus pecados. Por eso recibirá un castigo peor por insultar al Espíritu que nos muestra el generoso amor de Dios."
+    },
+    {
+      "verse": "30",
+      "text": "Sabemos que Dios dijo: «Los castigaré, les daré su merecido» y «El Señor juzgará a su pueblo».",
+      "readableText": "Sabemos que Dios dijo: «Los castigaré, les daré su merecido» y «El Señor juzgará a su pueblo»."
+    },
+    {
+      "verse": "31",
+      "text": "¡Es terrible caer en las manos del Dios viviente!",
+      "readableText": "¡Es terrible caer en las manos del Dios viviente!"
+    },
+    {
+      "verse": "32",
+      "text": "Recuerden aquellos días cuando acababan de conocer la verdad. Enfrentaron muchos sufrimientos, pero siguieron firmes.",
+      "readableText": "Recuerden aquellos días cuando acababan de conocer la verdad. Enfrentaron muchos sufrimientos, pero siguieron firmes."
+    },
+    {
+      "verse": "33",
+      "text": "En unas ocasiones sufrieron insultos y persecución, y en otras ayudaron a los que estaban sufriendo lo mismo.",
+      "readableText": "En unas ocasiones sufrieron insultos y persecución, y en otras ayudaron a los que estaban sufriendo lo mismo."
+    },
+    {
+      "verse": "34",
+      "text": "Se condolieron de los encarcelados y soportaron con alegría cuando a ustedes les quitaron sus propiedades. Siguieron felices porque sabían que poseían algo mucho mejor, algo que dura para siempre.",
+      "readableText": "Se condolieron de los encarcelados y soportaron con alegría cuando a ustedes les quitaron sus propiedades. Siguieron felices porque sabían que poseían algo mucho mejor, algo que dura para siempre."
+    },
+    {
+      "verse": "35",
+      "text": "Así que no pierdan la valentía que tenían antes, pues tendrán una gran recompensa.",
+      "readableText": "Así que no pierdan la valentía que tenían antes, pues tendrán una gran recompensa."
+    },
+    {
+      "verse": "36",
+      "text": "Tengan paciencia y hagan la voluntad de Dios para que reciban lo prometido.",
+      "readableText": "Tengan paciencia y hagan la voluntad de Dios para que reciban lo prometido."
+    },
+    {
+      "verse": "37",
+      "text": "«Dentro de poco,\n    el que va a venir, vendrá; no tarda.",
+      "readableText": "«Dentro de poco, el que va a venir, vendrá; no tarda."
+    },
+    {
+      "verse": "38",
+      "text": "El aprobado por Dios, vivirá por la fe;\n    pero no me agradará si por temor se vuelve atrás».",
+      "readableText": "El aprobado por Dios, vivirá por la fe; pero no me agradará si por temor se vuelve atrás»."
+    },
+    {
+      "verse": "39",
+      "text": "Pero nosotros no somos de los cobardes que se vuelven atrás y se pierden, sino de los que se salvan por su fe.  end of footnotes\n end of crossrefs",
+      "readableText": "Pero nosotros no somos de los cobardes que se vuelven atrás y se pierden, sino de los que se salvan por su fe. end of footnotes end of crossrefs"
+    }
+  ]
+}

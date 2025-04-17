@@ -1,1 +1,37 @@
-{"book":"PSA","rev":"PDT","chapter":"150","verses":[{"verse":"1","text":"&#161;Aleluya! Alaben a Dios en su templo; al&#225;benlo en su firmamento poderoso.   \n","readableText":"¡Aleluya! Alaben a Dios en su templo; alábenlo en su firmamento poderoso.\n\n"},{"verse":"2","text":"Alaben a Dios por sus grandes obras; al&#225;benlo por su tremenda grandeza.   \n","readableText":"Alaben a Dios por sus grandes obras; alábenlo por su tremenda grandeza.\n\n"},{"verse":"3","text":"Al&#225;benlo con sonido de trompetas; al&#225;benlo con arpa y lira.   \n","readableText":"Alábenlo con sonido de trompetas; alábenlo con arpa y lira.\n\n"},{"verse":"4","text":"Alaben a Dios con panderos y danzas; con flautas e instrumentos de cuerda.   \n","readableText":"Alaben a Dios con panderos y danzas; con flautas e instrumentos de cuerda.\n\n"},{"verse":"5","text":"Alaben a Dios con platillos sonoros; con platillos resonantes.   \n","readableText":"Alaben a Dios con platillos sonoros; con platillos resonantes.\n\n"},{"verse":"6","text":"Que todo lo que respira alabe al SE&#209;OR. &#161;Aleluya!\n","readableText":"Que todo lo que respira alabe al SEÑOR. ¡Aleluya!\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "150",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "¡Aleluya! Alaben a Dios en su templo;\n    alábenlo en su firmamento poderoso.",
+      "readableText": "¡Aleluya! Alaben a Dios en su templo; alábenlo en su firmamento poderoso."
+    },
+    {
+      "verse": "2",
+      "text": "Alaben a Dios por sus grandes obras;\n    alábenlo por su tremenda grandeza.",
+      "readableText": "Alaben a Dios por sus grandes obras; alábenlo por su tremenda grandeza."
+    },
+    {
+      "verse": "3",
+      "text": "Alábenlo con sonido de trompetas;\n    alábenlo con arpa y lira.",
+      "readableText": "Alábenlo con sonido de trompetas; alábenlo con arpa y lira."
+    },
+    {
+      "verse": "4",
+      "text": "Alaben a Dios con panderos y danzas;\n    con flautas e instrumentos de cuerda.",
+      "readableText": "Alaben a Dios con panderos y danzas; con flautas e instrumentos de cuerda."
+    },
+    {
+      "verse": "5",
+      "text": "Alaben a Dios con platillos sonoros;\n    con platillos resonantes.",
+      "readableText": "Alaben a Dios con platillos sonoros; con platillos resonantes."
+    },
+    {
+      "verse": "6",
+      "text": "Que todo lo que respira alabe al SEÑOR. ¡Aleluya!",
+      "readableText": "Que todo lo que respira alabe al SEÑOR. ¡Aleluya!"
+    }
+  ]
+}

@@ -1,1 +1,87 @@
-{"book":"PSA","rev":"PDT","chapter":"81","verses":[{"verse":"1","text":"Canten alegres a Dios, nuestra fortaleza. Den gritos de alegr&#237;a al Dios de Jacob.   \n","readableText":"Canten alegres a Dios, nuestra fortaleza. Den gritos de alegría al Dios de\nJacob.\n\n"},{"verse":"2","text":"&#161;Que suene la m&#250;sica! Toquen la pandereta, el arpa dulce y la lira.   \n","readableText":"¡Que suene la música! Toquen la pandereta, el arpa dulce y la lira.\n\n"},{"verse":"3","text":"Que toquen la trompeta  cuando llegue la Luna Nueva; y tambi&#233;n cuando llegue la Luna Llena , el d&#237;a de nuestra fiesta.   \n","readableText":"Que toquen la trompeta cuando llegue la Luna Nueva; y también cuando llegue la\nLuna Llena , el día de nuestra fiesta.\n\n"},{"verse":"4","text":"Es un mandamiento para Israel, un decreto del Dios de Jacob.   \n","readableText":"Es un mandamiento para Israel, un decreto del Dios de Jacob.\n\n"},{"verse":"5","text":"Fue una ley que Dios estableci&#243; a favor de Jos&#233;, cuando el Dios de Jacob sali&#243; al encuentro de Egipto. Escuch&#233; esto en un idioma que no conoc&#237;a:   \n","readableText":"Fue una ley que Dios estableció a favor de José, cuando el Dios de Jacob salió\nal encuentro de Egipto. Escuché esto en un idioma que no conocía:\n\n"},{"verse":"6","text":"&#171;Te quit&#233; la carga de los hombros, tus manos se libraron de la canasta.   \n","readableText":"«Te quité la carga de los hombros, tus manos se libraron de la canasta.\n\n"},{"verse":"7","text":"Estabas angustiado, me llamaste y yo te liber&#233;. Escondido entre las nubes tormentosas, yo respond&#237; a tu llamado; te puse a prueba en las aguas de Merib&#225; .  Selah   \n","readableText":"Estabas angustiado, me llamaste y yo te liberé. Escondido entre las nubes\ntormentosas, yo respondí a tu llamado; te puse a prueba en las aguas de Meribá\n. Selah\n\n"},{"verse":"8","text":"&#187;Pueblo m&#237;o, escucha mi advertencia; Israel, ojal&#225; me prestaras atenci&#243;n.   \n","readableText":"»Pueblo mío, escucha mi advertencia; Israel, ojalá me prestaras atención.\n\n"},{"verse":"9","text":"No adores a dioses extranjeros, ni te inclines ante ning&#250;n dios, de esos que tienen los dem&#225;s.   \n","readableText":"No adores a dioses extranjeros, ni te inclines ante ningún dios, de esos que\ntienen los demás.\n\n"},{"verse":"10","text":"Yo soy el SE&#209;OR tu Dios, que te sac&#243; de Egipto. Abre tu boca y yo te alimentar&#233;.   \n","readableText":"Yo soy el SEÑOR tu Dios, que te sacó de Egipto. Abre tu boca y yo te\nalimentaré.\n\n"},{"verse":"11","text":"&#187;Pero mi pueblo no me escuch&#243;, Israel no me obedeci&#243;.   \n","readableText":"»Pero mi pueblo no me escuchó, Israel no me obedeció.\n\n"},{"verse":"12","text":"As&#237; que dej&#233; que hicieran lo que quisieran, y vivieron como les dio la gana.   \n","readableText":"Así que dejé que hicieran lo que quisieran, y vivieron como les dio la gana.\n\n"},{"verse":"13","text":"Si mi pueblo me escuchara, y viviera como yo quiero,   \n","readableText":"Si mi pueblo me escuchara, y viviera como yo quiero,\n\n"},{"verse":"14","text":"yo humillar&#237;a a tus enemigos en la derrota, y levantar&#237;a mi mano para romper sus cabezas.   \n","readableText":"yo humillaría a tus enemigos en la derrota, y levantaría mi mano para romper\nsus cabezas.\n\n"},{"verse":"15","text":"Los que odian al SE&#209;OR se rendir&#237;an y ser&#237;an castigados para siempre.   \n","readableText":"Los que odian al SEÑOR se rendirían y serían castigados para siempre.\n\n"},{"verse":"16","text":"Dios alimentar&#237;a a su pueblo con la mejor comida. La Roca les dar&#237;a toda la miel que quisieran&#187;.\n","readableText":"Dios alimentaría a su pueblo con la mejor comida. La Roca les daría toda la\nmiel que quisieran».\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "81",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Canten alegres a Dios, nuestra fortaleza.\n    Den gritos de alegría al Dios de Jacob.",
+      "readableText": "Canten alegres a Dios, nuestra fortaleza. Den gritos de alegría al Dios de Jacob."
+    },
+    {
+      "verse": "2",
+      "text": "¡Que suene la música!\n    Toquen la pandereta,\n    el arpa dulce y la lira.",
+      "readableText": "¡Que suene la música! Toquen la pandereta, el arpa dulce y la lira."
+    },
+    {
+      "verse": "3",
+      "text": "Que toquen la trompeta cuando llegue la Luna Nueva;\n    y también cuando llegue la Luna Llena, el día de nuestra fiesta.",
+      "readableText": "Que toquen la trompeta cuando llegue la Luna Nueva; y también cuando llegue la Luna Llena, el día de nuestra fiesta."
+    },
+    {
+      "verse": "4",
+      "text": "Es un mandamiento para Israel,\n    un decreto del Dios de Jacob.",
+      "readableText": "Es un mandamiento para Israel, un decreto del Dios de Jacob."
+    },
+    {
+      "verse": "5",
+      "text": "Fue una ley que Dios estableció a favor de José,\n    cuando el Dios de Jacob salió al encuentro de Egipto. Escuché esto en un idioma que no conocía:",
+      "readableText": "Fue una ley que Dios estableció a favor de José, cuando el Dios de Jacob salió al encuentro de Egipto. Escuché esto en un idioma que no conocía:"
+    },
+    {
+      "verse": "6",
+      "text": "«Te quité la carga de los hombros,\n    tus manos se libraron de la canasta.",
+      "readableText": "«Te quité la carga de los hombros, tus manos se libraron de la canasta."
+    },
+    {
+      "verse": "7",
+      "text": "Estabas angustiado,\n    me llamaste y yo te liberé.\nEscondido entre las nubes tormentosas,\n    yo respondí a tu llamado;\n    te puse a prueba en las aguas de Meribá. Selah",
+      "readableText": "Estabas angustiado, me llamaste y yo te liberé. Escondido entre las nubes tormentosas, yo respondí a tu llamado; te puse a prueba en las aguas de Meribá. Selah"
+    },
+    {
+      "verse": "8",
+      "text": "»Pueblo mío, escucha mi advertencia;\n    Israel, ojalá me prestaras atención.",
+      "readableText": "»Pueblo mío, escucha mi advertencia; Israel, ojalá me prestaras atención."
+    },
+    {
+      "verse": "9",
+      "text": "No adores a dioses extranjeros,\n    ni te inclines ante ningún dios,\n    de esos que tienen los demás.",
+      "readableText": "No adores a dioses extranjeros, ni te inclines ante ningún dios, de esos que tienen los demás."
+    },
+    {
+      "verse": "10",
+      "text": "Yo soy el SEÑOR tu Dios,\n    que te sacó de Egipto.\n    Abre tu boca y yo te alimentaré.",
+      "readableText": "Yo soy el SEÑOR tu Dios, que te sacó de Egipto. Abre tu boca y yo te alimentaré."
+    },
+    {
+      "verse": "11",
+      "text": "»Pero mi pueblo no me escuchó,\n    Israel no me obedeció.",
+      "readableText": "»Pero mi pueblo no me escuchó, Israel no me obedeció."
+    },
+    {
+      "verse": "12",
+      "text": "Así que dejé que hicieran lo que quisieran,\n    y vivieron como les dio la gana.",
+      "readableText": "Así que dejé que hicieran lo que quisieran, y vivieron como les dio la gana."
+    },
+    {
+      "verse": "13",
+      "text": "Si mi pueblo me escuchara,\n    y viviera como yo quiero,",
+      "readableText": "Si mi pueblo me escuchara, y viviera como yo quiero,"
+    },
+    {
+      "verse": "14",
+      "text": "yo humillaría a tus enemigos en la derrota,\n    y levantaría mi mano para romper sus cabezas.",
+      "readableText": "yo humillaría a tus enemigos en la derrota, y levantaría mi mano para romper sus cabezas."
+    },
+    {
+      "verse": "15",
+      "text": "Los que odian al SEÑOR se rendirían\n    y serían castigados para siempre.",
+      "readableText": "Los que odian al SEÑOR se rendirían y serían castigados para siempre."
+    },
+    {
+      "verse": "16",
+      "text": "Dios alimentaría a su pueblo con la mejor comida.\n    La Roca les daría toda la miel que quisieran».  end of footnotes",
+      "readableText": "Dios alimentaría a su pueblo con la mejor comida. La Roca les daría toda la miel que quisieran». end of footnotes"
+    }
+  ]
+}

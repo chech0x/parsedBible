@@ -1,1 +1,62 @@
-{"book":"PSA","rev":"PDT","chapter":"29","verses":[{"verse":"1","text":"Ustedes los seres celestiales , alaben al SE&#209;OR. R&#237;ndanle honor al SE&#209;OR y proclamen su poder.   \n","readableText":"Ustedes los seres celestiales , alaben al SEÑOR. Ríndanle honor al SEÑOR y\nproclamen su poder.\n\n"},{"verse":"2","text":"Denle al SE&#209;OR las alabanzas que merece su glorioso nombre. Adoren al SE&#209;OR en su templo majestuoso.   \n","readableText":"Denle al SEÑOR las alabanzas que merece su glorioso nombre. Adoren al SEÑOR en\nsu templo majestuoso.\n\n"},{"verse":"3","text":"La voz del SE&#209;OR retumba en los mares; el Dios glorioso resuena sobre el oc&#233;ano; el SE&#209;OR est&#225; por encima de las muchas aguas.   \n","readableText":"La voz del SEÑOR retumba en los mares; el Dios glorioso resuena sobre el\nocéano; el SEÑOR está por encima de las muchas aguas.\n\n"},{"verse":"4","text":"La voz del SE&#209;OR muestra su poder; la voz del SE&#209;OR muestra su gloria.   \n","readableText":"La voz del SEÑOR muestra su poder; la voz del SEÑOR muestra su gloria.\n\n"},{"verse":"5","text":"La voz del SE&#209;OR rompe los cedros; el SE&#209;OR rompe los cedros del L&#237;bano.   \n","readableText":"La voz del SEÑOR rompe los cedros; el SEÑOR rompe los cedros del Líbano.\n\n"},{"verse":"6","text":"&#201;l mueve las monta&#241;as m&#225;s grandes: al L&#237;bano lo hace saltar como un becerro, al Siri&#243;n  lo hace saltar como un toro salvaje.   \n","readableText":"Él mueve las montañas más grandes: al Líbano lo hace saltar como un becerro, al\nSirión lo hace saltar como un toro salvaje.\n\n"},{"verse":"7","text":"La voz del SE&#209;OR hace brillar rel&#225;mpagos brillantes;   \n","readableText":"La voz del SEÑOR hace brillar relámpagos brillantes;\n\n"},{"verse":"8","text":"la voz del SE&#209;OR hace temblar al desierto; la voz del SE&#209;OR hace temblar al desierto de Cades .   \n","readableText":"la voz del SEÑOR hace temblar al desierto; la voz del SEÑOR hace temblar al\ndesierto de Cades .\n\n"},{"verse":"9","text":"La voz del SE&#209;OR hace vibrar a los &#225;rboles m&#225;s fuertes y sacude las hojas de todos los &#225;rboles del bosque. En su templo todo el mundo alaba su gloria.   \n","readableText":"La voz del SEÑOR hace vibrar a los árboles más fuertes y sacude las hojas de\ntodos los árboles del bosque. En su templo todo el mundo alaba su gloria.\n\n"},{"verse":"10","text":"El SE&#209;OR reina sobre el diluvio; el SE&#209;OR se sienta en su trono a reinar para siempre.   \n","readableText":"El SEÑOR reina sobre el diluvio; el SEÑOR se sienta en su trono a reinar para\nsiempre.\n\n"},{"verse":"11","text":"Que el SE&#209;OR proteja a su pueblo y lo bendiga el SE&#209;OR brind&#225;ndole paz.\n","readableText":"Que el SEÑOR proteja a su pueblo y lo bendiga el SEÑOR brindándole paz.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "29",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Ustedes los seres celestiales, alaben al SEÑOR.\n    Ríndanle honor al SEÑOR y proclamen su poder.",
+      "readableText": "Ustedes los seres celestiales, alaben al SEÑOR. Ríndanle honor al SEÑOR y proclamen su poder."
+    },
+    {
+      "verse": "2",
+      "text": "Denle al SEÑOR las alabanzas que merece su glorioso nombre.\n    Adoren al SEÑOR en su templo majestuoso.",
+      "readableText": "Denle al SEÑOR las alabanzas que merece su glorioso nombre. Adoren al SEÑOR en su templo majestuoso."
+    },
+    {
+      "verse": "3",
+      "text": "La voz del SEÑOR retumba en los mares;\n    el Dios glorioso resuena sobre el océano;\n    el SEÑOR está por encima de las muchas aguas.",
+      "readableText": "La voz del SEÑOR retumba en los mares; el Dios glorioso resuena sobre el océano; el SEÑOR está por encima de las muchas aguas."
+    },
+    {
+      "verse": "4",
+      "text": "La voz del SEÑOR muestra su poder;\n    la voz del SEÑOR muestra su gloria.",
+      "readableText": "La voz del SEÑOR muestra su poder; la voz del SEÑOR muestra su gloria."
+    },
+    {
+      "verse": "5",
+      "text": "La voz del SEÑOR rompe los cedros;\n    el SEÑOR rompe los cedros del Líbano.",
+      "readableText": "La voz del SEÑOR rompe los cedros; el SEÑOR rompe los cedros del Líbano."
+    },
+    {
+      "verse": "6",
+      "text": "Él mueve las montañas más grandes:\n    al Líbano lo hace saltar como un becerro,\n    al Sirión lo hace saltar como un toro salvaje.",
+      "readableText": "Él mueve las montañas más grandes: al Líbano lo hace saltar como un becerro, al Sirión lo hace saltar como un toro salvaje."
+    },
+    {
+      "verse": "7",
+      "text": "La voz del SEÑOR hace brillar relámpagos brillantes;",
+      "readableText": "La voz del SEÑOR hace brillar relámpagos brillantes;"
+    },
+    {
+      "verse": "8",
+      "text": "la voz del SEÑOR hace temblar al desierto;\n    la voz del SEÑOR hace temblar al desierto de Cades.",
+      "readableText": "la voz del SEÑOR hace temblar al desierto; la voz del SEÑOR hace temblar al desierto de Cades."
+    },
+    {
+      "verse": "9",
+      "text": "La voz del SEÑOR hace vibrar a los árboles más fuertes\n    y sacude las hojas de todos los árboles del bosque.\n    En su templo todo el mundo alaba su gloria.",
+      "readableText": "La voz del SEÑOR hace vibrar a los árboles más fuertes y sacude las hojas de todos los árboles del bosque. En su templo todo el mundo alaba su gloria."
+    },
+    {
+      "verse": "10",
+      "text": "El SEÑOR reina sobre el diluvio;\n    el SEÑOR se sienta en su trono a reinar para siempre.",
+      "readableText": "El SEÑOR reina sobre el diluvio; el SEÑOR se sienta en su trono a reinar para siempre."
+    },
+    {
+      "verse": "11",
+      "text": "Que el SEÑOR proteja a su pueblo\n    y lo bendiga el SEÑOR brindándole paz.  end of footnotes",
+      "readableText": "Que el SEÑOR proteja a su pueblo y lo bendiga el SEÑOR brindándole paz. end of footnotes"
+    }
+  ]
+}

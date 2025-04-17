@@ -1,1 +1,32 @@
-{"book":"PSA","rev":"PDT","chapter":"100","verses":[{"verse":"1","text":"Canten alegres al SE&#209;OR, habitantes de toda la tierra.   \n","readableText":"Canten alegres al SEÑOR, habitantes de toda la tierra.\n\n"},{"verse":"2","text":"Adoren con alegr&#237;a al SE&#209;OR; vengan a &#233;l con canciones alegres.   \n","readableText":"Adoren con alegría al SEÑOR; vengan a él con canciones alegres.\n\n"},{"verse":"3","text":"Reconozcan que el SE&#209;OR es Dios; &#233;l nos cre&#243; y le pertenecemos. Nosotros somos su pueblo, las ovejas que &#233;l mismo cuida.   \n","readableText":"Reconozcan que el SEÑOR es Dios; él nos creó y le pertenecemos. Nosotros somos\nsu pueblo, las ovejas que él mismo cuida.\n\n"},{"verse":"4","text":"Entren por sus puertas con canciones de agradecimiento, y a sus patios con canciones de alabanza. Agrad&#233;zcanle y alaben su nombre.   \n","readableText":"Entren por sus puertas con canciones de agradecimiento, y a sus patios con\ncanciones de alabanza. Agradézcanle y alaben su nombre.\n\n"},{"verse":"5","text":"Porque el SE&#209;OR es bueno; su fiel amor es para siempre, de generaci&#243;n en generaci&#243;n.\n","readableText":"Porque el SEÑOR es bueno; su fiel amor es para siempre, de generación en\ngeneración.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "100",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Canten alegres al SEÑOR,\n    habitantes de toda la tierra.",
+      "readableText": "Canten alegres al SEÑOR, habitantes de toda la tierra."
+    },
+    {
+      "verse": "2",
+      "text": "Adoren con alegría al SEÑOR;\n    vengan a él con canciones alegres.",
+      "readableText": "Adoren con alegría al SEÑOR; vengan a él con canciones alegres."
+    },
+    {
+      "verse": "3",
+      "text": "Reconozcan que el SEÑOR es Dios;\n    él nos creó y le pertenecemos.\nNosotros somos su pueblo,\n    las ovejas que él mismo cuida.",
+      "readableText": "Reconozcan que el SEÑOR es Dios; él nos creó y le pertenecemos. Nosotros somos su pueblo, las ovejas que él mismo cuida."
+    },
+    {
+      "verse": "4",
+      "text": "Entren por sus puertas con canciones de agradecimiento,\n    y a sus patios con canciones de alabanza.\n    Agradézcanle y alaben su nombre.",
+      "readableText": "Entren por sus puertas con canciones de agradecimiento, y a sus patios con canciones de alabanza. Agradézcanle y alaben su nombre."
+    },
+    {
+      "verse": "5",
+      "text": "Porque el SEÑOR es bueno;\n    su fiel amor es para siempre,\n    de generación en generación.",
+      "readableText": "Porque el SEÑOR es bueno; su fiel amor es para siempre, de generación en generación."
+    }
+  ]
+}

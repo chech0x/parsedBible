@@ -1,1 +1,57 @@
-{"book":"PSA","rev":"PDT","chapter":"146","verses":[{"verse":"1","text":"&#161;Aleluya! &#161;Con todo mi coraz&#243;n alabo al SE&#209;OR!   \n","readableText":"¡Aleluya! ¡Con todo mi corazón alabo al SEÑOR!\n\n"},{"verse":"2","text":"Alabar&#233; al SE&#209;OR toda mi vida. Mientras yo est&#233; vivo, entonar&#233; canciones en honor al SE&#209;OR.   \n","readableText":"Alabaré al SEÑOR toda mi vida. Mientras yo esté vivo, entonaré canciones en\nhonor al SEÑOR.\n\n"},{"verse":"3","text":"No pongan su confianza en los poderosos; ellos no son m&#225;s que simples seres humanos que no tienen poder para salvar.   \n","readableText":"No pongan su confianza en los poderosos; ellos no son más que simples seres\nhumanos que no tienen poder para salvar.\n\n"},{"verse":"4","text":"Ellos tambi&#233;n morir&#225;n, volver&#225;n al polvo, y ese mismo d&#237;a todos sus planes acabar&#225;n.   \n","readableText":"Ellos también morirán, volverán al polvo, y ese mismo día todos sus planes\nacabarán.\n\n"},{"verse":"5","text":"Afortunado el que recibe ayuda del Dios de Jacob; el que conf&#237;a en el SE&#209;OR su Dios.   \n","readableText":"Afortunado el que recibe ayuda del Dios de Jacob; el que confía en el SEÑOR su\nDios.\n\n"},{"verse":"6","text":"&#201;l cre&#243; el cielo, la tierra y los mares y todo lo que habita en ellos; &#233;l sigue fiel para siempre.   \n","readableText":"Él creó el cielo, la tierra y los mares y todo lo que habita en ellos; él sigue\nfiel para siempre.\n\n"},{"verse":"7","text":"El SE&#209;OR hace justicia a los oprimidos, alimenta a los que tienen hambre y libera a los prisioneros.   \n","readableText":"El SEÑOR hace justicia a los oprimidos, alimenta a los que tienen hambre y\nlibera a los prisioneros.\n\n"},{"verse":"8","text":"El SE&#209;OR da la vista a los ciegos; el SE&#209;OR ayuda a los que est&#225;n en dificultades; el SE&#209;OR ama a los justos.   \n","readableText":"El SEÑOR da la vista a los ciegos; el SEÑOR ayuda a los que están en\ndificultades; el SEÑOR ama a los justos.\n\n"},{"verse":"9","text":"El SE&#209;OR protege a los inmigrantes, cuida a los hu&#233;rfanos y a las viudas y les amarga la vida a los perversos.   \n","readableText":"El SEÑOR protege a los inmigrantes, cuida a los huérfanos y a las viudas y les\namarga la vida a los perversos.\n\n"},{"verse":"10","text":"El SE&#209;OR reinar&#225; eternamente. Sion, tu Dios reinar&#225; de generaci&#243;n en generaci&#243;n. &#161;Aleluya!\n","readableText":"El SEÑOR reinará eternamente. Sion, tu Dios reinará de generación en\ngeneración. ¡Aleluya!\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "146",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "¡Aleluya!\n    ¡Con todo mi corazón alabo al SEÑOR!",
+      "readableText": "¡Aleluya! ¡Con todo mi corazón alabo al SEÑOR!"
+    },
+    {
+      "verse": "2",
+      "text": "Alabaré al SEÑOR toda mi vida.\n    Mientras yo esté vivo, entonaré canciones en honor al SEÑOR.",
+      "readableText": "Alabaré al SEÑOR toda mi vida. Mientras yo esté vivo, entonaré canciones en honor al SEÑOR."
+    },
+    {
+      "verse": "3",
+      "text": "No pongan su confianza en los poderosos;\n    ellos no son más que simples seres humanos\n    que no tienen poder para salvar.",
+      "readableText": "No pongan su confianza en los poderosos; ellos no son más que simples seres humanos que no tienen poder para salvar."
+    },
+    {
+      "verse": "4",
+      "text": "Ellos también morirán, volverán al polvo,\n    y ese mismo día todos sus planes acabarán.",
+      "readableText": "Ellos también morirán, volverán al polvo, y ese mismo día todos sus planes acabarán."
+    },
+    {
+      "verse": "5",
+      "text": "Afortunado el que recibe ayuda del Dios de Jacob;\n    el que confía en el SEÑOR su Dios.",
+      "readableText": "Afortunado el que recibe ayuda del Dios de Jacob; el que confía en el SEÑOR su Dios."
+    },
+    {
+      "verse": "6",
+      "text": "Él creó el cielo, la tierra y los mares\n    y todo lo que habita en ellos;\n    él sigue fiel para siempre.",
+      "readableText": "Él creó el cielo, la tierra y los mares y todo lo que habita en ellos; él sigue fiel para siempre."
+    },
+    {
+      "verse": "7",
+      "text": "El SEÑOR hace justicia a los oprimidos,\n    alimenta a los que tienen hambre\n    y libera a los prisioneros.",
+      "readableText": "El SEÑOR hace justicia a los oprimidos, alimenta a los que tienen hambre y libera a los prisioneros."
+    },
+    {
+      "verse": "8",
+      "text": "El SEÑOR da la vista a los ciegos;\n    el SEÑOR ayuda a los que están en dificultades;\n    el SEÑOR ama a los justos.",
+      "readableText": "El SEÑOR da la vista a los ciegos; el SEÑOR ayuda a los que están en dificultades; el SEÑOR ama a los justos."
+    },
+    {
+      "verse": "9",
+      "text": "El SEÑOR protege a los inmigrantes,\n    cuida a los huérfanos y a las viudas\n    y les amarga la vida a los perversos.",
+      "readableText": "El SEÑOR protege a los inmigrantes, cuida a los huérfanos y a las viudas y les amarga la vida a los perversos."
+    },
+    {
+      "verse": "10",
+      "text": "El SEÑOR reinará eternamente.\n    Sion, tu Dios reinará de generación en generación. ¡Aleluya!",
+      "readableText": "El SEÑOR reinará eternamente. Sion, tu Dios reinará de generación en generación. ¡Aleluya!"
+    }
+  ]
+}

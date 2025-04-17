@@ -1,1 +1,42 @@
-{"book":"PSA","rev":"PDT","chapter":"67","verses":[{"verse":"1","text":"Dios nos tenga compasi&#243;n y nos bendiga; que se muestre a favor nuestro,  Selah   \n","readableText":"Dios nos tenga compasión y nos bendiga; que se muestre a favor nuestro, Selah\n\n\n"},{"verse":"2","text":"para que todo el mundo te conozca, que todas las naciones sepan que t&#250; das la salvaci&#243;n.   \n","readableText":"para que todo el mundo te conozca, que todas las naciones sepan que tú das la\nsalvación.\n\n"},{"verse":"3","text":"Que los pueblos te alaben, oh Dios; que todos los pueblos te alaben.   \n","readableText":"Que los pueblos te alaben, oh Dios; que todos los pueblos te alaben.\n\n"},{"verse":"4","text":"Que todo el mundo se alegre y grite de alegr&#237;a, porque t&#250; gobiernas a los pueblos con justicia y diriges a todas las naciones del mundo.  Selah   \n","readableText":"Que todo el mundo se alegre y grite de alegría, porque tú gobiernas a los\npueblos con justicia y diriges a todas las naciones del mundo. Selah\n\n"},{"verse":"5","text":"Que los pueblos te alaben, oh Dios; que todos los pueblos te alaben.   \n","readableText":"Que los pueblos te alaben, oh Dios; que todos los pueblos te alaben.\n\n"},{"verse":"6","text":"Danos frutos en abundancia; bend&#237;cenos, Dios nuestro.   \n","readableText":"Danos frutos en abundancia; bendícenos, Dios nuestro.\n\n"},{"verse":"7","text":"Que Dios nos bendiga, y que todos los habitantes de la tierra le teman y lo respeten.\n","readableText":"Que Dios nos bendiga, y que todos los habitantes de la tierra le teman y lo\nrespeten.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "67",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Dios nos tenga compasión y nos bendiga;\n    que se muestre a favor nuestro, Selah",
+      "readableText": "Dios nos tenga compasión y nos bendiga; que se muestre a favor nuestro, Selah"
+    },
+    {
+      "verse": "2",
+      "text": "para que todo el mundo te conozca,\n    que todas las naciones sepan que tú das la salvación.",
+      "readableText": "para que todo el mundo te conozca, que todas las naciones sepan que tú das la salvación."
+    },
+    {
+      "verse": "3",
+      "text": "Que los pueblos te alaben, oh Dios;\n    que todos los pueblos te alaben.",
+      "readableText": "Que los pueblos te alaben, oh Dios; que todos los pueblos te alaben."
+    },
+    {
+      "verse": "4",
+      "text": "Que todo el mundo se alegre y grite de alegría,\n    porque tú gobiernas a los pueblos con justicia\n    y diriges a todas las naciones del mundo. Selah",
+      "readableText": "Que todo el mundo se alegre y grite de alegría, porque tú gobiernas a los pueblos con justicia y diriges a todas las naciones del mundo. Selah"
+    },
+    {
+      "verse": "5",
+      "text": "Que los pueblos te alaben, oh Dios;\n    que todos los pueblos te alaben.",
+      "readableText": "Que los pueblos te alaben, oh Dios; que todos los pueblos te alaben."
+    },
+    {
+      "verse": "6",
+      "text": "Danos frutos en abundancia;\n    bendícenos, Dios nuestro.",
+      "readableText": "Danos frutos en abundancia; bendícenos, Dios nuestro."
+    },
+    {
+      "verse": "7",
+      "text": "Que Dios nos bendiga,\n    y que todos los habitantes de la tierra le teman y lo respeten.",
+      "readableText": "Que Dios nos bendiga, y que todos los habitantes de la tierra le teman y lo respeten."
+    }
+  ]
+}

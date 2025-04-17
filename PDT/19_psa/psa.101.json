@@ -1,1 +1,47 @@
-{"book":"PSA","rev":"PDT","chapter":"101","verses":[{"verse":"1","text":"Cantar&#233; al fiel amor y a la justicia; quiero cantarte a ti SE&#209;OR.   \n","readableText":"Cantaré al fiel amor y a la justicia; quiero cantarte a ti SEÑOR.\n\n"},{"verse":"2","text":"Estudiar&#233; c&#243;mo vivir una vida pura, &#191;cu&#225;ndo vendr&#225;s a m&#237;? Vivir&#233; honestamente aun dentro de mi propio hogar.   \n","readableText":"Estudiaré cómo vivir una vida pura, ¿cuándo vendrás a mí? Viviré honestamente\naun dentro de mi propio hogar.\n\n"},{"verse":"3","text":"No contemplar&#233; con mis ojos lo vergonzoso ; detesto a la gente que lo hace. &#161;Yo no lo har&#233;!   \n","readableText":"No contemplaré con mis ojos lo vergonzoso ; detesto a la gente que lo hace. ¡Yo\nno lo haré!\n\n"},{"verse":"4","text":"No tomar&#233; parte en nada deshonesto; no har&#233; nada malo.   \n","readableText":"No tomaré parte en nada deshonesto; no haré nada malo.\n\n"},{"verse":"5","text":"Le pedir&#233; que se calle al que hable mal a espaldas de otro. No me sentar&#233; a comer con el de mirada altanera y que se crea mejor que los dem&#225;s.   \n","readableText":"Le pediré que se calle al que hable mal a espaldas de otro. No me sentaré a\ncomer con el de mirada altanera y que se crea mejor que los demás.\n\n"},{"verse":"6","text":"Mirar&#233; con agrado a la gente leal; la invitar&#233; a vivir junto a m&#237;. S&#243;lo gente honesta estar&#225; a mi servicio.   \n","readableText":"Miraré con agrado a la gente leal; la invitaré a vivir junto a mí. Sólo gente\nhonesta estará a mi servicio.\n\n"},{"verse":"7","text":"No entrar&#225; a mi casa el que hace fraude; ning&#250;n mentiroso permanecer&#225; en mi presencia.   \n","readableText":"No entrará a mi casa el que hace fraude; ningún mentiroso permanecerá en mi\npresencia.\n\n"},{"verse":"8","text":"Diariamente har&#233; callar a todos los perversos de estas tierras. Expulsar&#233; de la ciudad del SE&#209;OR a todos los delincuentes.\n","readableText":"Diariamente haré callar a todos los perversos de estas tierras. Expulsaré de la\nciudad del SEÑOR a todos los delincuentes.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "101",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Cantaré al fiel amor y a la justicia;\n    quiero cantarte a ti SEÑOR.",
+      "readableText": "Cantaré al fiel amor y a la justicia; quiero cantarte a ti SEÑOR."
+    },
+    {
+      "verse": "2",
+      "text": "Estudiaré cómo vivir una vida pura,\n    ¿cuándo vendrás a mí?\nViviré honestamente\n    aun dentro de mi propio hogar.",
+      "readableText": "Estudiaré cómo vivir una vida pura, ¿cuándo vendrás a mí? Viviré honestamente aun dentro de mi propio hogar."
+    },
+    {
+      "verse": "3",
+      "text": "No contemplaré con mis ojos lo vergonzoso;\n    detesto a la gente que lo hace.\n    ¡Yo no lo haré!",
+      "readableText": "No contemplaré con mis ojos lo vergonzoso; detesto a la gente que lo hace. ¡Yo no lo haré!"
+    },
+    {
+      "verse": "4",
+      "text": "No tomaré parte en nada deshonesto;\n    no haré nada malo.",
+      "readableText": "No tomaré parte en nada deshonesto; no haré nada malo."
+    },
+    {
+      "verse": "5",
+      "text": "Le pediré que se calle al que hable mal a espaldas de otro.\n    No me sentaré a comer con el de mirada altanera\n    y que se crea mejor que los demás.",
+      "readableText": "Le pediré que se calle al que hable mal a espaldas de otro. No me sentaré a comer con el de mirada altanera y que se crea mejor que los demás."
+    },
+    {
+      "verse": "6",
+      "text": "Miraré con agrado a la gente leal;\n    la invitaré a vivir junto a mí.\n    Sólo gente honesta estará a mi servicio.",
+      "readableText": "Miraré con agrado a la gente leal; la invitaré a vivir junto a mí. Sólo gente honesta estará a mi servicio."
+    },
+    {
+      "verse": "7",
+      "text": "No entrará a mi casa el que hace fraude;\n    ningún mentiroso permanecerá en mi presencia.",
+      "readableText": "No entrará a mi casa el que hace fraude; ningún mentiroso permanecerá en mi presencia."
+    },
+    {
+      "verse": "8",
+      "text": "Diariamente haré callar a todos los perversos de estas tierras.\n    Expulsaré de la ciudad del SEÑOR a todos los delincuentes.  end of footnotes",
+      "readableText": "Diariamente haré callar a todos los perversos de estas tierras. Expulsaré de la ciudad del SEÑOR a todos los delincuentes. end of footnotes"
+    }
+  ]
+}

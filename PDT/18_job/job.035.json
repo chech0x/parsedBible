@@ -1,1 +1,87 @@
-{"book":"JOB","rev":"PDT","chapter":"35","verses":[{"verse":"1","text":"Eli&#250; continu&#243; hablando:   \n","readableText":"Eliú continuó hablando:\n\n"},{"verse":"2","text":"&#171;&#191;Es esto lo que entiendes por justicia? T&#250; dices: &#8220;Yo soy m&#225;s justo que Dios&#8221;.   \n","readableText":"«¿Es esto lo que entiendes por justicia? Tú dices: “Yo soy más justo que Dios”.\n\n\n"},{"verse":"3","text":"Si preguntas: &#8220;&#191;Qu&#233; provecho sacar&#233;? &#191;Qu&#233; gano yo si dejo el pecado?&#8221;   \n","readableText":"Si preguntas: “¿Qué provecho sacaré? ¿Qué gano yo si dejo el pecado?”\n\n"},{"verse":"4","text":"Yo te responder&#233; a ti y a los amigos que est&#225;n ah&#237; contigo.   \n","readableText":"Yo te responderé a ti y a los amigos que están ahí contigo.\n\n"},{"verse":"5","text":"Levanta tu mirada al cielo y mira; observa las nubes que est&#225;n mucho m&#225;s altas que t&#250;.   \n","readableText":"Levanta tu mirada al cielo y mira; observa las nubes que están mucho más altas\nque tú.\n\n"},{"verse":"6","text":"Si t&#250; pecas, &#191;qu&#233; da&#241;o le haces a Dios? Si cometes muchos pecados, &#191;en qu&#233; le afecta eso a Dios?   \n","readableText":"Si tú pecas, ¿qué daño le haces a Dios? Si cometes muchos pecados, ¿en qué le\nafecta eso a Dios?\n\n"},{"verse":"7","text":"Si te portas bien, &#191;qu&#233; beneficio le das a Dios? &#191;Qu&#233; gana Dios con eso?   \n","readableText":"Si te portas bien, ¿qué beneficio le das a Dios? ¿Qué gana Dios con eso?\n\n"},{"verse":"8","text":"Tu maldad o tu honestidad s&#243;lo afecta a otros seres humanos, gente como t&#250;, iguales a ti.   \n","readableText":"Tu maldad o tu honestidad sólo afecta a otros seres humanos, gente como tú,\niguales a ti.\n\n"},{"verse":"9","text":"&#187;Ellos pedir&#225;n auxilio a gritos en medio de gran opresi&#243;n. Buscar&#225;n ser liberados del dominio del poderoso.   \n","readableText":"»Ellos pedirán auxilio a gritos en medio de gran opresión. Buscarán ser\nliberados del dominio del poderoso.\n\n"},{"verse":"10","text":"Ninguno dice: &#191;D&#243;nde est&#225; Dios, mi Creador, el que nos da canciones durante la noche;   \n","readableText":"Ninguno dice: ¿Dónde está Dios, mi Creador, el que nos da canciones durante la\nnoche;\n\n"},{"verse":"11","text":"el que nos ense&#241;a m&#225;s a nosotros que a las bestias del campo; el que nos da m&#225;s sabidur&#237;a a nosotros que a las aves del cielo?   \n","readableText":"el que nos enseña más a nosotros que a las bestias del campo; el que nos da más\nsabiduría a nosotros que a las aves del cielo?\n\n"},{"verse":"12","text":"Ellos piden ayuda pero &#233;l no les contesta debido a la arrogancia de los perversos.   \n","readableText":"Ellos piden ayuda pero él no les contesta debido a la arrogancia de los\nperversos.\n\n"},{"verse":"13","text":"Dios no oye peticiones vanas; el Todopoderoso no les presta atenci&#243;n.   \n","readableText":"Dios no oye peticiones vanas; el Todopoderoso no les presta atención.\n\n"},{"verse":"14","text":"&#191;C&#243;mo entonces, puedes quejarte de que no ves a Dios, de que tu caso est&#225; ante &#233;l y que tienes que esperarlo?   \n","readableText":"¿Cómo entonces, puedes quejarte de que no ves a Dios, de que tu caso está ante\nél y que tienes que esperarlo?\n\n"},{"verse":"15","text":"As&#237; que, mis amigos, Job piensa que Dios no castiga el pecado, que no fija su atenci&#243;n en el pecado.   \n","readableText":"Así que, mis amigos, Job piensa que Dios no castiga el pecado, que no fija su\natención en el pecado.\n\n"},{"verse":"16","text":"Por eso Job abre su boca tontamente; habla demasiado, sin saber lo que dice&#187;.\n","readableText":"Por eso Job abre su boca tontamente; habla demasiado, sin saber lo que dice».\n\n"}]}
+{
+  "book": "JOB",
+  "rev": "PDT",
+  "chapter": "35",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "35 Eliú continuó hablando:",
+      "readableText": "35 Eliú continuó hablando:"
+    },
+    {
+      "verse": "2",
+      "text": "«¿Es esto lo que entiendes por justicia?\n    Tú dices: “Yo soy más justo que Dios”.",
+      "readableText": "«¿Es esto lo que entiendes por justicia? Tú dices: “Yo soy más justo que Dios”."
+    },
+    {
+      "verse": "3",
+      "text": "Si preguntas: “¿Qué provecho sacaré?\n    ¿Qué gano yo si dejo el pecado?”",
+      "readableText": "Si preguntas: “¿Qué provecho sacaré? ¿Qué gano yo si dejo el pecado?”"
+    },
+    {
+      "verse": "4",
+      "text": "Yo te responderé a ti\n    y a los amigos que están ahí contigo.",
+      "readableText": "Yo te responderé a ti y a los amigos que están ahí contigo."
+    },
+    {
+      "verse": "5",
+      "text": "Levanta tu mirada al cielo y mira;\n    observa las nubes que están mucho más altas que tú.",
+      "readableText": "Levanta tu mirada al cielo y mira; observa las nubes que están mucho más altas que tú."
+    },
+    {
+      "verse": "6",
+      "text": "Si tú pecas, ¿qué daño le haces a Dios?\n    Si cometes muchos pecados, ¿en qué le afecta eso a Dios?",
+      "readableText": "Si tú pecas, ¿qué daño le haces a Dios? Si cometes muchos pecados, ¿en qué le afecta eso a Dios?"
+    },
+    {
+      "verse": "7",
+      "text": "Si te portas bien, ¿qué beneficio le das a Dios?\n    ¿Qué gana Dios con eso?",
+      "readableText": "Si te portas bien, ¿qué beneficio le das a Dios? ¿Qué gana Dios con eso?"
+    },
+    {
+      "verse": "8",
+      "text": "Tu maldad o tu honestidad sólo afecta\n    a otros seres humanos, gente como tú, iguales a ti.",
+      "readableText": "Tu maldad o tu honestidad sólo afecta a otros seres humanos, gente como tú, iguales a ti."
+    },
+    {
+      "verse": "9",
+      "text": "»Ellos pedirán auxilio a gritos en medio de gran opresión.\n    Buscarán ser liberados del dominio del poderoso.",
+      "readableText": "»Ellos pedirán auxilio a gritos en medio de gran opresión. Buscarán ser liberados del dominio del poderoso."
+    },
+    {
+      "verse": "10",
+      "text": "Ninguno dice: ¿Dónde está Dios, mi Creador,\n    el que nos da canciones durante la noche;",
+      "readableText": "Ninguno dice: ¿Dónde está Dios, mi Creador, el que nos da canciones durante la noche;"
+    },
+    {
+      "verse": "11",
+      "text": "el que nos enseña más a nosotros que a las bestias del campo;\n    el que nos da más sabiduría a nosotros que a las aves del cielo?",
+      "readableText": "el que nos enseña más a nosotros que a las bestias del campo; el que nos da más sabiduría a nosotros que a las aves del cielo?"
+    },
+    {
+      "verse": "12",
+      "text": "Ellos piden ayuda pero él no les contesta\n    debido a la arrogancia de los perversos.",
+      "readableText": "Ellos piden ayuda pero él no les contesta debido a la arrogancia de los perversos."
+    },
+    {
+      "verse": "13",
+      "text": "Dios no oye peticiones vanas;\n    el Todopoderoso no les presta atención.",
+      "readableText": "Dios no oye peticiones vanas; el Todopoderoso no les presta atención."
+    },
+    {
+      "verse": "14",
+      "text": "¿Cómo entonces, puedes quejarte de que no ves a Dios,\n    de que tu caso está ante él y que tienes que esperarlo?",
+      "readableText": "¿Cómo entonces, puedes quejarte de que no ves a Dios, de que tu caso está ante él y que tienes que esperarlo?"
+    },
+    {
+      "verse": "15",
+      "text": "Así que, mis amigos, Job piensa que Dios no castiga el pecado,\n    que no fija su atención en el pecado.",
+      "readableText": "Así que, mis amigos, Job piensa que Dios no castiga el pecado, que no fija su atención en el pecado."
+    },
+    {
+      "verse": "16",
+      "text": "Por eso Job abre su boca tontamente;\n    habla demasiado, sin saber lo que dice».",
+      "readableText": "Por eso Job abre su boca tontamente; habla demasiado, sin saber lo que dice»."
+    }
+  ]
+}

@@ -1,1 +1,22 @@
-{"book":"EST","rev":"PDT","chapter":"10","verses":[{"verse":"1","text":"El rey Jerjes oblig&#243; a que se pagaran impuestos en todas las provincias de su reino, incluso en las tierras m&#225;s lejanas de la costa. \n","readableText":"El rey Jerjes obligó a que se pagaran impuestos en todas las provincias de su\nreino, incluso en las tierras más lejanas de la costa.\n\n"},{"verse":"2","text":"La historia del gran poder del rey Jerjes est&#225; escrita en  El libro de los hechos de los reyes de Media y de Persia . Igualmente, se relata la forma como el rey Jerjes asciende a Mardoqueo a un cargo muy importante dentro del reino. \n","readableText":"La historia del gran poder del rey Jerjes está escrita en El libro de los\nhechos de los reyes de Media y de Persia . Igualmente, se relata la forma como\nel rey Jerjes asciende a Mardoqueo a un cargo muy importante dentro del reino.\n\n\n"},{"verse":"3","text":"Mardoqueo, el jud&#237;o, fue el segundo en importancia despu&#233;s del rey Jerjes. Entre los jud&#237;os fue hombre reconocido y respetado porque busc&#243; el bienestar de sus hermanos y compatriotas, y trajo paz a todo su pueblo.\n","readableText":"Mardoqueo, el judío, fue el segundo en importancia después del rey Jerjes.\nEntre los judíos fue hombre reconocido y respetado porque buscó el bienestar de\nsus hermanos y compatriotas, y trajo paz a todo su pueblo.\n\n"}]}
+{
+  "book": "EST",
+  "rev": "PDT",
+  "chapter": "10",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "10 El rey Jerjes obligó a que se pagaran impuestos en todas las provincias de su reino, incluso en las tierras más lejanas de la costa.",
+      "readableText": "10 El rey Jerjes obligó a que se pagaran impuestos en todas las provincias de su reino, incluso en las tierras más lejanas de la costa."
+    },
+    {
+      "verse": "2",
+      "text": "La historia del gran poder del rey Jerjes está escrita en El libro de los hechos de los reyes de Media y de Persia. Igualmente, se relata la forma como el rey Jerjes asciende a Mardoqueo a un cargo muy importante dentro del reino.",
+      "readableText": "La historia del gran poder del rey Jerjes está escrita en El libro de los hechos de los reyes de Media y de Persia. Igualmente, se relata la forma como el rey Jerjes asciende a Mardoqueo a un cargo muy importante dentro del reino."
+    },
+    {
+      "verse": "3",
+      "text": "Mardoqueo, el judío, fue el segundo en importancia después del rey Jerjes. Entre los judíos fue hombre reconocido y respetado porque buscó el bienestar de sus hermanos y compatriotas, y trajo paz a todo su pueblo.",
+      "readableText": "Mardoqueo, el judío, fue el segundo en importancia después del rey Jerjes. Entre los judíos fue hombre reconocido y respetado porque buscó el bienestar de sus hermanos y compatriotas, y trajo paz a todo su pueblo."
+    }
+  ]
+}

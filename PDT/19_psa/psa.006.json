@@ -1,1 +1,57 @@
-{"book":"PSA","rev":"PDT","chapter":"6","verses":[{"verse":"1","text":"SE&#209;OR, no me corrijas con enojo, no me castigues con furia.   \n","readableText":"SEÑOR, no me corrijas con enojo, no me castigues con furia.\n\n"},{"verse":"2","text":"Ten compasi&#243;n de m&#237; SE&#209;OR, estoy enfermo. SE&#209;OR, s&#225;name que estoy d&#233;bil y me duele todo el cuerpo.   \n","readableText":"Ten compasión de mí SEÑOR, estoy enfermo. SEÑOR, sáname que estoy débil y me\nduele todo el cuerpo.\n\n"},{"verse":"3","text":"Estoy aterrorizado, y t&#250;, SE&#209;OR, &#191;cu&#225;ndo me aliviar&#225;s?   \n","readableText":"Estoy aterrorizado, y tú, SEÑOR, ¿cuándo me aliviarás?\n\n"},{"verse":"4","text":"SE&#209;OR, cambia de actitud y resc&#225;tame. Salva mi vida por tu fiel amor,   \n","readableText":"SEÑOR, cambia de actitud y rescátame. Salva mi vida por tu fiel amor,\n\n"},{"verse":"5","text":"porque los muertos no tienen memoria de ti. &#191;Qui&#233;n te alabar&#225; en el mundo de los muertos ?   \n","readableText":"porque los muertos no tienen memoria de ti. ¿Quién te alabará en el mundo de\nlos muertos ?\n\n"},{"verse":"6","text":"Toda la noche estuve gimiendo y llorando hasta que mi cama qued&#243; ba&#241;ada en llanto.   \n","readableText":"Toda la noche estuve gimiendo y llorando hasta que mi cama quedó bañada en\nllanto.\n\n"},{"verse":"7","text":"Mis ojos est&#225;n cansados de llorar a causa de mis penas y de mis enemigos.   \n","readableText":"Mis ojos están cansados de llorar a causa de mis penas y de mis enemigos.\n\n"},{"verse":"8","text":"&#161;Al&#233;jense de m&#237;, perversos! Porque el SE&#209;OR ha escuchado mi llanto.   \n","readableText":"¡Aléjense de mí, perversos! Porque el SEÑOR ha escuchado mi llanto.\n\n"},{"verse":"9","text":"El SE&#209;OR escuch&#243; mis ruegos; el SE&#209;OR acept&#243; mi oraci&#243;n.   \n","readableText":"El SEÑOR escuchó mis ruegos; el SEÑOR aceptó mi oración.\n\n"},{"verse":"10","text":"Todos mis enemigos ser&#225;n humillados y temblar&#225;n de miedo. Todos ellos se alejar&#225;n; al instante ser&#225;n humillados.\n","readableText":"Todos mis enemigos serán humillados y temblarán de miedo. Todos ellos se\nalejarán; al instante serán humillados.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "6",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "SEÑOR, no me corrijas con enojo,\n    no me castigues con furia.",
+      "readableText": "SEÑOR, no me corrijas con enojo, no me castigues con furia."
+    },
+    {
+      "verse": "2",
+      "text": "Ten compasión de mí SEÑOR,\n    estoy enfermo.\nSEÑOR, sáname que estoy débil\n    y me duele todo el cuerpo.",
+      "readableText": "Ten compasión de mí SEÑOR, estoy enfermo. SEÑOR, sáname que estoy débil y me duele todo el cuerpo."
+    },
+    {
+      "verse": "3",
+      "text": "Estoy aterrorizado,\n    y tú, SEÑOR, ¿cuándo me aliviarás?",
+      "readableText": "Estoy aterrorizado, y tú, SEÑOR, ¿cuándo me aliviarás?"
+    },
+    {
+      "verse": "4",
+      "text": "SEÑOR, cambia de actitud y rescátame.\n    Salva mi vida por tu fiel amor,",
+      "readableText": "SEÑOR, cambia de actitud y rescátame. Salva mi vida por tu fiel amor,"
+    },
+    {
+      "verse": "5",
+      "text": "porque los muertos no tienen memoria de ti.\n    ¿Quién te alabará en el mundo de los muertos?",
+      "readableText": "porque los muertos no tienen memoria de ti. ¿Quién te alabará en el mundo de los muertos?"
+    },
+    {
+      "verse": "6",
+      "text": "Toda la noche estuve gimiendo y llorando\n    hasta que mi cama quedó bañada en llanto.",
+      "readableText": "Toda la noche estuve gimiendo y llorando hasta que mi cama quedó bañada en llanto."
+    },
+    {
+      "verse": "7",
+      "text": "Mis ojos están cansados de llorar\n    a causa de mis penas y de mis enemigos.",
+      "readableText": "Mis ojos están cansados de llorar a causa de mis penas y de mis enemigos."
+    },
+    {
+      "verse": "8",
+      "text": "¡Aléjense de mí, perversos!\n    Porque el SEÑOR ha escuchado mi llanto.",
+      "readableText": "¡Aléjense de mí, perversos! Porque el SEÑOR ha escuchado mi llanto."
+    },
+    {
+      "verse": "9",
+      "text": "El SEÑOR escuchó mis ruegos;\n    el SEÑOR aceptó mi oración.",
+      "readableText": "El SEÑOR escuchó mis ruegos; el SEÑOR aceptó mi oración."
+    },
+    {
+      "verse": "10",
+      "text": "Todos mis enemigos serán humillados\n    y temblarán de miedo.\nTodos ellos se alejarán;\n    al instante serán humillados.  end of footnotes",
+      "readableText": "Todos mis enemigos serán humillados y temblarán de miedo. Todos ellos se alejarán; al instante serán humillados. end of footnotes"
+    }
+  ]
+}

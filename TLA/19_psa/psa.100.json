@@ -1,0 +1,32 @@
+{
+  "book": "PSA",
+  "rev": "TLA",
+  "chapter": "100",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "100 Habitantes de toda la tierra,\ngriten con todas sus fuerzas:\n¡Viva Dios!",
+      "readableText": "100 Habitantes de toda la tierra, griten con todas sus fuerzas: ¡Viva Dios!"
+    },
+    {
+      "verse": "2",
+      "text": "¡Adórenlo con alegría!\n¡Vengan a su templo\nlanzando gritos de felicidad!",
+      "readableText": "¡Adórenlo con alegría! ¡Vengan a su templo lanzando gritos de felicidad!"
+    },
+    {
+      "verse": "3",
+      "text": "Reconozcan que él es Dios;\nél nos hizo, y somos suyos.\nNosotros somos su pueblo:\n¡él es nuestro pastor,\ny nosotros somos su rebaño!",
+      "readableText": "Reconozcan que él es Dios; él nos hizo, y somos suyos. Nosotros somos su pueblo: ¡él es nuestro pastor, y nosotros somos su rebaño!"
+    },
+    {
+      "verse": "4",
+      "text": "Vengan a las puertas de su templo;\n¡denle gracias y alábenlo!",
+      "readableText": "Vengan a las puertas de su templo; ¡denle gracias y alábenlo!"
+    },
+    {
+      "verse": "5",
+      "text": "Él es un Dios bueno;\nsu amor es siempre el mismo,\ny su fidelidad jamás cambia.",
+      "readableText": "Él es un Dios bueno; su amor es siempre el mismo, y su fidelidad jamás cambia."
+    }
+  ]
+}

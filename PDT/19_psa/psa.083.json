@@ -1,1 +1,97 @@
-{"book":"PSA","rev":"PDT","chapter":"83","verses":[{"verse":"1","text":"&#161;Dios m&#237;o, no te quedes callado! No guardes silencio ni permanezcas inactivo.   \n","readableText":"¡Dios mío, no te quedes callado! No guardes silencio ni permanezcas inactivo.\n\n\n"},{"verse":"2","text":"Tus enemigos est&#225;n alborotados y se rebelan en tu contra.   \n","readableText":"Tus enemigos están alborotados y se rebelan en tu contra.\n\n"},{"verse":"3","text":"Hacen planes en contra de tu pueblo; planean hacer el mal a quienes t&#250; proteges.   \n","readableText":"Hacen planes en contra de tu pueblo; planean hacer el mal a quienes tú\nproteges.\n\n"},{"verse":"4","text":"Ellos dicen: &#171;Destruy&#225;moslos por completo, que se olvide para siempre el nombre de Israel&#187;.   \n","readableText":"Ellos dicen: «Destruyámoslos por completo, que se olvide para siempre el nombre\nde Israel».\n\n"},{"verse":"5","text":"Toda esta gente se reuni&#243; para conspirar y han hecho un pacto contra ti:   \n","readableText":"Toda esta gente se reunió para conspirar y han hecho un pacto contra ti:\n\n"},{"verse":"6","text":"Edom, los ismaelitas, Moab y los descendientes de Agar,   \n","readableText":"Edom, los ismaelitas, Moab y los descendientes de Agar,\n\n"},{"verse":"7","text":"Biblos , Am&#243;n, Amalec, los filisteos y los que viven en Tiro.   \n","readableText":"Biblos , Amón, Amalec, los filisteos y los que viven en Tiro.\n\n"},{"verse":"8","text":"Hasta Asiria se uni&#243; a ellos y les dio armas a los descendientes de Lot.  Selah   \n","readableText":"Hasta Asiria se unió a ellos y les dio armas a los descendientes de Lot. Selah\n\n\n"},{"verse":"9","text":"Tr&#225;talos como trataste a Madi&#225;n, a S&#237;sara y a Jab&#237;n en el r&#237;o Quis&#243;n.   \n","readableText":"Trátalos como trataste a Madián, a Sísara y a Jabín en el río Quisón.\n\n"},{"verse":"10","text":"T&#250; los destruiste en Endor y sus cuerpos se pudrieron en el suelo.   \n","readableText":"Tú los destruiste en Endor y sus cuerpos se pudrieron en el suelo.\n\n"},{"verse":"11","text":"Trata a sus nobles como trataste a Oreb y a Zeb; haz con todos sus l&#237;deres lo que hiciste con Zeba y con Zalmuna,   \n","readableText":"Trata a sus nobles como trataste a Oreb y a Zeb; haz con todos sus líderes lo\nque hiciste con Zeba y con Zalmuna,\n\n"},{"verse":"12","text":"que dec&#237;an: &#171;Vamos a apoderarnos de los pastizales de Dios&#187;.   \n","readableText":"que decían: «Vamos a apoderarnos de los pastizales de Dios».\n\n"},{"verse":"13","text":"Haz, Dios m&#237;o, que se vayan como un cardo rodando con el viento; que desaparezcan como paja que se lleva el viento.   \n","readableText":"Haz, Dios mío, que se vayan como un cardo rodando con el viento; que\ndesaparezcan como paja que se lleva el viento.\n\n"},{"verse":"14","text":"Como el fuego destruye los bosques e incendia las monta&#241;as,   \n","readableText":"Como el fuego destruye los bosques e incendia las montañas,\n\n"},{"verse":"15","text":"pers&#237;guelos y as&#250;stalos con tus tormentas; y ll&#233;nalos de terror con tus tempestades.   \n","readableText":"persíguelos y asústalos con tus tormentas; y llénalos de terror con tus\ntempestades.\n\n"},{"verse":"16","text":"SE&#209;OR, que se tengan que tapar la cara de verg&#252;enza, para que vengan a buscarte y adoren tu nombre.   \n","readableText":"SEÑOR, que se tengan que tapar la cara de vergüenza, para que vengan a buscarte\ny adoren tu nombre.\n\n"},{"verse":"17","text":"Haz que esa gente se sienta completamente humillada; ll&#233;nalos de verg&#252;enza y derr&#243;talos.   \n","readableText":"Haz que esa gente se sienta completamente humillada; llénalos de vergüenza y\nderrótalos.\n\n"},{"verse":"18","text":"As&#237; sabr&#225;n que t&#250; eres Dios, que tu nombre es YAV&#201; y que s&#243;lo t&#250; eres el Alt&#237;simo sobre el mundo entero.\n","readableText":"Así sabrán que tú eres Dios, que tu nombre es YAVÉ y que sólo tú eres el\nAltísimo sobre el mundo entero.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "83",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "¡Dios mío, no te quedes callado!\n    No guardes silencio\n    ni permanezcas inactivo.",
+      "readableText": "¡Dios mío, no te quedes callado! No guardes silencio ni permanezcas inactivo."
+    },
+    {
+      "verse": "2",
+      "text": "Tus enemigos están alborotados\n    y se rebelan en tu contra.",
+      "readableText": "Tus enemigos están alborotados y se rebelan en tu contra."
+    },
+    {
+      "verse": "3",
+      "text": "Hacen planes en contra de tu pueblo;\n    planean hacer el mal a quienes tú proteges.",
+      "readableText": "Hacen planes en contra de tu pueblo; planean hacer el mal a quienes tú proteges."
+    },
+    {
+      "verse": "4",
+      "text": "Ellos dicen: «Destruyámoslos por completo,\n    que se olvide para siempre el nombre de Israel».",
+      "readableText": "Ellos dicen: «Destruyámoslos por completo, que se olvide para siempre el nombre de Israel»."
+    },
+    {
+      "verse": "5",
+      "text": "Toda esta gente se reunió para conspirar\n    y han hecho un pacto contra ti:",
+      "readableText": "Toda esta gente se reunió para conspirar y han hecho un pacto contra ti:"
+    },
+    {
+      "verse": "6",
+      "text": "Edom, los ismaelitas,\n    Moab y los descendientes de Agar,",
+      "readableText": "Edom, los ismaelitas, Moab y los descendientes de Agar,"
+    },
+    {
+      "verse": "7",
+      "text": "Biblos, Amón, Amalec,\n    los filisteos y los que viven en Tiro.",
+      "readableText": "Biblos, Amón, Amalec, los filisteos y los que viven en Tiro."
+    },
+    {
+      "verse": "8",
+      "text": "Hasta Asiria se unió a ellos\n    y les dio armas a los descendientes de Lot. Selah",
+      "readableText": "Hasta Asiria se unió a ellos y les dio armas a los descendientes de Lot. Selah"
+    },
+    {
+      "verse": "9",
+      "text": "Trátalos como trataste a Madián,\n    a Sísara y a Jabín en el río Quisón.",
+      "readableText": "Trátalos como trataste a Madián, a Sísara y a Jabín en el río Quisón."
+    },
+    {
+      "verse": "10",
+      "text": "Tú los destruiste en Endor\n    y sus cuerpos se pudrieron en el suelo.",
+      "readableText": "Tú los destruiste en Endor y sus cuerpos se pudrieron en el suelo."
+    },
+    {
+      "verse": "11",
+      "text": "Trata a sus nobles como trataste a Oreb y a Zeb;\n    haz con todos sus líderes lo que hiciste con Zeba y con Zalmuna,",
+      "readableText": "Trata a sus nobles como trataste a Oreb y a Zeb; haz con todos sus líderes lo que hiciste con Zeba y con Zalmuna,"
+    },
+    {
+      "verse": "12",
+      "text": "que decían: «Vamos a apoderarnos\n    de los pastizales de Dios».",
+      "readableText": "que decían: «Vamos a apoderarnos de los pastizales de Dios»."
+    },
+    {
+      "verse": "13",
+      "text": "Haz, Dios mío, que se vayan como un cardo rodando con el viento;\n    que desaparezcan como paja que se lleva el viento.",
+      "readableText": "Haz, Dios mío, que se vayan como un cardo rodando con el viento; que desaparezcan como paja que se lleva el viento."
+    },
+    {
+      "verse": "14",
+      "text": "Como el fuego destruye los bosques\n    e incendia las montañas,",
+      "readableText": "Como el fuego destruye los bosques e incendia las montañas,"
+    },
+    {
+      "verse": "15",
+      "text": "persíguelos y asústalos con tus tormentas;\n    y llénalos de terror con tus tempestades.",
+      "readableText": "persíguelos y asústalos con tus tormentas; y llénalos de terror con tus tempestades."
+    },
+    {
+      "verse": "16",
+      "text": "SEÑOR, que se tengan que tapar la cara de vergüenza,\n    para que vengan a buscarte y adoren tu nombre.",
+      "readableText": "SEÑOR, que se tengan que tapar la cara de vergüenza, para que vengan a buscarte y adoren tu nombre."
+    },
+    {
+      "verse": "17",
+      "text": "Haz que esa gente se sienta completamente humillada;\n    llénalos de vergüenza y derrótalos.",
+      "readableText": "Haz que esa gente se sienta completamente humillada; llénalos de vergüenza y derrótalos."
+    },
+    {
+      "verse": "18",
+      "text": "Así sabrán que tú eres Dios,\n    que tu nombre es YAVÉ\ny que sólo tú eres el Altísimo\n    sobre el mundo entero.  end of footnotes",
+      "readableText": "Así sabrán que tú eres Dios, que tu nombre es YAVÉ y que sólo tú eres el Altísimo sobre el mundo entero. end of footnotes"
+    }
+  ]
+}

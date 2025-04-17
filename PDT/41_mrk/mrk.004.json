@@ -1,1 +1,212 @@
-{"book":"MRK","rev":"PDT","chapter":"4","verses":[{"verse":"1","text":"De nuevo Jes&#250;s empez&#243; a ense&#241;ar junto al lago, y all&#237; se reuni&#243; tanta gente que se sent&#243; en una barca que estaba en el agua y la gente se qued&#243; en la orilla. \n","readableText":"De nuevo Jesús empezó a enseñar junto al lago, y allí se reunió tanta gente que\nse sentó en una barca que estaba en el agua y la gente se quedó en la orilla.\n\n\n"},{"verse":"2","text":"Jes&#250;s les dio muchas ense&#241;anzas por medio de historias. Al ense&#241;arles, les dijo:   \n","readableText":"Jesús les dio muchas enseñanzas por medio de historias. Al enseñarles, les\ndijo:\n\n"},{"verse":"3","text":"&#171;&#161;Escuchen bien! El sembrador sali&#243; a sembrar. \n","readableText":"«¡Escuchen bien! El sembrador salió a sembrar.\n\n"},{"verse":"4","text":"Al esparcir las semillas, algunas cayeron en el camino; vinieron las aves y se las comieron. \n","readableText":"Al esparcir las semillas, algunas cayeron en el camino; vinieron las aves y se\nlas comieron.\n\n"},{"verse":"5","text":"Otras semillas cayeron en terreno pedregoso, donde no hab&#237;a mucha tierra. Esas semillas brotaron r&#225;pido porque la tierra no era profunda. \n","readableText":"Otras semillas cayeron en terreno pedregoso, donde no había mucha tierra. Esas\nsemillas brotaron rápido porque la tierra no era profunda.\n\n"},{"verse":"6","text":"Pero cuando sali&#243; el sol, las plantas se quemaron y como no ten&#237;an ra&#237;ces, se secaron. \n","readableText":"Pero cuando salió el sol, las plantas se quemaron y como no tenían raíces, se\nsecaron.\n\n"},{"verse":"7","text":"Otras cayeron entre espinos, crecieron con las plantas y las ahogaron. As&#237; que no dieron fruto. \n","readableText":"Otras cayeron entre espinos, crecieron con las plantas y las ahogaron. Así que\nno dieron fruto.\n\n"},{"verse":"8","text":"Otras semillas cayeron en tierra buena y empezaron a dar fruto. All&#237; pudieron brotar, crecer y dar fruto. Algunas plantas produjeron 30 granos por semilla, otras 60 y otras 100&#187;.   \n","readableText":"Otras semillas cayeron en tierra buena y empezaron a dar fruto. Allí pudieron\nbrotar, crecer y dar fruto. Algunas plantas produjeron 30 granos por semilla,\notras 60 y otras 100».\n\n"},{"verse":"9","text":"Luego Jes&#250;s dijo: &#171;&#161;Oigan bien lo que les digo!&#187;   \n","readableText":"Luego Jesús dijo: «¡Oigan bien lo que les digo!»\n\n"},{"verse":"10","text":"Despu&#233;s, a solas con Jes&#250;s, los doce y los que estaban alrededor de &#233;l, le preguntaron respecto a las historias. \n","readableText":"Después, a solas con Jesús, los doce y los que estaban alrededor de él, le\npreguntaron respecto a las historias.\n\n"},{"verse":"11","text":"Jes&#250;s les respondi&#243;: &#171;Ustedes tienen el privilegio de entender la verdad que no se ha dado a conocer sobre el reino de Dios. A los que quedan afuera todo se les da en forma de historias para que   \n","readableText":"Jesús les respondió: «Ustedes tienen el privilegio de entender la verdad que no\nse ha dado a conocer sobre el reino de Dios. A los que quedan afuera todo se\nles da en forma de historias para que\n\n"},{"verse":"12","text":"  \n","readableText":"\n\n"}]}
+{
+  "book": "MRK",
+  "rev": "PDT",
+  "chapter": "4",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "4 De nuevo Jesús empezó a enseñar junto al lago, y allí se reunió tanta gente que se sentó en una barca que estaba en el agua y la gente se quedó en la orilla.",
+      "readableText": "4 De nuevo Jesús empezó a enseñar junto al lago, y allí se reunió tanta gente que se sentó en una barca que estaba en el agua y la gente se quedó en la orilla."
+    },
+    {
+      "verse": "2",
+      "text": "Jesús les dio muchas enseñanzas por medio de historias. Al enseñarles, les dijo:",
+      "readableText": "Jesús les dio muchas enseñanzas por medio de historias. Al enseñarles, les dijo:"
+    },
+    {
+      "verse": "3",
+      "text": "«¡Escuchen bien! El sembrador salió a sembrar.",
+      "readableText": "«¡Escuchen bien! El sembrador salió a sembrar."
+    },
+    {
+      "verse": "4",
+      "text": "Al esparcir las semillas, algunas cayeron en el camino; vinieron las aves y se las comieron.",
+      "readableText": "Al esparcir las semillas, algunas cayeron en el camino; vinieron las aves y se las comieron."
+    },
+    {
+      "verse": "5",
+      "text": "Otras semillas cayeron en terreno pedregoso, donde no había mucha tierra. Esas semillas brotaron rápido porque la tierra no era profunda.",
+      "readableText": "Otras semillas cayeron en terreno pedregoso, donde no había mucha tierra. Esas semillas brotaron rápido porque la tierra no era profunda."
+    },
+    {
+      "verse": "6",
+      "text": "Pero cuando salió el sol, las plantas se quemaron y como no tenían raíces, se secaron.",
+      "readableText": "Pero cuando salió el sol, las plantas se quemaron y como no tenían raíces, se secaron."
+    },
+    {
+      "verse": "7",
+      "text": "Otras cayeron entre espinos, crecieron con las plantas y las ahogaron. Así que no dieron fruto.",
+      "readableText": "Otras cayeron entre espinos, crecieron con las plantas y las ahogaron. Así que no dieron fruto."
+    },
+    {
+      "verse": "8",
+      "text": "Otras semillas cayeron en tierra buena y empezaron a dar fruto. Allí pudieron brotar, crecer y dar fruto. Algunas plantas produjeron 30 granos por semilla, otras 60 y otras 100».",
+      "readableText": "Otras semillas cayeron en tierra buena y empezaron a dar fruto. Allí pudieron brotar, crecer y dar fruto. Algunas plantas produjeron 30 granos por semilla, otras 60 y otras 100»."
+    },
+    {
+      "verse": "9",
+      "text": "Luego Jesús dijo: «¡Oigan bien lo que les digo!» (Mt 13:10-17; Lc 8:9-10)",
+      "readableText": "Luego Jesús dijo: «¡Oigan bien lo que les digo!» (Mt 13:10-17; Lc 8:9-10)"
+    },
+    {
+      "verse": "10",
+      "text": "Después, a solas con Jesús, los doce y los que estaban alrededor de él, le preguntaron respecto a las historias.",
+      "readableText": "Después, a solas con Jesús, los doce y los que estaban alrededor de él, le preguntaron respecto a las historias."
+    },
+    {
+      "verse": "11",
+      "text": "Jesús les respondió: «Ustedes tienen el privilegio de entender la verdad que no se ha dado a conocer sobre el reino de Dios. A los que quedan afuera todo se les da en forma de historias para que",
+      "readableText": "Jesús les respondió: «Ustedes tienen el privilegio de entender la verdad que no se ha dado a conocer sobre el reino de Dios. A los que quedan afuera todo se les da en forma de historias para que"
+    },
+    {
+      "verse": "12",
+      "text": "»“por más que miren, no vean;\n    y por más que oigan, no entiendan,\npara que no cambien\n    y no sean perdonados”». (Mt 13:18-23; Lc 8:11-15)",
+      "readableText": "»“por más que miren, no vean; y por más que oigan, no entiendan, para que no cambien y no sean perdonados”». (Mt 13:18-23; Lc 8:11-15)"
+    },
+    {
+      "verse": "13",
+      "text": "Jesús les dijo: «Si no entienden esta historia, ¿cómo van a entender las otras?",
+      "readableText": "Jesús les dijo: «Si no entienden esta historia, ¿cómo van a entender las otras?"
+    },
+    {
+      "verse": "14",
+      "text": "El sembrador es el que siembra el mensaje.",
+      "readableText": "El sembrador es el que siembra el mensaje."
+    },
+    {
+      "verse": "15",
+      "text": "Algunos son como la semilla que cayó en el camino. Cuando oyen el mensaje, llega Satanás enseguida y les quita el mensaje que les fue sembrado.",
+      "readableText": "Algunos son como la semilla que cayó en el camino. Cuando oyen el mensaje, llega Satanás enseguida y les quita el mensaje que les fue sembrado."
+    },
+    {
+      "verse": "16",
+      "text": "Otros son como la semilla que se sembró en el terreno pedregoso. Cuando oyen el mensaje, inmediatamente lo reciben con alegría,",
+      "readableText": "Otros son como la semilla que se sembró en el terreno pedregoso. Cuando oyen el mensaje, inmediatamente lo reciben con alegría,"
+    },
+    {
+      "verse": "17",
+      "text": "pero no tienen raíz en sí y duran poco tiempo. Cuando surgen los problemas o la persecución por causa del mensaje, inmediatamente se dan por vencidos.",
+      "readableText": "pero no tienen raíz en sí y duran poco tiempo. Cuando surgen los problemas o la persecución por causa del mensaje, inmediatamente se dan por vencidos."
+    },
+    {
+      "verse": "18",
+      "text": "Unos son como la semilla que se sembró entre espinos. Oyen el mensaje,",
+      "readableText": "Unos son como la semilla que se sembró entre espinos. Oyen el mensaje,"
+    },
+    {
+      "verse": "19",
+      "text": "pero las preocupaciones de esta vida, el engaño de las riquezas y los deseos de tener cosas ahogan el mensaje y se vuelven estériles.",
+      "readableText": "pero las preocupaciones de esta vida, el engaño de las riquezas y los deseos de tener cosas ahogan el mensaje y se vuelven estériles."
+    },
+    {
+      "verse": "20",
+      "text": "Pero otros son como la semilla que se sembró en tierra buena. Estos son los que oyen el mensaje, lo aceptan y dan una gran cosecha. Darán mucho más de lo sembrado, hasta 30, 60 y 100 veces más». (Lc 8:16-18)",
+      "readableText": "Pero otros son como la semilla que se sembró en tierra buena. Estos son los que oyen el mensaje, lo aceptan y dan una gran cosecha. Darán mucho más de lo sembrado, hasta 30, 60 y 100 veces más». (Lc 8:16-18)"
+    },
+    {
+      "verse": "21",
+      "text": "Luego Jesús les dijo: «¿Acaso si tienen una lámpara la ponen debajo de una cesta o debajo de la cama? ¿No es para ponerla sobre el candelero?",
+      "readableText": "Luego Jesús les dijo: «¿Acaso si tienen una lámpara la ponen debajo de una cesta o debajo de la cama? ¿No es para ponerla sobre el candelero?"
+    },
+    {
+      "verse": "22",
+      "text": "Porque no hay nada oculto que no llegue a descubrirse, ni nada encubierto que no salga a la luz pública.",
+      "readableText": "Porque no hay nada oculto que no llegue a descubrirse, ni nada encubierto que no salga a la luz pública."
+    },
+    {
+      "verse": "23",
+      "text": "¡Oigan bien lo que les digo!»",
+      "readableText": "¡Oigan bien lo que les digo!»"
+    },
+    {
+      "verse": "24",
+      "text": "Y les dijo: «Tengan cuidado de entender lo que oyen. Con la misma medida que ustedes midan a los demás, Dios los medirá a ustedes; y se les añadirá más.",
+      "readableText": "Y les dijo: «Tengan cuidado de entender lo que oyen. Con la misma medida que ustedes midan a los demás, Dios los medirá a ustedes; y se les añadirá más."
+    },
+    {
+      "verse": "25",
+      "text": "Porque al que entienda algo, se le dará más a entender. Pero al que entienda muy poco, hasta lo poco que entienda se le quitará».",
+      "readableText": "Porque al que entienda algo, se le dará más a entender. Pero al que entienda muy poco, hasta lo poco que entienda se le quitará»."
+    },
+    {
+      "verse": "26",
+      "text": "Jesús dijo después: «El reino de Dios es como un hombre que esparce semilla en la tierra:",
+      "readableText": "Jesús dijo después: «El reino de Dios es como un hombre que esparce semilla en la tierra:"
+    },
+    {
+      "verse": "27",
+      "text": "descansa en las noches y se levanta durante el día. Y todo el tiempo, de día y de noche, la semilla sigue germinando y creciendo. Pero el hombre no sabe cómo crece la semilla.",
+      "readableText": "descansa en las noches y se levanta durante el día. Y todo el tiempo, de día y de noche, la semilla sigue germinando y creciendo. Pero el hombre no sabe cómo crece la semilla."
+    },
+    {
+      "verse": "28",
+      "text": "La tierra produce el grano por sí misma: primero el tallo, luego la espiga y finalmente el grano que llena la espiga.",
+      "readableText": "La tierra produce el grano por sí misma: primero el tallo, luego la espiga y finalmente el grano que llena la espiga."
+    },
+    {
+      "verse": "29",
+      "text": "Cuando el grano está maduro, el hombre lo recoge porque ya es tiempo de cosechar». (Mt 13:31-32, 34-35; Lc 13:18-19)",
+      "readableText": "Cuando el grano está maduro, el hombre lo recoge porque ya es tiempo de cosechar». (Mt 13:31-32, 34-35; Lc 13:18-19)"
+    },
+    {
+      "verse": "30",
+      "text": "Luego Jesús dijo: «¿Con qué puedo comparar el reino de Dios? ¿Con qué historia podré explicarlo?",
+      "readableText": "Luego Jesús dijo: «¿Con qué puedo comparar el reino de Dios? ¿Con qué historia podré explicarlo?"
+    },
+    {
+      "verse": "31",
+      "text": "Es como una semilla de mostaza, la más pequeña de todas las semillas cuando se siembra.",
+      "readableText": "Es como una semilla de mostaza, la más pequeña de todas las semillas cuando se siembra."
+    },
+    {
+      "verse": "32",
+      "text": "Pero cuando ya está sembrada, la semilla de mostaza se convierte en la planta más grande del campo. A esta planta le brotan ramas tan grandes que sirven de nido y protección a las aves».",
+      "readableText": "Pero cuando ya está sembrada, la semilla de mostaza se convierte en la planta más grande del campo. A esta planta le brotan ramas tan grandes que sirven de nido y protección a las aves»."
+    },
+    {
+      "verse": "33",
+      "text": "Y Jesús les siguió enseñando con historias como estas. Les enseñó todo lo que podían entender.",
+      "readableText": "Y Jesús les siguió enseñando con historias como estas. Les enseñó todo lo que podían entender."
+    },
+    {
+      "verse": "34",
+      "text": "Si no era por medio de historias no les hablaba, pero después, en privado, les explicaba todo a sus seguidores. (Mt 8:23-27; Lc 8:22-25)",
+      "readableText": "Si no era por medio de historias no les hablaba, pero después, en privado, les explicaba todo a sus seguidores. (Mt 8:23-27; Lc 8:22-25)"
+    },
+    {
+      "verse": "35",
+      "text": "Al atardecer de ese mismo día, Jesús les dijo a sus seguidores:—Crucemos al otro lado del lago.",
+      "readableText": "Al atardecer de ese mismo día, Jesús les dijo a sus seguidores:—Crucemos al otro lado del lago."
+    },
+    {
+      "verse": "36",
+      "text": "Ellos dejaron a la multitud y se fueron con Jesús en la barca donde él estaba. También había otras barcas junto a ellos.",
+      "readableText": "Ellos dejaron a la multitud y se fueron con Jesús en la barca donde él estaba. También había otras barcas junto a ellos."
+    },
+    {
+      "verse": "37",
+      "text": "Entonces se desató una terrible tormenta y las olas azotaban tan fuerte la barca que este se inundaba.",
+      "readableText": "Entonces se desató una terrible tormenta y las olas azotaban tan fuerte la barca que este se inundaba."
+    },
+    {
+      "verse": "38",
+      "text": "Pero Jesús estaba durmiendo en la parte de atrás recostado sobre una almohada, así que lo despertaron y le dijeron:—Maestro, ¿no te importa que nos vayamos a ahogar?",
+      "readableText": "Pero Jesús estaba durmiendo en la parte de atrás recostado sobre una almohada, así que lo despertaron y le dijeron:—Maestro, ¿no te importa que nos vayamos a ahogar?"
+    },
+    {
+      "verse": "39",
+      "text": "Entonces Jesús se levantó, regañó al viento y le ordenó al mar:—¡Cálmese! ¡Quieto!Luego, el viento se detuvo y todo quedó en gran calma.",
+      "readableText": "Entonces Jesús se levantó, regañó al viento y le ordenó al mar:—¡Cálmese! ¡Quieto!Luego, el viento se detuvo y todo quedó en gran calma."
+    },
+    {
+      "verse": "40",
+      "text": "Jesús les dijo:—¿Por qué son tan cobardes? ¿Todavía no tienen fe?",
+      "readableText": "Jesús les dijo:—¿Por qué son tan cobardes? ¿Todavía no tienen fe?"
+    },
+    {
+      "verse": "41",
+      "text": "Pero todos estaban muy asustados y se decían unos a otros:—¿Quién es este que hasta el viento y las olas obedecen sus órdenes?  end of footnotes\n end of crossrefs",
+      "readableText": "Pero todos estaban muy asustados y se decían unos a otros:—¿Quién es este que hasta el viento y las olas obedecen sus órdenes? end of footnotes end of crossrefs"
+    }
+  ]
+}

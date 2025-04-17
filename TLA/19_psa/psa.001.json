@@ -1,0 +1,37 @@
+{
+  "book": "PSA",
+  "rev": "TLA",
+  "chapter": "1",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Dios bendice\na quienes no siguen malos consejos\nni andan en malas compañías\nni se juntan con los que se burlan de Dios.",
+      "readableText": "Dios bendice a quienes no siguen malos consejos ni andan en malas compañías ni se juntan con los que se burlan de Dios."
+    },
+    {
+      "verse": "2",
+      "text": "Dios bendice\na quienes aman su palabra\ny alegres la estudian día y noche.",
+      "readableText": "Dios bendice a quienes aman su palabra y alegres la estudian día y noche."
+    },
+    {
+      "verse": "3",
+      "text": "Son como árboles sembrados\njunto a los arroyos:\nllegado el momento,\ndan mucho fruto\ny no se marchitan sus hojas.\n¡Todo lo que hacen les sale bien!",
+      "readableText": "Son como árboles sembrados junto a los arroyos: llegado el momento, dan mucho fruto y no se marchitan sus hojas. ¡Todo lo que hacen les sale bien!"
+    },
+    {
+      "verse": "4",
+      "text": "Con los malvados\nno pasa lo mismo;\n¡son como el polvo\nque se lleva el viento!",
+      "readableText": "Con los malvados no pasa lo mismo; ¡son como el polvo que se lleva el viento!"
+    },
+    {
+      "verse": "5",
+      "text": "Cuando sean juzgados,\nnada los salvará;\n¡esos pecadores no tendrán parte\nen la reunión de los buenos!",
+      "readableText": "Cuando sean juzgados, nada los salvará; ¡esos pecadores no tendrán parte en la reunión de los buenos!"
+    },
+    {
+      "verse": "6",
+      "text": "En verdad,\nDios cuida a los buenos,\npero los malvados\nse encaminan al fracaso.",
+      "readableText": "En verdad, Dios cuida a los buenos, pero los malvados se encaminan al fracaso."
+    }
+  ]
+}

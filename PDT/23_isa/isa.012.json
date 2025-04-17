@@ -1,1 +1,37 @@
-{"book":"ISA","rev":"PDT","chapter":"12","verses":[{"verse":"1","text":"En ese momento t&#250; dir&#225;s: &#171;Te agradezco, SE&#209;OR, porque aunque estuviste enojado conmigo, tu enojo termin&#243; y me has dado consuelo.   \n","readableText":"En ese momento tú dirás: «Te agradezco, SEÑOR, porque aunque estuviste enojado\nconmigo, tu enojo terminó y me has dado consuelo.\n\n"},{"verse":"2","text":"Dios es mi salvaci&#243;n, confiar&#233; en &#233;l y no tendr&#233; miedo. El Se&#241;or DIOS, es mi fuerza y canci&#243;n; se ha convertido en mi salvaci&#243;n &#187;.   \n","readableText":"Dios es mi salvación, confiaré en él y no tendré miedo. El Señor DIOS, es mi\nfuerza y canción; se ha convertido en mi salvación ».\n\n"},{"verse":"3","text":"Ustedes sacar&#225;n agua con alegr&#237;a de las fuentes de salvaci&#243;n.   \n","readableText":"Ustedes sacarán agua con alegría de las fuentes de salvación.\n\n"},{"verse":"4","text":"Ese d&#237;a ustedes dir&#225;n: &#171;Den gracias al SE&#209;OR, alaben su nombre. Anuncien entre los pueblos sus hechos. Den a conocer que &#233;l es grandioso.   \n","readableText":"Ese día ustedes dirán: «Den gracias al SEÑOR, alaben su nombre. Anuncien entre\nlos pueblos sus hechos. Den a conocer que él es grandioso.\n\n"},{"verse":"5","text":"Canten alabanzas al SE&#209;OR por sus grandes obras, que todo el mundo lo sepa.   \n","readableText":"Canten alabanzas al SEÑOR por sus grandes obras, que todo el mundo lo sepa.\n\n"},{"verse":"6","text":"Grita y canta de alegr&#237;a, habitante de Sion porque es grande el Santo de Israel que est&#225; contigo&#187;.\n","readableText":"Grita y canta de alegría, habitante de Sion porque es grande el Santo de Israel\nque está contigo».\n\n"}]}
+{
+  "book": "ISA",
+  "rev": "PDT",
+  "chapter": "12",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "12 En ese momento tú dirás:\n«Te agradezco, SEÑOR,\n    porque aunque estuviste enojado conmigo,\ntu enojo terminó\n    y me has dado consuelo.",
+      "readableText": "12 En ese momento tú dirás: «Te agradezco, SEÑOR, porque aunque estuviste enojado conmigo, tu enojo terminó y me has dado consuelo."
+    },
+    {
+      "verse": "2",
+      "text": "Dios es mi salvación,\n    confiaré en él y no tendré miedo.\nEl Señor DIOS, es mi fuerza y canción;\n    se ha convertido en mi salvación».",
+      "readableText": "Dios es mi salvación, confiaré en él y no tendré miedo. El Señor DIOS, es mi fuerza y canción; se ha convertido en mi salvación»."
+    },
+    {
+      "verse": "3",
+      "text": "Ustedes sacarán agua con alegría\n    de las fuentes de salvación.",
+      "readableText": "Ustedes sacarán agua con alegría de las fuentes de salvación."
+    },
+    {
+      "verse": "4",
+      "text": "Ese día ustedes dirán:\n    «Den gracias al SEÑOR, alaben su nombre.\nAnuncien entre los pueblos sus hechos.\n    Den a conocer que él es grandioso.",
+      "readableText": "Ese día ustedes dirán: «Den gracias al SEÑOR, alaben su nombre. Anuncien entre los pueblos sus hechos. Den a conocer que él es grandioso."
+    },
+    {
+      "verse": "5",
+      "text": "Canten alabanzas al SEÑOR por sus grandes obras,\n    que todo el mundo lo sepa.",
+      "readableText": "Canten alabanzas al SEÑOR por sus grandes obras, que todo el mundo lo sepa."
+    },
+    {
+      "verse": "6",
+      "text": "Grita y canta de alegría, habitante de Sion\n    porque es grande el Santo de Israel que está contigo».  end of footnotes",
+      "readableText": "Grita y canta de alegría, habitante de Sion porque es grande el Santo de Israel que está contigo». end of footnotes"
+    }
+  ]
+}

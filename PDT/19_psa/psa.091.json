@@ -1,1 +1,87 @@
-{"book":"PSA","rev":"PDT","chapter":"91","verses":[{"verse":"1","text":"El que habita a la sombra del Alt&#237;simo, se acoge a la protecci&#243;n del Todopoderoso.   \n","readableText":"El que habita a la sombra del Altísimo, se acoge a la protección del\nTodopoderoso.\n\n"},{"verse":"2","text":"Yo le digo al SE&#209;OR: &#171;T&#250; eres mi refugio, mi fortaleza. Dios m&#237;o, conf&#237;o en ti&#187;.   \n","readableText":"Yo le digo al SEÑOR: «Tú eres mi refugio, mi fortaleza. Dios mío, confío en\nti».\n\n"},{"verse":"3","text":"Dios te salvar&#225; de los peligros escondidos y de las enfermedades peligrosas,   \n","readableText":"Dios te salvará de los peligros escondidos y de las enfermedades peligrosas,\n\n"},{"verse":"4","text":"pues te proteger&#225; con sus alas y bajo ellas hallar&#225;s refugio. Su fidelidad ser&#225; tu escudo y tu muralla protectora.   \n","readableText":"pues te protegerá con sus alas y bajo ellas hallarás refugio. Su fidelidad será\ntu escudo y tu muralla protectora.\n\n"},{"verse":"5","text":"No te atemorizar&#225; el peligro de la noche, ni las flechas que se lanzan en el d&#237;a;   \n","readableText":"No te atemorizará el peligro de la noche, ni las flechas que se lanzan en el\ndía;\n\n"},{"verse":"6","text":"tampoco la plaga que anda en la oscuridad, ni el destructor que llega a plena luz del d&#237;a.   \n","readableText":"tampoco la plaga que anda en la oscuridad, ni el destructor que llega a plena\nluz del día.\n\n"},{"verse":"7","text":"Mil caer&#225;n muertos a tu izquierda y 10 000 a tu derecha, pero a ti no te suceder&#225; nada.   \n","readableText":"Mil caerán muertos a tu izquierda y 10 000 a tu derecha, pero a ti no te\nsucederá nada.\n\n"},{"verse":"8","text":"S&#243;lo f&#237;jate y ver&#225;s que los perversos recibir&#225;n su merecido.   \n","readableText":"Sólo fíjate y verás que los perversos recibirán su merecido.\n\n"},{"verse":"9","text":"Porque t&#250; confiaste en el SE&#209;OR e hiciste que el Alt&#237;simo fuera tu protecci&#243;n.   \n","readableText":"Porque tú confiaste en el SEÑOR e hiciste que el Altísimo fuera tu protección.\n\n\n"},{"verse":"10","text":"Nada malo te suceder&#225;, no ocurrir&#225; ning&#250;n desastre en tu casa;   \n","readableText":"Nada malo te sucederá, no ocurrirá ningún desastre en tu casa;\n\n"},{"verse":"11","text":"porque &#233;l dar&#225; orden a sus &#225;ngeles para que te protejan a dondequiera que vayas.   \n","readableText":"porque él dará orden a sus ángeles para que te protejan a dondequiera que\nvayas.\n\n"},{"verse":"12","text":"Ellos te levantar&#225;n con sus manos para que ninguna piedra te lastime el pie.   \n","readableText":"Ellos te levantarán con sus manos para que ninguna piedra te lastime el pie.\n\n"},{"verse":"13","text":"Pisotear&#225;s leones y serpientes venenosas; triunfar&#225;s sobre cachorros de le&#243;n y sobre monstruos .   \n","readableText":"Pisotearás leones y serpientes venenosas; triunfarás sobre cachorros de león y\nsobre monstruos .\n\n"},{"verse":"14","text":"&#171;Yo lo salvar&#233;, porque me ama; lo proteger&#233;, porque reconoce mi nombre.   \n","readableText":"«Yo lo salvaré, porque me ama; lo protegeré, porque reconoce mi nombre.\n\n"},{"verse":"15","text":"Me llamar&#225; y yo le responder&#233;; estar&#233; con &#233;l cuando se encuentre en dificultades; lo rescatar&#233; y har&#233; que le rindan honores.   \n","readableText":"Me llamará y yo le responderé; estaré con él cuando se encuentre en\ndificultades; lo rescataré y haré que le rindan honores.\n\n"},{"verse":"16","text":"Har&#233; que disfrute de una larga vida y le mostrar&#233; mi salvaci&#243;n&#187;.\n","readableText":"Haré que disfrute de una larga vida y le mostraré mi salvación».\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "91",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "El que habita a la sombra del Altísimo,\n    se acoge a la protección del Todopoderoso.",
+      "readableText": "El que habita a la sombra del Altísimo, se acoge a la protección del Todopoderoso."
+    },
+    {
+      "verse": "2",
+      "text": "Yo le digo al SEÑOR: «Tú eres mi refugio, mi fortaleza.\n    Dios mío, confío en ti».",
+      "readableText": "Yo le digo al SEÑOR: «Tú eres mi refugio, mi fortaleza. Dios mío, confío en ti»."
+    },
+    {
+      "verse": "3",
+      "text": "Dios te salvará de los peligros escondidos\n    y de las enfermedades peligrosas,",
+      "readableText": "Dios te salvará de los peligros escondidos y de las enfermedades peligrosas,"
+    },
+    {
+      "verse": "4",
+      "text": "pues te protegerá con sus alas\n    y bajo ellas hallarás refugio.\nSu fidelidad será tu escudo\n    y tu muralla protectora.",
+      "readableText": "pues te protegerá con sus alas y bajo ellas hallarás refugio. Su fidelidad será tu escudo y tu muralla protectora."
+    },
+    {
+      "verse": "5",
+      "text": "No te atemorizará el peligro de la noche,\n    ni las flechas que se lanzan en el día;",
+      "readableText": "No te atemorizará el peligro de la noche, ni las flechas que se lanzan en el día;"
+    },
+    {
+      "verse": "6",
+      "text": "tampoco la plaga que anda en la oscuridad,\n    ni el destructor que llega a plena luz del día.",
+      "readableText": "tampoco la plaga que anda en la oscuridad, ni el destructor que llega a plena luz del día."
+    },
+    {
+      "verse": "7",
+      "text": "Mil caerán muertos a tu izquierda\n    y 10 000 a tu derecha,\n    pero a ti no te sucederá nada.",
+      "readableText": "Mil caerán muertos a tu izquierda y 10 000 a tu derecha, pero a ti no te sucederá nada."
+    },
+    {
+      "verse": "8",
+      "text": "Sólo fíjate y verás\n    que los perversos recibirán su merecido.",
+      "readableText": "Sólo fíjate y verás que los perversos recibirán su merecido."
+    },
+    {
+      "verse": "9",
+      "text": "Porque tú confiaste en el SEÑOR\n    e hiciste que el Altísimo fuera tu protección.",
+      "readableText": "Porque tú confiaste en el SEÑOR e hiciste que el Altísimo fuera tu protección."
+    },
+    {
+      "verse": "10",
+      "text": "Nada malo te sucederá,\n    no ocurrirá ningún desastre en tu casa;",
+      "readableText": "Nada malo te sucederá, no ocurrirá ningún desastre en tu casa;"
+    },
+    {
+      "verse": "11",
+      "text": "porque él dará orden a sus ángeles\n    para que te protejan a dondequiera que vayas.",
+      "readableText": "porque él dará orden a sus ángeles para que te protejan a dondequiera que vayas."
+    },
+    {
+      "verse": "12",
+      "text": "Ellos te levantarán con sus manos\n    para que ninguna piedra te lastime el pie.",
+      "readableText": "Ellos te levantarán con sus manos para que ninguna piedra te lastime el pie."
+    },
+    {
+      "verse": "13",
+      "text": "Pisotearás leones y serpientes venenosas;\n    triunfarás sobre cachorros de león y sobre monstruos.",
+      "readableText": "Pisotearás leones y serpientes venenosas; triunfarás sobre cachorros de león y sobre monstruos."
+    },
+    {
+      "verse": "14",
+      "text": "«Yo lo salvaré, porque me ama;\n    lo protegeré, porque reconoce mi nombre.",
+      "readableText": "«Yo lo salvaré, porque me ama; lo protegeré, porque reconoce mi nombre."
+    },
+    {
+      "verse": "15",
+      "text": "Me llamará y yo le responderé;\n    estaré con él cuando se encuentre en dificultades;\n    lo rescataré y haré que le rindan honores.",
+      "readableText": "Me llamará y yo le responderé; estaré con él cuando se encuentre en dificultades; lo rescataré y haré que le rindan honores."
+    },
+    {
+      "verse": "16",
+      "text": "Haré que disfrute de una larga vida\n    y le mostraré mi salvación».  end of footnotes",
+      "readableText": "Haré que disfrute de una larga vida y le mostraré mi salvación». end of footnotes"
+    }
+  ]
+}

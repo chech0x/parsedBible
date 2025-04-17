@@ -1,0 +1,22 @@
+{
+  "book": "PSA",
+  "rev": "TLA",
+  "chapter": "133",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "133 ¡No hay nada más bello\nni más agradable\nque ver a los hermanos\nvivir juntos y en armonía!",
+      "readableText": "133 ¡No hay nada más bello ni más agradable que ver a los hermanos vivir juntos y en armonía!"
+    },
+    {
+      "verse": "2",
+      "text": "Es tan agradable ver esto\ncomo oler el buen perfume\nde los sacerdotes,\nperfume que corre\nde la cabeza a los pies.",
+      "readableText": "Es tan agradable ver esto como oler el buen perfume de los sacerdotes, perfume que corre de la cabeza a los pies."
+    },
+    {
+      "verse": "3",
+      "text": "Es tan agradable\ncomo la lluvia del norte\nque cae en el monte Hermón\ny corre a Jerusalén, en el sur.A quienes viven así,\nDios los bendice\ncon una larga vida.",
+      "readableText": "Es tan agradable como la lluvia del norte que cae en el monte Hermón y corre a Jerusalén, en el sur.A quienes viven así, Dios los bendice con una larga vida."
+    }
+  ]
+}

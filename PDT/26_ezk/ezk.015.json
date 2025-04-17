@@ -1,1 +1,47 @@
-{"book":"EZK","rev":"PDT","chapter":"15","verses":[{"verse":"1","text":"El SE&#209;OR me dijo:   \n","readableText":"El SEÑOR me dijo:\n\n"},{"verse":"2","text":"&#171;Hijo de hombre, &#191;cu&#225;l es la diferencia entre la le&#241;a de la vid y la madera de los dem&#225;s &#225;rboles?   \n","readableText":"«Hijo de hombre, ¿cuál es la diferencia entre la leña de la vid y la madera de\nlos demás árboles?\n\n"},{"verse":"3","text":"&#191;Acaso la usan los artesanos para sus trabajos? &#191;Es que siquiera la usa la gente para hacer una percha?   \n","readableText":"¿Acaso la usan los artesanos para sus trabajos? ¿Es que siquiera la usa la\ngente para hacer una percha?\n\n"},{"verse":"4","text":"La le&#241;a de la vid s&#243;lo sirve como combustible. El fuego la consume por los extremos hasta que la quema por dentro. &#191;Puede acaso usarla as&#237; el artesano?   \n","readableText":"La leña de la vid sólo sirve como combustible. El fuego la consume por los\nextremos hasta que la quema por dentro. ¿Puede acaso usarla así el artesano?\n\n"},{"verse":"5","text":"Si ni siquiera serv&#237;a cuando estaba entera, mucho menos despu&#233;s que el fuego la consume.   \n","readableText":"Si ni siquiera servía cuando estaba entera, mucho menos después que el fuego la\nconsume.\n\n"},{"verse":"6","text":"&#187;Por lo tanto, dice el Se&#241;or DIOS: As&#237; como he destinado para el fuego a la le&#241;a de la vid, m&#225;s que ning&#250;n otro tipo de madera; as&#237; he destinado para lo mismo a los habitantes de Jerusal&#233;n.   \n","readableText":"»Por lo tanto, dice el Señor DIOS: Así como he destinado para el fuego a la\nleña de la vid, más que ningún otro tipo de madera; así he destinado para lo\nmismo a los habitantes de Jerusalén.\n\n"},{"verse":"7","text":"Me enfrentar&#233; a ellos. Tal vez sobrevivan a un fuego, pero otro acabar&#225; con ellos. Y cuando me les enfrente, sabr&#225;n que yo soy el SE&#209;OR.   \n","readableText":"Me enfrentaré a ellos. Tal vez sobrevivan a un fuego, pero otro acabará con\nellos. Y cuando me les enfrente, sabrán que yo soy el SEÑOR.\n\n"},{"verse":"8","text":"Tengo planeado destruir este pa&#237;s por la rebeld&#237;a de sus habitantes. Esto lo afirma el Se&#241;or DIOS&#187;.\n","readableText":"Tengo planeado destruir este país por la rebeldía de sus habitantes. Esto lo\nafirma el Señor DIOS».\n\n"}]}
+{
+  "book": "EZK",
+  "rev": "PDT",
+  "chapter": "15",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "15 El SEÑOR me dijo:",
+      "readableText": "15 El SEÑOR me dijo:"
+    },
+    {
+      "verse": "2",
+      "text": "«Hijo de hombre,\n    ¿cuál es la diferencia entre la leña de la vid\n    y la madera de los demás árboles?",
+      "readableText": "«Hijo de hombre, ¿cuál es la diferencia entre la leña de la vid y la madera de los demás árboles?"
+    },
+    {
+      "verse": "3",
+      "text": "¿Acaso la usan los artesanos para sus trabajos?\n    ¿Es que siquiera la usa la gente para hacer una percha?",
+      "readableText": "¿Acaso la usan los artesanos para sus trabajos? ¿Es que siquiera la usa la gente para hacer una percha?"
+    },
+    {
+      "verse": "4",
+      "text": "La leña de la vid sólo sirve como combustible.\n    El fuego la consume por los extremos\nhasta que la quema por dentro.\n    ¿Puede acaso usarla así el artesano?",
+      "readableText": "La leña de la vid sólo sirve como combustible. El fuego la consume por los extremos hasta que la quema por dentro. ¿Puede acaso usarla así el artesano?"
+    },
+    {
+      "verse": "5",
+      "text": "Si ni siquiera servía cuando estaba entera,\n    mucho menos después que el fuego la consume.",
+      "readableText": "Si ni siquiera servía cuando estaba entera, mucho menos después que el fuego la consume."
+    },
+    {
+      "verse": "6",
+      "text": "»Por lo tanto, dice el Señor DIOS:\nAsí como he destinado para el fuego a la leña de la vid,\n    más que ningún otro tipo de madera;\nasí he destinado para lo mismo\n    a los habitantes de Jerusalén.",
+      "readableText": "»Por lo tanto, dice el Señor DIOS: Así como he destinado para el fuego a la leña de la vid, más que ningún otro tipo de madera; así he destinado para lo mismo a los habitantes de Jerusalén."
+    },
+    {
+      "verse": "7",
+      "text": "Me enfrentaré a ellos.\nTal vez sobrevivan a un fuego,\n    pero otro acabará con ellos.\nY cuando me les enfrente,\n    sabrán que yo soy el SEÑOR.",
+      "readableText": "Me enfrentaré a ellos. Tal vez sobrevivan a un fuego, pero otro acabará con ellos. Y cuando me les enfrente, sabrán que yo soy el SEÑOR."
+    },
+    {
+      "verse": "8",
+      "text": "Tengo planeado destruir este país\n    por la rebeldía de sus habitantes.\n    Esto lo afirma el Señor DIOS».  end of footnotes",
+      "readableText": "Tengo planeado destruir este país por la rebeldía de sus habitantes. Esto lo afirma el Señor DIOS». end of footnotes"
+    }
+  ]
+}

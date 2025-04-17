@@ -1,1 +1,37 @@
-{"book":"MAL","rev":"PDT","chapter":"4","verses":[{"verse":"1","text":"El SE&#209;OR Todopoderoso dice: &#171;Se acerca el d&#237;a, ardiente como un horno, en que todos los soberbios y los que hacen el mal ser&#225;n como la paja que quema el fuego. Se quemar&#225;n como arbustos y perder&#225;n hasta sus ra&#237;ces y ramas. \n","readableText":"El SEÑOR Todopoderoso dice: «Se acerca el día, ardiente como un horno, en que\ntodos los soberbios y los que hacen el mal serán como la paja que quema el\nfuego. Se quemarán como arbustos y perderán hasta sus raíces y ramas.\n\n"},{"verse":"2","text":"En cambio, para ustedes, los que respetan mi nombre, brillar&#225; el sol de la justicia que los sanar&#225; con su calor, y saldr&#225;n libremente saltando como terneros sanos. \n","readableText":"En cambio, para ustedes, los que respetan mi nombre, brillará el sol de la\njusticia que los sanará con su calor, y saldrán libremente saltando como\nterneros sanos.\n\n"},{"verse":"3","text":"Ustedes los que respetan mi nombre pisotear&#225;n a los perversos, que ser&#225;n polvo bajo sus pies. Todo esto suceder&#225; cuando llegue el d&#237;a que tengo se&#241;alado&#187;. Lo dice el SE&#209;OR Todopoderoso.   \n","readableText":"Ustedes los que respetan mi nombre pisotearán a los perversos, que serán polvo\nbajo sus pies. Todo esto sucederá cuando llegue el día que tengo señalado». Lo\ndice el SEÑOR Todopoderoso.\n\n"},{"verse":"4","text":"&#171;Recuerden la ley que le di a mi siervo Mois&#233;s en el monte Sina&#237;. Esa ley contiene las leyes y reglas para todo Israel.   \n","readableText":"«Recuerden la ley que le di a mi siervo Moisés en el monte Sinaí. Esa ley\ncontiene las leyes y reglas para todo Israel.\n\n"},{"verse":"5","text":"&#187;Miren, voy a enviar al profeta El&#237;as a ustedes antes de que llegue el d&#237;a del SE&#209;OR grande y terrible. \n","readableText":"»Miren, voy a enviar al profeta Elías a ustedes antes de que llegue el día del\nSEÑOR grande y terrible.\n\n"},{"verse":"6","text":"El&#237;as ayudar&#225; a reconciliar a los hijos con sus padres, no vaya a ser que venga yo y destruya la tierra por completo&#187;.\n","readableText":"Elías ayudará a reconciliar a los hijos con sus padres, no vaya a ser que venga\nyo y destruya la tierra por completo».\n\n"}]}
+{
+  "book": "MAL",
+  "rev": "PDT",
+  "chapter": "4",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "4 El SEÑOR Todopoderoso dice: «Se acerca el día, ardiente como un horno, en que todos los soberbios y los que hacen el mal serán como la paja que quema el fuego. Se quemarán como arbustos y perderán hasta sus raíces y ramas.",
+      "readableText": "4 El SEÑOR Todopoderoso dice: «Se acerca el día, ardiente como un horno, en que todos los soberbios y los que hacen el mal serán como la paja que quema el fuego. Se quemarán como arbustos y perderán hasta sus raíces y ramas."
+    },
+    {
+      "verse": "2",
+      "text": "En cambio, para ustedes, los que respetan mi nombre, brillará el sol de la justicia que los sanará con su calor, y saldrán libremente saltando como terneros sanos.",
+      "readableText": "En cambio, para ustedes, los que respetan mi nombre, brillará el sol de la justicia que los sanará con su calor, y saldrán libremente saltando como terneros sanos."
+    },
+    {
+      "verse": "3",
+      "text": "Ustedes los que respetan mi nombre pisotearán a los perversos, que serán polvo bajo sus pies. Todo esto sucederá cuando llegue el día que tengo señalado». Lo dice el SEÑOR Todopoderoso.",
+      "readableText": "Ustedes los que respetan mi nombre pisotearán a los perversos, que serán polvo bajo sus pies. Todo esto sucederá cuando llegue el día que tengo señalado». Lo dice el SEÑOR Todopoderoso."
+    },
+    {
+      "verse": "4",
+      "text": "«Recuerden la ley que le di a mi siervo Moisés en el monte Sinaí. Esa ley contiene las leyes y reglas para todo Israel.",
+      "readableText": "«Recuerden la ley que le di a mi siervo Moisés en el monte Sinaí. Esa ley contiene las leyes y reglas para todo Israel."
+    },
+    {
+      "verse": "5",
+      "text": "»Miren, voy a enviar al profeta Elías a ustedes antes de que llegue el día del SEÑOR grande y terrible.",
+      "readableText": "»Miren, voy a enviar al profeta Elías a ustedes antes de que llegue el día del SEÑOR grande y terrible."
+    },
+    {
+      "verse": "6",
+      "text": "Elías ayudará a reconciliar a los hijos con sus padres, no vaya a ser que venga yo y destruya la tierra por completo».",
+      "readableText": "Elías ayudará a reconciliar a los hijos con sus padres, no vaya a ser que venga yo y destruya la tierra por completo»."
+    }
+  ]
+}

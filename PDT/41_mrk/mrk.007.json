@@ -1,1 +1,192 @@
-{"book":"MRK","rev":"PDT","chapter":"7","verses":[{"verse":"1","text":"Los fariseos y algunos maestros de la ley que vinieron desde Jerusal&#233;n se reun&#237;an con Jes&#250;s. \n","readableText":"Los fariseos y algunos maestros de la ley que vinieron desde Jerusalén se\nreunían con Jesús.\n\n"},{"verse":"2","text":"Ellos vieron que algunos de sus seguidores com&#237;an con manos impuras, o sea, sin cumplir el ritual de lavarse las manos. \n","readableText":"Ellos vieron que algunos de sus seguidores comían con manos impuras, o sea, sin\ncumplir el ritual de lavarse las manos.\n\n"},{"verse":"3","text":"Los fariseos y todos los jud&#237;os no comen sin antes lavarse las manos, siguiendo el ritual tradicional de sus antepasados. \n","readableText":"Los fariseos y todos los judíos no comen sin antes lavarse las manos, siguiendo\nel ritual tradicional de sus antepasados.\n\n"},{"verse":"4","text":"Tampoco comen lo que compran en el mercado sin antes lavarlo. Tambi&#233;n cumplen muchos otros rituales como los que tienen que ver con lavar los vasos, las jarras y las ollas.   \n","readableText":"Tampoco comen lo que compran en el mercado sin antes lavarlo. También cumplen\nmuchos otros rituales como los que tienen que ver con lavar los vasos, las\njarras y las ollas.\n\n"},{"verse":"5","text":"Por eso los fariseos y los maestros de la ley le preguntaron a Jes&#250;s: &#8212;&#191;Por qu&#233; tus seguidores no cumplen las tradiciones de nuestros antepasados? Comen con las manos impuras.   \n","readableText":"Por eso los fariseos y los maestros de la ley le preguntaron a Jesús: —¿Por qué\ntus seguidores no cumplen las tradiciones de nuestros antepasados? Comen con\nlas manos impuras.\n\n"},{"verse":"6","text":"Jes&#250;s les respondi&#243;: &#8212;&#161;Hip&#243;critas! Isa&#237;as ten&#237;a raz&#243;n cuando profetiz&#243; sobre ustedes: &#8220;Este pueblo me honra de labios para afuera, pero su coraz&#243;n est&#225; lejos de m&#237;.   \n","readableText":"Jesús les respondió: —¡Hipócritas! Isaías tenía razón cuando profetizó sobre\nustedes: “Este pueblo me honra de labios para afuera, pero su corazón está\nlejos de mí.\n\n"},{"verse":"7","text":"  \n","readableText":"\n\n"}]}
+{
+  "book": "MRK",
+  "rev": "PDT",
+  "chapter": "7",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "7 Los fariseos y algunos maestros de la ley que vinieron desde Jerusalén se reunían con Jesús.",
+      "readableText": "7 Los fariseos y algunos maestros de la ley que vinieron desde Jerusalén se reunían con Jesús."
+    },
+    {
+      "verse": "2",
+      "text": "Ellos vieron que algunos de sus seguidores comían con manos impuras, o sea, sin cumplir el ritual de lavarse las manos.",
+      "readableText": "Ellos vieron que algunos de sus seguidores comían con manos impuras, o sea, sin cumplir el ritual de lavarse las manos."
+    },
+    {
+      "verse": "3",
+      "text": "Los fariseos y todos los judíos no comen sin antes lavarse las manos, siguiendo el ritual tradicional de sus antepasados.",
+      "readableText": "Los fariseos y todos los judíos no comen sin antes lavarse las manos, siguiendo el ritual tradicional de sus antepasados."
+    },
+    {
+      "verse": "4",
+      "text": "Tampoco comen lo que compran en el mercado sin antes lavarlo. También cumplen muchos otros rituales como los que tienen que ver con lavar los vasos, las jarras y las ollas.",
+      "readableText": "Tampoco comen lo que compran en el mercado sin antes lavarlo. También cumplen muchos otros rituales como los que tienen que ver con lavar los vasos, las jarras y las ollas."
+    },
+    {
+      "verse": "5",
+      "text": "Por eso los fariseos y los maestros de la ley le preguntaron a Jesús:—¿Por qué tus seguidores no cumplen las tradiciones de nuestros antepasados? Comen con las manos impuras.",
+      "readableText": "Por eso los fariseos y los maestros de la ley le preguntaron a Jesús:—¿Por qué tus seguidores no cumplen las tradiciones de nuestros antepasados? Comen con las manos impuras."
+    },
+    {
+      "verse": "6",
+      "text": "Jesús les respondió:—¡Hipócritas! Isaías tenía razón cuando profetizó sobre ustedes:“Este pueblo me honra de labios para afuera,\n    pero su corazón está lejos de mí.",
+      "readableText": "Jesús les respondió:—¡Hipócritas! Isaías tenía razón cuando profetizó sobre ustedes:“Este pueblo me honra de labios para afuera, pero su corazón está lejos de mí."
+    },
+    {
+      "verse": "7",
+      "text": "De nada les sirve que me adoren\n    porque todo lo que enseñan son normas de hombres”.",
+      "readableText": "De nada les sirve que me adoren porque todo lo que enseñan son normas de hombres”."
+    },
+    {
+      "verse": "8",
+      "text": "Ustedes han olvidado los mandamientos de Dios. Sólo cumplen tradiciones humanas.",
+      "readableText": "Ustedes han olvidado los mandamientos de Dios. Sólo cumplen tradiciones humanas."
+    },
+    {
+      "verse": "9",
+      "text": "También les dijo:—¡Vaya manera la de ustedes de convencer a la gente para que siga la tradición de ustedes en vez de seguir el mandamiento de Dios!",
+      "readableText": "También les dijo:—¡Vaya manera la de ustedes de convencer a la gente para que siga la tradición de ustedes en vez de seguir el mandamiento de Dios!"
+    },
+    {
+      "verse": "10",
+      "text": "Moisés dijo: “Respeta a tu papá y a tu mamá” y “El que insulte al papá o a la mamá debe morir”.",
+      "readableText": "Moisés dijo: “Respeta a tu papá y a tu mamá” y “El que insulte al papá o a la mamá debe morir”."
+    },
+    {
+      "verse": "11",
+      "text": "Pero ustedes enseñan que alguien puede decirle al papá o a la mamá: “Tengo algo que te podría ayudar, pero lo voy a entregar como Corbán” (que significa «mi ofrenda a Dios»).",
+      "readableText": "Pero ustedes enseñan que alguien puede decirle al papá o a la mamá: “Tengo algo que te podría ayudar, pero lo voy a entregar como Corbán” (que significa «mi ofrenda a Dios»)."
+    },
+    {
+      "verse": "12",
+      "text": "Eso significa que ustedes permiten que alguien deje de ayudar al papá o a la mamá.",
+      "readableText": "Eso significa que ustedes permiten que alguien deje de ayudar al papá o a la mamá."
+    },
+    {
+      "verse": "13",
+      "text": "Así con la tradición que se trasmiten unos a otros, ustedes anulan la palabra de Dios. Y hacen muchas otras cosas como estas.",
+      "readableText": "Así con la tradición que se trasmiten unos a otros, ustedes anulan la palabra de Dios. Y hacen muchas otras cosas como estas."
+    },
+    {
+      "verse": "14",
+      "text": "Jesús llamó a la multitud otra vez y le dijo:—Escúchenme todos y entiendan.",
+      "readableText": "Jesús llamó a la multitud otra vez y le dijo:—Escúchenme todos y entiendan."
+    },
+    {
+      "verse": "15",
+      "text": "Ningún alimento que entre en el cuerpo lo vuelve impuro a uno. Es lo que sale del interior lo que lo vuelve impuro a uno.",
+      "readableText": "Ningún alimento que entre en el cuerpo lo vuelve impuro a uno. Es lo que sale del interior lo que lo vuelve impuro a uno."
+    },
+    {
+      "verse": "16",
+      "text": "",
+      "readableText": ""
+    },
+    {
+      "verse": "17",
+      "text": "Cuando dejó la multitud y entró a la casa, sus seguidores le preguntaron el significado de la historia.",
+      "readableText": "Cuando dejó la multitud y entró a la casa, sus seguidores le preguntaron el significado de la historia."
+    },
+    {
+      "verse": "18",
+      "text": "Jesús les dijo:—¿Es que ustedes tampoco entienden? ¿No se dan cuenta de que lo que alguien come no lo puede volver impuro?",
+      "readableText": "Jesús les dijo:—¿Es que ustedes tampoco entienden? ¿No se dan cuenta de que lo que alguien come no lo puede volver impuro?"
+    },
+    {
+      "verse": "19",
+      "text": "Porque lo que coma una persona no afecta su manera de pensar, sino que va a su estómago y luego sale a la letrina.Con estas palabras Jesús daba a entender que ningún alimento está prohibido.",
+      "readableText": "Porque lo que coma una persona no afecta su manera de pensar, sino que va a su estómago y luego sale a la letrina.Con estas palabras Jesús daba a entender que ningún alimento está prohibido."
+    },
+    {
+      "verse": "20",
+      "text": "Después les dijo:—Lo que sale del interior de la gente es lo que vuelve impuro a alguien.",
+      "readableText": "Después les dijo:—Lo que sale del interior de la gente es lo que vuelve impuro a alguien."
+    },
+    {
+      "verse": "21",
+      "text": "Porque del interior de la gente, o sea de la mente, salen los malos pensamientos, la inmoralidad sexual, el robo, el asesinato,",
+      "readableText": "Porque del interior de la gente, o sea de la mente, salen los malos pensamientos, la inmoralidad sexual, el robo, el asesinato,"
+    },
+    {
+      "verse": "22",
+      "text": "el adulterio, la codicia, la maldad, el engaño, el desenfreno, la envidia, los insultos, la arrogancia y la necedad.",
+      "readableText": "el adulterio, la codicia, la maldad, el engaño, el desenfreno, la envidia, los insultos, la arrogancia y la necedad."
+    },
+    {
+      "verse": "23",
+      "text": "Toda esa maldad proviene del interior y es lo que hace impura a la gente. (Mt 15:21-28)",
+      "readableText": "Toda esa maldad proviene del interior y es lo que hace impura a la gente. (Mt 15:21-28)"
+    },
+    {
+      "verse": "24",
+      "text": "Jesús salió de allí y se fue a la región de Tiro. Entró a una casa y no quería que nadie supiera que estaba allí, pero le fue imposible esconderse.",
+      "readableText": "Jesús salió de allí y se fue a la región de Tiro. Entró a una casa y no quería que nadie supiera que estaba allí, pero le fue imposible esconderse."
+    },
+    {
+      "verse": "25",
+      "text": "Pronto una mujer que tenía una hija poseída por un espíritu maligno se enteró de que Jesús estaba en el pueblo. La mujer llegó hasta él y se postró a sus pies.",
+      "readableText": "Pronto una mujer que tenía una hija poseída por un espíritu maligno se enteró de que Jesús estaba en el pueblo. La mujer llegó hasta él y se postró a sus pies."
+    },
+    {
+      "verse": "26",
+      "text": "Ella era griega, nacida en Fenicia, Siria. Le pidió que expulsara de su hija el demonio.",
+      "readableText": "Ella era griega, nacida en Fenicia, Siria. Le pidió que expulsara de su hija el demonio."
+    },
+    {
+      "verse": "27",
+      "text": "Jesús le dijo:—Primero hay que dejar satisfechos a los hijos, porque no está bien darles el pan de los hijos a los perros.",
+      "readableText": "Jesús le dijo:—Primero hay que dejar satisfechos a los hijos, porque no está bien darles el pan de los hijos a los perros."
+    },
+    {
+      "verse": "28",
+      "text": "Pero ella le respondió:—Es cierto, Señor. Pero hasta los perros que están debajo de la mesa pueden comer las migajas que dejan caer los hijos.",
+      "readableText": "Pero ella le respondió:—Es cierto, Señor. Pero hasta los perros que están debajo de la mesa pueden comer las migajas que dejan caer los hijos."
+    },
+    {
+      "verse": "29",
+      "text": "Entonces Jesús le dijo:—¡Qué buena respuesta! Vete tranquila a tu casa, que tu hija ya no tiene ningún demonio.",
+      "readableText": "Entonces Jesús le dijo:—¡Qué buena respuesta! Vete tranquila a tu casa, que tu hija ya no tiene ningún demonio."
+    },
+    {
+      "verse": "30",
+      "text": "La mujer fue a su casa y encontró a su hija acostada en la cama; y que el demonio había salido de ella.",
+      "readableText": "La mujer fue a su casa y encontró a su hija acostada en la cama; y que el demonio había salido de ella."
+    },
+    {
+      "verse": "31",
+      "text": "Después Jesús regresó de la región de Tiro y, pasando por Sidón, llegó al lago de Galilea, atravesando la región de Decápolis.",
+      "readableText": "Después Jesús regresó de la región de Tiro y, pasando por Sidón, llegó al lago de Galilea, atravesando la región de Decápolis."
+    },
+    {
+      "verse": "32",
+      "text": "Allí le llevaron a Jesús a un hombre que era sordo y casi no podía hablar. Le rogaron que lo tocara para sanarlo.",
+      "readableText": "Allí le llevaron a Jesús a un hombre que era sordo y casi no podía hablar. Le rogaron que lo tocara para sanarlo."
+    },
+    {
+      "verse": "33",
+      "text": "Jesús se alejó con el hombre para apartarse de la multitud. Le metió los dedos en los oídos, escupió y con saliva le tocó la lengua.",
+      "readableText": "Jesús se alejó con el hombre para apartarse de la multitud. Le metió los dedos en los oídos, escupió y con saliva le tocó la lengua."
+    },
+    {
+      "verse": "34",
+      "text": "Después Jesús miró hacia el cielo, respiró profundo y dijo: «¡Efatá!» (que significa «¡Ábrete!»).",
+      "readableText": "Después Jesús miró hacia el cielo, respiró profundo y dijo: «¡Efatá!» (que significa «¡Ábrete!»)."
+    },
+    {
+      "verse": "35",
+      "text": "Enseguida el hombre pudo oír, se arregló su defecto de la lengua y comenzó a hablar normalmente.",
+      "readableText": "Enseguida el hombre pudo oír, se arregló su defecto de la lengua y comenzó a hablar normalmente."
+    },
+    {
+      "verse": "36",
+      "text": "Jesús les ordenó a los que vieron el milagro que no contaran lo que había pasado. Sin embargo, entre más se lo ordenaba, más iban a contarlo.",
+      "readableText": "Jesús les ordenó a los que vieron el milagro que no contaran lo que había pasado. Sin embargo, entre más se lo ordenaba, más iban a contarlo."
+    },
+    {
+      "verse": "37",
+      "text": "La gente quedó completamente atónita y decían: «Hace todo muy bien. ¡Hasta puede hacer que los sordos oigan y que los mudos hablen!»  end of footnotes\n end of crossrefs",
+      "readableText": "La gente quedó completamente atónita y decían: «Hace todo muy bien. ¡Hasta puede hacer que los sordos oigan y que los mudos hablen!» end of footnotes end of crossrefs"
+    }
+  ]
+}

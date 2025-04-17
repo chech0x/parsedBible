@@ -1,1 +1,22 @@
-{"book":"PSA","rev":"PDT","chapter":"131","verses":[{"verse":"1","text":"SE&#209;OR, yo no soy orgulloso ni me las doy de importante; no pretendo hacer maravillas ni me preocupo por hacer lo que me es imposible realizar.   \n","readableText":"SEÑOR, yo no soy orgulloso ni me las doy de importante; no pretendo hacer\nmaravillas ni me preocupo por hacer lo que me es imposible realizar.\n\n"},{"verse":"2","text":"Al contrario, estoy tranquilo y tan calmado como un ni&#241;o reci&#233;n amamantado que est&#225; en brazos de su mam&#225;. Estoy tan feliz como un ni&#241;o reci&#233;n amamantado.   \n","readableText":"Al contrario, estoy tranquilo y tan calmado como un niño recién amamantado que\nestá en brazos de su mamá. Estoy tan feliz como un niño recién amamantado.\n\n"},{"verse":"3","text":"Israel, conf&#237;a en el SE&#209;OR desde ahora y para siempre.\n","readableText":"Israel, confía en el SEÑOR desde ahora y para siempre.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "131",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "SEÑOR, yo no soy orgulloso\n    ni me las doy de importante;\nno pretendo hacer maravillas\n    ni me preocupo por hacer lo que me es imposible realizar.",
+      "readableText": "SEÑOR, yo no soy orgulloso ni me las doy de importante; no pretendo hacer maravillas ni me preocupo por hacer lo que me es imposible realizar."
+    },
+    {
+      "verse": "2",
+      "text": "Al contrario, estoy tranquilo y tan calmado\n    como un niño recién amamantado\n    que está en brazos de su mamá.\nEstoy tan feliz\n    como un niño recién amamantado.",
+      "readableText": "Al contrario, estoy tranquilo y tan calmado como un niño recién amamantado que está en brazos de su mamá. Estoy tan feliz como un niño recién amamantado."
+    },
+    {
+      "verse": "3",
+      "text": "Israel, confía en el SEÑOR\n    desde ahora y para siempre.",
+      "readableText": "Israel, confía en el SEÑOR desde ahora y para siempre."
+    }
+  ]
+}

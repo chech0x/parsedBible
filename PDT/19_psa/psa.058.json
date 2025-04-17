@@ -1,1 +1,62 @@
-{"book":"PSA","rev":"PDT","chapter":"58","verses":[{"verse":"1","text":"Ustedes los poderosos  no son justos en sus decisiones. No est&#225;n gobernando a la gente como debe ser,   \n","readableText":"Ustedes los poderosos no son justos en sus decisiones. No están gobernando a la\ngente como debe ser,\n\n"},{"verse":"2","text":"sino que tienen la mente llena de maldad. Dan rienda suelta a la violencia en el pa&#237;s.   \n","readableText":"sino que tienen la mente llena de maldad. Dan rienda suelta a la violencia en\nel país.\n\n"},{"verse":"3","text":"Los perversos se corrompen desde que nacen; los mentirosos se descarr&#237;an desde el vientre materno.   \n","readableText":"Los perversos se corrompen desde que nacen; los mentirosos se descarrían desde\nel vientre materno.\n\n"},{"verse":"4","text":"Su veneno es como el de las serpientes, como el de una cobra sorda que cierra su o&#237;do,   \n","readableText":"Su veneno es como el de las serpientes, como el de una cobra sorda que cierra\nsu oído,\n\n"},{"verse":"5","text":"para no o&#237;r la m&#250;sica de los encantadores, ni siquiera del encantador m&#225;s h&#225;bil.   \n","readableText":"para no oír la música de los encantadores, ni siquiera del encantador más\nhábil.\n\n"},{"verse":"6","text":"R&#243;mpeles los dientes, Dios m&#237;o, arr&#225;ncales a esos leones sus colmillos, SE&#209;OR.   \n","readableText":"Rómpeles los dientes, Dios mío, arráncales a esos leones sus colmillos, SEÑOR.\n\n\n"},{"verse":"7","text":"Que su fuerza desaparezca como el agua entre los dedos; que sean aplastados como hierba que se pisa.   \n","readableText":"Que su fuerza desaparezca como el agua entre los dedos; que sean aplastados\ncomo hierba que se pisa.\n\n"},{"verse":"8","text":"Que desaparezcan como la babosa que se deshace; que sean como un beb&#233; que nace muerto y nunca ve la luz del sol.   \n","readableText":"Que desaparezcan como la babosa que se deshace; que sean como un bebé que nace\nmuerto y nunca ve la luz del sol.\n\n"},{"verse":"9","text":"Que antes de darse cuenta, ardan como espinos que se queman para calentar la olla. Que sean arrancados con enojo, como hierba mala entre la hierba buena.   \n","readableText":"Que antes de darse cuenta, ardan como espinos que se queman para calentar la\nolla. Que sean arrancados con enojo, como hierba mala entre la hierba buena.\n\n"},{"verse":"10","text":"Y se alegre el justo al verse vengado, como el soldado que pisa la sangre del enemigo.   \n","readableText":"Y se alegre el justo al verse vengado, como el soldado que pisa la sangre del\nenemigo.\n\n"},{"verse":"11","text":"La gente dir&#225;: &#171;De veras los justos son recompensados; es verdad que hay un Dios que gobierna el mundo&#187;.\n","readableText":"La gente dirá: «De veras los justos son recompensados; es verdad que hay un\nDios que gobierna el mundo».\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "58",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Ustedes los poderosos no son justos en sus decisiones.\n    No están gobernando a la gente como debe ser,",
+      "readableText": "Ustedes los poderosos no son justos en sus decisiones. No están gobernando a la gente como debe ser,"
+    },
+    {
+      "verse": "2",
+      "text": "sino que tienen la mente llena de maldad.\n    Dan rienda suelta a la violencia en el país.",
+      "readableText": "sino que tienen la mente llena de maldad. Dan rienda suelta a la violencia en el país."
+    },
+    {
+      "verse": "3",
+      "text": "Los perversos se corrompen desde que nacen;\n    los mentirosos se descarrían desde el vientre materno.",
+      "readableText": "Los perversos se corrompen desde que nacen; los mentirosos se descarrían desde el vientre materno."
+    },
+    {
+      "verse": "4",
+      "text": "Su veneno es como el de las serpientes,\n    como el de una cobra sorda que cierra su oído,",
+      "readableText": "Su veneno es como el de las serpientes, como el de una cobra sorda que cierra su oído,"
+    },
+    {
+      "verse": "5",
+      "text": "para no oír la música de los encantadores,\n    ni siquiera del encantador más hábil.",
+      "readableText": "para no oír la música de los encantadores, ni siquiera del encantador más hábil."
+    },
+    {
+      "verse": "6",
+      "text": "Rómpeles los dientes, Dios mío,\n    arráncales a esos leones sus colmillos, SEÑOR.",
+      "readableText": "Rómpeles los dientes, Dios mío, arráncales a esos leones sus colmillos, SEÑOR."
+    },
+    {
+      "verse": "7",
+      "text": "Que su fuerza desaparezca como el agua entre los dedos;\n    que sean aplastados como hierba que se pisa.",
+      "readableText": "Que su fuerza desaparezca como el agua entre los dedos; que sean aplastados como hierba que se pisa."
+    },
+    {
+      "verse": "8",
+      "text": "Que desaparezcan como la babosa que se deshace;\n    que sean como un bebé que nace muerto y nunca ve la luz del sol.",
+      "readableText": "Que desaparezcan como la babosa que se deshace; que sean como un bebé que nace muerto y nunca ve la luz del sol."
+    },
+    {
+      "verse": "9",
+      "text": "Que antes de darse cuenta,\n    ardan como espinos que se queman para calentar la olla.\nQue sean arrancados con enojo,\n    como hierba mala entre la hierba buena.",
+      "readableText": "Que antes de darse cuenta, ardan como espinos que se queman para calentar la olla. Que sean arrancados con enojo, como hierba mala entre la hierba buena."
+    },
+    {
+      "verse": "10",
+      "text": "Y se alegre el justo al verse vengado,\n    como el soldado que pisa la sangre del enemigo.",
+      "readableText": "Y se alegre el justo al verse vengado, como el soldado que pisa la sangre del enemigo."
+    },
+    {
+      "verse": "11",
+      "text": "La gente dirá: «De veras los justos son recompensados;\n    es verdad que hay un Dios que gobierna el mundo».  end of footnotes",
+      "readableText": "La gente dirá: «De veras los justos son recompensados; es verdad que hay un Dios que gobierna el mundo». end of footnotes"
+    }
+  ]
+}

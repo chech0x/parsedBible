@@ -1,0 +1,32 @@
+{
+  "book": "PSA",
+  "rev": "TLA",
+  "chapter": "15",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "15 Dime, Dios mío,\n¿quién puede vivir en tu santuario?,\n¿quién puede vivir en tu monte santo?",
+      "readableText": "15 Dime, Dios mío, ¿quién puede vivir en tu santuario?, ¿quién puede vivir en tu monte santo?"
+    },
+    {
+      "verse": "2",
+      "text": "Sólo quien hace lo bueno\ny practica la justicia;\nsólo quien piensa en la verdad\ny habla con la verdad;",
+      "readableText": "Sólo quien hace lo bueno y practica la justicia; sólo quien piensa en la verdad y habla con la verdad;"
+    },
+    {
+      "verse": "3",
+      "text": "sólo quien no habla mal de nadie\nni busca el mal de nadie\nni ofende a nadie;",
+      "readableText": "sólo quien no habla mal de nadie ni busca el mal de nadie ni ofende a nadie;"
+    },
+    {
+      "verse": "4",
+      "text": "sólo quien desprecia\nal que merece desprecio,\npero respeta a quien honra a Dios;\nsólo quien cumple lo que promete\naunque salga perdiendo;",
+      "readableText": "sólo quien desprecia al que merece desprecio, pero respeta a quien honra a Dios; sólo quien cumple lo que promete aunque salga perdiendo;"
+    },
+    {
+      "verse": "5",
+      "text": "sólo quien presta dinero\nsin cobrar intereses,\ny jamás acepta dinero\npara perjudicar al inocente.Quien así se comporta,\nvivirá siempre seguro.",
+      "readableText": "sólo quien presta dinero sin cobrar intereses, y jamás acepta dinero para perjudicar al inocente.Quien así se comporta, vivirá siempre seguro."
+    }
+  ]
+}

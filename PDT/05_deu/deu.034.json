@@ -1,1 +1,67 @@
-{"book":"DEU","rev":"PDT","chapter":"34","verses":[{"verse":"1","text":"Mois&#233;s subi&#243; al monte Nebo desde las llanuras de Moab, a la cumbre del monte Pisg&#225;, que est&#225; diagonal a Jeric&#243;. El SE&#209;OR le mostr&#243; toda la tierra: desde Galaad hasta Dan; \n","readableText":"Moisés subió al monte Nebo desde las llanuras de Moab, a la cumbre del monte\nPisgá, que está diagonal a Jericó. El SEÑOR le mostró toda la tierra: desde\nGalaad hasta Dan;\n\n"},{"verse":"2","text":"todo Neftal&#237;; la tierra de Efra&#237;n y Manas&#233;s; toda la tierra de Jud&#225; hasta el mar occidental; \n","readableText":"todo Neftalí; la tierra de Efraín y Manasés; toda la tierra de Judá hasta el\nmar occidental;\n\n"},{"verse":"3","text":"el N&#233;guev y la llanura que es el valle de Jeric&#243;, la ciudad de las palmeras, hasta Zoar. \n","readableText":"el Néguev y la llanura que es el valle de Jericó, la ciudad de las palmeras,\nhasta Zoar.\n\n"},{"verse":"4","text":"Luego el SE&#209;OR le dijo a Mois&#233;s: &#171;Esta es la tierra que les promet&#237; a Abraham, a Isaac y a Jacob. Yo dije: &#8220;Les dar&#233; esta tierra a tus descendientes&#8221;. Te he dejado verla con tus ojos, pero no cruzar&#225;s hasta all&#225;&#187;.   \n","readableText":"Luego el SEÑOR le dijo a Moisés: «Esta es la tierra que les prometí a Abraham,\na Isaac y a Jacob. Yo dije: “Les daré esta tierra a tus descendientes”. Te he\ndejado verla con tus ojos, pero no cruzarás hasta allá».\n\n"},{"verse":"5","text":"Luego Mois&#233;s, el siervo del SE&#209;OR, muri&#243; en la tierra de Moab como el SE&#209;OR lo hab&#237;a dicho. \n","readableText":"Luego Moisés, el siervo del SEÑOR, murió en la tierra de Moab como el SEÑOR lo\nhabía dicho.\n\n"},{"verse":"6","text":"Lo enterr&#243; en el valle en la tierra de Moab cerca de Bet Peor, pero aun hoy en d&#237;a nadie sabe exactamente d&#243;nde est&#225; la tumba de Mois&#233;s. \n","readableText":"Lo enterró en el valle en la tierra de Moab cerca de Bet Peor, pero aun hoy en\ndía nadie sabe exactamente dónde está la tumba de Moisés.\n\n"},{"verse":"7","text":"Mois&#233;s ten&#237;a 120 a&#241;os de edad cuando muri&#243;. Estaba tan fuerte como siempre y pod&#237;a ver con claridad. \n","readableText":"Moisés tenía 120 años de edad cuando murió. Estaba tan fuerte como siempre y\npodía ver con claridad.\n\n"},{"verse":"8","text":"Los israelitas lloraron a Mois&#233;s durante 30 d&#237;as en las llanuras de Moab, as&#237; cumplieron el tiempo de llanto y luto por Mois&#233;s.   \n","readableText":"Los israelitas lloraron a Moisés durante 30 días en las llanuras de Moab, así\ncumplieron el tiempo de llanto y luto por Moisés.\n\n"},{"verse":"9","text":"Entonces Josu&#233; hijo de Nun se llen&#243; de esp&#237;ritu de sabidur&#237;a porque Mois&#233;s hab&#237;a puesto las manos sobre &#233;l. Los israelitas lo escucharon a &#233;l e hicieron lo que el SE&#209;OR le hab&#237;a mandado a Mois&#233;s.   \n","readableText":"Entonces Josué hijo de Nun se llenó de espíritu de sabiduría porque Moisés\nhabía puesto las manos sobre él. Los israelitas lo escucharon a él e hicieron\nlo que el SEÑOR le había mandado a Moisés.\n\n"},{"verse":"10","text":"Pero nunca hubo otro profeta en Israel como Mois&#233;s, con quien el SE&#209;OR tratara cara a cara, \n","readableText":"Pero nunca hubo otro profeta en Israel como Moisés, con quien el SEÑOR tratara\ncara a cara,\n\n"},{"verse":"11","text":"ni que hiciera todas las se&#241;ales y los milagros que el SE&#209;OR le mand&#243; hacer a Mois&#233;s en Egipto contra el fara&#243;n, contra todos sus funcionarios y contra todo su pa&#237;s. \n","readableText":"ni que hiciera todas las señales y los milagros que el SEÑOR le mandó hacer a\nMoisés en Egipto contra el faraón, contra todos sus funcionarios y contra todo\nsu país.\n\n"},{"verse":"12","text":"No hubo nadie con tanto poder como el que Mois&#233;s demostr&#243; en todos los hechos grandiosos e incre&#237;bles que hizo a la vista de todo Israel.\n","readableText":"No hubo nadie con tanto poder como el que Moisés demostró en todos los hechos\ngrandiosos e increíbles que hizo a la vista de todo Israel.\n\n"}]}
+{
+  "book": "DEU",
+  "rev": "PDT",
+  "chapter": "34",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "34 Moisés subió al monte Nebo desde las llanuras de Moab, a la cumbre del monte Pisgá, que está diagonal a Jericó. El SEÑOR le mostró toda la tierra: desde Galaad hasta Dan;",
+      "readableText": "34 Moisés subió al monte Nebo desde las llanuras de Moab, a la cumbre del monte Pisgá, que está diagonal a Jericó. El SEÑOR le mostró toda la tierra: desde Galaad hasta Dan;"
+    },
+    {
+      "verse": "2",
+      "text": "todo Neftalí; la tierra de Efraín y Manasés; toda la tierra de Judá hasta el mar occidental;",
+      "readableText": "todo Neftalí; la tierra de Efraín y Manasés; toda la tierra de Judá hasta el mar occidental;"
+    },
+    {
+      "verse": "3",
+      "text": "el Néguev y la llanura que es el valle de Jericó, la ciudad de las palmeras, hasta Zoar.",
+      "readableText": "el Néguev y la llanura que es el valle de Jericó, la ciudad de las palmeras, hasta Zoar."
+    },
+    {
+      "verse": "4",
+      "text": "Luego el SEÑOR le dijo a Moisés: «Esta es la tierra que les prometí a Abraham, a Isaac y a Jacob. Yo dije: “Les daré esta tierra a tus descendientes”. Te he dejado verla con tus ojos, pero no cruzarás hasta allá».",
+      "readableText": "Luego el SEÑOR le dijo a Moisés: «Esta es la tierra que les prometí a Abraham, a Isaac y a Jacob. Yo dije: “Les daré esta tierra a tus descendientes”. Te he dejado verla con tus ojos, pero no cruzarás hasta allá»."
+    },
+    {
+      "verse": "5",
+      "text": "Luego Moisés, el siervo del SEÑOR, murió en la tierra de Moab como el SEÑOR lo había dicho.",
+      "readableText": "Luego Moisés, el siervo del SEÑOR, murió en la tierra de Moab como el SEÑOR lo había dicho."
+    },
+    {
+      "verse": "6",
+      "text": "Lo enterró en el valle en la tierra de Moab cerca de Bet Peor, pero aun hoy en día nadie sabe exactamente dónde está la tumba de Moisés.",
+      "readableText": "Lo enterró en el valle en la tierra de Moab cerca de Bet Peor, pero aun hoy en día nadie sabe exactamente dónde está la tumba de Moisés."
+    },
+    {
+      "verse": "7",
+      "text": "Moisés tenía 120 años de edad cuando murió. Estaba tan fuerte como siempre y podía ver con claridad.",
+      "readableText": "Moisés tenía 120 años de edad cuando murió. Estaba tan fuerte como siempre y podía ver con claridad."
+    },
+    {
+      "verse": "8",
+      "text": "Los israelitas lloraron a Moisés durante 30 días en las llanuras de Moab, así cumplieron el tiempo de llanto y luto por Moisés.",
+      "readableText": "Los israelitas lloraron a Moisés durante 30 días en las llanuras de Moab, así cumplieron el tiempo de llanto y luto por Moisés."
+    },
+    {
+      "verse": "9",
+      "text": "Entonces Josué hijo de Nun se llenó de espíritu de sabiduría porque Moisés había puesto las manos sobre él. Los israelitas lo escucharon a él e hicieron lo que el SEÑOR le había mandado a Moisés.",
+      "readableText": "Entonces Josué hijo de Nun se llenó de espíritu de sabiduría porque Moisés había puesto las manos sobre él. Los israelitas lo escucharon a él e hicieron lo que el SEÑOR le había mandado a Moisés."
+    },
+    {
+      "verse": "10",
+      "text": "Pero nunca hubo otro profeta en Israel como Moisés, con quien el SEÑOR tratara cara a cara,",
+      "readableText": "Pero nunca hubo otro profeta en Israel como Moisés, con quien el SEÑOR tratara cara a cara,"
+    },
+    {
+      "verse": "11",
+      "text": "ni que hiciera todas las señales y los milagros que el SEÑOR le mandó hacer a Moisés en Egipto contra el faraón, contra todos sus funcionarios y contra todo su país.",
+      "readableText": "ni que hiciera todas las señales y los milagros que el SEÑOR le mandó hacer a Moisés en Egipto contra el faraón, contra todos sus funcionarios y contra todo su país."
+    },
+    {
+      "verse": "12",
+      "text": "No hubo nadie con tanto poder como el que Moisés demostró en todos los hechos grandiosos e increíbles que hizo a la vista de todo Israel.",
+      "readableText": "No hubo nadie con tanto poder como el que Moisés demostró en todos los hechos grandiosos e increíbles que hizo a la vista de todo Israel."
+    }
+  ]
+}

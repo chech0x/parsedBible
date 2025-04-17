@@ -1,1 +1,32 @@
-{"book":"PSA","rev":"PDT","chapter":"127","verses":[{"verse":"1","text":"Si el SE&#209;OR no construye la casa, los constructores pierden su tiempo. Si el SE&#209;OR no vigila la ciudad, los guardias pierden su tiempo.   \n","readableText":"Si el SEÑOR no construye la casa, los constructores pierden su tiempo. Si el\nSEÑOR no vigila la ciudad, los guardias pierden su tiempo.\n\n"},{"verse":"2","text":"Pierden el tiempo ustedes, que se levantan temprano y se acuestan tarde para comer un pan conseguido con sufrimiento porque Dios da a quien ama, aun mientras duerme.   \n","readableText":"Pierden el tiempo ustedes, que se levantan temprano y se acuestan tarde para\ncomer un pan conseguido con sufrimiento porque Dios da a quien ama, aun\nmientras duerme.\n\n"},{"verse":"3","text":"Los hijos son la herencia que nos da el SE&#209;OR; los frutos del vientre son la recompensa que viene de Dios.   \n","readableText":"Los hijos son la herencia que nos da el SEÑOR; los frutos del vientre son la\nrecompensa que viene de Dios.\n\n"},{"verse":"4","text":"Los hijos de un hombre joven son como flechas en las manos de un guerrero.   \n","readableText":"Los hijos de un hombre joven son como flechas en las manos de un guerrero.\n\n"},{"verse":"5","text":"Qu&#233; afortunado es el hombre que llena su aljaba con flechas como esas. No ser&#225; avergonzado por sus enemigos cuando trate con ellos en los tribunales.\n","readableText":"Qué afortunado es el hombre que llena su aljaba con flechas como esas. No será\navergonzado por sus enemigos cuando trate con ellos en los tribunales.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "127",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Si el SEÑOR no construye la casa,\n    los constructores pierden su tiempo.\nSi el SEÑOR no vigila la ciudad,\n    los guardias pierden su tiempo.",
+      "readableText": "Si el SEÑOR no construye la casa, los constructores pierden su tiempo. Si el SEÑOR no vigila la ciudad, los guardias pierden su tiempo."
+    },
+    {
+      "verse": "2",
+      "text": "Pierden el tiempo ustedes,\n    que se levantan temprano y se acuestan tarde\npara comer un pan conseguido con sufrimiento\n    porque Dios da a quien ama, aun mientras duerme.",
+      "readableText": "Pierden el tiempo ustedes, que se levantan temprano y se acuestan tarde para comer un pan conseguido con sufrimiento porque Dios da a quien ama, aun mientras duerme."
+    },
+    {
+      "verse": "3",
+      "text": "Los hijos son la herencia que nos da el SEÑOR;\n    los frutos del vientre son la recompensa que viene de Dios.",
+      "readableText": "Los hijos son la herencia que nos da el SEÑOR; los frutos del vientre son la recompensa que viene de Dios."
+    },
+    {
+      "verse": "4",
+      "text": "Los hijos de un hombre joven\n    son como flechas en las manos de un guerrero.",
+      "readableText": "Los hijos de un hombre joven son como flechas en las manos de un guerrero."
+    },
+    {
+      "verse": "5",
+      "text": "Qué afortunado es el hombre\n    que llena su aljaba con flechas como esas.\nNo será avergonzado por sus enemigos\n    cuando trate con ellos en los tribunales.",
+      "readableText": "Qué afortunado es el hombre que llena su aljaba con flechas como esas. No será avergonzado por sus enemigos cuando trate con ellos en los tribunales."
+    }
+  ]
+}

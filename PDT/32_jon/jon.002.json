@@ -1,1 +1,57 @@
-{"book":"JON","rev":"PDT","chapter":"2","verses":[{"verse":"1","text":"Entonces Jon&#225;s or&#243; as&#237; al SE&#209;OR su Dios desde el est&#243;mago del pez:   \n","readableText":"Entonces Jonás oró así al SEÑOR su Dios desde el estómago del pez:\n\n"},{"verse":"2","text":"&#171;Clam&#233; a ti, SE&#209;OR, en medio de mi angustia &#161;y me contestaste! Desde las profundidades del sepulcro  ped&#237; tu ayuda, &#161;y me escuchaste!   \n","readableText":"«Clamé a ti, SEÑOR, en medio de mi angustia ¡y me contestaste! Desde las\nprofundidades del sepulcro pedí tu ayuda, ¡y me escuchaste!\n\n"},{"verse":"3","text":"&#187;Me arrojaste a lo m&#225;s hondo, a lo m&#225;s profundo del mar; la corriente me envolv&#237;a, y todas tus olas poderosas pasaban sobre m&#237;.   \n","readableText":"»Me arrojaste a lo más hondo, a lo más profundo del mar; la corriente me\nenvolvía, y todas tus olas poderosas pasaban sobre mí.\n\n"},{"verse":"4","text":"Pens&#233;: &#8220;Me has echado de tu presencia, pero as&#237; y todo yo seguir&#233; rogando hacia tu santo templo&#8221;.   \n","readableText":"Pensé: “Me has echado de tu presencia, pero así y todo yo seguiré rogando hacia\ntu santo templo”.\n\n"},{"verse":"5","text":"&#187;Las aguas me envolvieron hasta el cuello, estaba cubierto de mar por todas partes; las algas se enredaban en mi cabeza.   \n","readableText":"»Las aguas me envolvieron hasta el cuello, estaba cubierto de mar por todas\npartes; las algas se enredaban en mi cabeza.\n\n"},{"verse":"6","text":"Me hund&#237; en el mar hasta donde comienzan las monta&#241;as. Baj&#233; al mundo de los muertos y tras de m&#237; sus rejas se cerraron para siempre. Pero t&#250; SE&#209;OR, Dios m&#237;o, me sacaste vivo de la fosa.   \n","readableText":"Me hundí en el mar hasta donde comienzan las montañas. Bajé al mundo de los\nmuertos y tras de mí sus rejas se cerraron para siempre. Pero tú SEÑOR, Dios\nmío, me sacaste vivo de la fosa.\n\n"},{"verse":"7","text":"Al sentir que se me iba la vida, me acord&#233; del SE&#209;OR y mi oraci&#243;n lleg&#243; hasta ti, en tu santo templo.   \n","readableText":"Al sentir que se me iba la vida, me acordé del SEÑOR y mi oración llegó hasta\nti, en tu santo templo.\n\n"},{"verse":"8","text":"&#187;Los que adoran &#237;dolos in&#250;tiles han dejado tu fiel amor ;   \n","readableText":"»Los que adoran ídolos inútiles han dejado tu fiel amor ;\n\n"},{"verse":"9","text":"pero yo con gratitud te alabar&#233; y te ofrecer&#233; sacrificios. Cumplir&#233; la promesa que te hice. &#161;La salvaci&#243;n viene del SE&#209;OR!&#187;   \n","readableText":"pero yo con gratitud te alabaré y te ofreceré sacrificios. Cumpliré la promesa\nque te hice. ¡La salvación viene del SEÑOR!»\n\n"},{"verse":"10","text":"Entonces el SE&#209;OR le orden&#243; al pez que vomitara a Jon&#225;s en tierra firme.\n","readableText":"Entonces el SEÑOR le ordenó al pez que vomitara a Jonás en tierra firme.\n\n"}]}
+{
+  "book": "JON",
+  "rev": "PDT",
+  "chapter": "2",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "2 Entonces Jonás oró así al SEÑOR su Dios desde el estómago del pez:",
+      "readableText": "2 Entonces Jonás oró así al SEÑOR su Dios desde el estómago del pez:"
+    },
+    {
+      "verse": "2",
+      "text": "«Clamé a ti, SEÑOR, en medio de mi angustia\n    ¡y me contestaste!\nDesde las profundidades del sepulcro pedí tu ayuda,\n    ¡y me escuchaste!",
+      "readableText": "«Clamé a ti, SEÑOR, en medio de mi angustia ¡y me contestaste! Desde las profundidades del sepulcro pedí tu ayuda, ¡y me escuchaste!"
+    },
+    {
+      "verse": "3",
+      "text": "»Me arrojaste a lo más hondo,\n    a lo más profundo del mar;\nla corriente me envolvía,\n    y todas tus olas poderosas pasaban sobre mí.",
+      "readableText": "»Me arrojaste a lo más hondo, a lo más profundo del mar; la corriente me envolvía, y todas tus olas poderosas pasaban sobre mí."
+    },
+    {
+      "verse": "4",
+      "text": "Pensé: “Me has echado de tu presencia,\n    pero así y todo yo seguiré rogando hacia tu santo templo”.",
+      "readableText": "Pensé: “Me has echado de tu presencia, pero así y todo yo seguiré rogando hacia tu santo templo”."
+    },
+    {
+      "verse": "5",
+      "text": "»Las aguas me envolvieron hasta el cuello,\n    estaba cubierto de mar por todas partes;\n    las algas se enredaban en mi cabeza.",
+      "readableText": "»Las aguas me envolvieron hasta el cuello, estaba cubierto de mar por todas partes; las algas se enredaban en mi cabeza."
+    },
+    {
+      "verse": "6",
+      "text": "Me hundí en el mar\n    hasta donde comienzan las montañas.\nBajé al mundo de los muertos\n    y tras de mí sus rejas se cerraron para siempre.\nPero tú SEÑOR, Dios mío,\n    me sacaste vivo de la fosa.",
+      "readableText": "Me hundí en el mar hasta donde comienzan las montañas. Bajé al mundo de los muertos y tras de mí sus rejas se cerraron para siempre. Pero tú SEÑOR, Dios mío, me sacaste vivo de la fosa."
+    },
+    {
+      "verse": "7",
+      "text": "Al sentir que se me iba la vida,\n    me acordé del SEÑOR\ny mi oración llegó hasta ti,\n    en tu santo templo.",
+      "readableText": "Al sentir que se me iba la vida, me acordé del SEÑOR y mi oración llegó hasta ti, en tu santo templo."
+    },
+    {
+      "verse": "8",
+      "text": "»Los que adoran ídolos inútiles\n    han dejado tu fiel amor;",
+      "readableText": "»Los que adoran ídolos inútiles han dejado tu fiel amor;"
+    },
+    {
+      "verse": "9",
+      "text": "pero yo con gratitud te alabaré\n    y te ofreceré sacrificios.\nCumpliré la promesa que te hice.\n    ¡La salvación viene del SEÑOR!»",
+      "readableText": "pero yo con gratitud te alabaré y te ofreceré sacrificios. Cumpliré la promesa que te hice. ¡La salvación viene del SEÑOR!»"
+    },
+    {
+      "verse": "10",
+      "text": "Entonces el SEÑOR le ordenó al pez que vomitara a Jonás en tierra firme.  end of footnotes",
+      "readableText": "Entonces el SEÑOR le ordenó al pez que vomitara a Jonás en tierra firme. end of footnotes"
+    }
+  ]
+}

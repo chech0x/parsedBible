@@ -1,1 +1,47 @@
-{"book":"PSA","rev":"PDT","chapter":"3","verses":[{"verse":"1","text":"&#161;SE&#209;OR, tengo tantos enemigos! Hay mucha gente que me ataca.   \n","readableText":"¡SEÑOR, tengo tantos enemigos! Hay mucha gente que me ataca.\n\n"},{"verse":"2","text":"Muchos hablan de m&#237; y dicen: &#171;Dios no lo salvar&#225;&#187;.  Selah   \n","readableText":"Muchos hablan de mí y dicen: «Dios no lo salvará». Selah\n\n"},{"verse":"3","text":"Pero t&#250;, SE&#209;OR, eres mi escudo. T&#250; me honras y me animas.   \n","readableText":"Pero tú, SEÑOR, eres mi escudo. Tú me honras y me animas.\n\n"},{"verse":"4","text":"Te pido ayuda SE&#209;OR, y me respondes desde tu monte santo.  Selah   \n","readableText":"Te pido ayuda SEÑOR, y me respondes desde tu monte santo. Selah\n\n"},{"verse":"5","text":"Me voy a dormir tranquilo y s&#233; que despertar&#233;, porque el SE&#209;OR me protege.   \n","readableText":"Me voy a dormir tranquilo y sé que despertaré, porque el SEÑOR me protege.\n\n"},{"verse":"6","text":"Por eso no me asustar&#233; aunque miles me rodeen para atacarme.   \n","readableText":"Por eso no me asustaré aunque miles me rodeen para atacarme.\n\n"},{"verse":"7","text":"&#161;Lev&#225;ntate, SE&#209;OR! Dios m&#237;o, ven y resc&#225;tame. Ojal&#225; les dieras una bofetada a mis enemigos y les rompieras los dientes a los perversos.   \n","readableText":"¡Levántate, SEÑOR! Dios mío, ven y rescátame. Ojalá les dieras una bofetada a\nmis enemigos y les rompieras los dientes a los perversos.\n\n"},{"verse":"8","text":"SE&#209;OR, t&#250; nos das la victoria, env&#237;a bendici&#243;n sobre tu pueblo.  Selah\n","readableText":"SEÑOR, tú nos das la victoria, envía bendición sobre tu pueblo. Selah\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "3",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "¡SEÑOR, tengo tantos enemigos!\n    Hay mucha gente que me ataca.",
+      "readableText": "¡SEÑOR, tengo tantos enemigos! Hay mucha gente que me ataca."
+    },
+    {
+      "verse": "2",
+      "text": "Muchos hablan de mí y dicen:\n    «Dios no lo salvará». Selah",
+      "readableText": "Muchos hablan de mí y dicen: «Dios no lo salvará». Selah"
+    },
+    {
+      "verse": "3",
+      "text": "Pero tú, SEÑOR, eres mi escudo.\n    Tú me honras y me animas.",
+      "readableText": "Pero tú, SEÑOR, eres mi escudo. Tú me honras y me animas."
+    },
+    {
+      "verse": "4",
+      "text": "Te pido ayuda SEÑOR,\n    y me respondes desde tu monte santo. Selah",
+      "readableText": "Te pido ayuda SEÑOR, y me respondes desde tu monte santo. Selah"
+    },
+    {
+      "verse": "5",
+      "text": "Me voy a dormir tranquilo y sé que despertaré,\n    porque el SEÑOR me protege.",
+      "readableText": "Me voy a dormir tranquilo y sé que despertaré, porque el SEÑOR me protege."
+    },
+    {
+      "verse": "6",
+      "text": "Por eso no me asustaré\n    aunque miles me rodeen para atacarme.",
+      "readableText": "Por eso no me asustaré aunque miles me rodeen para atacarme."
+    },
+    {
+      "verse": "7",
+      "text": "¡Levántate, SEÑOR!\n    Dios mío, ven y rescátame.\nOjalá les dieras una bofetada a mis enemigos\n    y les rompieras los dientes a los perversos.",
+      "readableText": "¡Levántate, SEÑOR! Dios mío, ven y rescátame. Ojalá les dieras una bofetada a mis enemigos y les rompieras los dientes a los perversos."
+    },
+    {
+      "verse": "8",
+      "text": "SEÑOR, tú nos das la victoria,\n    envía bendición sobre tu pueblo. Selah  end of footnotes",
+      "readableText": "SEÑOR, tú nos das la victoria, envía bendición sobre tu pueblo. Selah end of footnotes"
+    }
+  ]
+}

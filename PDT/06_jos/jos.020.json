@@ -1,1 +1,52 @@
-{"book":"JOS","rev":"PDT","chapter":"20","verses":[{"verse":"1","text":"Luego el SE&#209;OR le dijo a Josu&#233;: \n","readableText":"Luego el SEÑOR le dijo a Josué:\n\n"},{"verse":"2","text":"&#171;Habla a los israelitas y p&#237;deles que designen ciudades de refugio tal como se lo orden&#233; por medio de Mois&#233;s. \n","readableText":"«Habla a los israelitas y pídeles que designen ciudades de refugio tal como se\nlo ordené por medio de Moisés.\n\n"},{"verse":"3","text":"As&#237;, el que mate a alguien sin querer o por accidente podr&#225; huir all&#237;. Esas ciudades ser&#225;n un refugio para protegerse del pariente que tiene el deber de castigar al homicida.   \n","readableText":"Así, el que mate a alguien sin querer o por accidente podrá huir allí. Esas\nciudades serán un refugio para protegerse del pariente que tiene el deber de\ncastigar al homicida.\n\n"},{"verse":"4","text":"&#187;Cuando alguien huya a una de esas ciudades debe detenerse a la entrada de la ciudad, y explicar su caso a los ancianos de la ciudad. Entonces ellos le dar&#225;n entrada en la ciudad y le dar&#225;n un lugar d&#243;nde vivir. \n","readableText":"»Cuando alguien huya a una de esas ciudades debe detenerse a la entrada de la\nciudad, y explicar su caso a los ancianos de la ciudad. Entonces ellos le darán\nentrada en la ciudad y le darán un lugar dónde vivir.\n\n"},{"verse":"5","text":"Luego si el pariente que tiene el deber de castigar al homicida lo persigue, no se lo deben entregar a &#233;l puesto que el homicida mat&#243; a su vecino sin haber sido antes enemigos. \n","readableText":"Luego si el pariente que tiene el deber de castigar al homicida lo persigue, no\nse lo deben entregar a él puesto que el homicida mató a su vecino sin haber\nsido antes enemigos.\n\n"},{"verse":"6","text":"&#201;l vivir&#225; en esa ciudad hasta que sea juzgado por la asamblea y hasta la muerte del sumo sacerdote. Luego podr&#225; volver a su propia ciudad y a su casa, de donde tuvo que huir&#187;.   \n","readableText":"Él vivirá en esa ciudad hasta que sea juzgado por la asamblea y hasta la muerte\ndel sumo sacerdote. Luego podrá volver a su propia ciudad y a su casa, de donde\ntuvo que huir».\n\n"},{"verse":"7","text":"Entonces eligieron estas ciudades: Cedes en Galilea, en la regi&#243;n monta&#241;osa de Neftal&#237;; Siqu&#233;n en la regi&#243;n monta&#241;osa de Efra&#237;n y Quiriat Arb&#225; (esto es, Hebr&#243;n) en la regi&#243;n monta&#241;osa de Jud&#225;. \n","readableText":"Entonces eligieron estas ciudades: Cedes en Galilea, en la región montañosa de\nNeftalí; Siquén en la región montañosa de Efraín y Quiriat Arbá (esto es,\nHebrón) en la región montañosa de Judá.\n\n"},{"verse":"8","text":"Al otro lado del Jord&#225;n, al oriente de Jeric&#243;, eligieron a B&#233;ser en la meseta del desierto, en el territorio de la tribu de Rub&#233;n; a Ramot de Galaad en la tribu de Gad y a Gol&#225;n de Bas&#225;n, en el territorio de la tribu de Manas&#233;s. \n","readableText":"Al otro lado del Jordán, al oriente de Jericó, eligieron a Béser en la meseta\ndel desierto, en el territorio de la tribu de Rubén; a Ramot de Galaad en la\ntribu de Gad y a Golán de Basán, en el territorio de la tribu de Manasés.\n\n"},{"verse":"9","text":"Esas fueron las ciudades que eligieron para refugio tanto de los israelitas como de los inmigrantes que viven entre ellos. Todo el que mate a otro por accidente puede escapar all&#225;, y evitar que el pariente que tiene el deber de castigar al asesino lo mate antes de ser juzgado por la asamblea.\n","readableText":"Esas fueron las ciudades que eligieron para refugio tanto de los israelitas\ncomo de los inmigrantes que viven entre ellos. Todo el que mate a otro por\naccidente puede escapar allá, y evitar que el pariente que tiene el deber de\ncastigar al asesino lo mate antes de ser juzgado por la asamblea.\n\n"}]}
+{
+  "book": "JOS",
+  "rev": "PDT",
+  "chapter": "20",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "20 Luego el SEÑOR le dijo a Josué:",
+      "readableText": "20 Luego el SEÑOR le dijo a Josué:"
+    },
+    {
+      "verse": "2",
+      "text": "«Habla a los israelitas y pídeles que designen ciudades de refugio tal como se lo ordené por medio de Moisés.",
+      "readableText": "«Habla a los israelitas y pídeles que designen ciudades de refugio tal como se lo ordené por medio de Moisés."
+    },
+    {
+      "verse": "3",
+      "text": "Así, el que mate a alguien sin querer o por accidente podrá huir allí. Esas ciudades serán un refugio para protegerse del pariente que tiene el deber de castigar al homicida.",
+      "readableText": "Así, el que mate a alguien sin querer o por accidente podrá huir allí. Esas ciudades serán un refugio para protegerse del pariente que tiene el deber de castigar al homicida."
+    },
+    {
+      "verse": "4",
+      "text": "»Cuando alguien huya a una de esas ciudades debe detenerse a la entrada de la ciudad, y explicar su caso a los ancianos de la ciudad. Entonces ellos le darán entrada en la ciudad y le darán un lugar dónde vivir.",
+      "readableText": "»Cuando alguien huya a una de esas ciudades debe detenerse a la entrada de la ciudad, y explicar su caso a los ancianos de la ciudad. Entonces ellos le darán entrada en la ciudad y le darán un lugar dónde vivir."
+    },
+    {
+      "verse": "5",
+      "text": "Luego si el pariente que tiene el deber de castigar al homicida lo persigue, no se lo deben entregar a él puesto que el homicida mató a su vecino sin haber sido antes enemigos.",
+      "readableText": "Luego si el pariente que tiene el deber de castigar al homicida lo persigue, no se lo deben entregar a él puesto que el homicida mató a su vecino sin haber sido antes enemigos."
+    },
+    {
+      "verse": "6",
+      "text": "Él vivirá en esa ciudad hasta que sea juzgado por la asamblea y hasta la muerte del sumo sacerdote. Luego podrá volver a su propia ciudad y a su casa, de donde tuvo que huir».",
+      "readableText": "Él vivirá en esa ciudad hasta que sea juzgado por la asamblea y hasta la muerte del sumo sacerdote. Luego podrá volver a su propia ciudad y a su casa, de donde tuvo que huir»."
+    },
+    {
+      "verse": "7",
+      "text": "Entonces eligieron estas ciudades: Cedes en Galilea, en la región montañosa de Neftalí; Siquén en la región montañosa de Efraín y Quiriat Arbá (esto es, Hebrón) en la región montañosa de Judá.",
+      "readableText": "Entonces eligieron estas ciudades: Cedes en Galilea, en la región montañosa de Neftalí; Siquén en la región montañosa de Efraín y Quiriat Arbá (esto es, Hebrón) en la región montañosa de Judá."
+    },
+    {
+      "verse": "8",
+      "text": "Al otro lado del Jordán, al oriente de Jericó, eligieron a Béser en la meseta del desierto, en el territorio de la tribu de Rubén; a Ramot de Galaad en la tribu de Gad y a Golán de Basán, en el territorio de la tribu de Manasés.",
+      "readableText": "Al otro lado del Jordán, al oriente de Jericó, eligieron a Béser en la meseta del desierto, en el territorio de la tribu de Rubén; a Ramot de Galaad en la tribu de Gad y a Golán de Basán, en el territorio de la tribu de Manasés."
+    },
+    {
+      "verse": "9",
+      "text": "Esas fueron las ciudades que eligieron para refugio tanto de los israelitas como de los inmigrantes que viven entre ellos. Todo el que mate a otro por accidente puede escapar allá, y evitar que el pariente que tiene el deber de castigar al asesino lo mate antes de ser juzgado por la asamblea.",
+      "readableText": "Esas fueron las ciudades que eligieron para refugio tanto de los israelitas como de los inmigrantes que viven entre ellos. Todo el que mate a otro por accidente puede escapar allá, y evitar que el pariente que tiene el deber de castigar al asesino lo mate antes de ser juzgado por la asamblea."
+    }
+  ]
+}

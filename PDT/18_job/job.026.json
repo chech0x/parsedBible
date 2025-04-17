@@ -1,1 +1,77 @@
-{"book":"JOB","rev":"PDT","chapter":"26","verses":[{"verse":"1","text":"Entonces Job respondi&#243;:   \n","readableText":"Entonces Job respondió:\n\n"},{"verse":"2","text":"&#171;Qu&#233; buena ayuda le han dado ustedes al indefenso. Han rescatado al d&#233;bil.   \n","readableText":"«Qué buena ayuda le han dado ustedes al indefenso. Han rescatado al débil.\n\n"},{"verse":"3","text":"Qu&#233; buen consejo le han dado al ignorante. Ustedes derrochan sabidur&#237;a hasta por los codos.   \n","readableText":"Qué buen consejo le han dado al ignorante. Ustedes derrochan sabiduría hasta\npor los codos.\n\n"},{"verse":"4","text":"&#191;Qui&#233;n les ayud&#243; a decir todo eso? &#191;Qu&#233; esp&#237;ritu les inspir&#243; esas palabras?   \n","readableText":"¿Quién les ayudó a decir todo eso? ¿Qué espíritu les inspiró esas palabras?\n\n"},{"verse":"5","text":"&#187;Se estremecen en las profundidades los esp&#237;ritus de los muertos , los que habitan debajo de los mares.   \n","readableText":"»Se estremecen en las profundidades los espíritus de los muertos , los que\nhabitan debajo de los mares.\n\n"},{"verse":"6","text":"Ante Dios, el lugar de los muertos est&#225; al descubierto. El lugar de destrucci&#243;n  no puede ocult&#225;rsele.   \n","readableText":"Ante Dios, el lugar de los muertos está al descubierto. El lugar de destrucción\nno puede ocultársele.\n\n"},{"verse":"7","text":"&#201;l extiende el cielo  sobre espacio vac&#237;o; cuelga la tierra sobre nada.   \n","readableText":"Él extiende el cielo sobre espacio vacío; cuelga la tierra sobre nada.\n\n"},{"verse":"8","text":"&#201;l encierra las aguas en nubes densas, y el peso de ellas no revienta la nube.   \n","readableText":"Él encierra las aguas en nubes densas, y el peso de ellas no revienta la nube.\n\n\n"},{"verse":"9","text":"Nadie ve el trono de Dios; lo cubre una nube espesa y oscura.   \n","readableText":"Nadie ve el trono de Dios; lo cubre una nube espesa y oscura.\n\n"},{"verse":"10","text":"&#201;l traz&#243; un c&#237;rculo l&#237;mite sobre la faz de las aguas, en la frontera entre la luz y la oscuridad.   \n","readableText":"Él trazó un círculo límite sobre la faz de las aguas, en la frontera entre la\nluz y la oscuridad.\n\n"},{"verse":"11","text":"Los pilares del cielo tiemblan cuando Dios los amenaza.   \n","readableText":"Los pilares del cielo tiemblan cuando Dios los amenaza.\n\n"},{"verse":"12","text":"El poder de Dios hace que el mar se calme. Con su habilidad descuartiz&#243; a Rahab.   \n","readableText":"El poder de Dios hace que el mar se calme. Con su habilidad descuartizó a\nRahab.\n\n"},{"verse":"13","text":"Un soplo de Dios hizo aclarar los cielos. Su mano descuartiz&#243; a la serpiente voladora.   \n","readableText":"Un soplo de Dios hizo aclarar los cielos. Su mano descuartizó a la serpiente\nvoladora.\n\n"},{"verse":"14","text":"Y esto es tan s&#243;lo una muestra de lo que Dios puede hacer. S&#243;lo hemos o&#237;do una peque&#241;a parte de lo que &#233;l hace. &#191;Qui&#233;n pudiera entender el trueno de su poder?&#187;\n","readableText":"Y esto es tan sólo una muestra de lo que Dios puede hacer. Sólo hemos oído una\npequeña parte de lo que él hace. ¿Quién pudiera entender el trueno de su\npoder?»\n\n"}]}
+{
+  "book": "JOB",
+  "rev": "PDT",
+  "chapter": "26",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "26 Entonces Job respondió:",
+      "readableText": "26 Entonces Job respondió:"
+    },
+    {
+      "verse": "2",
+      "text": "«Qué buena ayuda le han dado ustedes al indefenso.\n    Han rescatado al débil.",
+      "readableText": "«Qué buena ayuda le han dado ustedes al indefenso. Han rescatado al débil."
+    },
+    {
+      "verse": "3",
+      "text": "Qué buen consejo le han dado al ignorante.\n    Ustedes derrochan sabiduría hasta por los codos.",
+      "readableText": "Qué buen consejo le han dado al ignorante. Ustedes derrochan sabiduría hasta por los codos."
+    },
+    {
+      "verse": "4",
+      "text": "¿Quién les ayudó a decir todo eso?\n    ¿Qué espíritu les inspiró esas palabras?",
+      "readableText": "¿Quién les ayudó a decir todo eso? ¿Qué espíritu les inspiró esas palabras?"
+    },
+    {
+      "verse": "5",
+      "text": "»Se estremecen en las profundidades los espíritus de los muertos,\n    los que habitan debajo de los mares.",
+      "readableText": "»Se estremecen en las profundidades los espíritus de los muertos, los que habitan debajo de los mares."
+    },
+    {
+      "verse": "6",
+      "text": "Ante Dios, el lugar de los muertos está al descubierto.\n    El lugar de destrucción no puede ocultársele.",
+      "readableText": "Ante Dios, el lugar de los muertos está al descubierto. El lugar de destrucción no puede ocultársele."
+    },
+    {
+      "verse": "7",
+      "text": "Él extiende el cielo sobre espacio vacío;\n    cuelga la tierra sobre nada.",
+      "readableText": "Él extiende el cielo sobre espacio vacío; cuelga la tierra sobre nada."
+    },
+    {
+      "verse": "8",
+      "text": "Él encierra las aguas en nubes densas,\n    y el peso de ellas no revienta la nube.",
+      "readableText": "Él encierra las aguas en nubes densas, y el peso de ellas no revienta la nube."
+    },
+    {
+      "verse": "9",
+      "text": "Nadie ve el trono de Dios;\n    lo cubre una nube espesa y oscura.",
+      "readableText": "Nadie ve el trono de Dios; lo cubre una nube espesa y oscura."
+    },
+    {
+      "verse": "10",
+      "text": "Él trazó un círculo límite sobre la faz de las aguas,\n    en la frontera entre la luz y la oscuridad.",
+      "readableText": "Él trazó un círculo límite sobre la faz de las aguas, en la frontera entre la luz y la oscuridad."
+    },
+    {
+      "verse": "11",
+      "text": "Los pilares del cielo tiemblan\n    cuando Dios los amenaza.",
+      "readableText": "Los pilares del cielo tiemblan cuando Dios los amenaza."
+    },
+    {
+      "verse": "12",
+      "text": "El poder de Dios hace que el mar se calme.\n    Con su habilidad descuartizó a Rahab.",
+      "readableText": "El poder de Dios hace que el mar se calme. Con su habilidad descuartizó a Rahab."
+    },
+    {
+      "verse": "13",
+      "text": "Un soplo de Dios hizo aclarar los cielos.\n    Su mano descuartizó a la serpiente voladora.",
+      "readableText": "Un soplo de Dios hizo aclarar los cielos. Su mano descuartizó a la serpiente voladora."
+    },
+    {
+      "verse": "14",
+      "text": "Y esto es tan sólo una muestra de lo que Dios puede hacer.\n    Sólo hemos oído una pequeña parte de lo que él hace.\n    ¿Quién pudiera entender el trueno de su poder?»  end of footnotes",
+      "readableText": "Y esto es tan sólo una muestra de lo que Dios puede hacer. Sólo hemos oído una pequeña parte de lo que él hace. ¿Quién pudiera entender el trueno de su poder?» end of footnotes"
+    }
+  ]
+}

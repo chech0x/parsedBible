@@ -1,1 +1,72 @@
-{"book":"PSA","rev":"PDT","chapter":"21","verses":[{"verse":"1","text":"SE&#209;OR, el rey se alegra a causa de tu poder. Lo haces feliz con la salvaci&#243;n que le brindas.   \n","readableText":"SEÑOR, el rey se alegra a causa de tu poder. Lo haces feliz con la salvación\nque le brindas.\n\n"},{"verse":"2","text":"Le diste al rey lo que deseaba; no le negaste nada de lo que pidi&#243;.  Selah   \n","readableText":"Le diste al rey lo que deseaba; no le negaste nada de lo que pidió. Selah\n\n"},{"verse":"3","text":"T&#250; has bendecido al rey con bienes y le has colocado en su cabeza una corona de oro.   \n","readableText":"Tú has bendecido al rey con bienes y le has colocado en su cabeza una corona de\noro.\n\n"},{"verse":"4","text":"&#201;l te pidi&#243; la vida, y t&#250; le diste una vida larga y eterna.   \n","readableText":"Él te pidió la vida, y tú le diste una vida larga y eterna.\n\n"},{"verse":"5","text":"T&#250; le diste la gloria con tu salvaci&#243;n; le diste la majestad y el honor.   \n","readableText":"Tú le diste la gloria con tu salvación; le diste la majestad y el honor.\n\n"},{"verse":"6","text":"Lo hiciste inmensamente feliz en tu presencia al haberlo aceptado y bendecido.   \n","readableText":"Lo hiciste inmensamente feliz en tu presencia al haberlo aceptado y bendecido.\n\n\n"},{"verse":"7","text":"El rey conf&#237;a en el SE&#209;OR y por la fidelidad del Alt&#237;simo nunca fracasar&#225;.   \n","readableText":"El rey confía en el SEÑOR y por la fidelidad del Altísimo nunca fracasará.\n\n"},{"verse":"8","text":"Tu mano izquierda alcanza a tus enemigos; tu mano derecha derrota con poder a quienes te odian.   \n","readableText":"Tu mano izquierda alcanza a tus enemigos; tu mano derecha derrota con poder a\nquienes te odian.\n\n"},{"verse":"9","text":"SE&#209;OR, te har&#225;s presente con furia, y consumir&#225;s a tus enemigos por completo como en un horno.   \n","readableText":"SEÑOR, te harás presente con furia, y consumirás a tus enemigos por completo\ncomo en un horno.\n\n"},{"verse":"10","text":"Todos los que acompa&#241;an a los enemigos de Dios ser&#225;n destruidos. Todos sus descendientes ser&#225;n expulsados de la tierra.   \n","readableText":"Todos los que acompañan a los enemigos de Dios serán destruidos. Todos sus\ndescendientes serán expulsados de la tierra.\n\n"},{"verse":"11","text":"Porque hicieron sus planes contra ti; tramaron todo, pero no lo lograron nada.   \n","readableText":"Porque hicieron sus planes contra ti; tramaron todo, pero no lo lograron nada.\n\n\n"},{"verse":"12","text":"Porque t&#250; los har&#225;s huir utilizando contra ellos el arco.   \n","readableText":"Porque tú los harás huir utilizando contra ellos el arco.\n\n"},{"verse":"13","text":"SE&#209;OR, lev&#225;ntate y muestra tu poder; con m&#250;sica y canto celebraremos tu grandeza.\n","readableText":"SEÑOR, levántate y muestra tu poder; con música y canto celebraremos tu\ngrandeza.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "21",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "SEÑOR, el rey se alegra a causa de tu poder.\n    Lo haces feliz con la salvación que le brindas.",
+      "readableText": "SEÑOR, el rey se alegra a causa de tu poder. Lo haces feliz con la salvación que le brindas."
+    },
+    {
+      "verse": "2",
+      "text": "Le diste al rey lo que deseaba;\n    no le negaste nada de lo que pidió. Selah",
+      "readableText": "Le diste al rey lo que deseaba; no le negaste nada de lo que pidió. Selah"
+    },
+    {
+      "verse": "3",
+      "text": "Tú has bendecido al rey con bienes\n    y le has colocado en su cabeza una corona de oro.",
+      "readableText": "Tú has bendecido al rey con bienes y le has colocado en su cabeza una corona de oro."
+    },
+    {
+      "verse": "4",
+      "text": "Él te pidió la vida,\n    y tú le diste una vida larga y eterna.",
+      "readableText": "Él te pidió la vida, y tú le diste una vida larga y eterna."
+    },
+    {
+      "verse": "5",
+      "text": "Tú le diste la gloria con tu salvación;\n    le diste la majestad y el honor.",
+      "readableText": "Tú le diste la gloria con tu salvación; le diste la majestad y el honor."
+    },
+    {
+      "verse": "6",
+      "text": "Lo hiciste inmensamente feliz\n    en tu presencia al haberlo aceptado y bendecido.",
+      "readableText": "Lo hiciste inmensamente feliz en tu presencia al haberlo aceptado y bendecido."
+    },
+    {
+      "verse": "7",
+      "text": "El rey confía en el SEÑOR\n    y por la fidelidad del Altísimo nunca fracasará.",
+      "readableText": "El rey confía en el SEÑOR y por la fidelidad del Altísimo nunca fracasará."
+    },
+    {
+      "verse": "8",
+      "text": "Tu mano izquierda alcanza a tus enemigos;\n    tu mano derecha derrota con poder a quienes te odian.",
+      "readableText": "Tu mano izquierda alcanza a tus enemigos; tu mano derecha derrota con poder a quienes te odian."
+    },
+    {
+      "verse": "9",
+      "text": "SEÑOR, te harás presente con furia,\n    y consumirás a tus enemigos por completo como en un horno.",
+      "readableText": "SEÑOR, te harás presente con furia, y consumirás a tus enemigos por completo como en un horno."
+    },
+    {
+      "verse": "10",
+      "text": "Todos los que acompañan a los enemigos de Dios serán destruidos.\n    Todos sus descendientes serán expulsados de la tierra.",
+      "readableText": "Todos los que acompañan a los enemigos de Dios serán destruidos. Todos sus descendientes serán expulsados de la tierra."
+    },
+    {
+      "verse": "11",
+      "text": "Porque hicieron sus planes contra ti;\n    tramaron todo, pero no lo lograron nada.",
+      "readableText": "Porque hicieron sus planes contra ti; tramaron todo, pero no lo lograron nada."
+    },
+    {
+      "verse": "12",
+      "text": "Porque tú los harás huir\n    utilizando contra ellos el arco.",
+      "readableText": "Porque tú los harás huir utilizando contra ellos el arco."
+    },
+    {
+      "verse": "13",
+      "text": "SEÑOR, levántate y muestra tu poder;\n    con música y canto celebraremos tu grandeza.",
+      "readableText": "SEÑOR, levántate y muestra tu poder; con música y canto celebraremos tu grandeza."
+    }
+  ]
+}

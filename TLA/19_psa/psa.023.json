@@ -1,0 +1,37 @@
+{
+  "book": "PSA",
+  "rev": "TLA",
+  "chapter": "23",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "23 Tú, Dios mío, eres mi pastor;\ncontigo nada me falta.",
+      "readableText": "23 Tú, Dios mío, eres mi pastor; contigo nada me falta."
+    },
+    {
+      "verse": "2",
+      "text": "Me haces descansar en verdes pastos,\ny para calmar mi sed\nme llevas a tranquilas aguas.",
+      "readableText": "Me haces descansar en verdes pastos, y para calmar mi sed me llevas a tranquilas aguas."
+    },
+    {
+      "verse": "3",
+      "text": "Me das nuevas fuerzas\ny me guías por el mejor camino,\nporque así eres tú.",
+      "readableText": "Me das nuevas fuerzas y me guías por el mejor camino, porque así eres tú."
+    },
+    {
+      "verse": "4",
+      "text": "Puedo cruzar lugares peligrosos\ny no tener miedo de nada,\nporque tú eres mi pastor\ny siempre estás a mi lado;\nme guías por el buen camino\ny me llenas de confianza.",
+      "readableText": "Puedo cruzar lugares peligrosos y no tener miedo de nada, porque tú eres mi pastor y siempre estás a mi lado; me guías por el buen camino y me llenas de confianza."
+    },
+    {
+      "verse": "5",
+      "text": "Aunque se enojen mis enemigos,\ntú me ofreces un banquete\ny me llenas de felicidad;\n¡me das un trato especial!",
+      "readableText": "Aunque se enojen mis enemigos, tú me ofreces un banquete y me llenas de felicidad; ¡me das un trato especial!"
+    },
+    {
+      "verse": "6",
+      "text": "Estoy completamente seguro\nde que tu bondad y tu amor\nme acompañarán mientras yo viva,\ny de que para siempre\nviviré donde tú vives.",
+      "readableText": "Estoy completamente seguro de que tu bondad y tu amor me acompañarán mientras yo viva, y de que para siempre viviré donde tú vives."
+    }
+  ]
+}

@@ -1,1 +1,37 @@
-{"book":"PSA","rev":"PDT","chapter":"53","verses":[{"verse":"1","text":"Van pensando los insensatos sin tener presente a Dios. Se han corrompido y cometen pecados horribles. No hay ni uno que haga el bien.   \n","readableText":"Van pensando los insensatos sin tener presente a Dios. Se han corrompido y\ncometen pecados horribles. No hay ni uno que haga el bien.\n\n"},{"verse":"2","text":"Dios observ&#243; desde el cielo a los seres humanos para ver si hab&#237;a alguien que fuera sabio y buscara seguir a Dios.   \n","readableText":"Dios observó desde el cielo a los seres humanos para ver si había alguien que\nfuera sabio y buscara seguir a Dios.\n\n"},{"verse":"3","text":"Pero todos se hab&#237;an alejado de Dios; todos juntos se han pervertido. No hay nadie que haga el bien; &#161;ni uno solo!   \n","readableText":"Pero todos se habían alejado de Dios; todos juntos se han pervertido. No hay\nnadie que haga el bien; ¡ni uno solo!\n\n"},{"verse":"4","text":"&#191;Acaso son tan ignorantes los perversos, esos que devoran a mi pueblo como si fuera pan? &#161;Nunca buscan a Dios!   \n","readableText":"¿Acaso son tan ignorantes los perversos, esos que devoran a mi pueblo como si\nfuera pan? ¡Nunca buscan a Dios!\n\n"},{"verse":"5","text":"Pero se apoderar&#225; de ellos un gran terror que nunca antes hab&#237;an sentido. Porque Dios dispers&#243; los huesos de los que te ten&#237;an rodeado. T&#250; los pusiste en rid&#237;culo, porque Dios los rechaz&#243;.   \n","readableText":"Pero se apoderará de ellos un gran terror que nunca antes habían sentido.\nPorque Dios dispersó los huesos de los que te tenían rodeado. Tú los pusiste en\nridículo, porque Dios los rechazó.\n\n"},{"verse":"6","text":"&#161;Que Dios desde Sion mande la salvaci&#243;n de Israel! Cuando Dios cambie la suerte de su pueblo, Jacob se pondr&#225; contento e Israel se alegrar&#225;.\n","readableText":"¡Que Dios desde Sion mande la salvación de Israel! Cuando Dios cambie la suerte\nde su pueblo, Jacob se pondrá contento e Israel se alegrará.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "53",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Van pensando los insensatos\n    sin tener presente a Dios.\nSe han corrompido y cometen pecados horribles.\n    No hay ni uno que haga el bien.",
+      "readableText": "Van pensando los insensatos sin tener presente a Dios. Se han corrompido y cometen pecados horribles. No hay ni uno que haga el bien."
+    },
+    {
+      "verse": "2",
+      "text": "Dios observó desde el cielo\n    a los seres humanos\npara ver si había alguien que fuera sabio\n    y buscara seguir a Dios.",
+      "readableText": "Dios observó desde el cielo a los seres humanos para ver si había alguien que fuera sabio y buscara seguir a Dios."
+    },
+    {
+      "verse": "3",
+      "text": "Pero todos se habían alejado de Dios;\n    todos juntos se han pervertido.\nNo hay nadie que haga el bien;\n    ¡ni uno solo!",
+      "readableText": "Pero todos se habían alejado de Dios; todos juntos se han pervertido. No hay nadie que haga el bien; ¡ni uno solo!"
+    },
+    {
+      "verse": "4",
+      "text": "¿Acaso son tan ignorantes los perversos,\n    esos que devoran a mi pueblo como si fuera pan?\n    ¡Nunca buscan a Dios!",
+      "readableText": "¿Acaso son tan ignorantes los perversos, esos que devoran a mi pueblo como si fuera pan? ¡Nunca buscan a Dios!"
+    },
+    {
+      "verse": "5",
+      "text": "Pero se apoderará de ellos un gran terror\n    que nunca antes habían sentido.\nPorque Dios dispersó los huesos de los que te tenían rodeado.\n    Tú los pusiste en ridículo, porque Dios los rechazó.",
+      "readableText": "Pero se apoderará de ellos un gran terror que nunca antes habían sentido. Porque Dios dispersó los huesos de los que te tenían rodeado. Tú los pusiste en ridículo, porque Dios los rechazó."
+    },
+    {
+      "verse": "6",
+      "text": "¡Que Dios desde Sion\n    mande la salvación de Israel!\nCuando Dios cambie la suerte de su pueblo,\n    Jacob se pondrá contento e Israel se alegrará.  end of footnotes",
+      "readableText": "¡Que Dios desde Sion mande la salvación de Israel! Cuando Dios cambie la suerte de su pueblo, Jacob se pondrá contento e Israel se alegrará. end of footnotes"
+    }
+  ]
+}

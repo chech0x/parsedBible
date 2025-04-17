@@ -1,0 +1,37 @@
+{
+  "book": "PSA",
+  "rev": "TLA",
+  "chapter": "150",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "150 ¡Alabemos a nuestro Dios!\n¡Alabemos a Dios en su santuario!\n¡Alabemos su poder en el cielo!",
+      "readableText": "150 ¡Alabemos a nuestro Dios! ¡Alabemos a Dios en su santuario! ¡Alabemos su poder en el cielo!"
+    },
+    {
+      "verse": "2",
+      "text": "¡Alabemos sus grandes acciones!\n¡Alabemos su incomparable grandeza!",
+      "readableText": "¡Alabemos sus grandes acciones! ¡Alabemos su incomparable grandeza!"
+    },
+    {
+      "verse": "3",
+      "text": "¡Alabémoslo con sonido de trompeta!\n¡Alabémoslo con arpas y liras!",
+      "readableText": "¡Alabémoslo con sonido de trompeta! ¡Alabémoslo con arpas y liras!"
+    },
+    {
+      "verse": "4",
+      "text": "¡Alabémoslo con panderos y danzas!\n¡Alabémoslo con cuerdas y flautas!",
+      "readableText": "¡Alabémoslo con panderos y danzas! ¡Alabémoslo con cuerdas y flautas!"
+    },
+    {
+      "verse": "5",
+      "text": "¡Alabémoslo con sonoros platillos!\n¡Alabémoslo con platillos vibrantes!",
+      "readableText": "¡Alabémoslo con sonoros platillos! ¡Alabémoslo con platillos vibrantes!"
+    },
+    {
+      "verse": "6",
+      "text": "¡Que alaben a Dios\ntodos los seres vivos!¡Alabemos a nuestro Dios!",
+      "readableText": "¡Que alaben a Dios todos los seres vivos!¡Alabemos a nuestro Dios!"
+    }
+  ]
+}

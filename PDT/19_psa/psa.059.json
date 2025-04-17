@@ -1,1 +1,92 @@
-{"book":"PSA","rev":"PDT","chapter":"59","verses":[{"verse":"1","text":"Dios m&#237;o, s&#225;lvame de mis enemigos; ay&#250;dame a derrotar a los que me atacan.   \n","readableText":"Dios mío, sálvame de mis enemigos; ayúdame a derrotar a los que me atacan.\n\n"},{"verse":"2","text":"Resc&#225;tame de los que hacen el mal, s&#225;lvame de esos asesinos.   \n","readableText":"Rescátame de los que hacen el mal, sálvame de esos asesinos.\n\n"},{"verse":"3","text":"Ellos tratan de matarme. SE&#209;OR, hay hombres perversos que quieren atacarme a pesar de que no he cometido ning&#250;n delito ni pecado.   \n","readableText":"Ellos tratan de matarme. SEÑOR, hay hombres perversos que quieren atacarme a\npesar de que no he cometido ningún delito ni pecado.\n\n"},{"verse":"4","text":"No he hecho nada malo. Sin embargo, corren ellos listos para atacarme. &#161;Lev&#225;ntate, y ven a ayudarme! Mira lo que est&#225; sucediendo.   \n","readableText":"No he hecho nada malo. Sin embargo, corren ellos listos para atacarme.\n¡Levántate, y ven a ayudarme! Mira lo que está sucediendo.\n\n"},{"verse":"5","text":"T&#250; eres el SE&#209;OR, Dios de los ej&#233;rcitos, el Dios de Israel. Lev&#225;ntate y castiga a todas las naciones; no tengas piedad de esos traidores perversos.  Selah   \n","readableText":"Tú eres el SEÑOR, Dios de los ejércitos, el Dios de Israel. Levántate y castiga\na todas las naciones; no tengas piedad de esos traidores perversos. Selah\n\n"},{"verse":"6","text":"Esa gente mala regresa como perros, rondando y gru&#241;endo por las calles de la ciudad.   \n","readableText":"Esa gente mala regresa como perros, rondando y gruñendo por las calles de la\nciudad.\n\n"},{"verse":"7","text":"&#161;&#211;yelos! Echan espuma por la boca y dicen cosas crueles sin importar qui&#233;n los est&#233; escuchando.   \n","readableText":"¡Óyelos! Echan espuma por la boca y dicen cosas crueles sin importar quién los\nesté escuchando.\n\n"},{"verse":"8","text":"SE&#209;OR, t&#250; te r&#237;es de ellos, te burlas de toda esa gente.   \n","readableText":"SEÑOR, tú te ríes de ellos, te burlas de toda esa gente.\n\n"},{"verse":"9","text":"Yo te cantar&#233; mis canciones de alabanza porque t&#250;, Dios, eres mi refugio.   \n","readableText":"Yo te cantaré mis canciones de alabanza porque tú, Dios, eres mi refugio.\n\n"},{"verse":"10","text":"Dios con su fiel amor vendr&#225; a mi encuentro; me ayudar&#225; a derrotar a mis enemigos.   \n","readableText":"Dios con su fiel amor vendrá a mi encuentro; me ayudará a derrotar a mis\nenemigos.\n\n"},{"verse":"11","text":"Dios m&#237;o, no los mates de una vez. Si fuera as&#237; la gente se olvidar&#237;a. Se&#241;or y Protector nuestro, disp&#233;rsalos y derr&#243;talos con todo tu poder.   \n","readableText":"Dios mío, no los mates de una vez. Si fuera así la gente se olvidaría. Señor y\nProtector nuestro, dispérsalos y derrótalos con todo tu poder.\n\n"},{"verse":"12","text":"La gente mala peca cuando miente y desea el mal. Cast&#237;galos por todo lo que dicen; haz que su orgullo los atrape.   \n","readableText":"La gente mala peca cuando miente y desea el mal. Castígalos por todo lo que\ndicen; haz que su orgullo los atrape.\n\n"},{"verse":"13","text":"Destr&#250;yelos con toda tu furia, hasta que no quede nada de ellos. Entonces, todo el mundo sabr&#225; que Dios gobierna sobre el pueblo de Jacob.  Selah   \n","readableText":"Destrúyelos con toda tu furia, hasta que no quede nada de ellos. Entonces, todo\nel mundo sabrá que Dios gobierna sobre el pueblo de Jacob. Selah\n\n"},{"verse":"14","text":"La gente mala viene a la ciudad gru&#241;endo por las calles, como perros al atardecer.   \n","readableText":"La gente mala viene a la ciudad gruñendo por las calles, como perros al\natardecer.\n\n"},{"verse":"15","text":"Vaga por las calles buscando comida, pero no encuentra nada de comer y sigue quej&#225;ndose.   \n","readableText":"Vaga por las calles buscando comida, pero no encuentra nada de comer y sigue\nquejándose.\n\n"},{"verse":"16","text":"Pero yo cantar&#233; a tu poder, y por la ma&#241;ana cantar&#233; alegre alabando tu fiel amor; porque t&#250; eres mi refugio, mi protecci&#243;n en tiempos de peligro.   \n","readableText":"Pero yo cantaré a tu poder, y por la mañana cantaré alegre alabando tu fiel\namor; porque tú eres mi refugio, mi protección en tiempos de peligro.\n\n"},{"verse":"17","text":"Te cantar&#233; alabanzas, Dios m&#237;o. Pues eres mi fuerza y mi refugio, el Dios que me demuestra su fiel amor.\n","readableText":"Te cantaré alabanzas, Dios mío. Pues eres mi fuerza y mi refugio, el Dios que\nme demuestra su fiel amor.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "59",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Dios mío, sálvame de mis enemigos;\n    ayúdame a derrotar a los que me atacan.",
+      "readableText": "Dios mío, sálvame de mis enemigos; ayúdame a derrotar a los que me atacan."
+    },
+    {
+      "verse": "2",
+      "text": "Rescátame de los que hacen el mal,\n    sálvame de esos asesinos.",
+      "readableText": "Rescátame de los que hacen el mal, sálvame de esos asesinos."
+    },
+    {
+      "verse": "3",
+      "text": "Ellos tratan de matarme.\n    SEÑOR, hay hombres perversos que quieren atacarme\n    a pesar de que no he cometido ningún delito ni pecado.",
+      "readableText": "Ellos tratan de matarme. SEÑOR, hay hombres perversos que quieren atacarme a pesar de que no he cometido ningún delito ni pecado."
+    },
+    {
+      "verse": "4",
+      "text": "No he hecho nada malo.\n    Sin embargo, corren ellos listos para atacarme.\n¡Levántate, y ven a ayudarme!\n    Mira lo que está sucediendo.",
+      "readableText": "No he hecho nada malo. Sin embargo, corren ellos listos para atacarme. ¡Levántate, y ven a ayudarme! Mira lo que está sucediendo."
+    },
+    {
+      "verse": "5",
+      "text": "Tú eres el SEÑOR,\n    Dios de los ejércitos, el Dios de Israel.\nLevántate y castiga a todas las naciones;\n    no tengas piedad de esos traidores perversos. Selah",
+      "readableText": "Tú eres el SEÑOR, Dios de los ejércitos, el Dios de Israel. Levántate y castiga a todas las naciones; no tengas piedad de esos traidores perversos. Selah"
+    },
+    {
+      "verse": "6",
+      "text": "Esa gente mala regresa como perros,\n    rondando y gruñendo por las calles de la ciudad.",
+      "readableText": "Esa gente mala regresa como perros, rondando y gruñendo por las calles de la ciudad."
+    },
+    {
+      "verse": "7",
+      "text": "¡Óyelos! Echan espuma por la boca\n    y dicen cosas crueles sin importar quién los esté escuchando.",
+      "readableText": "¡Óyelos! Echan espuma por la boca y dicen cosas crueles sin importar quién los esté escuchando."
+    },
+    {
+      "verse": "8",
+      "text": "SEÑOR, tú te ríes de ellos,\n    te burlas de toda esa gente.",
+      "readableText": "SEÑOR, tú te ríes de ellos, te burlas de toda esa gente."
+    },
+    {
+      "verse": "9",
+      "text": "Yo te cantaré mis canciones de alabanza\n    porque tú, Dios, eres mi refugio.",
+      "readableText": "Yo te cantaré mis canciones de alabanza porque tú, Dios, eres mi refugio."
+    },
+    {
+      "verse": "10",
+      "text": "Dios con su fiel amor vendrá a mi encuentro;\n    me ayudará a derrotar a mis enemigos.",
+      "readableText": "Dios con su fiel amor vendrá a mi encuentro; me ayudará a derrotar a mis enemigos."
+    },
+    {
+      "verse": "11",
+      "text": "Dios mío, no los mates de una vez.\n    Si fuera así la gente se olvidaría.\nSeñor y Protector nuestro,\n    dispérsalos y derrótalos con todo tu poder.",
+      "readableText": "Dios mío, no los mates de una vez. Si fuera así la gente se olvidaría. Señor y Protector nuestro, dispérsalos y derrótalos con todo tu poder."
+    },
+    {
+      "verse": "12",
+      "text": "La gente mala peca cuando miente\n    y desea el mal.\nCastígalos por todo lo que dicen;\n    haz que su orgullo los atrape.",
+      "readableText": "La gente mala peca cuando miente y desea el mal. Castígalos por todo lo que dicen; haz que su orgullo los atrape."
+    },
+    {
+      "verse": "13",
+      "text": "Destrúyelos con toda tu furia,\n    hasta que no quede nada de ellos.\nEntonces, todo el mundo sabrá\n    que Dios gobierna sobre el pueblo de Jacob. Selah",
+      "readableText": "Destrúyelos con toda tu furia, hasta que no quede nada de ellos. Entonces, todo el mundo sabrá que Dios gobierna sobre el pueblo de Jacob. Selah"
+    },
+    {
+      "verse": "14",
+      "text": "La gente mala viene a la ciudad gruñendo por las calles,\n    como perros al atardecer.",
+      "readableText": "La gente mala viene a la ciudad gruñendo por las calles, como perros al atardecer."
+    },
+    {
+      "verse": "15",
+      "text": "Vaga por las calles buscando comida,\n    pero no encuentra nada de comer y sigue quejándose.",
+      "readableText": "Vaga por las calles buscando comida, pero no encuentra nada de comer y sigue quejándose."
+    },
+    {
+      "verse": "16",
+      "text": "Pero yo cantaré a tu poder,\n    y por la mañana cantaré alegre alabando tu fiel amor;\nporque tú eres mi refugio,\n    mi protección en tiempos de peligro.",
+      "readableText": "Pero yo cantaré a tu poder, y por la mañana cantaré alegre alabando tu fiel amor; porque tú eres mi refugio, mi protección en tiempos de peligro."
+    },
+    {
+      "verse": "17",
+      "text": "Te cantaré alabanzas, Dios mío.\n    Pues eres mi fuerza y mi refugio,\n    el Dios que me demuestra su fiel amor.",
+      "readableText": "Te cantaré alabanzas, Dios mío. Pues eres mi fuerza y mi refugio, el Dios que me demuestra su fiel amor."
+    }
+  ]
+}

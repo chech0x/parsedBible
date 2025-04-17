@@ -1,0 +1,22 @@
+{
+  "book": "PSA",
+  "rev": "TLA",
+  "chapter": "134",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "134 ¡Alaben a Dios todos ustedes,\nque están a su servicio!\n¡Alábenlo también ustedes,\nlos que en su templo\nle cantan himnos por las noches!",
+      "readableText": "134 ¡Alaben a Dios todos ustedes, que están a su servicio! ¡Alábenlo también ustedes, los que en su templo le cantan himnos por las noches!"
+    },
+    {
+      "verse": "2",
+      "text": "¡Levanten las manos para orar!\n¡Dirijan la mirada hacia el altar,\ny alaben a Dios!",
+      "readableText": "¡Levanten las manos para orar! ¡Dirijan la mirada hacia el altar, y alaben a Dios!"
+    },
+    {
+      "verse": "3",
+      "text": "¡Que Dios,\ncreador del cielo y de la tierra,\nte bendiga desde su templo!",
+      "readableText": "¡Que Dios, creador del cielo y de la tierra, te bendiga desde su templo!"
+    }
+  ]
+}

@@ -1,1 +1,42 @@
-{"book":"PSA","rev":"PDT","chapter":"87","verses":[{"verse":"1","text":"Dios ech&#243; los cimientos de su ciudad en las monta&#241;as sagradas.   \n","readableText":"Dios echó los cimientos de su ciudad en las montañas sagradas.\n\n"},{"verse":"2","text":"El SE&#209;OR ama las puertas de la ciudad de Sion m&#225;s que a cualquier otra poblaci&#243;n de Israel.   \n","readableText":"El SEÑOR ama las puertas de la ciudad de Sion más que a cualquier otra\npoblación de Israel.\n\n"},{"verse":"3","text":"Ciudad de Dios, la gente cuenta maravillas de ti.  Selah   \n","readableText":"Ciudad de Dios, la gente cuenta maravillas de ti. Selah\n\n"},{"verse":"4","text":"Dice Dios: &#171;Algunos de mi pueblo viven en Egipto  y en Babilonia, en Filistea, en Tiro, y hasta en Etiop&#237;a&#187;.   \n","readableText":"Dice Dios: «Algunos de mi pueblo viven en Egipto y en Babilonia, en Filistea,\nen Tiro, y hasta en Etiopía».\n\n"},{"verse":"5","text":"Pero en cuanto a Sion dice: &#171;Yo conozco a cada uno que naci&#243; all&#237;&#187;. Es la ciudad construida por Dios Alt&#237;simo.   \n","readableText":"Pero en cuanto a Sion dice: «Yo conozco a cada uno que nació allí». Es la\nciudad construida por Dios Altísimo.\n\n"},{"verse":"6","text":"El SE&#209;OR escribir&#225; en el registro de las naciones: &#171;Este naci&#243; en Sion&#187;.  Selah   \n","readableText":"El SEÑOR escribirá en el registro de las naciones: «Este nació en Sion». Selah\n\n\n"},{"verse":"7","text":"El pueblo de Dios cantar&#225; y bailar&#225; diciendo: &#171;Todas mis ra&#237;ces est&#225;n en ti&#187;.\n","readableText":"El pueblo de Dios cantará y bailará diciendo: «Todas mis raíces están en ti».\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "87",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Dios echó los cimientos de su ciudad\n    en las montañas sagradas.",
+      "readableText": "Dios echó los cimientos de su ciudad en las montañas sagradas."
+    },
+    {
+      "verse": "2",
+      "text": "El SEÑOR ama las puertas de la ciudad de Sion\n    más que a cualquier otra población de Israel.",
+      "readableText": "El SEÑOR ama las puertas de la ciudad de Sion más que a cualquier otra población de Israel."
+    },
+    {
+      "verse": "3",
+      "text": "Ciudad de Dios,\n    la gente cuenta maravillas de ti. Selah",
+      "readableText": "Ciudad de Dios, la gente cuenta maravillas de ti. Selah"
+    },
+    {
+      "verse": "4",
+      "text": "Dice Dios: «Algunos de mi pueblo viven en Egipto y en Babilonia,\n    en Filistea, en Tiro, y hasta en Etiopía».",
+      "readableText": "Dice Dios: «Algunos de mi pueblo viven en Egipto y en Babilonia, en Filistea, en Tiro, y hasta en Etiopía»."
+    },
+    {
+      "verse": "5",
+      "text": "Pero en cuanto a Sion dice:\n    «Yo conozco a cada uno que nació allí».\n    Es la ciudad construida por Dios Altísimo.",
+      "readableText": "Pero en cuanto a Sion dice: «Yo conozco a cada uno que nació allí». Es la ciudad construida por Dios Altísimo."
+    },
+    {
+      "verse": "6",
+      "text": "El SEÑOR escribirá en el registro de las naciones:\n    «Este nació en Sion». Selah",
+      "readableText": "El SEÑOR escribirá en el registro de las naciones: «Este nació en Sion». Selah"
+    },
+    {
+      "verse": "7",
+      "text": "El pueblo de Dios cantará y bailará diciendo:\n    «Todas mis raíces están en ti».  end of footnotes",
+      "readableText": "El pueblo de Dios cantará y bailará diciendo: «Todas mis raíces están en ti». end of footnotes"
+    }
+  ]
+}

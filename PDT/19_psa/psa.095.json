@@ -1,1 +1,62 @@
-{"book":"PSA","rev":"PDT","chapter":"95","verses":[{"verse":"1","text":"&#161;Vengan, cantemos con alegr&#237;a al SE&#209;OR! Alabemos a nuestra roca, al que nos salva.   \n","readableText":"¡Vengan, cantemos con alegría al SEÑOR! Alabemos a nuestra roca, al que nos\nsalva.\n\n"},{"verse":"2","text":"Vayamos a su encuentro con canciones de agradecimiento; d&#233;mosle honra con alegres canciones de alabanza.   \n","readableText":"Vayamos a su encuentro con canciones de agradecimiento; démosle honra con\nalegres canciones de alabanza.\n\n"},{"verse":"3","text":"Porque el SE&#209;OR es gran Dios, el gran Rey que gobierna a todos los dioses.   \n","readableText":"Porque el SEÑOR es gran Dios, el gran Rey que gobierna a todos los dioses.\n\n"},{"verse":"4","text":"Las profundidades de la tierra y las alturas de los montes le pertenecen.   \n","readableText":"Las profundidades de la tierra y las alturas de los montes le pertenecen.\n\n"},{"verse":"5","text":"El mar le pertenece, pues &#233;l lo cre&#243;; hizo la tierra con sus propias manos.   \n","readableText":"El mar le pertenece, pues él lo creó; hizo la tierra con sus propias manos.\n\n"},{"verse":"6","text":"Vengan, postr&#233;monos, inclin&#233;monos; arrodill&#233;monos ante el SE&#209;OR, nuestro Creador.   \n","readableText":"Vengan, postrémonos, inclinémonos; arrodillémonos ante el SEÑOR, nuestro\nCreador.\n\n"},{"verse":"7","text":"&#201;l es nuestro Dios, y nosotros somos el pueblo de su prado, el reba&#241;o que &#233;l cuida. Si oyen hoy su voz, escuchen:   \n","readableText":"Él es nuestro Dios, y nosotros somos el pueblo de su prado, el rebaño que él\ncuida. Si oyen hoy su voz, escuchen:\n\n"},{"verse":"8","text":"&#171;No sean tercos como lo fueron en Merib&#225; y en Mas&#225;,  en el desierto,   \n","readableText":"«No sean tercos como lo fueron en Meribá y en Masá, en el desierto,\n\n"},{"verse":"9","text":"cuando sus antepasados me pusieron a prueba. Lo hicieron, aunque hab&#237;an visto mis obras.   \n","readableText":"cuando sus antepasados me pusieron a prueba. Lo hicieron, aunque habían visto\nmis obras.\n\n"},{"verse":"10","text":"Estuve disgustado con esa generaci&#243;n por 40 a&#241;os. De ellos dije: &#8220;Son un pueblo que no es leal. No tiene en cuenta los caminos que trazo con mis ense&#241;anzas&#8221;.   \n","readableText":"Estuve disgustado con esa generación por 40 años. De ellos dije: “Son un pueblo\nque no es leal. No tiene en cuenta los caminos que trazo con mis enseñanzas”.\n\n\n"},{"verse":"11","text":"As&#237; que me enoj&#233; con ellos y jur&#233; que nunca entrar&#237;an al lugar de mi reposo&#187;.\n","readableText":"Así que me enojé con ellos y juré que nunca entrarían al lugar de mi reposo».\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "95",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "¡Vengan, cantemos con alegría al SEÑOR!\n    Alabemos a nuestra roca, al que nos salva.",
+      "readableText": "¡Vengan, cantemos con alegría al SEÑOR! Alabemos a nuestra roca, al que nos salva."
+    },
+    {
+      "verse": "2",
+      "text": "Vayamos a su encuentro con canciones de agradecimiento;\n    démosle honra con alegres canciones de alabanza.",
+      "readableText": "Vayamos a su encuentro con canciones de agradecimiento; démosle honra con alegres canciones de alabanza."
+    },
+    {
+      "verse": "3",
+      "text": "Porque el SEÑOR es gran Dios,\n    el gran Rey que gobierna a todos los dioses.",
+      "readableText": "Porque el SEÑOR es gran Dios, el gran Rey que gobierna a todos los dioses."
+    },
+    {
+      "verse": "4",
+      "text": "Las profundidades de la tierra\n    y las alturas de los montes le pertenecen.",
+      "readableText": "Las profundidades de la tierra y las alturas de los montes le pertenecen."
+    },
+    {
+      "verse": "5",
+      "text": "El mar le pertenece, pues él lo creó;\n    hizo la tierra con sus propias manos.",
+      "readableText": "El mar le pertenece, pues él lo creó; hizo la tierra con sus propias manos."
+    },
+    {
+      "verse": "6",
+      "text": "Vengan, postrémonos, inclinémonos;\n    arrodillémonos ante el SEÑOR, nuestro Creador.",
+      "readableText": "Vengan, postrémonos, inclinémonos; arrodillémonos ante el SEÑOR, nuestro Creador."
+    },
+    {
+      "verse": "7",
+      "text": "Él es nuestro Dios,\n    y nosotros somos el pueblo de su prado,\n    el rebaño que él cuida. Si oyen hoy su voz, escuchen:",
+      "readableText": "Él es nuestro Dios, y nosotros somos el pueblo de su prado, el rebaño que él cuida. Si oyen hoy su voz, escuchen:"
+    },
+    {
+      "verse": "8",
+      "text": "«No sean tercos como lo fueron\n    en Meribá y en Masá, en el desierto,",
+      "readableText": "«No sean tercos como lo fueron en Meribá y en Masá, en el desierto,"
+    },
+    {
+      "verse": "9",
+      "text": "cuando sus antepasados me pusieron a prueba.\n    Lo hicieron, aunque habían visto mis obras.",
+      "readableText": "cuando sus antepasados me pusieron a prueba. Lo hicieron, aunque habían visto mis obras."
+    },
+    {
+      "verse": "10",
+      "text": "Estuve disgustado con esa generación por 40 años.\n    De ellos dije: “Son un pueblo que no es leal.\n    No tiene en cuenta los caminos que trazo con mis enseñanzas”.",
+      "readableText": "Estuve disgustado con esa generación por 40 años. De ellos dije: “Son un pueblo que no es leal. No tiene en cuenta los caminos que trazo con mis enseñanzas”."
+    },
+    {
+      "verse": "11",
+      "text": "Así que me enojé con ellos\n    y juré que nunca entrarían al lugar de mi reposo».  end of footnotes",
+      "readableText": "Así que me enojé con ellos y juré que nunca entrarían al lugar de mi reposo». end of footnotes"
+    }
+  ]
+}

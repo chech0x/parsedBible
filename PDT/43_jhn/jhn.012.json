@@ -1,1 +1,257 @@
-{"book":"JHN","rev":"PDT","chapter":"12","verses":[{"verse":"1","text":"Seis d&#237;as antes de la Pascua Jes&#250;s fue a Betania, donde viv&#237;a L&#225;zaro, el hombre que Jes&#250;s hab&#237;a resucitado de la muerte. \n","readableText":"Seis días antes de la Pascua Jesús fue a Betania, donde vivía Lázaro, el hombre\nque Jesús había resucitado de la muerte.\n\n"},{"verse":"2","text":"All&#237; le prepararon una comida y Marta serv&#237;a. L&#225;zaro era uno de los hombres que estaban con &#233;l a la mesa. \n","readableText":"Allí le prepararon una comida y Marta servía. Lázaro era uno de los hombres que\nestaban con él a la mesa.\n\n"},{"verse":"3","text":"Luego Mar&#237;a tom&#243; casi medio litro de perfume en aceite muy caro, hecho de nardo puro. Derram&#243; el aceite en los pies de Jes&#250;s y los sec&#243; con su cabello. La casa se llen&#243; con el olor del perfume en aceite.   \n","readableText":"Luego María tomó casi medio litro de perfume en aceite muy caro, hecho de nardo\npuro. Derramó el aceite en los pies de Jesús y los secó con su cabello. La casa\nse llenó con el olor del perfume en aceite.\n\n"},{"verse":"4","text":"Judas Iscariote, uno de los seguidores de Jes&#250;s, el que despu&#233;s lo traicionar&#237;a, dijo:   \n","readableText":"Judas Iscariote, uno de los seguidores de Jesús, el que después lo\ntraicionaría, dijo:\n\n"},{"verse":"5","text":"&#8212;&#191;Por qu&#233; no se vendi&#243; ese perfume que vale tanto como el salario de un a&#241;o , y se les dio el dinero a los pobres?   \n","readableText":"—¿Por qué no se vendió ese perfume que vale tanto como el salario de un año , y\nse les dio el dinero a los pobres?\n\n"},{"verse":"6","text":"Judas no dijo esto porque le importaran los pobres, sino porque era ladr&#243;n. &#201;l ten&#237;a a su cargo la bolsa del dinero y se robaba lo que hab&#237;a adentro. \n","readableText":"Judas no dijo esto porque le importaran los pobres, sino porque era ladrón. Él\ntenía a su cargo la bolsa del dinero y se robaba lo que había adentro.\n\n"},{"verse":"7","text":"Entonces Jes&#250;s dijo: &#8212;No la molestes. Deja que haga esto como preparaci&#243;n para el d&#237;a de mi entierro. \n","readableText":"Entonces Jesús dijo: —No la molestes. Deja que haga esto como preparación para\nel día de mi entierro.\n\n"},{"verse":"8","text":"Pues siempre tendr&#225;n a los pobres con ustedes,  pero no siempre me tendr&#225;n a m&#237;.   \n","readableText":"Pues siempre tendrán a los pobres con ustedes, pero no siempre me tendrán a mí.\n\n\n"},{"verse":"9","text":"La gran multitud de jud&#237;os supo que Jes&#250;s estaba en Betania, y fueron a ver a Jes&#250;s y tambi&#233;n a L&#225;zaro, al que Jes&#250;s hab&#237;a resucitado. \n","readableText":"La gran multitud de judíos supo que Jesús estaba en Betania, y fueron a ver a\nJesús y también a Lázaro, al que Jesús había resucitado.\n\n"},{"verse":"10","text":"Entonces los jefes de los sacerdotes hicieron planes para matar tambi&#233;n a L&#225;zaro, \n","readableText":"Entonces los jefes de los sacerdotes hicieron planes para matar también a\nLázaro,\n\n"},{"verse":"11","text":"pues por causa de L&#225;zaro muchos jud&#237;os los dejaban y estaban creyendo en Jes&#250;s.   \n","readableText":"pues por causa de Lázaro muchos judíos los dejaban y estaban creyendo en Jesús.\n\n\n"},{"verse":"12","text":"Al d&#237;a siguiente, la gran multitud que hab&#237;a venido a la fiesta oy&#243; que Jes&#250;s iba a venir a Jerusal&#233;n. \n","readableText":"Al día siguiente, la gran multitud que había venido a la fiesta oyó que Jesús\niba a venir a Jerusalén.\n\n"},{"verse":"13","text":"Tomaron ramas de los &#225;rboles y salieron a recibirlo, gritando: &#8212;&#161;Viva el Salvador! &#161;Bendito el que viene en el nombre del Se&#241;or, el rey de Israel!   \n","readableText":"Tomaron ramas de los árboles y salieron a recibirlo, gritando: —¡Viva el\nSalvador! ¡Bendito el que viene en el nombre del Señor, el rey de Israel!\n\n"},{"verse":"14","text":"Jes&#250;s encontr&#243; un burro y se mont&#243; en &#233;l, como est&#225; escrito:   \n","readableText":"Jesús encontró un burro y se montó en él, como está escrito:\n\n"},{"verse":"15","text":"  \n","readableText":"\n\n"}]}
+{
+  "book": "JHN",
+  "rev": "PDT",
+  "chapter": "12",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "12 Seis días antes de la Pascua Jesús fue a Betania, donde vivía Lázaro, el hombre que Jesús había resucitado de la muerte.",
+      "readableText": "12 Seis días antes de la Pascua Jesús fue a Betania, donde vivía Lázaro, el hombre que Jesús había resucitado de la muerte."
+    },
+    {
+      "verse": "2",
+      "text": "Allí le prepararon una comida y Marta servía. Lázaro era uno de los hombres que estaban con él a la mesa.",
+      "readableText": "Allí le prepararon una comida y Marta servía. Lázaro era uno de los hombres que estaban con él a la mesa."
+    },
+    {
+      "verse": "3",
+      "text": "Luego María tomó casi medio litro de perfume en aceite muy caro, hecho de nardo puro. Derramó el aceite en los pies de Jesús y los secó con su cabello. La casa se llenó con el olor del perfume en aceite.",
+      "readableText": "Luego María tomó casi medio litro de perfume en aceite muy caro, hecho de nardo puro. Derramó el aceite en los pies de Jesús y los secó con su cabello. La casa se llenó con el olor del perfume en aceite."
+    },
+    {
+      "verse": "4",
+      "text": "Judas Iscariote, uno de los seguidores de Jesús, el que después lo traicionaría, dijo:",
+      "readableText": "Judas Iscariote, uno de los seguidores de Jesús, el que después lo traicionaría, dijo:"
+    },
+    {
+      "verse": "5",
+      "text": "—¿Por qué no se vendió ese perfume que vale tanto como el salario de un año, y se les dio el dinero a los pobres?",
+      "readableText": "—¿Por qué no se vendió ese perfume que vale tanto como el salario de un año, y se les dio el dinero a los pobres?"
+    },
+    {
+      "verse": "6",
+      "text": "Judas no dijo esto porque le importaran los pobres, sino porque era ladrón. Él tenía a su cargo la bolsa del dinero y se robaba lo que había adentro.",
+      "readableText": "Judas no dijo esto porque le importaran los pobres, sino porque era ladrón. Él tenía a su cargo la bolsa del dinero y se robaba lo que había adentro."
+    },
+    {
+      "verse": "7",
+      "text": "Entonces Jesús dijo:—No la molestes. Deja que haga esto como preparación para el día de mi entierro.",
+      "readableText": "Entonces Jesús dijo:—No la molestes. Deja que haga esto como preparación para el día de mi entierro."
+    },
+    {
+      "verse": "8",
+      "text": "Pues siempre tendrán a los pobres con ustedes, pero no siempre me tendrán a mí.",
+      "readableText": "Pues siempre tendrán a los pobres con ustedes, pero no siempre me tendrán a mí."
+    },
+    {
+      "verse": "9",
+      "text": "La gran multitud de judíos supo que Jesús estaba en Betania, y fueron a ver a Jesús y también a Lázaro, al que Jesús había resucitado.",
+      "readableText": "La gran multitud de judíos supo que Jesús estaba en Betania, y fueron a ver a Jesús y también a Lázaro, al que Jesús había resucitado."
+    },
+    {
+      "verse": "10",
+      "text": "Entonces los jefes de los sacerdotes hicieron planes para matar también a Lázaro,",
+      "readableText": "Entonces los jefes de los sacerdotes hicieron planes para matar también a Lázaro,"
+    },
+    {
+      "verse": "11",
+      "text": "pues por causa de Lázaro muchos judíos los dejaban y estaban creyendo en Jesús. (Mt 21:1-11; Mr 11:1-11; Lc 19:28-40)",
+      "readableText": "pues por causa de Lázaro muchos judíos los dejaban y estaban creyendo en Jesús. (Mt 21:1-11; Mr 11:1-11; Lc 19:28-40)"
+    },
+    {
+      "verse": "12",
+      "text": "Al día siguiente, la gran multitud que había venido a la fiesta oyó que Jesús iba a venir a Jerusalén.",
+      "readableText": "Al día siguiente, la gran multitud que había venido a la fiesta oyó que Jesús iba a venir a Jerusalén."
+    },
+    {
+      "verse": "13",
+      "text": "Tomaron ramas de los árboles y salieron a recibirlo, gritando:—¡Viva el Salvador!\n    ¡Bendito el que viene en el nombre del Señor, el rey de Israel!",
+      "readableText": "Tomaron ramas de los árboles y salieron a recibirlo, gritando:—¡Viva el Salvador! ¡Bendito el que viene en el nombre del Señor, el rey de Israel!"
+    },
+    {
+      "verse": "14",
+      "text": "Jesús encontró un burro y se montó en él, como está escrito:",
+      "readableText": "Jesús encontró un burro y se montó en él, como está escrito:"
+    },
+    {
+      "verse": "15",
+      "text": "«No temas gente de Sion.\n    Mira, viene tu rey montado en un burro».",
+      "readableText": "«No temas gente de Sion. Mira, viene tu rey montado en un burro»."
+    },
+    {
+      "verse": "16",
+      "text": "Al principio sus seguidores no entendían nada de esto, pero cuando Jesús fue llevado de vuelta a su esplendor en el cielo, cayeron en cuenta de que esto estaba escrito acerca de él y que ellos lo habían hecho para él.",
+      "readableText": "Al principio sus seguidores no entendían nada de esto, pero cuando Jesús fue llevado de vuelta a su esplendor en el cielo, cayeron en cuenta de que esto estaba escrito acerca de él y que ellos lo habían hecho para él."
+    },
+    {
+      "verse": "17",
+      "text": "Había mucha gente cuando Jesús le dijo a Lázaro que saliera del sepulcro y lo resucitó de la muerte. Ellos les contaban a los demás lo que había pasado.",
+      "readableText": "Había mucha gente cuando Jesús le dijo a Lázaro que saliera del sepulcro y lo resucitó de la muerte. Ellos les contaban a los demás lo que había pasado."
+    },
+    {
+      "verse": "18",
+      "text": "Por eso la multitud salió a recibirlo. Había escuchado que Jesús era el que había hecho la señal milagrosa.",
+      "readableText": "Por eso la multitud salió a recibirlo. Había escuchado que Jesús era el que había hecho la señal milagrosa."
+    },
+    {
+      "verse": "19",
+      "text": "Entonces los fariseos se decían entre sí: «Miren, ¡todo el mundo lo sigue! Así y todo, no hay nada que hacer».",
+      "readableText": "Entonces los fariseos se decían entre sí: «Miren, ¡todo el mundo lo sigue! Así y todo, no hay nada que hacer»."
+    },
+    {
+      "verse": "20",
+      "text": "Algunos de los que tenían la costumbre de ir a adorar en la fiesta de la Pascua eran griegos.",
+      "readableText": "Algunos de los que tenían la costumbre de ir a adorar en la fiesta de la Pascua eran griegos."
+    },
+    {
+      "verse": "21",
+      "text": "Ellos se acercaron a Felipe, que era de Betsaida de Galilea, y le rogaron:—Señor, queremos ver a Jesús.Felipe vino a contarle eso a Andrés, y",
+      "readableText": "Ellos se acercaron a Felipe, que era de Betsaida de Galilea, y le rogaron:—Señor, queremos ver a Jesús.Felipe vino a contarle eso a Andrés, y"
+    },
+    {
+      "verse": "22",
+      "text": "los dos fueron y se lo dijeron a Jesús.",
+      "readableText": "los dos fueron y se lo dijeron a Jesús."
+    },
+    {
+      "verse": "23",
+      "text": "Él les contestó:—Ha llegado la hora de que el Hijo del hombre reciba honor.",
+      "readableText": "Él les contestó:—Ha llegado la hora de que el Hijo del hombre reciba honor."
+    },
+    {
+      "verse": "24",
+      "text": "Te digo la verdad: si un grano de trigo no cae en la tierra y muere, sigue siendo el mismo grano. Pero si cae en la tierra y muere, produce muchos granos.",
+      "readableText": "Te digo la verdad: si un grano de trigo no cae en la tierra y muere, sigue siendo el mismo grano. Pero si cae en la tierra y muere, produce muchos granos."
+    },
+    {
+      "verse": "25",
+      "text": "El que ama su vida, la perderá, pero el que no se aferre a su vida en este mundo, la salvará. Tendrá vida para siempre.",
+      "readableText": "El que ama su vida, la perderá, pero el que no se aferre a su vida en este mundo, la salvará. Tendrá vida para siempre."
+    },
+    {
+      "verse": "26",
+      "text": "El que quiera servirme, que me siga. Donde yo esté, allí también estará mi siervo. Al que me sirva, el Padre lo honrará.",
+      "readableText": "El que quiera servirme, que me siga. Donde yo esté, allí también estará mi siervo. Al que me sirva, el Padre lo honrará."
+    },
+    {
+      "verse": "27",
+      "text": "»Ahora estoy muy angustiado y no sé qué decir. ¿Qué podría decir? ¿Diré: “Padre, sálvame de esta hora de sufrimiento”? ¡Pero si para eso vine, a sufrir!",
+      "readableText": "»Ahora estoy muy angustiado y no sé qué decir. ¿Qué podría decir? ¿Diré: “Padre, sálvame de esta hora de sufrimiento”? ¡Pero si para eso vine, a sufrir!"
+    },
+    {
+      "verse": "28",
+      "text": "Padre, da gloria a tu nombre.Luego vino una voz desde el cielo: «Le he dado gloria y lo haré de nuevo».",
+      "readableText": "Padre, da gloria a tu nombre.Luego vino una voz desde el cielo: «Le he dado gloria y lo haré de nuevo»."
+    },
+    {
+      "verse": "29",
+      "text": "Entonces la multitud que estaba allí y escuchó, empezó a decir que fue un trueno. Otros decían:—Un ángel le habló.",
+      "readableText": "Entonces la multitud que estaba allí y escuchó, empezó a decir que fue un trueno. Otros decían:—Un ángel le habló."
+    },
+    {
+      "verse": "30",
+      "text": "Jesús respondió:—Esta voz fue para ustedes, no para mí.",
+      "readableText": "Jesús respondió:—Esta voz fue para ustedes, no para mí."
+    },
+    {
+      "verse": "31",
+      "text": "Ahora es el momento de juzgar al mundo y de expulsar al que manda en este mundo.",
+      "readableText": "Ahora es el momento de juzgar al mundo y de expulsar al que manda en este mundo."
+    },
+    {
+      "verse": "32",
+      "text": "Cuando yo sea levantado de la tierra, atraeré a todo el mundo hacia mí.",
+      "readableText": "Cuando yo sea levantado de la tierra, atraeré a todo el mundo hacia mí."
+    },
+    {
+      "verse": "33",
+      "text": "Dijo esto para mostrar qué clase de muerte iba a tener.",
+      "readableText": "Dijo esto para mostrar qué clase de muerte iba a tener."
+    },
+    {
+      "verse": "34",
+      "text": "Entonces alguien entre la multitud le contestó:—La ley nos dice que el Mesías iba a vivir para siempre. Entonces, ¿por qué dices tú que el Hijo del hombre va a ser levantado? ¿Quién es el “Hijo del hombre”?",
+      "readableText": "Entonces alguien entre la multitud le contestó:—La ley nos dice que el Mesías iba a vivir para siempre. Entonces, ¿por qué dices tú que el Hijo del hombre va a ser levantado? ¿Quién es el “Hijo del hombre”?"
+    },
+    {
+      "verse": "35",
+      "text": "Luego Jesús les dijo:—La luz va a estar con ustedes sólo por poco tiempo. Caminen mientras la tienen, y así la oscuridad no los sorprenderá. Pues el que camina en la oscuridad no sabe por dónde va.",
+      "readableText": "Luego Jesús les dijo:—La luz va a estar con ustedes sólo por poco tiempo. Caminen mientras la tienen, y así la oscuridad no los sorprenderá. Pues el que camina en la oscuridad no sabe por dónde va."
+    },
+    {
+      "verse": "36",
+      "text": "Mientras que tengan la luz, crean en ella para que se conviertan en hijos de luz.Jesús dijo esto y se fue lejos escondiéndose de ellos.",
+      "readableText": "Mientras que tengan la luz, crean en ella para que se conviertan en hijos de luz.Jesús dijo esto y se fue lejos escondiéndose de ellos."
+    },
+    {
+      "verse": "37",
+      "text": "Aunque Jesús había hecho estas señales milagrosas delante de ellos, todavía no creían.",
+      "readableText": "Aunque Jesús había hecho estas señales milagrosas delante de ellos, todavía no creían."
+    },
+    {
+      "verse": "38",
+      "text": "Pues tenía que cumplirse lo que dijo el profeta Isaías:«Señor Dios, ¿quién ha creído en nuestro mensaje\n    y a quién se le ha mostrado tu poder?»",
+      "readableText": "Pues tenía que cumplirse lo que dijo el profeta Isaías:«Señor Dios, ¿quién ha creído en nuestro mensaje y a quién se le ha mostrado tu poder?»"
+    },
+    {
+      "verse": "39",
+      "text": "Por eso la gente no podía creer, pues Isaías también dijo:",
+      "readableText": "Por eso la gente no podía creer, pues Isaías también dijo:"
+    },
+    {
+      "verse": "40",
+      "text": "«Dios los encegueció\n    y cerró su mente\npara que ellos no pudieran ver\n    ni entender,\nni tampoco volverse a mí\n    para que yo los sane».",
+      "readableText": "«Dios los encegueció y cerró su mente para que ellos no pudieran ver ni entender, ni tampoco volverse a mí para que yo los sane»."
+    },
+    {
+      "verse": "41",
+      "text": "Isaías dijo esto porque vio la gloria de Jesús y habló sobre él.",
+      "readableText": "Isaías dijo esto porque vio la gloria de Jesús y habló sobre él."
+    },
+    {
+      "verse": "42",
+      "text": "Aun así muchos creían en Jesús. Incluso muchos de los líderes creían en él, pero les tenían miedo a los fariseos. Por eso no se lo contaban a nadie, para que no los echaran de la sinagoga.",
+      "readableText": "Aun así muchos creían en Jesús. Incluso muchos de los líderes creían en él, pero les tenían miedo a los fariseos. Por eso no se lo contaban a nadie, para que no los echaran de la sinagoga."
+    },
+    {
+      "verse": "43",
+      "text": "A ellos les gustaba más el honor que viene de los hombres que el que viene de Dios.",
+      "readableText": "A ellos les gustaba más el honor que viene de los hombres que el que viene de Dios."
+    },
+    {
+      "verse": "44",
+      "text": "Jesús dijo con voz fuerte: «El que cree en mí, no cree sólo en mí, sino también en el que me envió.",
+      "readableText": "Jesús dijo con voz fuerte: «El que cree en mí, no cree sólo en mí, sino también en el que me envió."
+    },
+    {
+      "verse": "45",
+      "text": "El que me ve a mí, ve también al que me envió.",
+      "readableText": "El que me ve a mí, ve también al que me envió."
+    },
+    {
+      "verse": "46",
+      "text": "Yo he venido al mundo como una luz para que todos los que creen en mí no estén en la oscuridad.",
+      "readableText": "Yo he venido al mundo como una luz para que todos los que creen en mí no estén en la oscuridad."
+    },
+    {
+      "verse": "47",
+      "text": "Si alguno oye lo que digo y no lo obedece, yo no lo voy a juzgar. No vine a juzgar al mundo, sino a salvarlo.",
+      "readableText": "Si alguno oye lo que digo y no lo obedece, yo no lo voy a juzgar. No vine a juzgar al mundo, sino a salvarlo."
+    },
+    {
+      "verse": "48",
+      "text": "El que me rechace y no acepte lo que digo, tiene quien lo juzgue: el mensaje que he dicho lo va a juzgar en el día final.",
+      "readableText": "El que me rechace y no acepte lo que digo, tiene quien lo juzgue: el mensaje que he dicho lo va a juzgar en el día final."
+    },
+    {
+      "verse": "49",
+      "text": "Porque yo no he hablado por mi cuenta, sino el Padre mismo que me envió me dijo lo que debo decir y enseñar.",
+      "readableText": "Porque yo no he hablado por mi cuenta, sino el Padre mismo que me envió me dijo lo que debo decir y enseñar."
+    },
+    {
+      "verse": "50",
+      "text": "Sé que lo que ordena el Padre da vida eterna. Por eso lo que hablo, lo digo como el Padre me lo dijo».  end of footnotes\n end of crossrefs",
+      "readableText": "Sé que lo que ordena el Padre da vida eterna. Por eso lo que hablo, lo digo como el Padre me lo dijo». end of footnotes end of crossrefs"
+    }
+  ]
+}

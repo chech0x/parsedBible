@@ -1,1 +1,162 @@
-{"book":"ROM","rev":"PDT","chapter":"3","verses":[{"verse":"1","text":"Tal vez t&#250; me dir&#225;s: &#171;Entonces, &#191;cu&#225;les son las ventajas de ser jud&#237;o?&#187;   \n","readableText":"Tal vez tú me dirás: «Entonces, ¿cuáles son las ventajas de ser judío?»\n\n"},{"verse":"2","text":"Ciertamente los jud&#237;os tienen muchos beneficios. El m&#225;s importante es que Dios les dio el encargo de compartir sus promesas. \n","readableText":"Ciertamente los judíos tienen muchos beneficios. El más importante es que Dios\nles dio el encargo de compartir sus promesas.\n\n"},{"verse":"3","text":"Es verdad que algunos jud&#237;os no fueron fieles pues no hicieron lo que Dios quer&#237;a, pero &#191;su infidelidad impedir&#225; que Dios sea fiel en hacer lo que prometi&#243;?   \n","readableText":"Es verdad que algunos judíos no fueron fieles pues no hicieron lo que Dios\nquería, pero ¿su infidelidad impedirá que Dios sea fiel en hacer lo que\nprometió?\n\n"},{"verse":"4","text":"  \n","readableText":"\n\n"}]}
+{
+  "book": "ROM",
+  "rev": "PDT",
+  "chapter": "3",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "3 Tal vez tú me dirás: «Entonces, ¿cuáles son las ventajas de ser judío?»",
+      "readableText": "3 Tal vez tú me dirás: «Entonces, ¿cuáles son las ventajas de ser judío?»"
+    },
+    {
+      "verse": "2",
+      "text": "Ciertamente los judíos tienen muchos beneficios. El más importante es que Dios les dio el encargo de compartir sus promesas.",
+      "readableText": "Ciertamente los judíos tienen muchos beneficios. El más importante es que Dios les dio el encargo de compartir sus promesas."
+    },
+    {
+      "verse": "3",
+      "text": "Es verdad que algunos judíos no fueron fieles pues no hicieron lo que Dios quería, pero ¿su infidelidad impedirá que Dios sea fiel en hacer lo que prometió?",
+      "readableText": "Es verdad que algunos judíos no fueron fieles pues no hicieron lo que Dios quería, pero ¿su infidelidad impedirá que Dios sea fiel en hacer lo que prometió?"
+    },
+    {
+      "verse": "4",
+      "text": "¡De ninguna manera! Aunque todo el mundo falle en cumplir, Dios siempre cumple lo que promete. Así está escrito:«Para que, por medio de tus palabras,\n    se demuestre que tú eres justo\n    y vencerás cuando te juzguen».",
+      "readableText": "¡De ninguna manera! Aunque todo el mundo falle en cumplir, Dios siempre cumple lo que promete. Así está escrito:«Para que, por medio de tus palabras, se demuestre que tú eres justo y vencerás cuando te juzguen»."
+    },
+    {
+      "verse": "5",
+      "text": "Cuando hacemos lo que es injusto, demostramos lo justo que es Dios. ¿Será posible entonces decir que Dios es injusto cuando nos castiga? (Estoy hablando según la lógica humana).",
+      "readableText": "Cuando hacemos lo que es injusto, demostramos lo justo que es Dios. ¿Será posible entonces decir que Dios es injusto cuando nos castiga? (Estoy hablando según la lógica humana)."
+    },
+    {
+      "verse": "6",
+      "text": "¡Claro que no! Si Dios fuera injusto, no tendría derecho de juzgar al mundo.",
+      "readableText": "¡Claro que no! Si Dios fuera injusto, no tendría derecho de juzgar al mundo."
+    },
+    {
+      "verse": "7",
+      "text": "Sería lo mismo decir: «Si comparados con la fidelidad de Dios mis engaños resultan en honra para Dios, entonces ¿por qué me condena como pecador?»",
+      "readableText": "Sería lo mismo decir: «Si comparados con la fidelidad de Dios mis engaños resultan en honra para Dios, entonces ¿por qué me condena como pecador?»"
+    },
+    {
+      "verse": "8",
+      "text": "También sería como decir: «Hagamos el mal para que venga el bien». Muchos nos critican y dicen que eso es lo que nosotros enseñamos, lo cual es falso. Con razón Dios los condenará.",
+      "readableText": "También sería como decir: «Hagamos el mal para que venga el bien». Muchos nos critican y dicen que eso es lo que nosotros enseñamos, lo cual es falso. Con razón Dios los condenará."
+    },
+    {
+      "verse": "9",
+      "text": "«¿Estamos entonces en peores condiciones que los demás?» ¡Claro que no! Ya dijimos que tanto los judíos como los que no son judíos tienen tendencia al pecado.",
+      "readableText": "«¿Estamos entonces en peores condiciones que los demás?» ¡Claro que no! Ya dijimos que tanto los judíos como los que no son judíos tienen tendencia al pecado."
+    },
+    {
+      "verse": "10",
+      "text": "Pues como está escrito:«No hay justo, ¡ni uno solo!",
+      "readableText": "Pues como está escrito:«No hay justo, ¡ni uno solo!"
+    },
+    {
+      "verse": "11",
+      "text": "No hay quien tenga entendimiento.\n    No hay quien de verdad quiera conocer a Dios.",
+      "readableText": "No hay quien tenga entendimiento. No hay quien de verdad quiera conocer a Dios."
+    },
+    {
+      "verse": "12",
+      "text": "Todos han abandonado a Dios.\n    Todos se hicieron inútiles.\nNo hay nadie que haga el bien.\n    ¡Ni uno solo!",
+      "readableText": "Todos han abandonado a Dios. Todos se hicieron inútiles. No hay nadie que haga el bien. ¡Ni uno solo!"
+    },
+    {
+      "verse": "13",
+      "text": "Su boca es un sepulcro abierto;\n    usan la lengua para engañar.\nLo que dicen es como el veneno de una serpiente.",
+      "readableText": "Su boca es un sepulcro abierto; usan la lengua para engañar. Lo que dicen es como el veneno de una serpiente."
+    },
+    {
+      "verse": "14",
+      "text": "Su boca está llena de maldición y amargura.",
+      "readableText": "Su boca está llena de maldición y amargura."
+    },
+    {
+      "verse": "15",
+      "text": "Están siempre listos para herir o matar;",
+      "readableText": "Están siempre listos para herir o matar;"
+    },
+    {
+      "verse": "16",
+      "text": "dondequiera que van causan destrucción y tristeza.",
+      "readableText": "dondequiera que van causan destrucción y tristeza."
+    },
+    {
+      "verse": "17",
+      "text": "No conocen el camino que lleva a la paz.",
+      "readableText": "No conocen el camino que lleva a la paz."
+    },
+    {
+      "verse": "18",
+      "text": "No les pasa por la mente tener respeto o temor de Dios».",
+      "readableText": "No les pasa por la mente tener respeto o temor de Dios»."
+    },
+    {
+      "verse": "19",
+      "text": "Ahora sabemos que lo que dice la ley es para los que tienen la ley. Se acabaron las excusas, todo el mundo está bajo el juicio de Dios",
+      "readableText": "Ahora sabemos que lo que dice la ley es para los que tienen la ley. Se acabaron las excusas, todo el mundo está bajo el juicio de Dios"
+    },
+    {
+      "verse": "20",
+      "text": "porque nadie consigue ser aprobado por actos de obediencia a una ley. La ley sólo nos muestra nuestro pecado.",
+      "readableText": "porque nadie consigue ser aprobado por actos de obediencia a una ley. La ley sólo nos muestra nuestro pecado."
+    },
+    {
+      "verse": "21",
+      "text": "Pero ahora Dios nos muestra lo que anunciaban la ley y los profetas: la manera en que Dios nos aprueba no tiene nada que ver con la ley,",
+      "readableText": "Pero ahora Dios nos muestra lo que anunciaban la ley y los profetas: la manera en que Dios nos aprueba no tiene nada que ver con la ley,"
+    },
+    {
+      "verse": "22",
+      "text": "sino que tiene que ver con la fe en Jesucristo. Dios aprueba a todo el que tiene fe en Jesucristo, no importa quién sea.",
+      "readableText": "sino que tiene que ver con la fe en Jesucristo. Dios aprueba a todo el que tiene fe en Jesucristo, no importa quién sea."
+    },
+    {
+      "verse": "23",
+      "text": "Todos pecaron y por eso no pueden participar de la gloria de Dios.",
+      "readableText": "Todos pecaron y por eso no pueden participar de la gloria de Dios."
+    },
+    {
+      "verse": "24",
+      "text": "Dios, por su generoso amor, aprueba a todos gratuitamente. Es un regalo de Dios hecho posible porque Jesucristo hizo lo necesario para liberarnos del pecado.  25-26 Dios ofreció a Jesucristo para hacer posible, por medio de su muerte, el perdón de los pecados. El perdón se recibe a través de la fe. Él ofreció a Jesucristo como sacrificio para demostrar que él siempre es justo en lo que hace. Lo demostró en el pasado cuando en su paciencia pasó por alto los pecados de muchos, y también ahora al aprobar a todo aquel que confía en Jesús.",
+      "readableText": "Dios, por su generoso amor, aprueba a todos gratuitamente. Es un regalo de Dios hecho posible porque Jesucristo hizo lo necesario para liberarnos del pecado. 25-26 Dios ofreció a Jesucristo para hacer posible, por medio de su muerte, el perdón de los pecados. El perdón se recibe a través de la fe. Él ofreció a Jesucristo como sacrificio para demostrar que él siempre es justo en lo que hace. Lo demostró en el pasado cuando en su paciencia pasó por alto los pecados de muchos, y también ahora al aprobar a todo aquel que confía en Jesús."
+    },
+    {
+      "verse": "25",
+      "text": "",
+      "readableText": ""
+    },
+    {
+      "verse": "26",
+      "text": "",
+      "readableText": ""
+    },
+    {
+      "verse": "27",
+      "text": "Entonces, ¿Hay alguna razón para estar orgullosos de nosotros mismos? ¡No la hay! ¿Por qué razón? Por razón de fe y no por cumplir la ley.",
+      "readableText": "Entonces, ¿Hay alguna razón para estar orgullosos de nosotros mismos? ¡No la hay! ¿Por qué razón? Por razón de fe y no por cumplir la ley."
+    },
+    {
+      "verse": "28",
+      "text": "Por eso decimos que uno es aprobado por la fe y no por cumplir la ley.",
+      "readableText": "Por eso decimos que uno es aprobado por la fe y no por cumplir la ley."
+    },
+    {
+      "verse": "29",
+      "text": "¿Acaso Dios es sólo Dios de los judíos? ¿No lo es también de los que no son judíos? ¡Claro que sí!",
+      "readableText": "¿Acaso Dios es sólo Dios de los judíos? ¿No lo es también de los que no son judíos? ¡Claro que sí!"
+    },
+    {
+      "verse": "30",
+      "text": "Hay un solo Dios y él aprobará a los judíos por la fe, pero también por la fe aprobará a los que no son judíos.",
+      "readableText": "Hay un solo Dios y él aprobará a los judíos por la fe, pero también por la fe aprobará a los que no son judíos."
+    },
+    {
+      "verse": "31",
+      "text": "Entonces, ¿con la fe eliminamos la ley? ¡De ninguna manera! Por el contrario, confirmamos lo que la ley enseña.  end of footnotes\n end of crossrefs",
+      "readableText": "Entonces, ¿con la fe eliminamos la ley? ¡De ninguna manera! Por el contrario, confirmamos lo que la ley enseña. end of footnotes end of crossrefs"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "book": "EST",
+  "rev": "TLA",
+  "chapter": "10",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "10 El rey Asuero cobraba impuestos en todo su territorio, y hasta en las islas.",
+      "readableText": "10 El rey Asuero cobraba impuestos en todo su territorio, y hasta en las islas."
+    },
+    {
+      "verse": "2",
+      "text": "El relato completo de todo lo que este rey hizo con su poder y su fuerza, y del alto puesto de honor que le dio a Mardoqueo, está escrito en el libro de la historia de los reyes de Media y Persia.",
+      "readableText": "El relato completo de todo lo que este rey hizo con su poder y su fuerza, y del alto puesto de honor que le dio a Mardoqueo, está escrito en el libro de la historia de los reyes de Media y Persia."
+    },
+    {
+      "verse": "3",
+      "text": "Mardoqueo el judío era la autoridad más importante, después del rey Asuero. Todos los judíos lo reconocían como un gran hombre y lo apreciaban mucho, porque él procuraba el bienestar de todos ellos y se encargaba de que todos los de su pueblo vivieran tranquilos.",
+      "readableText": "Mardoqueo el judío era la autoridad más importante, después del rey Asuero. Todos los judíos lo reconocían como un gran hombre y lo apreciaban mucho, porque él procuraba el bienestar de todos ellos y se encargaba de que todos los de su pueblo vivieran tranquilos."
+    }
+  ]
+}

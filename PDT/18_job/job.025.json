@@ -1,1 +1,37 @@
-{"book":"JOB","rev":"PDT","chapter":"25","verses":[{"verse":"1","text":"Entonces Bildad de S&#250;ah respondi&#243;:   \n","readableText":"Entonces Bildad de Súah respondió:\n\n"},{"verse":"2","text":"&#171;La autoridad y el terror le pertenecen al que hace reinar la paz en sus alturas.   \n","readableText":"«La autoridad y el terror le pertenecen al que hace reinar la paz en sus\nalturas.\n\n"},{"verse":"3","text":"&#191;Acaso puede contarse el n&#250;mero de sus ej&#233;rcitos? &#191;Sobre qui&#233;n no se irradia su luz?   \n","readableText":"¿Acaso puede contarse el número de sus ejércitos? ¿Sobre quién no se irradia su\nluz?\n\n"},{"verse":"4","text":"&#191;Qui&#233;n puede permanecer sin tacha ante &#233;l? &#191;Qu&#233; ser humano puede decir que es puro?   \n","readableText":"¿Quién puede permanecer sin tacha ante él? ¿Qué ser humano puede decir que es\npuro?\n\n"},{"verse":"5","text":"Ante sus ojos ni la luna brilla; ni las estrellas son puras.   \n","readableText":"Ante sus ojos ni la luna brilla; ni las estrellas son puras.\n\n"},{"verse":"6","text":"Mucho menos lo son los seres humanos, que son como gusanos. Un ser humano es un simple gusano&#187;.\n","readableText":"Mucho menos lo son los seres humanos, que son como gusanos. Un ser humano es un\nsimple gusano».\n\n"}]}
+{
+  "book": "JOB",
+  "rev": "PDT",
+  "chapter": "25",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "25 Entonces Bildad de Súah respondió:",
+      "readableText": "25 Entonces Bildad de Súah respondió:"
+    },
+    {
+      "verse": "2",
+      "text": "«La autoridad y el terror le pertenecen\n    al que hace reinar la paz en sus alturas.",
+      "readableText": "«La autoridad y el terror le pertenecen al que hace reinar la paz en sus alturas."
+    },
+    {
+      "verse": "3",
+      "text": "¿Acaso puede contarse el número de sus ejércitos?\n    ¿Sobre quién no se irradia su luz?",
+      "readableText": "¿Acaso puede contarse el número de sus ejércitos? ¿Sobre quién no se irradia su luz?"
+    },
+    {
+      "verse": "4",
+      "text": "¿Quién puede permanecer sin tacha ante él?\n    ¿Qué ser humano puede decir que es puro?",
+      "readableText": "¿Quién puede permanecer sin tacha ante él? ¿Qué ser humano puede decir que es puro?"
+    },
+    {
+      "verse": "5",
+      "text": "Ante sus ojos ni la luna brilla;\n    ni las estrellas son puras.",
+      "readableText": "Ante sus ojos ni la luna brilla; ni las estrellas son puras."
+    },
+    {
+      "verse": "6",
+      "text": "Mucho menos lo son los seres humanos, que son como gusanos.\n    Un ser humano es un simple gusano».",
+      "readableText": "Mucho menos lo son los seres humanos, que son como gusanos. Un ser humano es un simple gusano»."
+    }
+  ]
+}

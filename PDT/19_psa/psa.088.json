@@ -1,1 +1,97 @@
-{"book":"PSA","rev":"PDT","chapter":"88","verses":[{"verse":"1","text":"SE&#209;OR Dios, t&#250; eres mi Salvador; pido tu ayuda d&#237;a y noche.   \n","readableText":"SEÑOR Dios, tú eres mi Salvador; pido tu ayuda día y noche.\n\n"},{"verse":"2","text":"Presta atenci&#243;n a mi oraci&#243;n; por compasi&#243;n, escucha mis peticiones.   \n","readableText":"Presta atención a mi oración; por compasión, escucha mis peticiones.\n\n"},{"verse":"3","text":"&#161;Ya basta! He sufrido demasiado. Estoy listo para morir.   \n","readableText":"¡Ya basta! He sufrido demasiado. Estoy listo para morir.\n\n"},{"verse":"4","text":"Ya pr&#225;cticamente me dan por muerto, soy como el que ya no tiene aliento.   \n","readableText":"Ya prácticamente me dan por muerto, soy como el que ya no tiene aliento.\n\n"},{"verse":"5","text":"B&#250;scame entre los muertos, entre los que yacen en el sepulcro. Ya soy como uno de los muertos de los que ya te olvidaste, alejados de ti y de tu cuidado.   \n","readableText":"Búscame entre los muertos, entre los que yacen en el sepulcro. Ya soy como uno\nde los muertos de los que ya te olvidaste, alejados de ti y de tu cuidado.\n\n"},{"verse":"6","text":"Me has echado en el hoyo m&#225;s profundo; me metiste en la oscuridad de los abismos.   \n","readableText":"Me has echado en el hoyo más profundo; me metiste en la oscuridad de los\nabismos.\n\n"},{"verse":"7","text":"Tu ira se siente como algo pesado que me aplasta; una y otra vez se viene en mi contra como las olas del mar.  Selah   \n","readableText":"Tu ira se siente como algo pesado que me aplasta; una y otra vez se viene en mi\ncontra como las olas del mar. Selah\n\n"},{"verse":"8","text":"Me has dejado sin ninguno de mis amigos; has hecho que sea un indeseable para ellos. Estoy como encerrado y sin salida;   \n","readableText":"Me has dejado sin ninguno de mis amigos; has hecho que sea un indeseable para\nellos. Estoy como encerrado y sin salida;\n\n"},{"verse":"9","text":"mis ojos me duelen de tanto llorar. SE&#209;OR, oro a ti todos los d&#237;as; hacia ti levanto mis manos.   \n","readableText":"mis ojos me duelen de tanto llorar. SEÑOR, oro a ti todos los días; hacia ti\nlevanto mis manos.\n\n"},{"verse":"10","text":"&#191;Acaso haces t&#250; milagros a los muertos? &#191;Es que se levantan los muertos para alabarte?  Selah   \n","readableText":"¿Acaso haces tú milagros a los muertos? ¿Es que se levantan los muertos para\nalabarte? Selah\n\n"},{"verse":"11","text":"&#191;Se hablar&#225; en las tumbas de tu fiel amor? &#191;O de tu lealtad en el mundo de los muertos ?   \n","readableText":"¿Se hablará en las tumbas de tu fiel amor? ¿O de tu lealtad en el mundo de los\nmuertos ?\n\n"},{"verse":"12","text":"&#191;Es que en las tinieblas se reconocen tus maravillas? &#191;O tu fiel amor en la tierra del olvido?   \n","readableText":"¿Es que en las tinieblas se reconocen tus maravillas? ¿O tu fiel amor en la\ntierra del olvido?\n\n"},{"verse":"13","text":"SE&#209;OR, te estoy pidiendo ayuda; oro a ti muy temprano cada ma&#241;ana.   \n","readableText":"SEÑOR, te estoy pidiendo ayuda; oro a ti muy temprano cada mañana.\n\n"},{"verse":"14","text":"SE&#209;OR, &#191;por qu&#233; me abandonas? &#191;Por qu&#233; te niegas a escucharme?   \n","readableText":"SEÑOR, ¿por qué me abandonas? ¿Por qué te niegas a escucharme?\n\n"},{"verse":"15","text":"Desde joven he sufrido mucho; he estado muy cerca de la muerte. Me has hecho sufrir terriblemente, ya no puedo m&#225;s.   \n","readableText":"Desde joven he sufrido mucho; he estado muy cerca de la muerte. Me has hecho\nsufrir terriblemente, ya no puedo más.\n\n"},{"verse":"16","text":"Has descargado tu ira sobre m&#237;, estoy acabado.   \n","readableText":"Has descargado tu ira sobre mí, estoy acabado.\n\n"},{"verse":"17","text":"Siempre he estado rodeado de dolor, como en una inundaci&#243;n.   \n","readableText":"Siempre he estado rodeado de dolor, como en una inundación.\n\n"},{"verse":"18","text":"Me has separado de mis amigos y de mis seres queridos; y ahora mi amigo m&#225;s &#237;ntimo es la oscuridad.\n","readableText":"Me has separado de mis amigos y de mis seres queridos; y ahora mi amigo más\níntimo es la oscuridad.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "88",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "SEÑOR Dios, tú eres mi Salvador;\n    pido tu ayuda día y noche.",
+      "readableText": "SEÑOR Dios, tú eres mi Salvador; pido tu ayuda día y noche."
+    },
+    {
+      "verse": "2",
+      "text": "Presta atención a mi oración;\n    por compasión, escucha mis peticiones.",
+      "readableText": "Presta atención a mi oración; por compasión, escucha mis peticiones."
+    },
+    {
+      "verse": "3",
+      "text": "¡Ya basta! He sufrido demasiado.\n    Estoy listo para morir.",
+      "readableText": "¡Ya basta! He sufrido demasiado. Estoy listo para morir."
+    },
+    {
+      "verse": "4",
+      "text": "Ya prácticamente me dan por muerto,\n    soy como el que ya no tiene aliento.",
+      "readableText": "Ya prácticamente me dan por muerto, soy como el que ya no tiene aliento."
+    },
+    {
+      "verse": "5",
+      "text": "Búscame entre los muertos,\n    entre los que yacen en el sepulcro.\nYa soy como uno de los muertos de los que ya te olvidaste,\n    alejados de ti y de tu cuidado.",
+      "readableText": "Búscame entre los muertos, entre los que yacen en el sepulcro. Ya soy como uno de los muertos de los que ya te olvidaste, alejados de ti y de tu cuidado."
+    },
+    {
+      "verse": "6",
+      "text": "Me has echado en el hoyo más profundo;\n    me metiste en la oscuridad de los abismos.",
+      "readableText": "Me has echado en el hoyo más profundo; me metiste en la oscuridad de los abismos."
+    },
+    {
+      "verse": "7",
+      "text": "Tu ira se siente como algo pesado que me aplasta;\n    una y otra vez se viene en mi contra como las olas del mar. Selah",
+      "readableText": "Tu ira se siente como algo pesado que me aplasta; una y otra vez se viene en mi contra como las olas del mar. Selah"
+    },
+    {
+      "verse": "8",
+      "text": "Me has dejado sin ninguno de mis amigos;\n    has hecho que sea un indeseable para ellos.\nEstoy como encerrado y sin salida;",
+      "readableText": "Me has dejado sin ninguno de mis amigos; has hecho que sea un indeseable para ellos. Estoy como encerrado y sin salida;"
+    },
+    {
+      "verse": "9",
+      "text": "mis ojos me duelen de tanto llorar.\nSEÑOR, oro a ti todos los días;\n    hacia ti levanto mis manos.",
+      "readableText": "mis ojos me duelen de tanto llorar. SEÑOR, oro a ti todos los días; hacia ti levanto mis manos."
+    },
+    {
+      "verse": "10",
+      "text": "¿Acaso haces tú milagros a los muertos?\n    ¿Es que se levantan los muertos para alabarte? Selah",
+      "readableText": "¿Acaso haces tú milagros a los muertos? ¿Es que se levantan los muertos para alabarte? Selah"
+    },
+    {
+      "verse": "11",
+      "text": "¿Se hablará en las tumbas de tu fiel amor?\n    ¿O de tu lealtad en el mundo de los muertos?",
+      "readableText": "¿Se hablará en las tumbas de tu fiel amor? ¿O de tu lealtad en el mundo de los muertos?"
+    },
+    {
+      "verse": "12",
+      "text": "¿Es que en las tinieblas se reconocen tus maravillas?\n    ¿O tu fiel amor en la tierra del olvido?",
+      "readableText": "¿Es que en las tinieblas se reconocen tus maravillas? ¿O tu fiel amor en la tierra del olvido?"
+    },
+    {
+      "verse": "13",
+      "text": "SEÑOR, te estoy pidiendo ayuda;\n    oro a ti muy temprano cada mañana.",
+      "readableText": "SEÑOR, te estoy pidiendo ayuda; oro a ti muy temprano cada mañana."
+    },
+    {
+      "verse": "14",
+      "text": "SEÑOR, ¿por qué me abandonas?\n    ¿Por qué te niegas a escucharme?",
+      "readableText": "SEÑOR, ¿por qué me abandonas? ¿Por qué te niegas a escucharme?"
+    },
+    {
+      "verse": "15",
+      "text": "Desde joven he sufrido mucho;\n    he estado muy cerca de la muerte.\nMe has hecho sufrir terriblemente,\n    ya no puedo más.",
+      "readableText": "Desde joven he sufrido mucho; he estado muy cerca de la muerte. Me has hecho sufrir terriblemente, ya no puedo más."
+    },
+    {
+      "verse": "16",
+      "text": "Has descargado tu ira sobre mí,\n    estoy acabado.",
+      "readableText": "Has descargado tu ira sobre mí, estoy acabado."
+    },
+    {
+      "verse": "17",
+      "text": "Siempre he estado rodeado de dolor,\n    como en una inundación.",
+      "readableText": "Siempre he estado rodeado de dolor, como en una inundación."
+    },
+    {
+      "verse": "18",
+      "text": "Me has separado de mis amigos y de mis seres queridos;\n    y ahora mi amigo más íntimo es la oscuridad.  end of footnotes",
+      "readableText": "Me has separado de mis amigos y de mis seres queridos; y ahora mi amigo más íntimo es la oscuridad. end of footnotes"
+    }
+  ]
+}

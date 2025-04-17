@@ -1,1 +1,122 @@
-{"book":"MAT","rev":"PDT","chapter":"2","verses":[{"verse":"1","text":"Jes&#250;s naci&#243; en Bel&#233;n de Judea, cuando gobernaba el rey Herodes. Despu&#233;s de su nacimiento, llegaron a Jerusal&#233;n unos sabios del oriente, \n","readableText":"Jesús nació en Belén de Judea, cuando gobernaba el rey Herodes. Después de su\nnacimiento, llegaron a Jerusalén unos sabios del oriente,\n\n"},{"verse":"2","text":"y preguntaron: &#8212;&#191;D&#243;nde est&#225; el rey de los jud&#237;os reci&#233;n nacido? Pues vimos su estrella cuando sali&#243; y venimos a adorarle.   \n","readableText":"y preguntaron: —¿Dónde está el rey de los judíos recién nacido? Pues vimos su\nestrella cuando salió y venimos a adorarle.\n\n"},{"verse":"3","text":"Cuando el rey Herodes oy&#243; esto, se preocup&#243; mucho al igual que toda la gente de Jerusal&#233;n. \n","readableText":"Cuando el rey Herodes oyó esto, se preocupó mucho al igual que toda la gente de\nJerusalén.\n\n"},{"verse":"4","text":"Fue as&#237; como reuni&#243; a todos los jefes de los sacerdotes y a los maestros de la ley, y les pregunt&#243; d&#243;nde iba a nacer el Mes&#237;as. \n","readableText":"Fue así como reunió a todos los jefes de los sacerdotes y a los maestros de la\nley, y les preguntó dónde iba a nacer el Mesías.\n\n"},{"verse":"5","text":"Ellos le dijeron: &#8212;En Bel&#233;n, en la provincia de Judea, porque eso fue lo que escribi&#243; el profeta:   \n","readableText":"Ellos le dijeron: —En Belén, en la provincia de Judea, porque eso fue lo que\nescribió el profeta:\n\n"},{"verse":"6","text":"  \n","readableText":"\n\n"}]}
+{
+  "book": "MAT",
+  "rev": "PDT",
+  "chapter": "2",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "2 Jesús nació en Belén de Judea, cuando gobernaba el rey Herodes. Después de su nacimiento, llegaron a Jerusalén unos sabios del oriente,",
+      "readableText": "2 Jesús nació en Belén de Judea, cuando gobernaba el rey Herodes. Después de su nacimiento, llegaron a Jerusalén unos sabios del oriente,"
+    },
+    {
+      "verse": "2",
+      "text": "y preguntaron:—¿Dónde está el rey de los judíos recién nacido? Pues vimos su estrella cuando salió y venimos a adorarle.",
+      "readableText": "y preguntaron:—¿Dónde está el rey de los judíos recién nacido? Pues vimos su estrella cuando salió y venimos a adorarle."
+    },
+    {
+      "verse": "3",
+      "text": "Cuando el rey Herodes oyó esto, se preocupó mucho al igual que toda la gente de Jerusalén.",
+      "readableText": "Cuando el rey Herodes oyó esto, se preocupó mucho al igual que toda la gente de Jerusalén."
+    },
+    {
+      "verse": "4",
+      "text": "Fue así como reunió a todos los jefes de los sacerdotes y a los maestros de la ley, y les preguntó dónde iba a nacer el Mesías.",
+      "readableText": "Fue así como reunió a todos los jefes de los sacerdotes y a los maestros de la ley, y les preguntó dónde iba a nacer el Mesías."
+    },
+    {
+      "verse": "5",
+      "text": "Ellos le dijeron:—En Belén, en la provincia de Judea, porque eso fue lo que escribió el profeta:",
+      "readableText": "Ellos le dijeron:—En Belén, en la provincia de Judea, porque eso fue lo que escribió el profeta:"
+    },
+    {
+      "verse": "6",
+      "text": "“Y tú, Belén, de la tierra de Judá,\n    eres importante entre los gobernantes de Judá,\nporque de ti saldrá un gobernante\n    que guiará como un pastor a mi pueblo Israel”.",
+      "readableText": "“Y tú, Belén, de la tierra de Judá, eres importante entre los gobernantes de Judá, porque de ti saldrá un gobernante que guiará como un pastor a mi pueblo Israel”."
+    },
+    {
+      "verse": "7",
+      "text": "Entonces Herodes llamó a los sabios y se reunió en secreto con ellos. Averiguó el tiempo exacto en que había aparecido la estrella.",
+      "readableText": "Entonces Herodes llamó a los sabios y se reunió en secreto con ellos. Averiguó el tiempo exacto en que había aparecido la estrella."
+    },
+    {
+      "verse": "8",
+      "text": "Luego los mandó a Belén y les dijo:—Vayan y averigüen todo lo que puedan acerca de ese niño y, cuando lo sepan todo, avísenme para que yo también pueda ir a adorarle.",
+      "readableText": "Luego los mandó a Belén y les dijo:—Vayan y averigüen todo lo que puedan acerca de ese niño y, cuando lo sepan todo, avísenme para que yo también pueda ir a adorarle."
+    },
+    {
+      "verse": "9",
+      "text": "Ellos oyeron al rey y se fueron. La estrella que habían visto salir iba delante de ellos hasta que se detuvo sobre el lugar donde estaba el niño.",
+      "readableText": "Ellos oyeron al rey y se fueron. La estrella que habían visto salir iba delante de ellos hasta que se detuvo sobre el lugar donde estaba el niño."
+    },
+    {
+      "verse": "10",
+      "text": "Cuando ellos vieron la estrella, se alegraron muchísimo.",
+      "readableText": "Cuando ellos vieron la estrella, se alegraron muchísimo."
+    },
+    {
+      "verse": "11",
+      "text": "Entraron en la casa y vieron al niño con María, su mamá; y postrándose lo adoraron. Abrieron sus cofres y sacaron unos regalos para él: oro, incienso y mirra.",
+      "readableText": "Entraron en la casa y vieron al niño con María, su mamá; y postrándose lo adoraron. Abrieron sus cofres y sacaron unos regalos para él: oro, incienso y mirra."
+    },
+    {
+      "verse": "12",
+      "text": "Después, Dios les dijo en un sueño que no volvieran a donde estaba Herodes, así que regresaron a su país por otro camino.",
+      "readableText": "Después, Dios les dijo en un sueño que no volvieran a donde estaba Herodes, así que regresaron a su país por otro camino."
+    },
+    {
+      "verse": "13",
+      "text": "Después de que los sabios se fueron, un ángel del Señor se le apareció a José en un sueño y le dijo: «Levántate y huye a Egipto con el niño y su mamá. Quédate allá hasta que yo te diga, porque Herodes va a buscar al niño para matarlo».",
+      "readableText": "Después de que los sabios se fueron, un ángel del Señor se le apareció a José en un sueño y le dijo: «Levántate y huye a Egipto con el niño y su mamá. Quédate allá hasta que yo te diga, porque Herodes va a buscar al niño para matarlo»."
+    },
+    {
+      "verse": "14",
+      "text": "Entonces José se levantó y se fue durante la noche con el niño y la mamá a Egipto.",
+      "readableText": "Entonces José se levantó y se fue durante la noche con el niño y la mamá a Egipto."
+    },
+    {
+      "verse": "15",
+      "text": "Se quedó allá hasta que Herodes murió. Esto sucedió para que así se cumpliera lo que había dicho el Señor por medio del profeta: «De Egipto llamé a mi hijo».",
+      "readableText": "Se quedó allá hasta que Herodes murió. Esto sucedió para que así se cumpliera lo que había dicho el Señor por medio del profeta: «De Egipto llamé a mi hijo»."
+    },
+    {
+      "verse": "16",
+      "text": "Cuando Herodes se dio cuenta de que los sabios de oriente lo habían engañado, se enojó muchísimo. Así que tomó en cuenta los cálculos que había averiguado de los sabios y mandó matar a todos los niños varones menores de dos años en Belén y sus alrededores.",
+      "readableText": "Cuando Herodes se dio cuenta de que los sabios de oriente lo habían engañado, se enojó muchísimo. Así que tomó en cuenta los cálculos que había averiguado de los sabios y mandó matar a todos los niños varones menores de dos años en Belén y sus alrededores."
+    },
+    {
+      "verse": "17",
+      "text": "Entonces se cumplió lo que había dicho el profeta Jeremías:",
+      "readableText": "Entonces se cumplió lo que había dicho el profeta Jeremías:"
+    },
+    {
+      "verse": "18",
+      "text": "«Se oyó un sonido en Ramá,\n    sonido de llanto y de dolor.\nEra Raquel que lloraba por sus niños\n    y no quería que la consolaran\n    porque ellos ya estaban muertos».",
+      "readableText": "«Se oyó un sonido en Ramá, sonido de llanto y de dolor. Era Raquel que lloraba por sus niños y no quería que la consolaran porque ellos ya estaban muertos»."
+    },
+    {
+      "verse": "19",
+      "text": "Después de que murió Herodes, un ángel del Señor se le apareció en un sueño a José en Egipto.",
+      "readableText": "Después de que murió Herodes, un ángel del Señor se le apareció en un sueño a José en Egipto."
+    },
+    {
+      "verse": "20",
+      "text": "Le dijo: «Levántate y ve con el niño y su mamá a Israel, porque ya han muerto los que estaban tratando de matar al niño».",
+      "readableText": "Le dijo: «Levántate y ve con el niño y su mamá a Israel, porque ya han muerto los que estaban tratando de matar al niño»."
+    },
+    {
+      "verse": "21",
+      "text": "Entonces José se levantó y llevó al niño y a su mamá a Israel.",
+      "readableText": "Entonces José se levantó y llevó al niño y a su mamá a Israel."
+    },
+    {
+      "verse": "22",
+      "text": "Pero cuando José supo que el rey de Judea ya no era Herodes, sino su hijo Arquelao, le dio miedo ir allá. Entonces, habiendo sido advertido por Dios en un sueño, se fue a la región de Galilea",
+      "readableText": "Pero cuando José supo que el rey de Judea ya no era Herodes, sino su hijo Arquelao, le dio miedo ir allá. Entonces, habiendo sido advertido por Dios en un sueño, se fue a la región de Galilea"
+    },
+    {
+      "verse": "23",
+      "text": "y se quedó a vivir en el pueblo llamado Nazaret. Esto sucedió para que se cumpliera lo que dijeron los profetas: que el Mesías sería llamado nazareno.  end of footnotes\n end of crossrefs",
+      "readableText": "y se quedó a vivir en el pueblo llamado Nazaret. Esto sucedió para que se cumpliera lo que dijeron los profetas: que el Mesías sería llamado nazareno. end of footnotes end of crossrefs"
+    }
+  ]
+}

@@ -1,1 +1,152 @@
-{"book":"GAL","rev":"PDT","chapter":"3","verses":[{"verse":"1","text":"&#161;Qu&#233; tontos son ustedes, g&#225;latas! &#191;Qui&#233;n los embruj&#243;? Yo les pint&#233; claramente, con palabras, la muerte de Jesucristo en la cruz. \n","readableText":"¡Qué tontos son ustedes, gálatas! ¿Quién los embrujó? Yo les pinté claramente,\ncon palabras, la muerte de Jesucristo en la cruz.\n\n"},{"verse":"2","text":"S&#243;lo quiero que me contesten una cosa: &#191;recibieron ustedes el Esp&#237;ritu por cumplir la ley? Ustedes recibieron el Esp&#237;ritu porque escucharon las buenas noticias y creyeron en ellas. \n","readableText":"Sólo quiero que me contesten una cosa: ¿recibieron ustedes el Espíritu por\ncumplir la ley? Ustedes recibieron el Espíritu porque escucharon las buenas\nnoticias y creyeron en ellas.\n\n"},{"verse":"3","text":"Comenzaron su nueva vida con el Esp&#237;ritu, &#191;y ahora intentan perfeccionarla por medio de un pedazo de piel? &#161;Qu&#233; tonter&#237;a! \n","readableText":"Comenzaron su nueva vida con el Espíritu, ¿y ahora intentan perfeccionarla por\nmedio de un pedazo de piel? ¡Qué tontería!\n\n"},{"verse":"4","text":"Han pasado por muchas experiencias, &#191;ser&#225; que las van a desperdiciar? Quiero creer que no. \n","readableText":"Han pasado por muchas experiencias, ¿será que las van a desperdiciar? Quiero\ncreer que no.\n\n"},{"verse":"5","text":"&#191;Acaso Dios les da el Esp&#237;ritu por cumplir la ley? &#191;Acaso Dios hace milagros entre ustedes porque cumplen la ley? Dios les da el Esp&#237;ritu y hace milagros porque escucharon la buena noticia de salvaci&#243;n y creyeron en ella.   \n","readableText":"¿Acaso Dios les da el Espíritu por cumplir la ley? ¿Acaso Dios hace milagros\nentre ustedes porque cumplen la ley? Dios les da el Espíritu y hace milagros\nporque escucharon la buena noticia de salvación y creyeron en ella.\n\n"},{"verse":"6","text":"  \n","readableText":"\n\n"}]}
+{
+  "book": "GAL",
+  "rev": "PDT",
+  "chapter": "3",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "3 ¡Qué tontos son ustedes, gálatas! ¿Quién los embrujó? Yo les pinté claramente, con palabras, la muerte de Jesucristo en la cruz.",
+      "readableText": "3 ¡Qué tontos son ustedes, gálatas! ¿Quién los embrujó? Yo les pinté claramente, con palabras, la muerte de Jesucristo en la cruz."
+    },
+    {
+      "verse": "2",
+      "text": "Sólo quiero que me contesten una cosa: ¿recibieron ustedes el Espíritu por cumplir la ley? Ustedes recibieron el Espíritu porque escucharon las buenas noticias y creyeron en ellas.",
+      "readableText": "Sólo quiero que me contesten una cosa: ¿recibieron ustedes el Espíritu por cumplir la ley? Ustedes recibieron el Espíritu porque escucharon las buenas noticias y creyeron en ellas."
+    },
+    {
+      "verse": "3",
+      "text": "Comenzaron su nueva vida con el Espíritu, ¿y ahora intentan perfeccionarla por medio de un pedazo de piel? ¡Qué tontería!",
+      "readableText": "Comenzaron su nueva vida con el Espíritu, ¿y ahora intentan perfeccionarla por medio de un pedazo de piel? ¡Qué tontería!"
+    },
+    {
+      "verse": "4",
+      "text": "Han pasado por muchas experiencias, ¿será que las van a desperdiciar? Quiero creer que no.",
+      "readableText": "Han pasado por muchas experiencias, ¿será que las van a desperdiciar? Quiero creer que no."
+    },
+    {
+      "verse": "5",
+      "text": "¿Acaso Dios les da el Espíritu por cumplir la ley? ¿Acaso Dios hace milagros entre ustedes porque cumplen la ley? Dios les da el Espíritu y hace milagros porque escucharon la buena noticia de salvación y creyeron en ella.",
+      "readableText": "¿Acaso Dios les da el Espíritu por cumplir la ley? ¿Acaso Dios hace milagros entre ustedes porque cumplen la ley? Dios les da el Espíritu y hace milagros porque escucharon la buena noticia de salvación y creyeron en ella."
+    },
+    {
+      "verse": "6",
+      "text": "Así «Abraham creyó a Dios, quien tomó en cuenta la fe de Abraham y lo aprobó».",
+      "readableText": "Así «Abraham creyó a Dios, quien tomó en cuenta la fe de Abraham y lo aprobó»."
+    },
+    {
+      "verse": "7",
+      "text": "Entonces tienen que saber que los verdaderos hijos de Abraham son los que tienen fe.",
+      "readableText": "Entonces tienen que saber que los verdaderos hijos de Abraham son los que tienen fe."
+    },
+    {
+      "verse": "8",
+      "text": "La Escritura preveía lo que pasaría en el futuro: debido a la fe de los que no son judíos, Dios los aprobaría y le dio a Abraham esta buena noticia: «Todas las naciones serán bendecidas por medio de ti».",
+      "readableText": "La Escritura preveía lo que pasaría en el futuro: debido a la fe de los que no son judíos, Dios los aprobaría y le dio a Abraham esta buena noticia: «Todas las naciones serán bendecidas por medio de ti»."
+    },
+    {
+      "verse": "9",
+      "text": "Esto significa que todos los que tienen fe compartirán la misma bendición que recibió Abraham por haber creído.",
+      "readableText": "Esto significa que todos los que tienen fe compartirán la misma bendición que recibió Abraham por haber creído."
+    },
+    {
+      "verse": "10",
+      "text": "Los que se preocupan sólo por cumplir la ley están bajo maldición, porque está escrito: «Uno debe hacer todo lo que dice la ley y si no obedece siempre la ley, estará bajo maldición».",
+      "readableText": "Los que se preocupan sólo por cumplir la ley están bajo maldición, porque está escrito: «Uno debe hacer todo lo que dice la ley y si no obedece siempre la ley, estará bajo maldición»."
+    },
+    {
+      "verse": "11",
+      "text": "Entonces es claro que nadie logra ser aprobado por Dios a través de la ley, porque «el aprobado por Dios, por la fe vivirá».",
+      "readableText": "Entonces es claro que nadie logra ser aprobado por Dios a través de la ley, porque «el aprobado por Dios, por la fe vivirá»."
+    },
+    {
+      "verse": "12",
+      "text": "La ley no se basa en la fe. Por el contrario, «la persona que practica la ley obtiene vida gracias al mandamiento».",
+      "readableText": "La ley no se basa en la fe. Por el contrario, «la persona que practica la ley obtiene vida gracias al mandamiento»."
+    },
+    {
+      "verse": "13",
+      "text": "Cristo pagó para librarnos de la maldición de la ley y aceptó estar bajo maldición en lugar de nosotros. La Escritura dice: «Maldito todo aquel cuyo cuerpo es colgado en un madero».",
+      "readableText": "Cristo pagó para librarnos de la maldición de la ley y aceptó estar bajo maldición en lugar de nosotros. La Escritura dice: «Maldito todo aquel cuyo cuerpo es colgado en un madero»."
+    },
+    {
+      "verse": "14",
+      "text": "Cristo hizo eso para que las bendiciones que recibió Abraham llegaran a las demás naciones. Las bendiciones vienen a través de Jesucristo para que por medio de la fe recibamos el Espíritu que Dios prometió.",
+      "readableText": "Cristo hizo eso para que las bendiciones que recibió Abraham llegaran a las demás naciones. Las bendiciones vienen a través de Jesucristo para que por medio de la fe recibamos el Espíritu que Dios prometió."
+    },
+    {
+      "verse": "15",
+      "text": "Hermanos, les voy a dar un ejemplo de la vida diaria: imagínense que alguien hace un pacto. Una vez que ese pacto es oficial, nadie puede agregarle ni cambiarle nada, ni mucho menos ignorarlo.",
+      "readableText": "Hermanos, les voy a dar un ejemplo de la vida diaria: imagínense que alguien hace un pacto. Una vez que ese pacto es oficial, nadie puede agregarle ni cambiarle nada, ni mucho menos ignorarlo."
+    },
+    {
+      "verse": "16",
+      "text": "Dios les hizo promesas a Abraham y a su «descendencia». No dice: «y a tus descendencias» refiriéndose a muchas, sino que dice: «y a tu descendencia», refiriéndose a una familia unida, la de Cristo.",
+      "readableText": "Dios les hizo promesas a Abraham y a su «descendencia». No dice: «y a tus descendencias» refiriéndose a muchas, sino que dice: «y a tu descendencia», refiriéndose a una familia unida, la de Cristo."
+    },
+    {
+      "verse": "17",
+      "text": "Lo que estoy diciendo es que el pacto que Dios hizo con Abraham fue oficial mucho antes de que llegara la ley. La ley llegó 430 años después. Por eso la ley no pudo anular el pacto ni cambiar las promesas de Dios.",
+      "readableText": "Lo que estoy diciendo es que el pacto que Dios hizo con Abraham fue oficial mucho antes de que llegara la ley. La ley llegó 430 años después. Por eso la ley no pudo anular el pacto ni cambiar las promesas de Dios."
+    },
+    {
+      "verse": "18",
+      "text": "Las bendiciones que Dios nos prometió no las podemos recibir por obedecer la ley. Si fuera así, ya no sería una promesa de Dios, pero la verdad es que Dios entregó gratuitamente sus bendiciones a Abraham por medio de una promesa.",
+      "readableText": "Las bendiciones que Dios nos prometió no las podemos recibir por obedecer la ley. Si fuera así, ya no sería una promesa de Dios, pero la verdad es que Dios entregó gratuitamente sus bendiciones a Abraham por medio de una promesa."
+    },
+    {
+      "verse": "19",
+      "text": "Entonces, ¿para qué se hizo la ley? La ley fue dada después para mostrar las maldades que hace la gente contra la voluntad de Dios. La ley era válida hasta el momento en que llegara aquella descendencia que iba a recibir la promesa. Los ángeles le dieron la ley a Moisés, quien sirvió de mediador.",
+      "readableText": "Entonces, ¿para qué se hizo la ley? La ley fue dada después para mostrar las maldades que hace la gente contra la voluntad de Dios. La ley era válida hasta el momento en que llegara aquella descendencia que iba a recibir la promesa. Los ángeles le dieron la ley a Moisés, quien sirvió de mediador."
+    },
+    {
+      "verse": "20",
+      "text": "Sin embargo, la obra de Moisés como mediador no resultó en una sola familia, aunque Dios es uno solo.",
+      "readableText": "Sin embargo, la obra de Moisés como mediador no resultó en una sola familia, aunque Dios es uno solo."
+    },
+    {
+      "verse": "21",
+      "text": "¿Significa esto que la ley se opone a las promesas de Dios? ¡Claro que no! Dios nunca dio una ley que pudiera dar nueva vida al mundo. Si fuera así, podríamos estar aprobados por cumplir la ley.",
+      "readableText": "¿Significa esto que la ley se opone a las promesas de Dios? ¡Claro que no! Dios nunca dio una ley que pudiera dar nueva vida al mundo. Si fuera así, podríamos estar aprobados por cumplir la ley."
+    },
+    {
+      "verse": "22",
+      "text": "Pero la Escritura encierra a todo el mundo bajo el poder del pecado, para que los que creen puedan recibir por la fe en Jesucristo la nueva vida que Dios prometió.",
+      "readableText": "Pero la Escritura encierra a todo el mundo bajo el poder del pecado, para que los que creen puedan recibir por la fe en Jesucristo la nueva vida que Dios prometió."
+    },
+    {
+      "verse": "23",
+      "text": "Antes de llegar esta fe, la ley nos custodiaba como a prisioneros. No tuvimos libertad sino hasta que la fe fue revelada.",
+      "readableText": "Antes de llegar esta fe, la ley nos custodiaba como a prisioneros. No tuvimos libertad sino hasta que la fe fue revelada."
+    },
+    {
+      "verse": "24",
+      "text": "Por eso, la ley era nuestro guardián hasta que llegó Cristo. El resultado es que estamos aprobados a través de la fe.",
+      "readableText": "Por eso, la ley era nuestro guardián hasta que llegó Cristo. El resultado es que estamos aprobados a través de la fe."
+    },
+    {
+      "verse": "25",
+      "text": "Ahora que ha llegado la fe, ya no necesitamos que la ley sea nuestro guardián.",
+      "readableText": "Ahora que ha llegado la fe, ya no necesitamos que la ley sea nuestro guardián."
+    },
+    {
+      "verse": "26",
+      "text": "Todos ustedes son hijos de Dios por la fe en Jesucristo,",
+      "readableText": "Todos ustedes son hijos de Dios por la fe en Jesucristo,"
+    },
+    {
+      "verse": "27",
+      "text": "porque ustedes fueron bautizados en Cristo y ahora están revestidos de él.",
+      "readableText": "porque ustedes fueron bautizados en Cristo y ahora están revestidos de él."
+    },
+    {
+      "verse": "28",
+      "text": "Todos son uno en Jesucristo, no importa si son judíos o no, esclavos o libres, hombres o mujeres.",
+      "readableText": "Todos son uno en Jesucristo, no importa si son judíos o no, esclavos o libres, hombres o mujeres."
+    },
+    {
+      "verse": "29",
+      "text": "Entonces, si ustedes pertenecen a Cristo también son la descendencia de Abraham. Si son la descendencia de Abraham también son herederos de las promesas que Dios le hizo a él.  end of footnotes\n end of crossrefs",
+      "readableText": "Entonces, si ustedes pertenecen a Cristo también son la descendencia de Abraham. Si son la descendencia de Abraham también son herederos de las promesas que Dios le hizo a él. end of footnotes end of crossrefs"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "book": "PSA",
+  "rev": "TLA",
+  "chapter": "3",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "3 Dios mío,\nson muchos mis enemigos;\nson muchos los que me atacan,",
+      "readableText": "3 Dios mío, son muchos mis enemigos; son muchos los que me atacan,"
+    },
+    {
+      "verse": "2",
+      "text": "son muchos los que me dicen\nque tú no vas a salvarme.",
+      "readableText": "son muchos los que me dicen que tú no vas a salvarme."
+    },
+    {
+      "verse": "3",
+      "text": "Sólo tú, Dios mío,\nme proteges como un escudo;\ny con tu poder\nme das nueva vida.",
+      "readableText": "Sólo tú, Dios mío, me proteges como un escudo; y con tu poder me das nueva vida."
+    },
+    {
+      "verse": "4",
+      "text": "A gritos te llamo,\ny desde tu templo me respondes.",
+      "readableText": "A gritos te llamo, y desde tu templo me respondes."
+    },
+    {
+      "verse": "5",
+      "text": "Yo me acuesto,\ny me duermo,\ny vuelvo a despertar,\nporque tú vigilas mi sueño.",
+      "readableText": "Yo me acuesto, y me duermo, y vuelvo a despertar, porque tú vigilas mi sueño."
+    },
+    {
+      "verse": "6",
+      "text": "No me asustan los muchos enemigos\nque me tienen acorralado.",
+      "readableText": "No me asustan los muchos enemigos que me tienen acorralado."
+    },
+    {
+      "verse": "7",
+      "text": "¡Dios mío,\nlevántate y ponme a salvo!\n¡Rómpeles la cara a mis enemigos!\n¡Rómpeles los dientes a los malvados!",
+      "readableText": "¡Dios mío, levántate y ponme a salvo! ¡Rómpeles la cara a mis enemigos! ¡Rómpeles los dientes a los malvados!"
+    },
+    {
+      "verse": "8",
+      "text": "Dios mío,\nsólo tú puedes salvarme;\n¡bendice a tu pueblo!",
+      "readableText": "Dios mío, sólo tú puedes salvarme; ¡bendice a tu pueblo!"
+    }
+  ]
+}

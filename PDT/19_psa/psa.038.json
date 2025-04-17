@@ -1,1 +1,117 @@
-{"book":"PSA","rev":"PDT","chapter":"38","verses":[{"verse":"1","text":"SE&#209;OR, no me reprendas con enojo. No me corrijas cuando est&#233;s muy molesto.   \n","readableText":"SEÑOR, no me reprendas con enojo. No me corrijas cuando estés muy molesto.\n\n"},{"verse":"2","text":"Me lanzas tus flechas y con tu mano me aplastas.   \n","readableText":"Me lanzas tus flechas y con tu mano me aplastas.\n\n"},{"verse":"3","text":"Debido a tu enojo obrando en mi cuerpo, no me siento bien. Por causa de mi pecado, mis huesos ya no est&#225;n sanos.   \n","readableText":"Debido a tu enojo obrando en mi cuerpo, no me siento bien. Por causa de mi\npecado, mis huesos ya no están sanos.\n\n"},{"verse":"4","text":"Mi culpa pesa sobre mi cabeza como una enorme carga. Me estoy hundiendo.   \n","readableText":"Mi culpa pesa sobre mi cabeza como una enorme carga. Me estoy hundiendo.\n\n"},{"verse":"5","text":"A causa de estupidez, mis heridas van de mal en peor. Se pudren y dan mal olor.   \n","readableText":"A causa de estupidez, mis heridas van de mal en peor. Se pudren y dan mal olor.\n\n\n"},{"verse":"6","text":"Me la paso retorci&#233;ndome de dolor y vivo lament&#225;ndome.   \n","readableText":"Me la paso retorciéndome de dolor y vivo lamentándome.\n\n"},{"verse":"7","text":"Siento por dentro la fiebre ocasionada por una pena terrible; estoy completamente descompuesto.   \n","readableText":"Siento por dentro la fiebre ocasionada por una pena terrible; estoy\ncompletamente descompuesto.\n\n"},{"verse":"8","text":"Estoy tan adolorido que ya no doy m&#225;s y mi coraz&#243;n abatido me hace gritar.   \n","readableText":"Estoy tan adolorido que ya no doy más y mi corazón abatido me hace gritar.\n\n"},{"verse":"9","text":"SE&#209;OR, t&#250; sabes lo que deseo. Has escuchado mis lamentos.   \n","readableText":"SEÑOR, tú sabes lo que deseo. Has escuchado mis lamentos.\n\n"},{"verse":"10","text":"Mi coraz&#243;n late exageradamente. Se me ha acabado la fuerza y mis ojos han perdido su brillo.   \n","readableText":"Mi corazón late exageradamente. Se me ha acabado la fuerza y mis ojos han\nperdido su brillo.\n\n"},{"verse":"11","text":"Mis amigos y quienes me quer&#237;an no se acercan a m&#237; por causa de mi enfermedad. Hasta mis familiares se han alejado de m&#237;.   \n","readableText":"Mis amigos y quienes me querían no se acercan a mí por causa de mi enfermedad.\nHasta mis familiares se han alejado de mí.\n\n"},{"verse":"12","text":"Mis enemigos me tienden trampas y amenazan con destruirme. Dicen mentiras de m&#237; todo el tiempo.   \n","readableText":"Mis enemigos me tienden trampas y amenazan con destruirme. Dicen mentiras de mí\ntodo el tiempo.\n\n"},{"verse":"13","text":"Pero yo me hago el sordo y los ignoro. Me hago el mudo y no digo nada.   \n","readableText":"Pero yo me hago el sordo y los ignoro. Me hago el mudo y no digo nada.\n\n"},{"verse":"14","text":"Soy como el que no oye; no puedo quejarme ni defenderme.   \n","readableText":"Soy como el que no oye; no puedo quejarme ni defenderme.\n\n"},{"verse":"15","text":"SE&#209;OR, yo espero en ti; t&#250;, Se&#241;or y Dios m&#237;o, ser&#225;s quien responda.   \n","readableText":"SEÑOR, yo espero en ti; tú, Señor y Dios mío, serás quien responda.\n\n"},{"verse":"16","text":"No permitas que mis enemigos se alegren con mi ca&#237;da; no permitas que canten victoria.   \n","readableText":"No permitas que mis enemigos se alegren con mi caída; no permitas que canten\nvictoria.\n\n"},{"verse":"17","text":"Estoy a punto de rendirme; el dolor no me abandona.   \n","readableText":"Estoy a punto de rendirme; el dolor no me abandona.\n\n"},{"verse":"18","text":"Confieso mis culpas, me duele mi pecado.   \n","readableText":"Confieso mis culpas, me duele mi pecado.\n\n"},{"verse":"19","text":"Mis enemigos son fuertes; son muchos los que me odian sin causa.   \n","readableText":"Mis enemigos son fuertes; son muchos los que me odian sin causa.\n\n"},{"verse":"20","text":"Y esos que devuelven mal a cambio del bien siguen atac&#225;ndome porque me esfuerzo en hacer el bien.   \n","readableText":"Y esos que devuelven mal a cambio del bien siguen atacándome porque me esfuerzo\nen hacer el bien.\n\n"},{"verse":"21","text":"SE&#209;OR, no me abandones. Dios m&#237;o, no te quedes lejos de m&#237;.   \n","readableText":"SEÑOR, no me abandones. Dios mío, no te quedes lejos de mí.\n\n"},{"verse":"22","text":"Apres&#250;rate a ayudarme. &#161;Se&#241;or m&#237;o, s&#225;lvame!\n","readableText":"Apresúrate a ayudarme. ¡Señor mío, sálvame!\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "38",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "SEÑOR, no me reprendas con enojo.\n    No me corrijas cuando estés muy molesto.",
+      "readableText": "SEÑOR, no me reprendas con enojo. No me corrijas cuando estés muy molesto."
+    },
+    {
+      "verse": "2",
+      "text": "Me lanzas tus flechas\n    y con tu mano me aplastas.",
+      "readableText": "Me lanzas tus flechas y con tu mano me aplastas."
+    },
+    {
+      "verse": "3",
+      "text": "Debido a tu enojo obrando en mi cuerpo,\n    no me siento bien.\nPor causa de mi pecado,\n    mis huesos ya no están sanos.",
+      "readableText": "Debido a tu enojo obrando en mi cuerpo, no me siento bien. Por causa de mi pecado, mis huesos ya no están sanos."
+    },
+    {
+      "verse": "4",
+      "text": "Mi culpa pesa sobre mi cabeza como una enorme carga.\n    Me estoy hundiendo.",
+      "readableText": "Mi culpa pesa sobre mi cabeza como una enorme carga. Me estoy hundiendo."
+    },
+    {
+      "verse": "5",
+      "text": "A causa de estupidez, mis heridas van de mal en peor.\n    Se pudren y dan mal olor.",
+      "readableText": "A causa de estupidez, mis heridas van de mal en peor. Se pudren y dan mal olor."
+    },
+    {
+      "verse": "6",
+      "text": "Me la paso retorciéndome de dolor\n    y vivo lamentándome.",
+      "readableText": "Me la paso retorciéndome de dolor y vivo lamentándome."
+    },
+    {
+      "verse": "7",
+      "text": "Siento por dentro la fiebre ocasionada por una pena terrible;\n    estoy completamente descompuesto.",
+      "readableText": "Siento por dentro la fiebre ocasionada por una pena terrible; estoy completamente descompuesto."
+    },
+    {
+      "verse": "8",
+      "text": "Estoy tan adolorido que ya no doy más\n    y mi corazón abatido me hace gritar.",
+      "readableText": "Estoy tan adolorido que ya no doy más y mi corazón abatido me hace gritar."
+    },
+    {
+      "verse": "9",
+      "text": "SEÑOR, tú sabes lo que deseo.\n    Has escuchado mis lamentos.",
+      "readableText": "SEÑOR, tú sabes lo que deseo. Has escuchado mis lamentos."
+    },
+    {
+      "verse": "10",
+      "text": "Mi corazón late exageradamente.\n    Se me ha acabado la fuerza\n    y mis ojos han perdido su brillo.",
+      "readableText": "Mi corazón late exageradamente. Se me ha acabado la fuerza y mis ojos han perdido su brillo."
+    },
+    {
+      "verse": "11",
+      "text": "Mis amigos y quienes me querían no se acercan a mí por causa de mi enfermedad.\n    Hasta mis familiares se han alejado de mí.",
+      "readableText": "Mis amigos y quienes me querían no se acercan a mí por causa de mi enfermedad. Hasta mis familiares se han alejado de mí."
+    },
+    {
+      "verse": "12",
+      "text": "Mis enemigos me tienden trampas\n    y amenazan con destruirme.\n    Dicen mentiras de mí todo el tiempo.",
+      "readableText": "Mis enemigos me tienden trampas y amenazan con destruirme. Dicen mentiras de mí todo el tiempo."
+    },
+    {
+      "verse": "13",
+      "text": "Pero yo me hago el sordo y los ignoro.\n    Me hago el mudo y no digo nada.",
+      "readableText": "Pero yo me hago el sordo y los ignoro. Me hago el mudo y no digo nada."
+    },
+    {
+      "verse": "14",
+      "text": "Soy como el que no oye;\n    no puedo quejarme ni defenderme.",
+      "readableText": "Soy como el que no oye; no puedo quejarme ni defenderme."
+    },
+    {
+      "verse": "15",
+      "text": "SEÑOR, yo espero en ti;\n    tú, Señor y Dios mío, serás quien responda.",
+      "readableText": "SEÑOR, yo espero en ti; tú, Señor y Dios mío, serás quien responda."
+    },
+    {
+      "verse": "16",
+      "text": "No permitas que mis enemigos se alegren con mi caída;\n    no permitas que canten victoria.",
+      "readableText": "No permitas que mis enemigos se alegren con mi caída; no permitas que canten victoria."
+    },
+    {
+      "verse": "17",
+      "text": "Estoy a punto de rendirme;\n    el dolor no me abandona.",
+      "readableText": "Estoy a punto de rendirme; el dolor no me abandona."
+    },
+    {
+      "verse": "18",
+      "text": "Confieso mis culpas,\n    me duele mi pecado.",
+      "readableText": "Confieso mis culpas, me duele mi pecado."
+    },
+    {
+      "verse": "19",
+      "text": "Mis enemigos son fuertes;\n    son muchos los que me odian sin causa.",
+      "readableText": "Mis enemigos son fuertes; son muchos los que me odian sin causa."
+    },
+    {
+      "verse": "20",
+      "text": "Y esos que devuelven mal a cambio del bien siguen atacándome\n    porque me esfuerzo en hacer el bien.",
+      "readableText": "Y esos que devuelven mal a cambio del bien siguen atacándome porque me esfuerzo en hacer el bien."
+    },
+    {
+      "verse": "21",
+      "text": "SEÑOR, no me abandones.\n    Dios mío, no te quedes lejos de mí.",
+      "readableText": "SEÑOR, no me abandones. Dios mío, no te quedes lejos de mí."
+    },
+    {
+      "verse": "22",
+      "text": "Apresúrate a ayudarme.\n    ¡Señor mío, sálvame!  end of footnotes",
+      "readableText": "Apresúrate a ayudarme. ¡Señor mío, sálvame! end of footnotes"
+    }
+  ]
+}

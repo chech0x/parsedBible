@@ -1,1 +1,52 @@
-{"book":"PSA","rev":"PDT","chapter":"98","verses":[{"verse":"1","text":"Canten una nueva canci&#243;n al SE&#209;OR, porque &#233;l ha hecho maravillas. Su mano derecha le dio la victoria, su santo poder lo hizo.   \n","readableText":"Canten una nueva canción al SEÑOR, porque él ha hecho maravillas. Su mano\nderecha le dio la victoria, su santo poder lo hizo.\n\n"},{"verse":"2","text":"El SE&#209;OR ha mostrado su poder para salvar; ante los ojos de las naciones revel&#243; que lo que &#233;l hace es justo.   \n","readableText":"El SEÑOR ha mostrado su poder para salvar; ante los ojos de las naciones reveló\nque lo que él hace es justo.\n\n"},{"verse":"3","text":"Dios se acord&#243; de su fiel amor y de su lealtad para con el pueblo de Israel. La gente de tierras lejanas vio lo que hizo Dios para salvarnos.   \n","readableText":"Dios se acordó de su fiel amor y de su lealtad para con el pueblo de Israel. La\ngente de tierras lejanas vio lo que hizo Dios para salvarnos.\n\n"},{"verse":"4","text":"Que todo el mundo cante con alegr&#237;a al SE&#209;OR; que entonen canciones alegres y toquen alegres cantos.   \n","readableText":"Que todo el mundo cante con alegría al SEÑOR; que entonen canciones alegres y\ntoquen alegres cantos.\n\n"},{"verse":"5","text":"Canten alabanzas al SE&#209;OR al son del arpa; al son del arpa y con bellas melod&#237;as.   \n","readableText":"Canten alabanzas al SEÑOR al son del arpa; al son del arpa y con bellas\nmelodías.\n\n"},{"verse":"6","text":"Canten con alegr&#237;a al SE&#209;OR, nuestro Rey, al son de trompetas y clarines.   \n","readableText":"Canten con alegría al SEÑOR, nuestro Rey, al son de trompetas y clarines.\n\n"},{"verse":"7","text":"Que brame el mar y todo lo que hay en ellos; el mundo y todos los que lo habitan.   \n","readableText":"Que brame el mar y todo lo que hay en ellos; el mundo y todos los que lo\nhabitan.\n\n"},{"verse":"8","text":"Que los r&#237;os aplaudan; que todas las monta&#241;as juntas festejen con cantos.   \n","readableText":"Que los ríos aplaudan; que todas las montañas juntas festejen con cantos.\n\n"},{"verse":"9","text":"C&#225;ntenle al SE&#209;OR, porque &#233;l viene a juzgar al mundo. &#201;l gobernar&#225; al mundo con justicia, a los pueblos con imparcialidad.\n","readableText":"Cántenle al SEÑOR, porque él viene a juzgar al mundo. Él gobernará al mundo con\njusticia, a los pueblos con imparcialidad.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "98",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Canten una nueva canción al SEÑOR,\n    porque él ha hecho maravillas.\nSu mano derecha le dio la victoria,\n    su santo poder lo hizo.",
+      "readableText": "Canten una nueva canción al SEÑOR, porque él ha hecho maravillas. Su mano derecha le dio la victoria, su santo poder lo hizo."
+    },
+    {
+      "verse": "2",
+      "text": "El SEÑOR ha mostrado su poder para salvar;\n    ante los ojos de las naciones reveló que lo que él hace es justo.",
+      "readableText": "El SEÑOR ha mostrado su poder para salvar; ante los ojos de las naciones reveló que lo que él hace es justo."
+    },
+    {
+      "verse": "3",
+      "text": "Dios se acordó de su fiel amor\n    y de su lealtad para con el pueblo de Israel.\nLa gente de tierras lejanas\n    vio lo que hizo Dios para salvarnos.",
+      "readableText": "Dios se acordó de su fiel amor y de su lealtad para con el pueblo de Israel. La gente de tierras lejanas vio lo que hizo Dios para salvarnos."
+    },
+    {
+      "verse": "4",
+      "text": "Que todo el mundo cante con alegría al SEÑOR;\n    que entonen canciones alegres y toquen alegres cantos.",
+      "readableText": "Que todo el mundo cante con alegría al SEÑOR; que entonen canciones alegres y toquen alegres cantos."
+    },
+    {
+      "verse": "5",
+      "text": "Canten alabanzas al SEÑOR al son del arpa;\n    al son del arpa y con bellas melodías.",
+      "readableText": "Canten alabanzas al SEÑOR al son del arpa; al son del arpa y con bellas melodías."
+    },
+    {
+      "verse": "6",
+      "text": "Canten con alegría al SEÑOR, nuestro Rey,\n    al son de trompetas y clarines.",
+      "readableText": "Canten con alegría al SEÑOR, nuestro Rey, al son de trompetas y clarines."
+    },
+    {
+      "verse": "7",
+      "text": "Que brame el mar y todo lo que hay en ellos;\n    el mundo y todos los que lo habitan.",
+      "readableText": "Que brame el mar y todo lo que hay en ellos; el mundo y todos los que lo habitan."
+    },
+    {
+      "verse": "8",
+      "text": "Que los ríos aplaudan;\n    que todas las montañas juntas festejen con cantos.",
+      "readableText": "Que los ríos aplaudan; que todas las montañas juntas festejen con cantos."
+    },
+    {
+      "verse": "9",
+      "text": "Cántenle al SEÑOR,\n    porque él viene a juzgar al mundo.\nÉl gobernará al mundo con justicia,\n    a los pueblos con imparcialidad.",
+      "readableText": "Cántenle al SEÑOR, porque él viene a juzgar al mundo. Él gobernará al mundo con justicia, a los pueblos con imparcialidad."
+    }
+  ]
+}

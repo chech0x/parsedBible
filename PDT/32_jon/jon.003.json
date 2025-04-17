@@ -1,1 +1,57 @@
-{"book":"JON","rev":"PDT","chapter":"3","verses":[{"verse":"1","text":"El SE&#209;OR habl&#243; por segunda vez con Jon&#225;s y le dijo: \n","readableText":"El SEÑOR habló por segunda vez con Jonás y le dijo:\n\n"},{"verse":"2","text":"&#171;Anda, ve a la gran ciudad de N&#237;nive y avisa lo que te voy a decir&#187;.   \n","readableText":"«Anda, ve a la gran ciudad de Nínive y avisa lo que te voy a decir».\n\n"},{"verse":"3","text":"Jon&#225;s obedeci&#243; al SE&#209;OR y se fue para N&#237;nive, una ciudad tan grande que se necesitaban tres d&#237;as para recorrerla.   \n","readableText":"Jonás obedeció al SEÑOR y se fue para Nínive, una ciudad tan grande que se\nnecesitaban tres días para recorrerla.\n\n"},{"verse":"4","text":"Al llegar, Jon&#225;s recorri&#243; la ciudad todo un d&#237;a anunciando a gran voz: &#171;&#161;N&#237;nive ser&#225; destruida dentro de 40 d&#237;as!&#187;   \n","readableText":"Al llegar, Jonás recorrió la ciudad todo un día anunciando a gran voz: «¡Nínive\nserá destruida dentro de 40 días!»\n\n"},{"verse":"5","text":"La gente de N&#237;nive le crey&#243; a Dios, anunciaron ayuno y desde el m&#225;s importante hasta el m&#225;s humilde se vistieron con ropa &#225;spera. \n","readableText":"La gente de Nínive le creyó a Dios, anunciaron ayuno y desde el más importante\nhasta el más humilde se vistieron con ropa áspera.\n\n"},{"verse":"6","text":"Cuando el rey de N&#237;nive se enter&#243; de la noticia, se levant&#243; del trono, se quit&#243; sus vestidos reales, se puso ropa &#225;spera y se sent&#243; sobre cenizas. \n","readableText":"Cuando el rey de Nínive se enteró de la noticia, se levantó del trono, se quitó\nsus vestidos reales, se puso ropa áspera y se sentó sobre cenizas.\n\n"},{"verse":"7","text":"Entonces el rey dio a conocer esta orden a todo el pueblo: &#171;Por orden del rey y sus altos funcionarios: &#187;Ninguna persona o animal, ni ganado ni reba&#241;o, probar&#225; alimento alguno, ni pastar&#225; ni tomar&#225; agua. \n","readableText":"Entonces el rey dio a conocer esta orden a todo el pueblo: «Por orden del rey y\nsus altos funcionarios: »Ninguna persona o animal, ni ganado ni rebaño, probará\nalimento alguno, ni pastará ni tomará agua.\n\n"},{"verse":"8","text":"Al contrario, que se cubran todos, hombres y animales, con ropa &#225;spera. Rueguen a Dios con todas sus fuerzas. Deje cada uno su mala conducta y abandone la violencia que ha estado cometiendo. \n","readableText":"Al contrario, que se cubran todos, hombres y animales, con ropa áspera. Rueguen\na Dios con todas sus fuerzas. Deje cada uno su mala conducta y abandone la\nviolencia que ha estado cometiendo.\n\n"},{"verse":"9","text":"&#161;Qui&#233;n sabe! Tal vez Dios cambie de parecer, calme el ardor de su ira y as&#237; no tengamos que morir&#187;.   \n","readableText":"¡Quién sabe! Tal vez Dios cambie de parecer, calme el ardor de su ira y así no\ntengamos que morir».\n\n"},{"verse":"10","text":"Dios vio lo que hicieron, se dio cuenta que dejaban su mala conducta, entonces cambi&#243; de parecer respecto al castigo que les ten&#237;a preparado y no lo llev&#243; a cabo.\n","readableText":"Dios vio lo que hicieron, se dio cuenta que dejaban su mala conducta, entonces\ncambió de parecer respecto al castigo que les tenía preparado y no lo llevó a\ncabo.\n\n"}]}
+{
+  "book": "JON",
+  "rev": "PDT",
+  "chapter": "3",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "3 El SEÑOR habló por segunda vez con Jonás y le dijo:",
+      "readableText": "3 El SEÑOR habló por segunda vez con Jonás y le dijo:"
+    },
+    {
+      "verse": "2",
+      "text": "«Anda, ve a la gran ciudad de Nínive y avisa lo que te voy a decir».",
+      "readableText": "«Anda, ve a la gran ciudad de Nínive y avisa lo que te voy a decir»."
+    },
+    {
+      "verse": "3",
+      "text": "Jonás obedeció al SEÑOR y se fue para Nínive, una ciudad tan grande que se necesitaban tres días para recorrerla.",
+      "readableText": "Jonás obedeció al SEÑOR y se fue para Nínive, una ciudad tan grande que se necesitaban tres días para recorrerla."
+    },
+    {
+      "verse": "4",
+      "text": "Al llegar, Jonás recorrió la ciudad todo un día anunciando a gran voz: «¡Nínive será destruida dentro de 40 días!»",
+      "readableText": "Al llegar, Jonás recorrió la ciudad todo un día anunciando a gran voz: «¡Nínive será destruida dentro de 40 días!»"
+    },
+    {
+      "verse": "5",
+      "text": "La gente de Nínive le creyó a Dios, anunciaron ayuno y desde el más importante hasta el más humilde se vistieron con ropa áspera.",
+      "readableText": "La gente de Nínive le creyó a Dios, anunciaron ayuno y desde el más importante hasta el más humilde se vistieron con ropa áspera."
+    },
+    {
+      "verse": "6",
+      "text": "Cuando el rey de Nínive se enteró de la noticia, se levantó del trono, se quitó sus vestidos reales, se puso ropa áspera y se sentó sobre cenizas.",
+      "readableText": "Cuando el rey de Nínive se enteró de la noticia, se levantó del trono, se quitó sus vestidos reales, se puso ropa áspera y se sentó sobre cenizas."
+    },
+    {
+      "verse": "7",
+      "text": "Entonces el rey dio a conocer esta orden a todo el pueblo:«Por orden del rey y sus altos funcionarios:»Ninguna persona o animal, ni ganado ni rebaño, probará alimento alguno, ni pastará ni tomará agua.",
+      "readableText": "Entonces el rey dio a conocer esta orden a todo el pueblo:«Por orden del rey y sus altos funcionarios:»Ninguna persona o animal, ni ganado ni rebaño, probará alimento alguno, ni pastará ni tomará agua."
+    },
+    {
+      "verse": "8",
+      "text": "Al contrario, que se cubran todos, hombres y animales, con ropa áspera. Rueguen a Dios con todas sus fuerzas. Deje cada uno su mala conducta y abandone la violencia que ha estado cometiendo.",
+      "readableText": "Al contrario, que se cubran todos, hombres y animales, con ropa áspera. Rueguen a Dios con todas sus fuerzas. Deje cada uno su mala conducta y abandone la violencia que ha estado cometiendo."
+    },
+    {
+      "verse": "9",
+      "text": "¡Quién sabe! Tal vez Dios cambie de parecer, calme el ardor de su ira y así no tengamos que morir».",
+      "readableText": "¡Quién sabe! Tal vez Dios cambie de parecer, calme el ardor de su ira y así no tengamos que morir»."
+    },
+    {
+      "verse": "10",
+      "text": "Dios vio lo que hicieron, se dio cuenta que dejaban su mala conducta, entonces cambió de parecer respecto al castigo que les tenía preparado y no lo llevó a cabo.  end of footnotes",
+      "readableText": "Dios vio lo que hicieron, se dio cuenta que dejaban su mala conducta, entonces cambió de parecer respecto al castigo que les tenía preparado y no lo llevó a cabo. end of footnotes"
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"book":"PSA","rev":"PDT","chapter":"121","verses":[{"verse":"1","text":"Miro a lo alto de las monta&#241;as en busca de ayuda, &#191;de d&#243;nde vendr&#225; mi ayuda?   \n","readableText":"Miro a lo alto de las montañas en busca de ayuda, ¿de dónde vendrá mi ayuda?\n\n"},{"verse":"2","text":"Mi ayuda vendr&#225; del SE&#209;OR, el creador del cielo y de la tierra.   \n","readableText":"Mi ayuda vendrá del SEÑOR, el creador del cielo y de la tierra.\n\n"},{"verse":"3","text":"Dios no te dejar&#225; caer; tu protector nunca se dormir&#225;.   \n","readableText":"Dios no te dejará caer; tu protector nunca se dormirá.\n\n"},{"verse":"4","text":"El protector de Israel nunca duerme ni se deja rendir por el sue&#241;o.   \n","readableText":"El protector de Israel nunca duerme ni se deja rendir por el sueño.\n\n"},{"verse":"5","text":"El SE&#209;OR es tu protector. El SE&#209;OR siempre est&#225; a tu lado como una sombra, para protegerte.   \n","readableText":"El SEÑOR es tu protector. El SEÑOR siempre está a tu lado como una sombra, para\nprotegerte.\n\n"},{"verse":"6","text":"El sol no te lastimar&#225; durante el d&#237;a ni la luna durante la noche.   \n","readableText":"El sol no te lastimará durante el día ni la luna durante la noche.\n\n"},{"verse":"7","text":"El SE&#209;OR te proteger&#225; de todo mal, proteger&#225; tu vida.   \n","readableText":"El SEÑOR te protegerá de todo mal, protegerá tu vida.\n\n"},{"verse":"8","text":"El SE&#209;OR proteger&#225; tu ida y tu venida, desde ahora y para siempre.\n","readableText":"El SEÑOR protegerá tu ida y tu venida, desde ahora y para siempre.\n\n"}]}
+{
+  "book": "PSA",
+  "rev": "PDT",
+  "chapter": "121",
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Miro a lo alto de las montañas en busca de ayuda,\n    ¿de dónde vendrá mi ayuda?",
+      "readableText": "Miro a lo alto de las montañas en busca de ayuda, ¿de dónde vendrá mi ayuda?"
+    },
+    {
+      "verse": "2",
+      "text": "Mi ayuda vendrá del SEÑOR,\n    el creador del cielo y de la tierra.",
+      "readableText": "Mi ayuda vendrá del SEÑOR, el creador del cielo y de la tierra."
+    },
+    {
+      "verse": "3",
+      "text": "Dios no te dejará caer;\n    tu protector nunca se dormirá.",
+      "readableText": "Dios no te dejará caer; tu protector nunca se dormirá."
+    },
+    {
+      "verse": "4",
+      "text": "El protector de Israel nunca duerme\n    ni se deja rendir por el sueño.",
+      "readableText": "El protector de Israel nunca duerme ni se deja rendir por el sueño."
+    },
+    {
+      "verse": "5",
+      "text": "El SEÑOR es tu protector.\n    El SEÑOR siempre está a tu lado\n    como una sombra, para protegerte.",
+      "readableText": "El SEÑOR es tu protector. El SEÑOR siempre está a tu lado como una sombra, para protegerte."
+    },
+    {
+      "verse": "6",
+      "text": "El sol no te lastimará durante el día\n    ni la luna durante la noche.",
+      "readableText": "El sol no te lastimará durante el día ni la luna durante la noche."
+    },
+    {
+      "verse": "7",
+      "text": "El SEÑOR te protegerá de todo mal,\n    protegerá tu vida.",
+      "readableText": "El SEÑOR te protegerá de todo mal, protegerá tu vida."
+    },
+    {
+      "verse": "8",
+      "text": "El SEÑOR protegerá tu ida y tu venida,\n    desde ahora y para siempre.",
+      "readableText": "El SEÑOR protegerá tu ida y tu venida, desde ahora y para siempre."
+    }
+  ]
+}
