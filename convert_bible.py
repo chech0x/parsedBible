@@ -23,6 +23,7 @@ import argparse
 import html
 import json
 import re
+import sys
 from pathlib import Path
 from typing import Dict, List
 
@@ -51,8 +52,22 @@ BOOKS = {
 
 # -------- Utility Functions -------- #
 def clean_text(raw: str) -> str:
-    """Unescapes HTML entities and removes extra whitespace."""
-    return html.unescape(raw.strip())
+    """Unescapes HTML entities, removes invisible controls, and normalizes whitespace."""
+    text = html.unescape(raw or "")
+    # Remove common invisible unicode controls that can break renderers.
+    text = re.sub(r"[\u200b-\u200f\u202a-\u202e\ufeff]", "", text)
+    # Normalize all whitespace (spaces/newlines/tabs/non-breaking spaces) to single spaces.
+    text = " ".join(text.split()).strip()
+    # Fix spacing before punctuation.
+    text = re.sub(r"\s+([,;:.!?…])", r"\1", text)
+    # Ensure one space after punctuation when followed by letters or common dialogue markers.
+    text = re.sub(
+        r"([,;:.!?…])(?=[A-Za-zÁÉÍÓÚáéíóúÑñÜü¿¡—])",
+        r"\1 ",
+        text,
+    )
+    # Re-normalize in case previous substitutions produced double spaces.
+    return " ".join(text.split()).strip()
 
 def parse_version(version_dir: Path) -> Dict:
     """Processes a version directory (NTV/, PDT/, etc.) and returns the final JSON structure."""

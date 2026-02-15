@@ -55,27 +55,24 @@ This script reads the downloaded JSON chapter files for specified Bible versions
 ### Usage
 
 ```bash
-python convert_bible.py [--versions <VERSION_CODE> [<VERSION_CODE> ...]] [--source <DIR>] [--output <FILE>] <repo_root>
+python convert_bible.py <repo_root> [--versions <VERSION_CODE> [<VERSION_CODE> ...]] [--outdir <DIR>]
 ```
 
 **Arguments:**
 
-*   `<repo_root>`: **Required**. The path to the root directory containing the version folders (e.g., `./data`). This should be the *last* argument.
+*   `<repo_root>`: **Required**. The path to the root directory containing the version folders (e.g., `./data`). Put this argument first when using `--versions` (because `--versions` accepts multiple values).
 *   `--versions VERSION_CODE [VERSION_CODE ...]`: Optional. If specified, only process these exact version codes (case-insensitive). 
-*   `--source DIR`: **DEPRECATED/INCORRECT?** (Seems the script expects `repo_root` as positional argument, not via `--source`). 
 *   `--outdir DIR`: Optional. The output directory for the `.fsb.json` files. Defaults to `./exports`.
-*   `--output FILE`: **DEPRECATED/INCORRECT?** (Seems the script uses `--outdir` to specify the output directory, not a single file path).
 
 **Example:**
 
 *   Convert only PDT and NTV versions found within the `./data` directory:
     ```bash
-    python convert_bible.py --versions PDT NTV ./data
+    python convert_bible.py ./data --versions PDT NTV
     ```
 *   Convert only RVR60 found within `./my_bible_downloads` and output to `./generated`:
     ```bash
-    python convert_bible.py --versions RVR60 --outdir ./generated ./my_bible_downloads
+    python convert_bible.py ./my_bible_downloads --versions RVR60 --outdir ./generated
     ```
 
 The resulting `.fsb.json` files will be placed in the specified output directory (defaulting to `./exports`), ready for import into FreeShow.
-
